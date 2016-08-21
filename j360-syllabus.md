@@ -40,9 +40,6 @@ There are a total of **100** points in this class. The grade is divided as follo
 **75%** - Five projects (**15%**) each.  
 **15%** - Attendance and participation  
 **10%** - One tutorial or presentation
-		  
-## Projects
-You will complete three assigned projects
 
 ## Analysis, Critiques, Revisions  
 Following the completion of each project, students and the instructor will assess each individual submission. The intent is to spur meaningful discussion about design, and attract new ideas and opportunities for improvement. Because web development is an iterative process, students are allowed to revise and resubmit assignments. 
@@ -71,12 +68,32 @@ While web development can be done from any operating system, the instructor teac
 
 It is also useful to have access to a large display, or dual display configuration. 
 
+## Projects
+
+Students will have five projects. Three of them will be assigned, and two of them can be chosen from a list of potential projects, or based off of individual or group interest in a particular facet of web development.
+
+I am willing to adapt projects to fit the professional interests of students - we may focus on journalism, animation, data manipulation, or any number of other topics. Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
 
 ## POLICIES
+
+### Attendance
+Students should make a serious effort to attend every lecture. A repeated pattern of absence or tardiness will result in a deduction of points from your participation grade.
+
+### Food and Drink in Class
+Sorry, they are not permitted.
+
+### Deadlines
+Deadlines are strict and non-negotiable. Late assignments will be accepted for the first five calendar days after a deadline. After that, I will remove 10% daily. Assignments may not be submitted after five calendar days have elapsed (Example - Deadline is September 8th, you cannot submit after September 13th)
+
+### Proper Attribution for Referenced Works
+By nature, code is re-usable and extensible. It is both acceptable and encouraged to utilize and adapt examples of code; this is common on websites like StackOverflow. However, the sources for all referenced code must be given in your code commenting. I will assist students with finding code that is reusable (such as under the GNU license), and help with giving proper credit to the source.
+
+### Syllabus
+Our schedule will be followed more rigidly in the first half of the semester, and more loosely in the second half. Courses such as this one will have a wide array of students with varying strengths and weaknesses. Because this course is rich in content, I reserve the right to amend this syllabus to better match the needs of a given class. 
 
 
 ## SCHEDULE
 Schedule is subject to change. The last half of the semester is more variable as students will have their choice of projects.
 
-## QUESTIONAIRRE
+## QUESTIONAIRE
 google forms link
