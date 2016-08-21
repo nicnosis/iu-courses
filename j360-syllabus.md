@@ -56,18 +56,20 @@ There are no required readings, but the following are highly recommended:
  * *Don't Make Me Think: Revisited* by Steve Krug
  * Access to *Lynda.com*
 
-Software is a focal point of this course, and an effort was made to ensure that free software can be used wherever possible. This is intended for `OSX` users, but many substitutes exist.
-
-### Software needs
-Web development requires various applications. There are many options, and a good deal of class time will be spent assisting students with installation and configuration of software.  
+### Software
+Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development. A good deal of class time will be spent assisting students with installation and configuration of software.  
 
 We will use:  
+
  1. A text editor - Webstorm is recommended. Good alternatives are SublimeText and TextWrangler.  
  2. A terminal emulator - While optional, this is highly advised and accelerates workflow.  
  3. A means of version control - GitHub is recommended, Google Drive and Dropbox are good alternatives.  
  4. A way to host your content - GitHub Pages is recommended. You can also purchase a domain and hosting services through a domain provider such as JustHost.  
 
- 
+### Hardware needs  
+While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is highly recommended. All students should have access to a Mac through the computer lab. Students who aren't using OS X will not benefit as much from lectures and tutorials. 
+
+It is also useful to have access to a large display, or dual display configuration. 
 
 
 ## POLICIES
