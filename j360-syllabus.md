@@ -169,15 +169,15 @@ Schedule is subject to change. The last half of the semester is more variable as
 |August| Mon 8/22, Wed 8/24| Review syllabus, set up development applications.|
 || Mon 8/29, Wed 8/31|Introduction to HTML|
 |September| *Mon 9/5 (Labor Day)*|*No class.*|
-|| Wed 9/7| The Document Object Model, HTML tags, intro to Project 1|
-||Mon 9/12, Wed 9/14|Begin Project 1|
-||Mon 9/19, Wed 9/21|Continue project 1|
-||Mon 9/26, Wed 9/28|x|
-|October|Mon 10/3, Wed 10/5|Project 2 due by end of week.|
+|| Wed 9/7| The Document Object Model, HTML tags, begin Project 1|
+||Mon 9/12, Wed 9/14| Project 1|
+||Mon 9/19, Wed 9/21| **Project 1 due Friday 9/23**|
+||Mon 9/26, Wed 9/28| CSS; Front-end Design; begin Project 2|
+|October|Mon 10/3, Wed 10/5|Project 2|
 ||*Fri 10/7 - Sun 10/9*|*Fall Break*|
-||Mon 10/10, Wed 10/12|x|
-||Mon 10/17, Wed 10/19|Project 3 due|
-||Mon 10/24, Wed 10/26|x|
+||Mon 10/10, Wed 10/12|**Project 2 due Friday 10/14**|
+||Mon 10/17, Wed 10/19|Intro to Bootstrap; FontAwesome |
+||Mon 10/24, Wed 10/26|Intro to JavaScript; begin Project 3|
 ||Mon 10/31|x|
 |November|Wed 11/2|x|
 ||Mon 11/7, Wed 11/9|x|
