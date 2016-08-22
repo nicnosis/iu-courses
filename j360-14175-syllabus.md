@@ -1,8 +1,8 @@
 # J360 WEB DESIGN - FALL 2016
 
-**SECTION** - 14173  
+**SECTION** - 14175  
 **ROOM** - FF 060  
-**TIME** - MW 8:30am - 10:30am  
+**TIME** - MW 10:45am - 12:45pm  
 **INSTRUCTOR** - Nicolas Aguirre - naguirre@indiana.edu  
 **OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00-11:00a 
 
@@ -185,4 +185,4 @@ Schedule is subject to change. The last half of the semester is more variable as
 ||Mon 11/28, Wed 11/30|**Project 4 due Friday 12/2**|
 |December|Mon 12/5, Wed 12/7|Begin Project 5|
 ||Sat 12/10|*Classes End*|
-||Wed 12/14| Students will submit and present **Project 5** *from 8:00am - 10:00am*|
+||Fri 12/16| Students will submit and present **Project 5** *from 10:15am - 12:15pm*|
