@@ -2,7 +2,7 @@
 
 **SECTION** - 31511  
 **ROOM** - FF 062  
-**TIME** - MW 2:30pm - 3:45pm
+**TIME** - MW 2:30pm - 3:45pm  
 **INSTRUCTOR** - Nicolas Aguirre - naguirre@indiana.edu  
 **OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00-11:00a 
 
@@ -27,7 +27,6 @@ In this course, you will:
  * Establish an effective workflow and digital work environment
  * Learn to give, receive, and utilize constructive criticism
  * Produce aesthetic and functional media products
- * Explore emerging trends in media
  * Build attractive portfolio pieces
  * Develop versatile means of communicating information visually
 
@@ -41,41 +40,27 @@ Three of these assignments will be assigned by the instructor, the final project
 
 I am willing to adapt projects to fit the professional interests of students - we may focus on journalism, animation, data manipulation, or any number of other topics. Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
 
-#### Project 1
-Typography - Pixel font
+#### Project 1 - Pen Tool, and Basic Visual Elements
+Students will use **Illustrator** with primitive shapes (circles, squares, polygons) to produce a work of art. Focus is on mastery of the pen tool, object manipulation in Illustrator, and communicating a lot with few visual elements.
 
-#### Project 2
-Triptych
+#### Project 2 - Visual Narrative - Triptych  
+Students will use **Illustrator** produce a three-panel triptych depicting their past, present, and future with visual language.
 
-#### Project 3
-Tableau
+#### Project 3 - Data-driven Narrative - Tableau
+Students will use **Tableau Public** or another visualization tool to create a data-driven story.
 
-#### Project 4
-Use JS
+#### Project 4 - Web Interactivity
+Students will use **JavaScript** to create an interactive web experience. For example, a student might use **P5.js** to create an animated scene on an HTML5 canvas. Students may also take a previous project and enhance it or add interactivity (e.g., adding interactivity to your triptych.)
 
-*Students can gain extra points by using a CSS precompiler such as SCSS/SASS or Stylus.*
-
-#### Topics for Project 4
-Project 4 will be chosen by the student. This course is relatively flexible with respect to creative boundaries, and students are welcome to propose their own projects. Many students will choose to build on existing sites, others may aim to focus on a specific facet of web development. I will attempt to cater to the interests and skillsets of the class as a whole. JavaScript libraries are likely to be used in some capacity.
-
-Some potential topics:
-
- * C3, D3, Dimple or any other visualization library
- * ScrollMagic
- * P5.js, P5-game
- * Leaflet - Interactive Maps
- * VideoJS
- * PHP
- * WordPress
- * RemarkJS
-
+#### Project Modification
+This course is relatively flexible with respect to creative boundaries, and students may pursue their own creative vision for Project 4. Many students will choose to build on existing projects, others may aim to focus on a specific facet of media. I will attempt to cater to the interests and skillsets of the class as a whole.
 
 
 ### In-class Activities
-Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. 
+Participation is an important element of this class. It is not enough to listen to lectures or read books; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. 
 
 ### Final
-There is no final exam for this class, the date of the final exam will be used to analyze and critique your fourth and final project.
+There is no final exam for this class, the date of the final exam will be used to analyze and critique your fourth project, as well as show your progress throughout the semester.
 
 ## Grade
 
@@ -110,20 +95,21 @@ Grading criteria will be given for each individual assignment.
 Following the completion of each project, students and the instructor will assess each individual submission. The intent is to spur meaningful discussion about design, and attract new ideas and opportunities for improvement. Because the creation of new media is an iterative process, students are allowed to revise and resubmit assignments. 
 
 
-
 ## Required Readings and Materials
 
-TBA
+There are no required course texts, but one is recommended:  
+
+*Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design* (2nd Edition) by William Lidwell
 
 ### Software
 Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development. A good deal of class time will be spent assisting students with installation and configuration of software.  
 
 We will use:  
 
- 1. A text editor - Webstorm is recommended. Good alternatives are SublimeText and TextWrangler.
- 2. The Adobe Creative Suite - This is absolutely mandatory. Tutorials will cover Photoshop and Illustrator.
- 3. A means of version control - Google Drive or DropBox is a free and useful way to do this. More tech-savy users may prefer GitHub
- 4. A way to host your content - GitHub Pages is recommended. You can also purchase a domain and hosting services through a domain provider such as JustHost.  
+ 1. The Adobe Creative Suite - We will be using Adobe Illustrator to conceptualize and design our visual storytelling components.
+ 2. File storage - Google Drive or DropBox is a free and useful way to do this. More tech-savy users may prefer GitHub
+ 3. Web hosting - IU Pages or GitHub Pages are good choices. You can also purchase a domain and hosting services through a domain provider such as JustHost.  
+ 4. Tableau Public - Data visualization can be daunting, but Tableau provides a relatively intuitive means of converting raw data into meaningful visualizations.
 
 ### Hardware needs  
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is highly recommended. All students should have access to a Mac through the computer lab. Students who aren't using OS X will not benefit as much from lectures and tutorials. 
@@ -146,8 +132,11 @@ Deadlines are strict and non-negotiable. Late assignments will be accepted for t
 ### Proper Attribution for Referenced Works
 By nature, code is re-usable and extensible. It is both acceptable and encouraged to utilize and adapt examples of code; this is common on websites like StackOverflow. However, the sources for all referenced code must be given in your code commenting. I will assist students with finding code that is reusable (such as under the GNU license), and help with giving proper credit to the source.
 
+Any datasets used for visualization must also be referenced.
+
 ### Students with Disabilities
-If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.  
+If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.
+
 For more information - [https://studentaffairs.indiana.edu/disability-services-students/](https://studentaffairs.indiana.edu/disability-services-students/)
 
 ### Religious Holidays 
@@ -165,14 +154,14 @@ Schedule is subject to change. The last half of the semester is more variable as
 
 ||Dates|Activity|
 |-----|-----|---------|
-|August| Mon 8/22, Wed 8/24| Review syllabus, set up development applications.|
-|| Mon 8/29, Wed 8/31|Introduction to HTML|
+|August| Mon 8/22, Wed 8/24| Review syllabus, configure software. Intro to Illustrator|
+|| Mon 8/29, Wed 8/31|Illustrator continued; begin Project 1|
 |September| *Mon 9/5 (Labor Day)*|*No class.*|
-|| Wed 9/7| The Document Object Model, HTML tags, begin Project 1|
-||Mon 9/12, Wed 9/14| Project 1|
+|| Wed 9/7| Project 1|
+||Mon 9/12, Wed 9/14| Project 1; **progress check on 9/14**|
 ||Mon 9/19, Wed 9/21| **Project 1 due Friday 9/23**|
-||Mon 9/26, Wed 9/28| CSS; Front-end Design; begin Project 2|
-|October|Mon 10/3, Wed 10/5|Project 2|
+||Mon 9/26, Wed 9/28| Begin Project 2; Brainstorm and Conceptualization|
+|October|Mon 10/3, Wed 10/5|Project 2; **progress check on 10/5**|
 ||*Fri 10/7 - Sun 10/9*|*Fall Break*|
 ||Mon 10/10, Wed 10/12|**Project 2 due Friday 10/14**|
 ||Mon 10/17, Wed 10/19|Intro to Bootstrap; FontAwesome; begin Project 3 |
