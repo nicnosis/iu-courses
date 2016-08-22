@@ -94,14 +94,14 @@ Your grade will be assigned as follows:
 | ---- | --- |
 | 93 - 100 | A |
 | 90 - 92 | A- |
-| 87-89 | B+ |
-| 84-86|B|
-|80-83|B-|
-|77-79|C+|
-|74-76|C|
-|70-73|C-|
-|67-69|D+|
-|60-66|D|
+| 87 - 89 | B+ |
+| 84 - 86|B|
+|80 - 83|B-|
+|77 - 79|C+|
+|74 - 76|C|
+|70 - 73|C-|
+|67 - 69|D+|
+|60 - 66|D|
 |59 and below|F|
 
 Grading criteria will be given for each individual assignment.
