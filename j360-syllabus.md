@@ -2,7 +2,7 @@
 
 **SECTION** - 14173  
 **ROOM** - FF 060  
-**TIME** - MW 8:30a - 10:30a  
+**TIME** - MW 8:30am - 10:30am  
 **INSTRUCTOR** - Nicolas Aguirre - naguirre@indiana.edu  
 **OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00-11:00a 
 
@@ -164,18 +164,26 @@ Our schedule will be followed more rigidly in the first half of the semester, an
 ## Schedule
 Schedule is subject to change. The last half of the semester is more variable as students will have their choice of projects.
 
-add table
-
-||Dates|Objective|
+||Dates|Activity|
 |-----|-----|---------|
 |August| Mon 8/22, Wed 8/24| Review syllabus, set up development applications.|
 || Mon 8/29, Wed 8/31|Introduction to HTML|
-|September| *Mon 9/5 (Labor Day)*|No class.|
+|September| *Mon 9/5 (Labor Day)*|*No class.*|
 || Wed 9/7| The Document Object Model, HTML tags, intro to Project 1|
 ||Mon 9/12, Wed 9/14|Begin Project 1|
-||Mon 9/19, Wed 9/21|Project 1 due by end of week|
+||Mon 9/19, Wed 9/21|Continue project 1|
 ||Mon 9/26, Wed 9/28|x|
-|October|Mon 10/3, Wed 10/5|Project 2 due by end of week.
+|October|Mon 10/3, Wed 10/5|Project 2 due by end of week.|
+||*Fri 10/7 - Sun 10/9*|*Fall Break*|
 ||Mon 10/10, Wed 10/12|x|
-||Mon 10/17, Wed 10/19|x|
-||Mon 10/24, Wed 10/26|
+||Mon 10/17, Wed 10/19|Project 3 due|
+||Mon 10/24, Wed 10/26|x|
+||Mon 10/31|x|
+|November|Wed 11/2|x|
+||Mon 11/7, Wed 11/9|x|
+||Mon 11/14, Wed 11/16|x|
+||*Sun 11/20 - Sun 11/27*|*Thanksgiving Break*|
+||Mon 11/28, Wed 11/30|x|
+|December|Mon 12/5, Wed 12/7|a|
+||Sat 12/10|*Classes End*|
+||Wed 12/14| *8:00am - 10:00am* Project 5 due, critiques
