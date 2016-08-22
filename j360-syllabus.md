@@ -11,6 +11,11 @@ Web design has a profound impact on our everyday experiences of work, recreation
 
 ### Prerequisites
 
+```
+(JOUR-J 110 or JOUR-H 110 or MSCH-C 101) and  
+(JOUR-J 200 or JOUR-H 200 or MSCH-C 225 or MSCH-H 225) and  
+(JOUR-J 210 or MSCH-C 226) with a grade of C- or better in each
+```
 
 ## Objectives
 In this course, you will:
@@ -34,6 +39,9 @@ You will be responsible for completing five projects, which will constitute 75% 
 
 ### In-class Activities
 Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. 
+
+### Final
+There is no final exam for this class, the date of the final exam will be used to analyze and critique your fifth and final projects.
 
 ## Grade
 
@@ -61,6 +69,8 @@ Your grade will be assigned as follows:
 |67-69|D+|
 |60-66|D|
 |59 and below|F|
+
+Grading criteria will be given for each individual assignment.
 
 ## Analysis, Critiques, Revisions  
 Following the completion of each project, students and the instructor will assess each individual submission. The intent is to spur meaningful discussion about design, and attract new ideas and opportunities for improvement. Because web development is an iterative process, students are allowed to revise and resubmit assignments. 
@@ -116,3 +126,7 @@ Our schedule will be followed more rigidly in the first half of the semester, an
 ## Schedule
 Schedule is subject to change. The last half of the semester is more variable as students will have their choice of projects.
 
+|Week|Dates|Objective|
+|----|-----|---------|
+|1| Mon 8/22, Wed 8/25|x|
+|2| Mon 8/29, Wed 8/25|x|
