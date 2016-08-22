@@ -105,6 +105,12 @@ Students will have five projects. Three of them will be assigned, and two of the
 
 I am willing to adapt projects to fit the professional interests of students - we may focus on journalism, animation, data manipulation, or any number of other topics. Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
 
+### Project 1
+Students will construct a minimal website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
+
+### Project 2
+The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. 
+
 ## Policies
 
 ### Attendance
@@ -128,12 +134,16 @@ Schedule is subject to change. The last half of the semester is more variable as
 
 add table
 
-||Week|Dates|Objective|
-|-----|----|-----|---------|
-|August|1| Mon 8/22, Wed 8/24| Review syllabus, set up development applications.|
-||2| Mon 8/29, Wed 8/31|Introduction to HTML|
-|September|3| *Mon 9/5 (Labor Day)*, Wed 9/7| _Mon: No Class_. Wed: The Document Object Model, HTML tags|
-||4|Mon 9/12, Wed 9/14|x|
-||5|Mon 9/19, Wed 9/21|x|
-||6|Mon 9/26, Wed 9/28|x|
-|October|8||x|
+||Dates|Objective|
+|-----|-----|---------|
+|August| Mon 8/22, Wed 8/24| Review syllabus, set up development applications.|
+|| Mon 8/29, Wed 8/31|Introduction to HTML|
+|September| *Mon 9/5 (Labor Day)*|No class.|
+|| Wed 9/7| The Document Object Model, HTML tags, intro to Project 1|
+||Mon 9/12, Wed 9/14|Begin Project 1|
+||Mon 9/19, Wed 9/21|Project 1 due by end of week|
+||Mon 9/26, Wed 9/28|x|
+|October|Mon 10/3, Wed 10/5|Project 2 due by end of week.
+||Mon 10/10, Wed 10/12|x|
+||Mon 10/17, Wed 10/19|x|
+||Mon 10/24, Wed 10/26|
