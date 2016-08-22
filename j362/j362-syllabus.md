@@ -4,7 +4,7 @@
 **ROOM** - FF 062  
 **TIME** - MW 2:30pm - 3:45pm  
 **INSTRUCTOR** - Nicolas Aguirre - naguirre@indiana.edu  
-**OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00-11:00a 
+**OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00am - 11:00am 
 
 ## Description
 Web design has a profound impact on our everyday experiences of work, recreation, and communication. This course focuses on developing practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, students will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
@@ -52,9 +52,8 @@ Students will use **Tableau Public** or another visualization tool to create a d
 #### Project 4 - Web Interactivity
 Students will use **JavaScript** to create an interactive web experience. For example, a student might use **P5.js** to create an animated scene on an HTML5 canvas. Students may also take a previous project and enhance it or add interactivity (e.g., adding interactivity to your triptych.)
 
-#### Project Modification
-This course is relatively flexible with respect to creative boundaries, and students may pursue their own creative vision for Project 4. Many students will choose to build on existing projects, others may aim to focus on a specific facet of media. I will attempt to cater to the interests and skillsets of the class as a whole.
-
+_**Proposal**_  
+This course is relatively flexible with respect to creative boundaries, and students may pursue their own creative vision for Project 4. Many students will choose to build on existing projects, others may aim to focus on a specific facet of media. For Project 4, students must submit a conceptual prototype and written proposal that meets instructor approval.
 
 ### In-class Activities
 Participation is an important element of this class. It is not enough to listen to lectures or read books; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. 
@@ -78,9 +77,9 @@ Your grade will be assigned as follows:
 |Points|Grade|
 | ---- | --- |
 | 93 - 100 | A |
-| 90 - 92 | A- |
-| 87 - 89 | B+ |
-| 84 - 86|B|
+|90 - 92 | A- |
+|87 - 89 | B+ |
+|84 - 86|B|
 |80 - 83|B-|
 |77 - 79|C+|
 |74 - 76|C|
@@ -160,17 +159,17 @@ Schedule is subject to change. The last half of the semester is more variable as
 || Wed 9/7| Project 1|
 ||Mon 9/12, Wed 9/14| Project 1; **progress check on 9/14**|
 ||Mon 9/19, Wed 9/21| **Project 1 due Friday 9/23**|
-||Mon 9/26, Wed 9/28| Begin Project 2; Brainstorm and Conceptualization|
+||Mon 9/26, Wed 9/28| Begin Project 2; Brainstorming and conceptualization|
 |October|Mon 10/3, Wed 10/5|Project 2; **progress check on 10/5**|
 ||*Fri 10/7 - Sun 10/9*|*Fall Break*|
 ||Mon 10/10, Wed 10/12|**Project 2 due Friday 10/14**|
-||Mon 10/17, Wed 10/19|Intro to Bootstrap; FontAwesome; begin Project 3 |
-||Mon 10/24, Wed 10/26|Intro to JavaScript; continue Project 3|
-|October/November|Mon 10/31, Wed 11/2|**Project 3 due Friday 11/4**|
-|November|Mon 11/7, Wed 11/9|Intro to JQuery; JavaScript Libraries|
-||Mon 11/14, Wed 11/16|Begin project 4|
+||Mon 10/17, Wed 10/19|Introduction to Infographics and Visualization; Setting up Tableau|
+||Mon 10/24, Wed 10/26|Begin Project 3 - Explore topics and data sources|
+|October/November|Mon 10/31, Wed 11/2|Project 3 - **progress check on 11/2**|
+|November|Mon 11/7, Wed 11/9|**Project 3 due Friday 11/11**|
+||Mon 11/14, Wed 11/16|Begin project 4 - Explore ideas and draft proposals. <br />Proposals must be submitted by **Friday 11/18**|
 ||*Sun 11/20 - Sun 11/27*|*Thanksgiving Break*|
-||Mon 11/28, Wed 11/30|**Project 4 due Friday 12/2**|
-|December|Mon 12/5, Wed 12/7|Begin Project 5|
+||Mon 11/28, Wed 11/30|Project 4; Begin presentations|
+|December|Mon 12/5, Wed 12/7|Project 4; **12/7 is the last day for presentations**|
 ||Sat 12/10|*Classes End*|
-||Fri 12/16| Students will submit and present **Project 5** *from 10:15am - 12:15pm*|
+||Fri 12/16| Students will submit and present **Project 4** alongside their other works during our scheduled Final Exam period, *10:15am - 12:15pm*|
