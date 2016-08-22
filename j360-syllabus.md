@@ -37,6 +37,40 @@ This class is project-driven, and demands consistent effort inside and outside o
 ### Projects
 You will be responsible for completing five projects, which will constitute 75% of your grade. Each project will require critical thinking and analysis, prototyping and design, and also a good amount of coding.
 
+Three of these assignments will be assigned by the instructor, and two of them can be chosen from a list of potential projects, or based off of individual or group interest in a particular facet of web development.
+
+I am willing to adapt projects to fit the professional interests of students - we may focus on journalism, animation, data manipulation, or any number of other topics. Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
+
+#### Project 1
+Students will construct a minimal website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
+
+#### Project 2
+The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. Project 2 will test students knowledge of CSS selectors, properties, and values, as well as the Box-Model. 
+
+#### Project 3
+Project 3 aims to add more functionality, aesthetics, and interactivity to websites. Basic JavaScript will be used to add interactivity or distinguishing design characteristics.
+
+*Students can gain extra points by using a CSS precompiler such as SCSS/SASS or Stylus.*
+
+#### Projects 4 and 5
+Projects 4 and 5 will be chosen by the student. This course is relatively flexible with respect to creative boundaries, and students are welcome to propose their own projects. Many students will choose to build on existing sites, others may aim to focus on a specific facet of web development. I will attempt to cater to the interests and skillsets of the class as a whole. JavaScript libraries are likely to be used in some capacity.
+
+Some potential topics:
+
+ * MomentJS
+ * C3, D3, Dimple or any other visualization library
+ * Velocity
+ * ScrollMagic
+ * P5.js, P5-game
+ * JQuery
+ * Leaflet
+ * VideoJS
+ * PHP
+ * WordPress
+ * RemarkJS
+
+
+
 ### In-class Activities
 Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. 
 
@@ -99,18 +133,6 @@ While web development can be done from any operating system, the instructor teac
 
 It is also useful to have access to a large display, or dual display configuration. 
 
-## Projects
-
-Students will have five projects. Three of them will be assigned, and two of them can be chosen from a list of potential projects, or based off of individual or group interest in a particular facet of web development.
-
-I am willing to adapt projects to fit the professional interests of students - we may focus on journalism, animation, data manipulation, or any number of other topics. Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
-
-### Project 1
-Students will construct a minimal website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
-
-### Project 2
-The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. 
-
 ## Policies
 
 ### Attendance
@@ -124,6 +146,16 @@ Deadlines are strict and non-negotiable. Late assignments will be accepted for t
 
 ### Proper Attribution for Referenced Works
 By nature, code is re-usable and extensible. It is both acceptable and encouraged to utilize and adapt examples of code; this is common on websites like StackOverflow. However, the sources for all referenced code must be given in your code commenting. I will assist students with finding code that is reusable (such as under the GNU license), and help with giving proper credit to the source.
+
+### Students with Disabilities
+If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.  
+For more information - [https://studentaffairs.indiana.edu/disability-services-students/](https://studentaffairs.indiana.edu/disability-services-students/)
+
+### Religious Holidays 
+
+*It is the policy of Indiana University that instructors must reasonably accommodate students who want to observe their religious holidays at times when academic requirements conflict with those observances. This policy is intended to ensure that both faculty and students are fully aware of their rights and responsibilities in the accommodation of students' religious observances.*  
+
+Source: [http://enrollmentbulletin.indiana.edu/pages/relo.php](http://enrollmentbulletin.indiana.edu/pages/relo.php)
 
 ### Syllabus
 Our schedule will be followed more rigidly in the first half of the semester, and more loosely in the second half. Courses such as this one will have a wide array of students with varying strengths and weaknesses. Because this course is rich in content, I reserve the right to amend this syllabus to better match the needs of a given class. 
