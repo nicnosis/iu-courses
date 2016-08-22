@@ -126,7 +126,14 @@ Our schedule will be followed more rigidly in the first half of the semester, an
 ## Schedule
 Schedule is subject to change. The last half of the semester is more variable as students will have their choice of projects.
 
-|Week|Dates|Objective|
-|----|-----|---------|
-|1| Mon 8/22, Wed 8/25|x|
-|2| Mon 8/29, Wed 8/25|x|
+add table
+
+||Week|Dates|Objective|
+|-----|----|-----|---------|
+|August|1| Mon 8/22, Wed 8/24| Review syllabus, set up development applications.|
+||2| Mon 8/29, Wed 8/31|Introduction to HTML|
+|September|3| *Mon 9/5 (Labor Day)*, Wed 9/7| _Mon: No Class_. Wed: The Document Object Model, HTML tags|
+||4|Mon 9/12, Wed 9/14|x|
+||5|Mon 9/19, Wed 9/21|x|
+||6|Mon 9/26, Wed 9/28|x|
+|October|8||x|
