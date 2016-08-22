@@ -9,6 +9,9 @@
 ## Description
 Web design has a profound impact on our everyday experiences of work, recreation, and communication. This course focuses on developing practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, students will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
 
+### Prerequisites
+
+
 ## Objectives
 In this course, you will:
 
@@ -32,14 +35,32 @@ You will be responsible for completing five projects, which will constitute 75% 
 ### In-class Activities
 Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. 
 
-## GRADE
+## Grade
 
-[img]
 There are a total of **100** points in this class. The grade is divided as follows:
 
-**75%** - Five projects (**15%**) each.  
-**15%** - Attendance and participation  
-**10%** - One tutorial or presentation
+| Assignment    |     Points    |
+| ------------- |--------------:| 
+| Five projects (15 each)     | 75 | 
+| Attendance and participation      | 15      | 
+| One tutorial or presentation | 10      | 
+| **Total** | **100** |
+
+Your grade will be assigned as follows:
+
+|Points|Grade|
+| ---- | --- |
+| 93 - 100 | A |
+| 90 - 92 | A- |
+| 87-89 | B+ |
+| 84-86|B|
+|80-83|B-|
+|77-79|C+|
+|74-76|C|
+|70-73|C-|
+|67-69|D+|
+|60-66|D|
+|59 and below|F|
 
 ## Analysis, Critiques, Revisions  
 Following the completion of each project, students and the instructor will assess each individual submission. The intent is to spur meaningful discussion about design, and attract new ideas and opportunities for improvement. Because web development is an iterative process, students are allowed to revise and resubmit assignments. 
@@ -74,7 +95,7 @@ Students will have five projects. Three of them will be assigned, and two of the
 
 I am willing to adapt projects to fit the professional interests of students - we may focus on journalism, animation, data manipulation, or any number of other topics. Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
 
-## POLICIES
+## Policies
 
 ### Attendance
 Students should make a serious effort to attend every lecture. A repeated pattern of absence or tardiness will result in a deduction of points from your participation grade.
@@ -92,8 +113,6 @@ By nature, code is re-usable and extensible. It is both acceptable and encourage
 Our schedule will be followed more rigidly in the first half of the semester, and more loosely in the second half. Courses such as this one will have a wide array of students with varying strengths and weaknesses. Because this course is rich in content, I reserve the right to amend this syllabus to better match the needs of a given class. 
 
 
-## SCHEDULE
+## Schedule
 Schedule is subject to change. The last half of the semester is more variable as students will have their choice of projects.
 
-## QUESTIONAIRE
-google forms link
