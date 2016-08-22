@@ -1,8 +1,8 @@
-# J360 WEB DESIGN - FALL 2016
+# J362 MULTIMEDIA STORYTELLING - FALL 2016
 
-**SECTION** - 14173  
-**ROOM** - FF 060  
-**TIME** - MW 8:30am - 10:30am  
+**SECTION** - 31511  
+**ROOM** - FF 062  
+**TIME** - MW 2:30pm - 3:45pm
 **INSTRUCTOR** - Nicolas Aguirre - naguirre@indiana.edu  
 **OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00-11:00a 
 
@@ -12,9 +12,9 @@ Web design has a profound impact on our everyday experiences of work, recreation
 ### Prerequisites
 
 ```
-(JOUR-J 110 or JOUR-H 110 or MSCH-C 101) and  
-(JOUR-J 200 or JOUR-H 200 or MSCH-C 225 or MSCH-H 225) and  
-(JOUR-J 210 or MSCH-C 226) with a grade of C- or better in each
+MSCH-C 226 or JOUR-J 210 with a grade of C- or
+higher, or permission from instructor
+Above class P - At least Sophomore standing
 ```
 
 ## Objectives
@@ -83,8 +83,8 @@ There are a total of **100** points in this class. The grade is divided as follo
 
 | Assignment    |     Points    |
 | ------------- |--------------:| 
-| Five projects (15 each)     | 75 | 
-| Attendance and participation      | 15      | 
+| Four projects (20 each)     | 80 | 
+| Attendance and participation      | 10      | 
 | One tutorial or presentation | 10      | 
 | **Total** | **100** |
 
@@ -107,7 +107,7 @@ Your grade will be assigned as follows:
 Grading criteria will be given for each individual assignment.
 
 ## Analysis, Critiques, Revisions  
-Following the completion of each project, students and the instructor will assess each individual submission. The intent is to spur meaningful discussion about design, and attract new ideas and opportunities for improvement. Because web development is an iterative process, students are allowed to revise and resubmit assignments. 
+Following the completion of each project, students and the instructor will assess each individual submission. The intent is to spur meaningful discussion about design, and attract new ideas and opportunities for improvement. Because the creation of new media is an iterative process, students are allowed to revise and resubmit assignments. 
 
 
 
@@ -185,4 +185,4 @@ Schedule is subject to change. The last half of the semester is more variable as
 ||Mon 11/28, Wed 11/30|**Project 4 due Friday 12/2**|
 |December|Mon 12/5, Wed 12/7|Begin Project 5|
 ||Sat 12/10|*Classes End*|
-||Wed 12/14| Students will submit and present **Project 5** *from 8:00am - 10:00am*|
+||Fri 12/16| Students will submit and present **Project 5** *from 10:15am - 12:15pm*|
