@@ -176,14 +176,13 @@ Schedule is subject to change. The last half of the semester is more variable as
 |October|Mon 10/3, Wed 10/5|Project 2|
 ||*Fri 10/7 - Sun 10/9*|*Fall Break*|
 ||Mon 10/10, Wed 10/12|**Project 2 due Friday 10/14**|
-||Mon 10/17, Wed 10/19|Intro to Bootstrap; FontAwesome |
-||Mon 10/24, Wed 10/26|Intro to JavaScript; begin Project 3|
-||Mon 10/31|x|
-|November|Wed 11/2|x|
-||Mon 11/7, Wed 11/9|x|
-||Mon 11/14, Wed 11/16|x|
+||Mon 10/17, Wed 10/19|Intro to Bootstrap; FontAwesome; begin Project 3 |
+||Mon 10/24, Wed 10/26|Intro to JavaScript; continue Project 3|
+|October/November|Mon 10/31, Wed 11/2|**Project 3 due Friday 11/4**|
+|November|Mon 11/7, Wed 11/9|Intro to JQuery; JavaScript Libraries|
+||Mon 11/14, Wed 11/16|Begin project 4|
 ||*Sun 11/20 - Sun 11/27*|*Thanksgiving Break*|
-||Mon 11/28, Wed 11/30|x|
-|December|Mon 12/5, Wed 12/7|a|
+||Mon 11/28, Wed 11/30|**Project 4 due Friday 12/2**|
+|December|Mon 12/5, Wed 12/7|Begin Project 5|
 ||Sat 12/10|*Classes End*|
-||Wed 12/14| *8:00am - 10:00am* Project 5 due, critiques
+||Wed 12/14| Students will submit and present **Project 5** *from 8:00am - 10:00am*|
