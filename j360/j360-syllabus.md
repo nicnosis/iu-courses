@@ -1,8 +1,9 @@
 # J360 WEB DESIGN - FALL 2016
 
-**SECTION** - 14175  
 **ROOM** - FF 060  
-**TIME** - MW 10:45am - 12:45pm  
+**SECTIONS**  
+14173 - Meets MW 8:30am - 10:30am  
+14175 - Meets MW 10:45am - 12:45pm  
 **INSTRUCTOR** - Nicolas Aguirre - naguirre@indiana.edu  
 **OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00-11:00a 
 
@@ -113,10 +114,9 @@ Following the completion of each project, students and the instructor will asses
 
 ## Required Readings and Materials
 
-There are no required readings, but the following are highly recommended:
+There are no required readings, but the following is recommended:
 
  * *Don't Make Me Think: Revisited* by Steve Krug
- * Access to *Lynda.com*
 
 ### Software
 Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development. A good deal of class time will be spent assisting students with installation and configuration of software.  
@@ -124,9 +124,8 @@ Software is a focal point of this course, and an effort was made to ensure that 
 We will use:  
 
  1. A text editor - Webstorm is recommended. Good alternatives are SublimeText and TextWrangler.  
- 2. A terminal emulator - While optional, this is highly advised and accelerates workflow.  
- 3. A means of version control - GitHub is recommended, Google Drive and Dropbox are good alternatives.  
- 4. A way to host your content - GitHub Pages is recommended. You can also purchase a domain and hosting services through a domain provider such as JustHost.  
+ 2. A means of version control - GitHub is recommended, Google Drive, Box, and Dropbox are good alternatives.  
+ 3. A way to host your content - IU Pages or GitHub Pages are recommended. You can also purchase a domain and hosting services through a domain provider such as JustHost.  
 
 ### Hardware needs  
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is highly recommended. All students should have access to a Mac through the computer lab. Students who aren't using OS X will not benefit as much from lectures and tutorials. 
@@ -185,4 +184,4 @@ Schedule is subject to change. The last half of the semester is more variable as
 ||Mon 11/28, Wed 11/30|**Project 4 due Friday 12/2**|
 |December|Mon 12/5, Wed 12/7|Begin Project 5|
 ||Sat 12/10|*Classes End*|
-||Fri 12/16| Students will submit and present **Project 5** *from 10:15am - 12:15pm*|
+||Wed 12/14| Students will submit and present **Project 5** *from 8:00am - 10:00am*|
