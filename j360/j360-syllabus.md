@@ -1,6 +1,6 @@
 # J360 WEB DESIGN - FALL 2016
 
-**ROOM** - FF 060  
+**ROOM** - FF 003   
 **SECTIONS**  
 14173 - Meets MW 8:30am - 10:30am  
 14175 - Meets MW 10:45am - 12:45pm  
@@ -46,7 +46,7 @@ I am willing to adapt projects to fit the professional interests of students - w
 Students will construct a minimal website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
 
 #### Project 2
-The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. Project 2 will test students knowledge of CSS selectors, properties, and values, as well as the Box-Model. 
+The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. Project 2 will test students' knowledge of CSS selectors, properties, and values, as well as the Box-Model. 
 
 #### Project 3
 Project 3 aims to add more functionality, aesthetics, and interactivity to websites. Basic JavaScript will be used to add interactivity or distinguishing design characteristics.
