@@ -4,3 +4,8 @@
 #sidebar-wrapper.crimson a {
   color: #fff;
 }
+img.monogram {
+  float: left;
+  width: 40px;
+  height: auto;
+}
