@@ -1,11 +1,23 @@
-#sidebar-wrapper.crimson {
+body {
+  background: #eeedeb;
+}
+#sidebar-wrapper {
   background: #900;
 }
-#sidebar-wrapper.crimson a {
-  color: #fff;
+#sidebar-wrapper a {
+  color: #eeedeb;
 }
 img.monogram {
   float: left;
   width: 40px;
   height: auto;
+}
+h3 {
+  color: #900;
+}
+h4 {
+  font-size: 16px;
+}
+li {
+  list-style: none;
 }
