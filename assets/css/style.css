@@ -12,6 +12,9 @@ img.monogram {
   width: 40px;
   height: auto;
 }
+a {
+  color: #bd0000;
+}
 h3 {
   color: #900;
 }
