@@ -24,3 +24,6 @@ h4 {
 li {
   list-style: none;
 }
+.indent {
+  padding-left: 2em;
+}
