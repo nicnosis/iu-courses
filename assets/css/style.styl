@@ -14,8 +14,8 @@ $lightgrey = #D5D3D5
 
 $maire = #272822
 $mercury = #E6E6E6
-$sublPink = #F9266F
-$sublYellow = #E6DB74
+$pink = #F9266F
+$straw = #E6DB74
 $sublRobin = #66D9EF
 
 
@@ -34,14 +34,14 @@ body
   a
     color $cream
   a:hover
-    color $sublYellow
+    color $straw
 
 #sidebar-wrapper > ul > li.sidebar-brand
   padding-left: 20px;
   padding-top: 5px;
 
 #sidebar-wrapper > ul > li.sidebar-brand > a
-  color $sublPink
+  color $pink
 
 img.monogram
   float left
@@ -52,14 +52,26 @@ a
   color $sublRobin
   //color #F25B19
 a:hover
-  color $sublYellow
+  color $straw
   text-decoration none
 
 b
   //color $sublYellow
 
+h2:after
+  content:' ';
+  display:block;
+  border:1px solid #d0d0d0;
+  border-radius:4px;
+  -webkit-border-radius:4px;
+  -moz-border-radius:4px;
+  box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+  -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+  -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+
+
 h2, h3
-  color $sublPink
+  color $pink
 h4
   font-size 16px
 

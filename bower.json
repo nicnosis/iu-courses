@@ -14,6 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "velocity": "^1.2.3"
+    "velocity": "^1.2.3",
+    "velocity.ui": "https://raw.githubusercontent.com/julianshapiro/velocity/master/velocity.ui.js"
   }
 }
