@@ -8,6 +8,9 @@ body {
 #sidebar-wrapper {
   background: #3d3d3d;
 }
+#sidebar-wrapper a {
+  color: #eeedeb;
+}
 #sidebar-wrapper a:hover {
   color: #e6db74;
 }
