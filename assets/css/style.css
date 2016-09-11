@@ -46,6 +46,7 @@ h2:after {
 }
 h2,
 h3 {
+  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
   color: #f9266f;
 }
 h4 {
