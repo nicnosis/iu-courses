@@ -1,13 +1,45 @@
+/*******************************************
+*  PALETTE
+*******************************************/
 $crimson = #990000
+$red = #BD0000
 $cream = #EEEDEB
 
+$grey1 = #3D3D3D
+$grey2 = #444444
+
+$lightblue = #94D8FD
+$blue = #2961CF
+$lightgrey = #D5D3D5
+
+$maire = #272822
+$mercury = #E6E6E6
+$sublPink = #F9266F
+$sublYellow = #E6DB74
+$sublRobin = #66D9EF
+
+
+$c1 = $crimson
+$c2 = $cream
+
+$sbColor = $grey1
+$bodyColor = $maire
+
 body
-  background $cream
+  background $bodyColor
+  color $cream
 
 #sidebar-wrapper
-  background $crimson
-  a
-    color $cream
+  background $sbColor
+  a:hover
+    color $sublYellow
+
+#sidebar-wrapper > ul > li.sidebar-brand
+  padding-left: 20px;
+  padding-top: 5px;
+
+#sidebar-wrapper > ul > li.sidebar-brand > a
+  color $sublPink
 
 img.monogram
   float left
@@ -15,10 +47,17 @@ img.monogram
   height auto
 
 a
-  color #BD0000
+  color $sublRobin
   //color #F25B19
-h3
-  color $crimson
+a:hover
+  color $sublYellow
+  text-decoration none
+
+b
+  //color $sublYellow
+
+h2, h3
+  color $sublPink
 h4
   font-size 16px
 

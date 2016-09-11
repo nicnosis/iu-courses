@@ -1,11 +1,22 @@
+/*******************************************
+*  PALETTE
+*******************************************/
 body {
-  background: #eeedeb;
+  background: #272822;
+  color: #eeedeb;
 }
 #sidebar-wrapper {
-  background: #900;
+  background: #3d3d3d;
 }
-#sidebar-wrapper a {
-  color: #eeedeb;
+#sidebar-wrapper a:hover {
+  color: #e6db74;
+}
+#sidebar-wrapper > ul > li.sidebar-brand {
+  padding-left: 20px;
+  padding-top: 5px;
+}
+#sidebar-wrapper > ul > li.sidebar-brand > a {
+  color: #f9266f;
 }
 img.monogram {
   float: left;
@@ -13,10 +24,15 @@ img.monogram {
   height: auto;
 }
 a {
-  color: #bd0000;
+  color: #66d9ef;
 }
+a:hover {
+  color: #e6db74;
+  text-decoration: none;
+}
+h2,
 h3 {
-  color: #900;
+  color: #f9266f;
 }
 h4 {
   font-size: 16px;
