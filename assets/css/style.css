@@ -49,6 +49,9 @@ h3 {
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
   color: #f9266f;
 }
+h3 {
+  text-decoration: underline;
+}
 h4 {
   font-size: 16px;
 }
