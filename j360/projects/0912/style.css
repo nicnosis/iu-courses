@@ -1,0 +1,12 @@
+body {
+	background-color: slategray;
+    font-size: 18px;
+}
+
+div {
+	font-family: "Arial";
+}
+
+div.important {
+	color: red;
+}
