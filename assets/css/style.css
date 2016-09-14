@@ -5,6 +5,9 @@ body {
   background: #272822;
   color: #eeedeb;
 }
+.big {
+  font-size: larger;
+}
 #sidebar-wrapper {
   background: #3d3d3d;
 }
