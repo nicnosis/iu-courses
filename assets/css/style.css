@@ -2,6 +2,7 @@
 *  PALETTE
 *******************************************/
 body {
+  font-family: 'Open Sans', sans-serif;
   background: #272822;
   color: #eeedeb;
 }
@@ -36,6 +37,10 @@ a:hover {
   color: #e6db74;
   text-decoration: none;
 }
+b {
+  color: #e6db74;
+  letter-spacing: 1px;
+}
 h2:after {
   content: ' ';
   display: block;
@@ -49,13 +54,14 @@ h2:after {
 }
 h2,
 h3 {
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  letter-spacing: 1px;
   color: #f9266f;
 }
-h3 {
-  text-decoration: underline;
-}
 h4 {
+  font-family: 'Roboto', sans-serif;
+  color: #6cc72c;
   font-size: 16px;
 }
 li {

@@ -15,6 +15,8 @@ $lightgrey = #D5D3D5
 $maire = #272822
 $mercury = #E6E6E6
 $pink = #F9266F
+$lima = #6CC72C
+$orange = #FE9720
 $straw = #E6DB74
 $sublRobin = #66D9EF
 
@@ -26,6 +28,7 @@ $sbColor = $grey1
 $bodyColor = $maire
 
 body
+  font-family 'Open Sans', sans-serif
   background $bodyColor
   color $cream
 
@@ -52,14 +55,15 @@ img.monogram
   height auto
 
 a
+  //color $pink
   color $sublRobin
-  //color #F25B19
 a:hover
   color $straw
   text-decoration none
 
 b
-  //color $sublYellow
+  color $straw
+  letter-spacing 1px
 
 h2:after
   content:' ';
@@ -74,11 +78,14 @@ h2:after
 
 
 h2, h3
-  font-family Monaco, Menlo, Consolas, "Courier New", monospace
+  font-family: 'Roboto', sans-serif;
+  font-weight normal
+  letter-spacing 1px
+  //font-family Monaco, Menlo, Consolas, "Courier New", monospace
   color $pink
-h3
-  text-decoration underline
 h4
+  font-family 'Roboto', sans-serif
+  color $lima
   font-size 16px
 
 li
