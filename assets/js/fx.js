@@ -1,4 +1,5 @@
-var options = { duration: 750, stagger: 60 };
+var options = { duration: 600, stagger: 50 };
 
-$('p, h2, h3, h4, li').velocity("transition.slideUpIn" , options);
-$('a').velocity("fadeIn" , options);
+var $sel = $('.velo * p, .velo * h2, .velo * h3, .velo * h4, .velo * li')
+
+$sel.velocity("transition.slideLeftIn" , options);
