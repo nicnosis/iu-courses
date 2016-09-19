@@ -92,7 +92,7 @@ This will assign the class 'important' to that `<div>`. To change its appearance
 
 ~~~css
 .important {
-	font-color: red;
+	color: red;
 }
 ~~~
 

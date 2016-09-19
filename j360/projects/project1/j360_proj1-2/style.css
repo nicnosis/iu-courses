@@ -1,0 +1,29 @@
+/* (1) Add a rule to change the body text to your chosen font.
+      Hint - use the "font-family" property. If you look carefully,
+      you can find the solution on the Google font website.*/
+body {
+
+}
+
+div {
+    max-width: 900px;
+    border-radius: 10px;
+
+    /* (2) The divs should have a background color of "lightgrey". */
+    /*     Fix the syntax below so that it works properly. */
+    background-coolor: lightgrey
+}
+
+p {
+    /* (3) The text in our divs is very tight. */
+    /*     Use the "padding" property to add some padding to the divs */
+
+}
+
+/* (4) Add the img selector to change the width of your image here */
+
+/* (5) In index.html, you assigned a class to the last div. */
+/* Use that class here */
+yourSelectorGoesHere {
+    color: red;
+}

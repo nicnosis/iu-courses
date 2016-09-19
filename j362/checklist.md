@@ -14,8 +14,6 @@ Make sure you know how to:
 
 * Change fill and stroke color of an object
 * Change stroke width of an object (e.g., make a thicker outline)
-* Rearrange the order of objects with `cmd + [` and `cmd + ]`
-* Group objects with `cmd + G`
 * Copy the appearance of another object with the Eyedropper tool - `I` key
 * Create simple objects - rectangles and ellipses. Also ensure that you can create objects of specified dimensions (e.g., a 200x200 rectangle)
 
@@ -27,13 +25,16 @@ Make sure you know how to:
 * Select objects of similar appearance with the Magic Wand tool
 * Use the _`Select > Same`_ menu option to select objects with same fill/stroke/appearance
 * Know how to move objects between layers
+* Rearrange the order of objects with `cmd + [` and `cmd + ]`
+* Group objects with `cmd + G`
+* Add/remove objects to selection by holding `shift` and clicking
 
 ### Object Manipulation and Transformation
 In general, the word **transform** refers to doing one of three things to an object:
 
-* Translating (moving) an object; changing its x/y position
-* Scaling (resizing) an object; changing its width/height/dimensions
-* Rotating an object; changing its angle
+* **Translating** (moving) an object; changing its x/y position
+* **Scaling** (resizing) an object; changing its width/height/dimensions
+* **Rotating** an object; changing its angle
 
 Ensure you can:
 
@@ -55,3 +56,10 @@ Make sure you can:
 * Comfortably organize text and other visual elements along a grid
 * Switch between outline and preview mode with `cmd + Y`
 
+A couple of useful hotkeys for views:
+
+* `cmd + 0` - fit artboard in window
+* `cmd + 1` - actual size
+* Hold `space` to bring up the hand tool while using another tool. This allows you to pan around the artboard
+* Use `cmd + Plus` and `cmd + Minus` to zoom in and out
+* Use `tab` to show and hide workspace panels
