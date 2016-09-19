@@ -38,8 +38,8 @@ We only have a few uses for the `<head>` tag so far:
 * Do you know how to change the `<title>` of your webpage?
 
 ### Body
-The `<body>` is made up tags, generally enclosed in angle brackets: `<tagname>`  
-Make sure you are comfortable using these tags, and have a good understand of their uses:
+The `<body>` is made of tags, generally enclosed in angle brackets: `<tagname>`  
+Make sure you are comfortable using these tags, and have a good understanding of their uses:
 
 * h1, h2, h3...
 * p
