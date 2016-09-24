@@ -41,6 +41,13 @@ b {
   color: #e6db74;
   letter-spacing: 1px;
 }
+button.btn-iu {
+  background-color: #1f1c2c;
+  border-radius: 10px;
+}
+button.btn-iu:hover {
+  color: #f9266f;
+}
 h2:after {
   content: ' ';
   display: block;
