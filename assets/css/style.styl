@@ -35,6 +35,10 @@ body
 .big
   font-size larger
 
+.indent
+  padding-left 2em
+
+/***** NAV ************************/
 #sidebar-wrapper
   background $sbColor
   a
@@ -53,6 +57,11 @@ img.monogram
   float left
   width 40px
   height auto
+
+#sidebar-wrapper > ul > li.dropdown.open > ul
+  background: #272822
+  margin-left 20px
+/**********************************/
 
 a
   //color $pink
@@ -102,6 +111,3 @@ dd
 li
   list-style none
   padding-bottom 0.4em
-
-.indent
-  padding-left 2em
