@@ -57,6 +57,9 @@ button.btn-iu {
 button.btn-iu:hover {
   color: #f9266f;
 }
+code {
+  color: #272822;
+}
 h2:after {
   content: ' ';
   display: block;
