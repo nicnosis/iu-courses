@@ -57,8 +57,8 @@ button.btn-iu {
 button.btn-iu:hover {
   color: #f9266f;
 }
-code {
-  color: #272822;
+kbd {
+  color: #f9266f;
 }
 h2:after {
   content: ' ';
