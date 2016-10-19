@@ -6,12 +6,11 @@
     <title>J360</title>
     <meta name="description" content="Bootstrap Starter Template">
     <meta name="author" content="J360">
-
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body data-spy="scroll" data-target="#main-navbar">
 <!-- NAVBAR -->
@@ -33,11 +32,11 @@
         </div> <!-- end collapse -->
     </div>
 </nav>
-
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="jumbotron"><h1>Project 3 - JQuery</h1></div>
+
             <section>
                 <h2 class="text-center">Part 1 - Toggling visibility</h2>
                 <h3><small>$(selector).toggle(duration)</small></h3>
@@ -68,21 +67,7 @@
             <hr>
 
             <section>
-                <h2 class="text-center">Part 3 - Altering HTML</h2>
-                <h3><small>$(selector).html("lorem ipsum...")</small></h3>
-                <p><em>
-                    Below is a paragraph that contains a blockquote with the ID "quote".
-                    Use <code>.html()</code> to make the button alter the contents of the blockquote below.
-                    You can either insert a new quote or use "lorem ipsum" text.
-                </em></p>
-                <button class="btn btn-default" id="part3">Alter HTML</button>
-                <p>
-                    <blockquote id="quote">“It's only after we've lost everything that we're free to do anything.”</blockquote>
-                </p>
-            </section>
-
-            <section>
-                <h2 class="text-center">Part 4 - Adding a Class</h2>
+                <h2 class="text-center">Part 3 - Adding a Class</h2>
                 <h3><small>$(selector).addClass(class)</small></h3>
                 <p><em>
                     Use the <code>.addClass()</code> method to a class to the square below.
@@ -90,12 +75,47 @@
                     Add the <code>shadow</code> class to the square. If done correctly, it should have a box-shadow
                     around it.
                 </em></p>
-                <button class="btn btn-default" id="btn4">Add Class</button>
-                <div class="square" id="part4"></div>
+                <button class="btn btn-default" id="btn3">Add Class</button>
+                <div class="square" id="part3"></div>
             </section>
+
+            <section>
+                <h2 class="text-center">Part 4 - Altering HTML</h2>
+                <h3><small>$(selector).html(...)</small></h3>
+                <p><em>
+                    Below is a paragraph that contains a blockquote with the ID "quote".
+                    Use <code>.html()</code> to make the button alter the contents of the blockquote below.
+                    You can either insert a new quote or use "lorem ipsum" text.
+                </em></p>
+                <button class="btn btn-default" id="part4">Alter HTML</button>
+                <p>
+                <blockquote id="quote">“It's only after we've lost everything that we're free to do anything.”</blockquote>
+                </p>
+            </section>
+
+            <hr>
+
+            <section>
+                <h2 class="text-center">Part 5 - Getting an Element's Value</h2>
+                <h3><small>$(selector).val()</small></h3>
+                <p><em>
+                    You can use JQuery's <code>.val()</code> method to get the value of an HTML element on a page.
+                    <ol>
+                        <li>Declare a Javascript variable</li>
+                        <li>Use <code>.val()</code> to store the text below in your JS variable</li>
+                        <li>Use <code>alert()</code> to display the text in your variable when the button is clicked</li>
+                    </ol>
+                </em></p>
+                <br>
+                <input type="text" id="msg" value="This is a message!" disabled>
+                <button class="btn btn-default" id="part5">Alert text</button>
+            </section>
+
+            <hr>
         </div>
     </div>
 </div> <!-- end container -->
+<nav class="navbar navbar-inverse navbar-bottom" style="margin-bottom:0;"></nav>
 
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
