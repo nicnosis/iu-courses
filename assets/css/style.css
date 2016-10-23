@@ -149,3 +149,11 @@ dd {
 #content th {
   padding-right: 15px;
 }
+th {
+  color: #f9266f;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
