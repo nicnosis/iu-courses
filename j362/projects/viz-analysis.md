@@ -5,10 +5,10 @@ This is a class exercise in which groups will `analyze`, `deconstruct`, and `cri
 ## Groups
 Groups will be assigned randomly, by selection of a playing card. Each group will have a visualization story provided to them:
 
-* Aces - 
-* 2s - 
-* 3s - 
-* 4s -
+* Aces - [Information is Beautiful - Gender Pay Gap in the US](http://www.informationisbeautiful.net/visualizations/gender-pay-gap-us/)
+* 2s - [Tampa Bay Times - Failure Factories](http://www.tampabay.com/projects/2015/investigations/pinellas-failure-factories/chart-failing-black-students/)
+* 3s - [New York Times - What China Has Been Building in the South China Sea](http://nyti.ms/1KDinEr)
+* 4s - [New York Times - 1.5 Million Missing Black Men](http://nyti.ms/1P5Gpa7)
 
 ## Process
 `Individual` -> `Group` -> `Class`
@@ -21,13 +21,6 @@ Groups will discuss topics (provided below), encouraged to find areas where indi
 
 #### Topics
 
-#### 
-
-<div class="well">
-<hr><br>
-<hr><br>
-<hr><br>
-</div>
 
 ### Class - Sharing <small>(5min per group)</small>
 After group discussions, each group will share briefly about their experience with the story, presenting their findings and opinions to the class as a whole. The instructor and other class members will participate in the discussion, contributing ideas and observations.
