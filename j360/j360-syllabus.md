@@ -184,4 +184,4 @@ Schedule is subject to change. The last half of the semester is more variable as
 ||Mon 11/28, Wed 11/30|**Project 4 due Friday 12/2**|
 |December|Mon 12/5, Wed 12/7|Begin Project 5|
 ||Sat 12/10|*Classes End*|
-||Wed 12/14| Students will submit and present **Project 5** *from 8:00am - 10:00am*|
+||| This course will not meet for a final exam|
