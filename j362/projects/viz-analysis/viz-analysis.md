@@ -1,4 +1,4 @@
-# j360 - Visualization Analysis Exercise
+# j362 - Visualization Analysis Exercise
 ## Description
 This is a class exercise in which groups will `analyze`, `deconstruct`, and `critique` data visualizations. This in-class exercise isn't graded; it's to prepare for Project 3 - a written assignment with similar principles.
 
