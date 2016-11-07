@@ -1,7 +1,16 @@
 // d3.csv("cars.csv", row, function(error, data) {
 d3.csv("emotions.csv", row, function(error, data) {
     if (error) throw error;
-    console.log(data);
+    // console.log(data);
+
+    var html = "";
+    data.forEach(function (el) {
+        console.log(el);
+        html += "<li>" + el.emotions + "</li>";
+    });
+
+    $('#emotes').html(html).css("color","black");
+
 });
 
 // function row(d) {
