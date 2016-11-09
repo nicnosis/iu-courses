@@ -1,10 +1,10 @@
-const N = 5; // number of emotions
+const N = 6; // number of emotions
 const GROUPS = 4; // number of groups
 var slices = []; // each card group has a slice
 
 
 // d3.csv("emotions.csv", row, function(error, data) {
-d3.csv("popn.csv", row, function(error, data) {
+d3.csv("emotions.csv", row, function(error, data) {
     if (error) throw error;
 
     shuffle(data);
