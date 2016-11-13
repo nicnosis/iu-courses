@@ -1,7 +1,7 @@
 # j360 Presentation
 
 ## Description
-You will give an informal presentation, about 5 minutes in length, about a topic related to web design. While this course covers a lot of material, it only begins to scratch the surface of web development and computer programming. The idea behind these presentations is that students will do some research about a subject related to web design and share it with others. Be prepared to answer any questions that other students and the instructor may have.
+You will give an informal presentation, 3-5 minutes in length, about a topic related to web design. While this course covers a lot of material, it only begins to scratch the surface of web development and computer programming. The idea behind these presentations is that students will do some research about a subject related to web design and share it with others. Be prepared to answer any questions that other students and the instructor may have.
 
 ## Format
 It is recommended that you either hook your laptop up to the classroom monitor (via HDMI cable) or use the lab computer to project. You can use PowerPoint slides if you like, but it isn't required. You are not required to dress formally; casual attire is fine.
