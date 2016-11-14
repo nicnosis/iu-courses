@@ -17,7 +17,6 @@ d3.csv(file_emotions, row_emo, function(error, data) {
     var card_array = [];
     for (var i = 0; i < n_cards; i++) {
         card_array[i] = data.slice(i*n_emo, (i+1)*n_emo);
-        // console.log(card_array[i].length);
 
         var html = "<li><h4>Emotions</h4></li>";
         for (var j = 0; j < card_array[i].length; j++) {
@@ -37,12 +36,23 @@ d3.csv(file_chars, row_chars, function(error, data) {
     shuffle(adjectives);
     shuffle(nouns);
 
+    // build characters array
     var characters = [];
-
     for(var i = 0; i < nouns.length; i++) {
         characters[i] = adjectives[i] + " " + nouns[i];
     }
-    console.log(characters)
+
+    // get a slice for each card
+    var card_array = [];
+    for (var i = 0; i < n_cards; i++) {
+        card_array[i] = characters.slice(i*n_chars, (i+1)*n_chars);
+
+        var html = "<li><h4>Characters</h4></li>";
+        for (var j = 0; j < card_array[i].length; j++) {
+            html += "<li>" + card_array[i][j] + "</li>";
+        }
+        $("#chars" + (i+1)).html(html);
+    }
 
 });
 
