@@ -172,4 +172,4 @@ Schedule is subject to change. The last half of the semester is more variable as
 ||Mon 11/28, Wed 11/30|Project 4; Begin presentations|
 |December|Mon 12/5, Wed 12/7|Project 4; **12/7 is the last day for presentations**|
 ||Sat 12/10|*Classes End*|
-||Fri 12/16| Students will submit and present **Project 4** alongside their other works during our scheduled Final Exam period, *10:15am - 12:15pm*|
+||Mon 12/12| Students will submit and present **Project 4** alongside their other works during our scheduled Final Exam period, *2:45-4:45 p.m.*|
