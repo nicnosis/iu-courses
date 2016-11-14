@@ -1,11 +1,14 @@
-const N = 16; // number of emotions
-const GROUPS = 4; // number of groups
-var slices = []; // each card group has a slice
-// var file = "emotions.csv";
-var file = "char.csv";
+// Constants
+const n_emo = 10; // number of emotions
+const n_chars = 10; // number of emotions
+const n_cards = 3; // number of cards
+
+// Filepaths
+var file_emotions = "emotions.csv";
+var file_chars = "chars.csv";
 
 // d3.csv("emotions.csv", row, function(error, data) {
-d3.csv(file, row, function(error, data) {
+d3.csv(file_emotions, row, function(error, data) {
     if (error) throw error;
 
     shuffle(data);
@@ -21,38 +24,30 @@ d3.csv(file, row, function(error, data) {
         var adj = "", noun = "";
         slices[i].forEach(function(el) {
             console.log(el);
-            // html += "<li>" + el.emotions + "</li>";
-            html += "<li>" + el.adjective + " ";
-            html += el.noun + "</li>";
-            adj += "<li>" + el.adjective + "</li>";
-            noun += "<li>" + el.noun + "</li>";
+            html += "<li>" + el.emotions + "</li>";
         })
         $("#group-" + (i+1)).html(html);
         $("#adj").html(adj);
         $("#noun").html(noun);
     }
 
-    // Count emotes
-    $('#count').html(data.length).css("color","white");
-
-    // List everything
-    var html = "";
-    data.forEach(function (el) {
-        // html += "<li>" + el.emotions + "</li>";
-        html += "<li>" + el.adjective + " " + el.noun + "</li>";
-    });
-    $('#emotes').html(html);
-
 });
 
-function row(d) {
+/*******************************************
+*  FUNCTIONS
+*******************************************/
+
+function row_emo(d) {
     return {
-        emotions: d["Emotions"],
+        emotions: d["Emotions"]
+    }
+}
+function row_chars(d) {
+    return {
         adjective: d["Adjective"],
         noun: d["Noun"]
     }
 }
-
 /**
  * Shuffles array in place.
  * @param {Array} a items The array containing the items.
