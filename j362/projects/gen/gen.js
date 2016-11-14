@@ -7,29 +7,42 @@ const n_cards = 3; // number of cards
 var file_emotions = "emotions.csv";
 var file_chars = "chars.csv";
 
-// d3.csv("emotions.csv", row, function(error, data) {
-d3.csv(file_emotions, row, function(error, data) {
+// EMOTIONS
+d3.csv(file_emotions, row_emo, function(error, data) {
     if (error) throw error;
 
     shuffle(data);
-    console.log(data)
-    // Do slices
-    for (var i = 0; i < GROUPS; i++) {
-        slices[i] = data.slice(i*N, (i+1)*N);
-    }
 
-    // Populate groups
-    for (var i = 0; i < slices.length; i++) {
-        var html = "";
-        var adj = "", noun = "";
-        slices[i].forEach(function(el) {
-            console.log(el);
-            html += "<li>" + el.emotions + "</li>";
-        })
-        $("#group-" + (i+1)).html(html);
-        $("#adj").html(adj);
-        $("#noun").html(noun);
+    // get a slice for each card
+    var card_array = [];
+    for (var i = 0; i < n_cards; i++) {
+        card_array[i] = data.slice(i*n_emo, (i+1)*n_emo);
+        // console.log(card_array[i].length);
+
+        var html = "<li><h4>Emotions</h4></li>";
+        for (var j = 0; j < card_array[i].length; j++) {
+            html += "<li>" + card_array[i][j].emotions + "</li>";
+        }
+        $("#emo" + (i+1)).html(html);
     }
+});
+
+// CHARACTERS
+d3.csv(file_chars, row_chars, function(error, data) {
+    if (error) throw error;
+
+    // build and shuffle arrays
+    var adjectives = data.map(function(d) { return d.adjective; });
+    var nouns = data.map(function (d) { return d.noun; });
+    shuffle(adjectives);
+    shuffle(nouns);
+
+    var characters = [];
+
+    for(var i = 0; i < nouns.length; i++) {
+        characters[i] = adjectives[i] + " " + nouns[i];
+    }
+    console.log(characters)
 
 });
 
