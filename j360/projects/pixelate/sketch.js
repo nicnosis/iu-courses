@@ -5,9 +5,9 @@ var rs = 16; // rectangle size
 
 function setup() {
     createCanvas(600, 400);
-    pixelDensity(1);
+    pixelDensity(1); // for retina displays
 
-    img = loadImage("orbital.jpg");
+    img = loadImage("moth.jpg");
     noStroke();
 }
 
