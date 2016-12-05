@@ -22,7 +22,7 @@ function draw() {
     // map mouseX to hue
     // map mouseY to speed
 
-    // if tracing, { set background (0, 0.1) }. This will set a black background with 10% opacity
+    // if not tracing, { set background (0, 0.1) }. This will set a black background with 10% opacity
 
     // first push
     // use translate move to center of canvas
@@ -34,7 +34,7 @@ function draw() {
         var _r; // radius for the circle we're drawing. you will assign it the value r/(i+1)
         //use rotate() with the angle at index `i` of the angles array
 
-        // if we are tracing {
+        // if we are not tracing {
             // set stroke(60, 0.25). this is a dark gray stroke with 25% opacity
             // draw an ellipse at (0, 0) with width and height of _r * 2
         // end if }
