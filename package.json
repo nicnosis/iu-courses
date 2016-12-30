@@ -1,0 +1,12 @@
+{
+  "name": "iu",
+  "version": "1.0.0",
+  "description": "IU courses",
+  "main": "index.js",
+  "repository": "https://github.com/novoNagu/fall2016.git",
+  "author": "naguirre <naguirre@indiana.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
