@@ -1,13 +1,14 @@
-<footer class="footer">
-    <small>
-        {% if page.footer == nil %}
-        &copy; Nicolas Aguirre {{ site.time | date: '%Y' }}
-        {% else %}
-        {{ page.footer }}
-        {% endif %}
-    </small>
-</footer>
-
+<div class="container-fluid">
+    <footer class="footer">
+        <small>
+            {% if page.footer == nil %}
+            &copy; Nicolas Aguirre {{ site.time | date: '%Y' }}
+            {% else %}
+            {{ page.footer }}
+            {% endif %}
+        </small>
+    </footer>
+</div>
 <!--Load scripts-->
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"
         integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
@@ -16,4 +17,3 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js"
         integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK"
         crossorigin="anonymous"></script>
-
