@@ -59,6 +59,12 @@ Participation is an important element of this class. It is not enough to read ab
 
 The instructor reserves the right to adjust students' participation grade according to the level of participation and frequency of attendance for that student.
 
+### Homework
+This class has short homework assignments designed to test and reinforce knowledge from class. The homework assignments are not graded, but they are absolutely essential for success. Students who do not complete homework are likely to struggle and fall behind. The homework assignments are designed to closely reflect lecture material and make projects much easier to complete.
+
+### Presentation
+You will give an informal presentation, about five minutes in length, about a topic related to web design. While this course covers a lot of material, it only begins to scratch the surface of web development and computer programming. The idea behind these presentations is that students will do some research about a subject related to web design and share it with others. 
+
 ### Final
 There is no final exam for this class.
 
@@ -91,9 +97,8 @@ Your grade will be assigned as follows:
 
 Grading criteria will be given for each individual assignment.
 
-## Analysis, Critiques, Revisions  
-Following the completion of each project, students and the instructor will assess each individual submission. The intent is to spur meaningful discussion about design, and attract new ideas and opportunities for improvement. Because web development is an iterative process, students are allowed to revise and resubmit assignments. 
-
+## Revisions  
+When software is created in a professional environment, changes and revisions are common. Factoring that web development is an iterative process, students are allowed to revise and resubmit assignments. As long as students submit their work by the assignment due date, they may revise their work for an improved grade. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission.
 
 
 ## Required Readings and Materials
@@ -138,7 +143,7 @@ For more information - [https://studentaffairs.indiana.edu/disability-services-s
 Source: [http://enrollmentbulletin.indiana.edu/pages/relo.php](http://enrollmentbulletin.indiana.edu/pages/relo.php)
 
 ### Syllabus
-Our schedule will be followed more rigidly in the first half of the semester, and more loosely in the second half. Courses such as this one will have a wide array of students with varying strengths and weaknesses. Because this course is rich in content, I reserve the right to amend this syllabus to better match the needs of a given class. 
+Our schedule will be followed more rigidly in the first half of the semester, and more loosely in the second half. Courses such as this one will have a wide array of students with varying strengths and weaknesses. Because this course is rich in content, the instructor reserves the right to amend this syllabus to better match the needs of a given class. 
 
 
 ## Schedule
