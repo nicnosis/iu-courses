@@ -4,11 +4,11 @@
 **SECTIONS**  
 16278 - Meets MW 8:30am - 10:30am  
 17016 - Meets MW 10:45am - 12:45pm  
-**INSTRUCTOR** - Nicolas Aguirre - naguirre@indiana.edu  
+**INSTRUCTOR** - Nic Aguirre - naguirre@indiana.edu  
 **OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00-11:00a 
 
 ## Description
-Web design has a profound impact on our everyday experiences of work, recreation, and communication. This course focuses on developing practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, students will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
+Web design has a profound impact on our everyday experiences of work, recreation, and communication. This course focuses on developing practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, students will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
 
 ### Prerequisites
 
@@ -114,7 +114,7 @@ We will use:
  2. A means of version control - GitHub is recommended, Google Drive, Box, and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
 
 ### Hardware needs  
-While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-oriented substitutes for software.
+While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
 
 It is also useful to have access to a large display, or dual display configuration. If you are bringing your own laptop to class, it is recommended to bring a mouse.
 
@@ -134,6 +134,7 @@ By nature, code is re-usable and extensible. It is both acceptable and encourage
 
 ### Students with Disabilities
 If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.  
+
 For more information - [https://studentaffairs.indiana.edu/disability-services-students/](https://studentaffairs.indiana.edu/disability-services-students/)
 
 ### Religious Holidays 
@@ -145,7 +146,6 @@ Source: [http://enrollmentbulletin.indiana.edu/pages/relo.php](http://enrollment
 ### Syllabus
 Our schedule will be followed more rigidly in the first half of the semester, and more loosely in the second half. Courses such as this one will have a wide array of students with varying strengths and weaknesses. Because this course is rich in content, the instructor reserves the right to amend this syllabus to better match the needs of a given class. 
 
-
 ## Schedule
 Schedule is subject to change. A given class of students can differ widely in skills and teaching needs, so our schedule is likely to be looser in the second half of the semester.
 
@@ -153,5 +153,20 @@ Schedule is subject to change. A given class of students can differ widely in sk
 |-----|-----|---------|
 |week 1| Mon 1/9 Wed 1/11|Review Syllabus|
 |week 2|Mon 1/16|*Martin Luther King Day - No Class*|
-|week 2|Wed 1/18|aaa|
+||Wed 1/18|aaa|
+|week 3|Mon 1/23 Wed 1/25||
+|week 4|Mon 1/30 Wed 2/1||
+|week 5|Mon 2/6 Wed 2/8||
+|week 6|Mon 2/13 Wed 2/15||
+|week 7|Mon 2/20 Wed 2/22||
+|week 8|Mon 2/27 Wed 3/1||
+|week 9|Mon 3/6 Wed 3/8||
+||Sun 3/13 - Sun 3/19|*Spring Break*|
+|week 10|Mon 3/20 Wed 3/22||
+|week 11|Mon 3/27 Wed 3/29||
+|week 12|Mon 4/3 Wed 4/5||
+|week 13|Mon 4/10 Wed 4/12||
+|week 14|Mon 4/17 Wed 4/19||
+|week 15|Mon 4/17 Wed 4/19||
+|week 16|Mon 4/24 Wed 4/26||
 ||| This course will not meet for a final exam|
