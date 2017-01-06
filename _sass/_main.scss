@@ -8,6 +8,17 @@ img#professor {
   width: 250px;
 }
 
+
+/*******************************************
+*  NAV
+*******************************************/
+nav#myNav {
+  padding: 0;
+
+  a {
+    padding: 10px;
+  }
+}
 .nav-item.active {
-  text-decoration: underline;
+  border-bottom: 2px solid $red;
 }
