@@ -1,6 +1,7 @@
 ---
 layout: default
 title: presentation
+course: j360
 ---
 
 # j360 Presentation
