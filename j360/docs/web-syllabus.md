@@ -60,7 +60,7 @@ Participation is an important element of this class. It is not enough to read ab
 The instructor reserves the right to adjust students' participation grade according to the level of participation and frequency of attendance for that student.
 
 ### Homework
-This class has short homework assignments designed to test and reinforce knowledge from class. The homework assignments are not graded, but they are absolutely essential for success. Students who do not complete homework are likely to struggle and fall behind. The homework assignments are designed to closely reflect lecture material and make projects much easier to complete.
+This class has four homework assignments designed to test and reinforce knowledge from class. Homework assignments will typically involve a shorter or less involved coding task.
 
 ### Presentation
 You will give an informal presentation, about five minutes in length, about a topic related to web design. While this course covers a lot of material, it only begins to scratch the surface of web development and computer programming. The idea behind these presentations is that students will do some research about a subject related to web design and share it with others. 
@@ -73,10 +73,11 @@ There is no final exam for this class.
 There are a total of **100** points in this class. The grade is divided as follows:
 
 | Assignment    |     Points    |
-| ------------- |--------------:| 
-| Four projects (20 each)     | 80 | 
-| Attendance and participation      | 10      | 
-| One tutorial or presentation | 10      | 
+| ------------- |--------------:|
+| Four projects (15 each)     | 60 |
+| Four homework assignments (5 each)| 20 |
+| One tutorial or presentation | 10      |
+| Attendance and participation      | 10      |
 | **Total** | **100** |
 
 Your grade will be assigned as follows:
@@ -105,15 +106,21 @@ When software is created in a professional environment, changes and revisions ar
 
 There is no required text for this course. Most of our reading will be in the form of free documentation available on the web. Two sources we will reference frequently are **W3Schools** and **Codecademy**.
 
+### Hosting
+You will need to purchase a domain name and hosting service. I recommend using [asmallorange.com](https://asmallorange.com). The cost is about $5 per month for hosting. Most domain names available through asmallorange.com start at $15.
+
+If you have another means of hosting - through IU Pages, Burrow, or GitHub pages, that is also fine. The idea is for you to build a functional website with your work as the semester progresses.
+
 ### Software
-Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development. A good deal of class time will be spent assisting students with installation and configuration of software.  
+Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development. A good deal of class time will be spent assisting students with installation and configuration of software.
 
 We will use:  
 
  1. A text editor - SublimeText is recommended. Good alternatives are Atom and TextWrangler.  
- 2. A means of version control - GitHub is recommended, Google Drive, Box, and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
+ 2. A means of version control - [GitHub](https://github.com) is recommended, Google Drive, Box, and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
+ 3. A file transfer tool - OSX users can use [Cyberduck](https://cyberduck.io/), Windows users should use [PuTTy](http://www.putty.org/)
 
-### Hardware needs  
+### Hardware  
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
 
 It is also useful to have access to a large display, or dual display configuration. If you are bringing your own laptop to class, it is recommended to bring a mouse.
@@ -121,7 +128,10 @@ It is also useful to have access to a large display, or dual display configurati
 ## Policies
 
 ### Attendance
-Students should make a serious effort to attend every lecture. A repeated pattern of absence or tardiness will result in a deduction of points from your participation grade. Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. As such, **attendance is the strongest guarantor of success in this course**.
+Students should make a serious effort to attend every lecture. A repeated pattern of absence or tardiness will result in a deduction of points from your participation grade. Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. As such, **attendance is the strongest guarantor of success** in this course.
+
+### Lost Data
+You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
 
 ### Food and Drink in Class
 Sorry, they are not permitted.
@@ -149,8 +159,8 @@ Our schedule will be followed more rigidly in the first half of the semester, an
 ## Schedule
 Schedule is subject to change. A given class of students can differ widely in skills and teaching needs, so our schedule is likely to be looser in the second half of the semester.
 
-||Dates|Activity|
-|-----|-----|---------|
+|       |Dates|Activity   |
+|-------|-----|-----------|
 |week 1 |Mon 1/9 Wed 1/11 |Review Syllabus. Set up development environment. Introduction to HTML|
 |week 2 |Mon 1/16         |*Martin Luther King Day - No Class*|
 |       |Wed 1/18         | HTML tags/elements and the DOM |
@@ -169,4 +179,4 @@ Schedule is subject to change. A given class of students can differ widely in sk
 |week 14|Mon 4/17 Wed 4/19| p5.js - Push and Pop, Objects|
 |week 15|Mon 4/17 Wed 4/19| Work on Project 4, more p5.js|
 |week 16|Mon 4/24 Wed 4/26| Project 4 (Integration) due **Friday 4/28**|
-||| This course will not meet for a final exam|
+|       |                 | This course will not meet for a final exam|
