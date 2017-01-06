@@ -8,5 +8,5 @@ twitter: novonagu
 exclude:
   - _archive
   - package.json
-  - node_modules
+#  - node_modules
   - gulpfile.js

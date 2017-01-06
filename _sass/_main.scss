@@ -20,5 +20,10 @@ nav#myNav {
   }
 }
 .nav-item.active {
-  border-bottom: 2px solid $red;
+  border-bottom: 2px solid $crimson;
+}
+
+#sidebar {
+  text-align: right;
+  
 }
