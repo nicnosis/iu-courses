@@ -120,7 +120,7 @@ We will use:
  2. A means of version control - [GitHub](https://github.com) is recommended, Google Drive, Box, and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
  3. A file transfer tool - OSX users can use [Cyberduck](https://cyberduck.io/), Windows users should use [PuTTy](http://www.putty.org/)
 
-### Hardware  
+### Hardware
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
 
 It is also useful to have access to a large display, or dual display configuration. If you are bringing your own laptop to class, it is recommended to bring a mouse.
