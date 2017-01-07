@@ -13,7 +13,6 @@ This course, while very tech-oriented, also has a strong focus on **visual desig
 Work in this course will be found both challenging and rewarding. The aim of this course is for students to develop projects that can also serve as portfolio pieces. Interactive data viz is still somewhat in its infancy and hasn't been widely adapted as it is subject to constant change. 
 
 ### Prerequisites
-
 ```
 (JOUR-J 110 or JOUR-H 110 or MSCH-C 101) and  
 (JOUR-J 200 or JOUR-H 200 or MSCH-C 225 or MSCH-H 225) and  
@@ -23,50 +22,47 @@ Work in this course will be found both challenging and rewarding. The aim of thi
 ## Objectives
 In this course, you will:
 
- * Learn principles of design and usability for web development
- * Develop mastery of tools and applications for elegant web design
+ * Learn principles of visual design
+ * Learn to find, clean and organize data
+ * Learn how to structure information
+ * Develop technical mastery of `HTML/CSS/JavaScript`
+ * Learn to analyze and disect visualizations
+ * Practice effective communication and storytelling with visualization-based stories
  * Gain familiarity with the software development process
+ * Develop a vocabulary for discussion on the topic of visualizations and code
  * Build an effective workflow and digital work environment
  * Understand project management and version control for your code
- * Produce aesthetic and functional websites using `HTML/CSS/JavaScript`
- * Know how to develop for different platforms (mobile, responsive)
- * Have numerous attractive portfolio pieces
+ * Build numerous attractive portfolio pieces
  * Gain a demonstrable command of front-end web languages
  * Learn to adapt to a constantly-changing medium
 
 ## Work
-This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. Coverage of technical details such as code syntax is primarily handled outside of the classroom. Students will not use class time to take notes while a lecture is given; rather, the instructor will demonstrate while students follow. This is intended to give offer a more engaging and less passive experience during class time.
+This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. The demands of our work and discussion in class are designed to prepare students for real-world application. Coverage of technical details such as code syntax is primarily handled outside of the classroom. This is intended to give offer a more engaging and less passive experience during class time.
 
 ### Projects
-You will be responsible for completing four projects, which will constitute 80% of your grade. Each project will require critical thinking and analysis, prototyping and design, and also a good amount of coding.
+You will be responsible for completing three projects, which will constitute 80% of your grade. Each project will require critical thinking and analysis, prototyping and design, and also a good amount of coding.
 
 Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
 
-#### Project 1 - HTML Tags and Attributes
-Students will construct a minimal website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
+#### Project 1 - 
+#### Project 2 - 
+#### Project 3 - 
 
-#### Project 2 - Styling and CSS
-The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. Project 2 will test students' knowledge of CSS selectors, properties, and values, as well as the Box-Model. 
+### Elective Assignment
+Most work in this class is assigned by the instructor, but 20% of your grade will come from an elective assignment that you get to choose. With the instructor's consent, you will be able to work on an assignment of appropriate length and complexity. Some examples of elective assignments might be:
 
-#### Project 3 - JavaScript
-Project 3 aims to add more functionality, aesthetics, and interactivity to websites. Basic JavaScript will be used to add interactivity or distinguishing design characteristics.
-
-#### Project 4 - Integration
-Students will use their comprehensive knowledge of HTML, CSS and JavaScript in a website that integrates all skills.
-
+ * Enhancing, improving, or revising a previous work
+ * Collaboration with another student on a more complex project
+ * Researching and/or implementing new technology such as R, Python or Tableau
+ * A detailed writeup of a visualization concept, an algorithm, technique, or finding supported by data
+ * Reverse-engineering someone else's visualization
 
 ### In-class Activities
 Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. The instructor reserves the right to adjust students' participation grade according to the level of participation and frequency of attendance for that student.
 
-### Homework
-This class has four homework assignments designed to test and reinforce knowledge from class. Homework assignments will typically involve a shorter or less involved coding task.
-
-### Presentation
-You will give an informal presentation, about five minutes in length, about a topic related to web design. While this course covers a lot of material, it only begins to scratch the surface of web development and computer programming. The idea behind these presentations is that students will do some research about a subject related to web design and share it with others. 
 
 ### Final
-There is no final exam for this class.
-
+There is no final exam for this class. Your final product should be a portfolio website featuring your visualizations.
 
 
 ## Grade
@@ -77,27 +73,26 @@ The grade is divided as follows:
 
 | Assignment    |     Points    |
 | ------------- |--------------:|
-| Four projects (15 each)     | 60 |
-| Four homework assignments (5 each)| 20 |
-| One tutorial or presentation | 10      |
-| Attendance and participation      | 10      |
+| Three projects (20 each)     | 60 |
+| Elective assignment | 20 |
+| Attendance and participation      | 20 |
 | **Total** | **100** |
 
 Your grade will be assigned as follows:
 
 |Points|Grade|
 | ---- | --- |
-| 93 - 100 | A |
-| 90 - 92 | A- |
-| 87 - 89 | B+ |
-| 84 - 86|B|
-|80 - 83|B-|
-|77 - 79|C+|
-|74 - 76|C|
-|70 - 73|C-|
-|67 - 69|D+|
-|60 - 66|D|
-|59 and below|F|
+| 93 - 100 | A  |
+| 90 - 92  | A- |
+| 87 - 89  | B+ |
+| 84 - 86  | B  |
+|80 - 83   | B- |
+|77 - 79   | C+ |
+|74 - 76   | C  |
+|70 - 73   | C- |
+|67 - 69   | D+ |
+|60 - 66   | D  |
+|59 - 0    | F  |
 
 Grading criteria will be given for each individual assignment.
 
@@ -182,6 +177,5 @@ Schedule is subject to change. A given class of students can differ widely in sk
 |week 12|Mon 4/3  Wed 4/5 ||
 |week 13|Mon 4/10 Wed 4/12||
 |week 14|Mon 4/17 Wed 4/19||
-|week 15|Mon 4/17 Wed 4/19| |
+|week 15|Mon 4/17 Wed 4/19||
 |week 16|Mon 4/24 Wed 4/26| final project due **Friday 4/28**|
-|       |                 ||
