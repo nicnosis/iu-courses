@@ -2,9 +2,12 @@
 <html lang="en">
 <head>{% include head.html %}</head>
 <body>
-{% include 360nav.html %}
+{% if page.course == nil %}
+{% else %}
+{% include nav.html %}
+{% endif %}
 <div class="container">
-        {{ content }}
+    {{ content }}
 </div>
 {% include footer.html %}
 </body>
