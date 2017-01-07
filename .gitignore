@@ -1,8 +1,9 @@
-/.idea/
 *xml
 .idea/
-attendance.pdf
-attendance2.pdf
-attendance.xls
-attendance2.xls
 nosync/
+_site/
+package.json
+node_modules
+yarn.lock
+.yarnclean
+.sass-cache/

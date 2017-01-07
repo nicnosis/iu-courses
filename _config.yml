@@ -1,0 +1,12 @@
+baseurl: /~naguirre
+title: IU - Spring 2017
+name: Nicolas Aguirre
+#email:
+github: novonagu
+twitter: novonagu
+
+exclude:
+  - _archive
+  - package.json
+#  - node_modules
+  - gulpfile.js

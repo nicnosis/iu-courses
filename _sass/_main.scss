@@ -1,0 +1,32 @@
+$red: #FF0000;
+$crimson: #990000;
+
+.container h1 {
+  padding-top: 15px;
+}
+.container h2 {
+  color: $red;
+}
+
+img#professor {
+  width: 100%;
+}
+
+footer {
+  color: #9A9A9A;
+}
+
+/*******************************************
+*  NAV
+*******************************************/
+nav#myNav {
+  padding: 0;
+  border-bottom: 1px solid rgba(60, 60, 60, 0.3);
+
+  a {
+    padding: 10px;
+  }
+}
+.nav-item.active {
+  border-bottom: 2px solid $crimson;
+}
