@@ -38,8 +38,7 @@ This class is project-driven, and demands consistent effort inside and outside o
 ### Projects
 You will be responsible for completing four projects, which will constitute 80% of your grade. Each project will require critical thinking and analysis, prototyping and design, and also a good amount of coding.
 
-
-The instructor is willing to adapt projects to fit the professional interests of students - we may focus on journalism, animation, data manipulation, or any number of other topics. Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
+Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
 
 #### Project 1 - HTML Tags and Attributes
 Students will construct a minimal website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
@@ -55,9 +54,7 @@ Students will use their comprehensive knowledge of HTML, CSS and JavaScript in a
 
 
 ### In-class Activities
-Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions.
-
-The instructor reserves the right to adjust students' participation grade according to the level of participation and frequency of attendance for that student.
+Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. The instructor reserves the right to adjust students' participation grade according to the level of participation and frequency of attendance for that student.
 
 ### Homework
 This class has four homework assignments designed to test and reinforce knowledge from class. Homework assignments will typically involve a shorter or less involved coding task.
@@ -68,9 +65,13 @@ You will give an informal presentation, about five minutes in length, about a to
 ### Final
 There is no final exam for this class.
 
+
+
 ## Grade
 
-There are a total of **100** points in this class. The grade is divided as follows:
+There are a total of **100** points in this class. 
+
+The grade is divided as follows:
 
 | Assignment    |     Points    |
 | ------------- |--------------:|
