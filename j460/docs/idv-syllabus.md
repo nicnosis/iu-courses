@@ -1,14 +1,16 @@
-# J360 WEB DESIGN - SPRING 2017
+# J460 INTERACTIVE DATA VIZ - SPRING 2017
 
-**LOCATION** - Franklin Hall 060   
-**SECTIONS**  
-16278 - Meets MW 8:30am - 10:30am  
-17016 - Meets MW 10:45am - 12:45pm  
+**LOCATION** - Franklin Hall 058  
+**SECTION** - 17274 - Meets MW 4:00-5:15pm  
 **INSTRUCTOR** - Nic Aguirre - naguirre@indiana.edu  
 **OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00-11:00a 
 
 ## Description
-Web design has a profound impact on our everyday experiences of work, recreation, and communication. This course focuses on developing practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, students will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
+In *Interactive Data Visualization*, students will develop web-based graphs, charts, maps, and other informational tools. Course content is very technical; we will work with **JavaScript** and the **d3.js** library. Much of our work will involve the active development and maintenance of data-driven software code. The result takes the form of compelling and elegant multimedia - anything from a simple bar chart to a full-page web app.
+
+This course, while very tech-oriented, also has a strong focus on **visual design**. The use of font, color, size/proportion, and positioning are important for our work to communicate effectively. We are also very concerned with narrative and communication; most of our work serves to deliver a story or message substantiated by data.
+
+Work in this course will be found both challenging and rewarding. The aim of this course is for students to develop projects that can also serve as portfolio pieces. Interactive data viz is still somewhat in its infancy and hasn't been widely adapted as it is subject to constant change. 
 
 ### Prerequisites
 
@@ -105,7 +107,7 @@ When software is created in a professional environment, changes and revisions ar
 
 ## Required Readings and Materials
 
-There is no required text for this course. Most of our reading will be in the form of free documentation available on the web. Two sources we will reference frequently are **W3Schools** and **Codecademy**.
+There is no required text for this course. Most of our reading will be in the form of free documentation available on the web. Some we will reference frequently are **bl.ocks.org**, **W3Schools** and **Codecademy**. Students will also maintain a website with their work. This can be hosted anywhere, written with any technology (wordpress, plain HTML) as long as it fulfills the requirement of a basic portfolio site.
 
 ### Hosting
 You will need to purchase a domain name and hosting service. I recommend using [asmallorange.com](https://asmallorange.com). The cost is about $5 per month for hosting. Most domain names available through asmallorange.com start at $15.
@@ -120,6 +122,8 @@ We will use:
  1. A text editor - SublimeText is recommended. Good alternatives are Atom and TextWrangler.  
  2. A means of version control - [GitHub](https://github.com) is recommended, Google Drive, Box, and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
  3. A file transfer tool - OSX users can use [Cyberduck](https://cyberduck.io/), Windows users should use [PuTTy](http://www.putty.org/)
+ 4. A way to edit CSV files - Most students will have access to Microsoft Excel. If not, I recommend [OpenOffice Calc](https://www.openoffice.org/product/calc.html)
+
 
 ### Hardware
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
@@ -162,22 +166,22 @@ Schedule is subject to change. A given class of students can differ widely in sk
 
 |       |Dates|Activity   |
 |-------|-----|-----------|
-|week 1 |Mon 1/9 Wed 1/11 |Review Syllabus. Set up development environment. Introduction to HTML|
+|week 1 |Mon 1/9 Wed 1/11 ||
 |week 2 |Mon 1/16         |*Martin Luther King Day - No Class*|
-|       |Wed 1/18         | HTML tags/elements and the DOM |
-|week 3 |Mon 1/23 Wed 1/25| HTML attributes. Intro to styling and CSS|
-|week 4 |Mon 1/30 Wed 2/1 | Project 1 (HTML) due **Friday 2/3**|
-|week 5 |Mon 2/6  Wed 2/8 | Stylesheets. CSS Box Model|
-|week 6 |Mon 2/13 Wed 2/15| Classes and IDs. CSS Selectors. CSS Transitions |
-|week 7 |Mon 2/20 Wed 2/22| Bootstrap, column and grid layouts, flexbox |
-|week 8 |Mon 2/27 Wed 3/1 | Project 2 (Bootstrap+CSS) due **Friday 3/3**|
-|week 9 |Mon 3/6  Wed 3/8 | JavaScript - Variables, statements, functions|
+|       |Wed 1/18         ||
+|week 3 |Mon 1/23 Wed 1/25||
+|week 4 |Mon 1/30 Wed 2/1 ||
+|week 5 |Mon 2/6  Wed 2/8 ||
+|week 6 |Mon 2/13 Wed 2/15||
+|week 7 |Mon 2/20 Wed 2/22||
+|week 8 |Mon 2/27 Wed 3/1 ||
+|week 9 |Mon 3/6  Wed 3/8 ||
 |       |Sun 3/13 - Sun 3/19|*Spring Break*|
-|week 10|Mon 3/20 Wed 3/22| Intro to JQuery. JS Arrays and Iteration|
-|week 11|Mon 3/27 Wed 3/29| JS Objects|
-|week 12|Mon 4/3  Wed 4/5 |Project 3 (JS) due **Friday 4/7**|
-|week 13|Mon 4/10 Wed 4/12| Introduction to p5.js. Begin presentations|
-|week 14|Mon 4/17 Wed 4/19| p5.js - Push and Pop, Objects|
-|week 15|Mon 4/17 Wed 4/19| Work on Project 4, more p5.js|
-|week 16|Mon 4/24 Wed 4/26| Project 4 (Integration) due **Friday 4/28**|
-|       |                 | This course will not meet for a final exam|
+|week 10|Mon 3/20 Wed 3/22||
+|week 11|Mon 3/27 Wed 3/29||
+|week 12|Mon 4/3  Wed 4/5 ||
+|week 13|Mon 4/10 Wed 4/12||
+|week 14|Mon 4/17 Wed 4/19||
+|week 15|Mon 4/17 Wed 4/19| |
+|week 16|Mon 4/24 Wed 4/26| final project due **Friday 4/28**|
+|       |                 ||
