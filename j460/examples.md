@@ -37,6 +37,10 @@ course: j460
  * [inconvergent.net](http://inconvergent.net/) - a study of generative algorithms
  * [complexification](http://www.complexification.net/gallery/) - gallery of computation
 
+## misc
+ * [bipedal locomotion](https://youtu.be/pgaEE27nsQw) - Fantastic visualization - demonstrates process, concept, and result of a machine learning trial with 3d modeling animations
+ * [evolving soft-bodied animats](https://youtu.be/CXTZHHQ7ZiQ) - Demonstration of evolutionary computation
+
 ## student websites - last semester
  * <http://pages.iu.edu/~anmboone/idv460/index.html>
  * <http://madisonaborgmann.com/460/index.html>
