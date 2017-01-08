@@ -44,7 +44,12 @@ You will be responsible for completing three projects, which will constitute 80%
 
 Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
 
-#### Project 1 - 
+#### Project 1 - Highcharts
+You will use the **highcharts.js** library to create two visualizations.
+Some details
+
+
+
 #### Project 2 - 
 #### Project 3 - 
 
@@ -73,26 +78,26 @@ The grade is divided as follows:
 
 | Assignment    |     Points    |
 | ------------- |--------------:|
-| Three projects (20 each)     | 60 |
-| Elective assignment | 20 |
+| Three projects (20 each)          | 60 |
+| Elective assignment               | 20 |
 | Attendance and participation      | 20 |
-| **Total** | **100** |
+| **Total**                    | **100** |
 
 Your grade will be assigned as follows:
 
-|Points|Grade|
-| ---- | --- |
-| 93 - 100 | A  |
-| 90 - 92  | A- |
-| 87 - 89  | B+ |
-| 84 - 86  | B  |
-|80 - 83   | B- |
-|77 - 79   | C+ |
-|74 - 76   | C  |
-|70 - 73   | C- |
-|67 - 69   | D+ |
-|60 - 66   | D  |
-|59 - 0    | F  |
+|Points    |Grade|
+| -------- |---- |
+| 93 - 100 | A   |
+| 90 - 92  | A-  |
+| 87 - 89  | B+  |
+| 84 - 86  | B   |
+| 80 - 83  | B-  |
+| 77 - 79  | C+  |
+| 74 - 76  | C   |
+| 70 - 73  | C-  |
+| 67 - 69  | D+  |
+| 60 - 66  | D   |
+| 59 - 0   | F   |
 
 Grading criteria will be given for each individual assignment.
 
@@ -161,21 +166,21 @@ Schedule is subject to change. A given class of students can differ widely in sk
 
 |       |Dates|Activity   |
 |-------|-----|-----------|
-|week 1 |Mon 1/9 Wed 1/11 ||
+|week 1 |Mon 1/9 Wed 1/11 | |
 |week 2 |Mon 1/16         |*Martin Luther King Day - No Class*|
-|       |Wed 1/18         ||
-|week 3 |Mon 1/23 Wed 1/25||
-|week 4 |Mon 1/30 Wed 2/1 ||
-|week 5 |Mon 2/6  Wed 2/8 ||
-|week 6 |Mon 2/13 Wed 2/15||
-|week 7 |Mon 2/20 Wed 2/22||
-|week 8 |Mon 2/27 Wed 3/1 ||
-|week 9 |Mon 3/6  Wed 3/8 ||
+|       |Wed 1/18         | |
+|week 3 |Mon 1/23 Wed 1/25| |
+|week 4 |Mon 1/30 Wed 2/1 | |
+|week 5 |Mon 2/6  Wed 2/8 | |
+|week 6 |Mon 2/13 Wed 2/15| |
+|week 7 |Mon 2/20 Wed 2/22| |
+|week 8 |Mon 2/27 Wed 3/1 | |
+|week 9 |Mon 3/6  Wed 3/8 | |
 |       |Sun 3/13 - Sun 3/19|*Spring Break*|
-|week 10|Mon 3/20 Wed 3/22||
-|week 11|Mon 3/27 Wed 3/29||
-|week 12|Mon 4/3  Wed 4/5 ||
-|week 13|Mon 4/10 Wed 4/12||
-|week 14|Mon 4/17 Wed 4/19||
-|week 15|Mon 4/17 Wed 4/19||
+|week 10|Mon 3/20 Wed 3/22| |
+|week 11|Mon 3/27 Wed 3/29| |
+|week 12|Mon 4/3  Wed 4/5 | |
+|week 13|Mon 4/10 Wed 4/12| |
+|week 14|Mon 4/17 Wed 4/19| |
+|week 15|Mon 4/17 Wed 4/19| |
 |week 16|Mon 4/24 Wed 4/26| final project due **Friday 4/28**|

@@ -8,14 +8,22 @@ course: j460
 
 ## my vizzes
  * [United Nations Global Goals](http://saplumira.com/unglobalgoals/) - series of d3 vizzes
- *
- * [coral restoration](https://nagu.io/coral) - leaflet, d3
- * [heroin](https://nagu.io/heroin) - d3 and Google charts
+ * [climate change](http://nagu.io/projects/climate-change) - static infographics, tableau and d3
+ * [coral restoration](http://nagu.io/projects/coral) - leaflet, d3
+ * [heroin](http://nagu.io/heroin/projects/coral) - d3 and Google charts
+
+## hw
+ * [highcharts]({{site.baseurl}}/{{page.course}}/viz/highcharts/)
 
 ## photo/video/audio
  * smalin - [Bach, Fugue in C minor, WTC I, BWV 847](https://youtu.be/0b93Bkdksek) - audio viz
  * [cinemetrics](http://cinemetrics.fredericbrodbeck.de/) - movie data
  * [The Colors of Motion](http://thecolorsofmotion.com/films) - movie data
+
+## collections
+ * [wsj interactives 2015](http://graphics.wsj.com/wsj-interactives-2015/) - WSJ Year-end roundups
+ * [nytimes interactives 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html) - NYT Year-end roundups
+ * [USA Today interactives](http://www.usatoday.com/topic/E01C4890-85A2-4E0B-A3DD-58BD88E71251/interactive-graphics/)
 
 ## portfolios to watch
  * [Nadieh Bremer](http://www.visualcinnamon.com/) - lots of d3
