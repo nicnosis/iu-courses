@@ -1,11 +1,11 @@
-$red: #FF0000;
-$crimson: #990000;
+$orange: #FF8C00;
+$zest: #D0743C;
 
 .container h1 {
   padding-top: 15px;
 }
 .container h2 {
-  color: $red;
+  color: $orange;
 }
 img#professor {
   width: 100%;
@@ -13,7 +13,10 @@ img#professor {
 footer {
   color: #9A9A9A;
 }
-
+a.btn.btn-social-icon {
+  margin-top: 10px;
+  margin-right: 5px;
+}
 span.fa.fa-github, span.fa.fa-twitter {
   color: white;
 }
@@ -30,5 +33,5 @@ nav#myNav {
   }
 }
 .nav-item.active {
-  border-bottom: 2px solid $crimson;
+  border-bottom: 2px solid $zest;
 }

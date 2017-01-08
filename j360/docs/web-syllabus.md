@@ -52,7 +52,6 @@ Project 3 aims to add more functionality, aesthetics, and interactivity to websi
 #### Project 4 - Integration
 Students will use their comprehensive knowledge of HTML, CSS and JavaScript in a website that integrates all skills.
 
-
 ### In-class Activities
 Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. The instructor reserves the right to adjust students' participation grade according to the level of participation and frequency of attendance for that student.
 
@@ -102,6 +101,10 @@ Grading criteria will be given for each individual assignment.
 ## Revisions  
 When software is created in a professional environment, changes and revisions are common. Factoring that web development is an iterative process, students are allowed to revise and resubmit assignments. As long as students submit their work by the assignment due date, they may revise their work for an improved grade. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission.
 
+## Extra Credit
+One opportunity earn **two extra credit points** will be offered during the semester. [The Institute for Communication Research](http://www.indiana.edu/~icr/home.php) needs research subjects, and you can participate in their research to receive extra credit.
+
+If you do not want to participate in the ICR's studies, you can instead opt for an assignment that involves building a small demonstration of a JQuery plugin.
 
 ## Required Readings and Materials
 
