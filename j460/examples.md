@@ -11,6 +11,8 @@ course: j460
  * [climate change](http://nagu.io/projects/climate-change) - static infographics, tableau and d3
  * [coral restoration](http://nagu.io/projects/coral) - leaflet, d3
  * [heroin](http://nagu.io/heroin/projects/coral) - d3 and Google charts
+ * [voronoi circle dragging](http://codepen.io/novonagu/pen/oYZaPy) - using d3.voronoi and d3.drag in d3 version 4
+ * [paint stuff](http://codepen.io/novonagu/pen/QGdvyw) - simple paint program with d3.drag and spectrum.js
 
 ## hw
  * [highcharts]({{site.baseurl}}/{{page.course}}/viz/highcharts/)
@@ -28,6 +30,12 @@ course: j460
 ## portfolios to watch
  * [Nadieh Bremer](http://www.visualcinnamon.com/) - lots of d3
  * [roadtolarissa](http://roadtolarissa.com/) - Adam Pearce of NYT
+ * [verysmallarray](http://www.verysmallarray.com/)
+ * [Jason Davies](https://www.jasondavies.com/)
+
+## computer generative and software art
+ * [inconvergent.net](http://inconvergent.net/) - a study of generative algorithms
+ * [complexification](http://www.complexification.net/gallery/) - gallery of computation
 
 ## student websites - last semester
  * <http://pages.iu.edu/~anmboone/idv460/index.html>
@@ -46,3 +54,11 @@ course: j460
  * <http://pages.iu.edu/~sx2/idv460/>
  * <http://pages.iu.edu/~zhinyin/idv460/>
  * <http://pages.iu.edu/~mengzhuo/idv460/index.html>
+
+# p5.js resources
+## my sketches
+  * [henon phase](http://codepen.io/novonagu/pen/woLRwW) visualization. Based off of code I found [here](http://www.complexification.net/gallery/machines/henonPhase/)
+  * [2d perlin viz](http://codepen.io/novonagu/pen/xRZqGJ) - Perlin noise algorithm visualized in two dimensions, using dat.gui.js and p5.js
+  * [1d perlin viz]()
+  * [Perlin fireflies](http://codepen.io/novonagu/pen/mOvNmx) - Perlin noise controls 2d position and colors
+  * [spirograph](http://codepen.io/novonagu/pen/zoPBOY) - p5 sketch exploring sine and cosine functions
