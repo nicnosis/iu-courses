@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "IU courses",
   "main": "index.js",
-  "repository": "https://github.com/novoNagu/fall2016.git",
+  "repository": "https://github.com/novoNagu/iu-courses.git",
   "author": "naguirre <naguirre@indiana.edu>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
+  }
 }
