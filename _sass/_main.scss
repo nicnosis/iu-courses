@@ -1,11 +1,10 @@
-$orange: #FF8C00;
-$zest: #D0743C;
+$red: #FF5370;
 
 .container h1 {
   padding-top: 15px;
 }
 .container h2 {
-  color: $orange;
+  color: $red;
 }
 img#professor {
   width: 100%;
@@ -33,5 +32,5 @@ nav#myNav {
   }
 }
 .nav-item.active {
-  border-bottom: 2px solid $zest;
+  border-bottom: 2px solid $red;
 }
