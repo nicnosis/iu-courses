@@ -45,13 +45,16 @@ You will be responsible for completing three projects, which will constitute 80%
 Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
 
 #### Project 1 - Highcharts
-You will use the **highcharts.js** library to create two visualizations.
-Some details
+You will use the **highcharts.js** library to create two visualizations. You must have:
 
+ * An interactive bar chart
+ * An interactive map _(choropleth)_
 
+#### Project 2 - d3 Scatterplot
+You will make an interactive scatterplot using d3. In addition to rendering a scatterplot, you must provide some means of user interaction - e.g., filters, view changes, a slider or something that allows users to explore data.
 
-#### Project 2 - 
-#### Project 3 - 
+#### Project 3 - d3 Story
+You will use a combination of d3 visualizations - charts, maps, plots - to create an interactive story. This project is designed so students can combine their technical d3 prowess with narrative skills to create an enticing story.
 
 ### Elective Assignment
 Most work in this class is assigned by the instructor, but 20% of your grade will come from an elective assignment that you get to choose. With the instructor's consent, you will be able to work on an assignment of appropriate length and complexity. Some examples of elective assignments might be:
@@ -170,21 +173,21 @@ Schedule is subject to change. A given class of students can differ widely in sk
 
 |       |Dates|Activity   |
 |-------|-----|-----------|
-|week 1 |Mon 1/9 Wed 1/11 | |
+|week 1 |Mon 1/9 Wed 1/11 | Intro to HTML. Visualization principles|
 |week 2 |Mon 1/16         |*Martin Luther King Day - No Class*|
-|       |Wed 1/18         | |
-|week 3 |Mon 1/23 Wed 1/25| |
-|week 4 |Mon 1/30 Wed 2/1 | |
-|week 5 |Mon 2/6  Wed 2/8 | |
-|week 6 |Mon 2/13 Wed 2/15| |
-|week 7 |Mon 2/20 Wed 2/22| |
-|week 8 |Mon 2/27 Wed 3/1 | |
-|week 9 |Mon 3/6  Wed 3/8 | |
+|       |Wed 1/18         | HTML, introduction to CSS |
+|week 3 |Mon 1/23 Wed 1/25| CSS box model, IDs and classes |
+|week 4 |Mon 1/30 Wed 2/1 | Introduction to JQuery and JavaScript |
+|week 5 |Mon 2/6  Wed 2/8 | JavaScript - Arrays, objects, methods |
+|week 6 |Mon 2/13 Wed 2/15| Project 1 due **Friday 2/17** |
+|week 7 |Mon 2/20 Wed 2/22| Introduction to d3 - data joins and structure |
+|week 8 |Mon 2/27 Wed 3/1 | d3.csv/d3.tsv - loading and cleaning data|
+|week 9 |Mon 3/6  Wed 3/8 | d3 bar charts, line charts |
 |       |Sun 3/13 - Sun 3/19|*Spring Break*|
-|week 10|Mon 3/20 Wed 3/22| |
-|week 11|Mon 3/27 Wed 3/29| |
-|week 12|Mon 4/3  Wed 4/5 | |
-|week 13|Mon 4/10 Wed 4/12| |
-|week 14|Mon 4/17 Wed 4/19| |
-|week 15|Mon 4/17 Wed 4/19| |
-|week 16|Mon 4/24 Wed 4/26| final project due **Friday 4/28**|
+|week 10|Mon 3/20 Wed 3/22| Project 2 due **Friday 3/24** |
+|week 11|Mon 3/27 Wed 3/29| d3 UI elements for interactivity |
+|week 12|Mon 4/3  Wed 4/5 | Introduction to leaflet |
+|week 13|Mon 4/10 Wed 4/12| d3 transitions and effects |
+|week 14|Mon 4/17 Wed 4/19| Adding interactivity - buttons, filters, sliders |
+|week 15|Mon 4/17 Wed 4/19| Continue working on project 3|
+|week 16|Mon 4/24 Wed 4/26| Project 3 due **Friday 4/28**|
