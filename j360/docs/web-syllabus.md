@@ -27,13 +27,13 @@ In this course, you will:
  * Build an effective workflow and digital work environment
  * Understand project management and version control for your code
  * Produce aesthetic and functional websites using `HTML/CSS/JavaScript`
- * Know how to develop for different platforms (mobile, responsive)
- * Have numerous attractive portfolio pieces
+ * Learn to develop for different platforms (mobile, responsive)
+ * Build numerous attractive portfolio pieces
  * Gain a demonstrable command of front-end web languages
  * Learn to adapt to a constantly-changing medium
 
 ## Work
-This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. Coverage of technical details such as code syntax is primarily handled outside of the classroom. Students will not use class time to take notes while a lecture is given; rather, the instructor will demonstrate while students follow. This is intended to give offer a more engaging and less passive experience during class time.
+This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. Coverage of technical details such as code syntax is primarily handled outside of the classroom. Students will not use class time to take notes while a lecture is given; rather, the instructor will demonstrate while students follow. This is intended to offer a more engaging and less passive experience during class time.
 
 ### Projects
 You will be responsible for completing four projects, which will constitute 80% of your grade. Each project will require critical thinking and analysis, prototyping and design, and also a good amount of coding.
@@ -134,6 +134,8 @@ It is also useful to have access to a large display, or dual display configurati
 ### Attendance
 Students should make a serious effort to attend every lecture. A repeated pattern of absence or tardiness will result in a deduction of points from your participation grade. Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. As such, **attendance is the strongest guarantor of success** in this course.
 
+Students are allowed **two unexcused absences** per semester. Additional absences will deduct points.
+
 ### Lost Data
 You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
 
@@ -165,7 +167,7 @@ Schedule is subject to change. A given class of students can differ widely in sk
 
 |       |Dates|Activity   |
 |-------|-----|-----------|
-|week 1 |Mon 1/9 Wed 1/11 |Review Syllabus. Set up development environment. Introduction to HTML|
+|week 1 |Mon 1/9 Wed 1/11 | Set up IDEs. Intro to HTML|
 |week 2 |Mon 1/16         |*Martin Luther King Day - No Class*|
 |       |Wed 1/18         | HTML tags/elements and the DOM |
 |week 3 |Mon 1/23 Wed 1/25| HTML attributes. Intro to styling and CSS|

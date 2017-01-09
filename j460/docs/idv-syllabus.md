@@ -13,11 +13,7 @@ This course, while very tech-oriented, also has a strong focus on **visual desig
 Work in this course will be found both challenging and rewarding. The aim of this course is for students to develop projects that can also serve as portfolio pieces. Interactive data viz is still somewhat in its infancy and hasn't been widely adapted as it is subject to constant change. 
 
 ### Prerequisites
-```
-(JOUR-J 110 or JOUR-H 110 or MSCH-C 101) and  
-(JOUR-J 200 or JOUR-H 200 or MSCH-C 225 or MSCH-H 225) and  
-(JOUR-J 210 or MSCH-C 226) with a grade of C- or better in each
-```
+Must have a Junior or Senior standing. J460 may be repeated for credit with a different topic.
 
 ## Objectives
 In this course, you will:
@@ -40,7 +36,7 @@ In this course, you will:
 This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. The demands of our work and discussion in class are designed to prepare students for real-world application. Coverage of technical details such as code syntax is primarily handled outside of the classroom. This is intended to give offer a more engaging and less passive experience during class time.
 
 ### Projects
-You will be responsible for completing three projects, which will constitute 80% of your grade. Each project will require critical thinking and analysis, prototyping and design, and also a good amount of coding.
+You will be responsible for completing three assigned projects, which will constitute 60% of your grade. Each project will require critical thinking and analysis, prototyping and design, and also a good amount of coding.
 
 Because this course aims to provide tangible skillsets and viable portfolio pieces, the instructor aims to provide projects that will prove enticing or useful to those considering working in the industry.
 
@@ -66,7 +62,7 @@ Most work in this class is assigned by the instructor, but 20% of your grade wil
  * Reverse-engineering someone else's visualization
 
 ### In-class Activities
-Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. The instructor reserves the right to adjust students' participation grade according to the level of participation and frequency of attendance for that student.
+Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. The instructor reserves the right to adjust students' participation grade according to the level of participation and frequency of attendance for that student. Students are allowed **two unexcused absences** per semester. Additional absences will deduct points.
 
 
 ### Final
@@ -110,7 +106,7 @@ When software is created in a professional environment, changes and revisions ar
 ## Extra Credit
 One opportunity earn **two extra credit points** will be offered during the semester. [The Institute for Communication Research](http://www.indiana.edu/~icr/home.php) needs research subjects, and you can participate in their research to receive extra credit.
 
-If you do not want to participate in the ICR's studies, you can instead opt for an assignment that involves building a small demonstration of a JQuery plugin.
+If you do not want to participate in the ICR's studies, you can instead opt for an assignment that involves building a visualization using a technology not taught in class (e.g., Tableau).
 
 ## Required Readings and Materials
 
