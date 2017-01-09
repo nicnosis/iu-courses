@@ -11,11 +11,12 @@ course: j460
  * [climate change](http://nagu.io/projects/climate-change) - static infographics, tableau and d3
  * [coral restoration](http://nagu.io/projects/coral) - leaflet, d3
  * [heroin](http://nagu.io/heroin/projects/coral) - d3 and Google charts
+ * [deinstitutionalization and homelessness](http://nagu.io/projects/homeless/deins.pdf) - static infographic
  * [voronoi circle dragging](http://codepen.io/novonagu/pen/oYZaPy) - using d3.voronoi and d3.drag in d3 version 4
  * [paint stuff](http://codepen.io/novonagu/pen/QGdvyw) - simple paint program with d3.drag and spectrum.js
 
 ## hw
- * [highcharts]({{site.baseurl}}/{{page.course}}/viz/highcharts/)
+ * [highcharts]({{site.baseurl}}/j460/viz/highcharts/) - example using bar chart and choropleth
 
 ## photo/video/audio
  * smalin - [Bach, Fugue in C minor, WTC I, BWV 847](https://youtu.be/0b93Bkdksek) - audio viz

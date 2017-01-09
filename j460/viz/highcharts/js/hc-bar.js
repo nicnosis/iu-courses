@@ -1,5 +1,6 @@
+// bar chart
 $(function () {
-    Highcharts.chart('container', {
+    Highcharts.chart('container-bar', {
         chart: {
             type: 'bar'
         },
