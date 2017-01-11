@@ -6,6 +6,14 @@ highlight: home
 course: j360
 ---
 ## week 1
- * __read__ - [the syllabus]({{site.baseurl}}/j360/docs/web-syllabus.pdf)
- * __download__ - [SublimeText](https://www.sublimetext.com) or another editor. Good alternatives are PHPStorm/WebStorm, Atom, and Brackets.
- * __register__ - an account on [Codepen](http://codepen.io/). You can use Twitter or GitHub to sign in.
+ * `Read` [the syllabus]({{site.baseurl}}/j360/docs/web-syllabus.pdf)
+ * `Download` [SublimeText](https://www.sublimetext.com) or another editor. Good alternatives are PHPStorm/WebStorm, Atom, and Brackets.
+ * `Register` an account on [Codepen](http://codepen.io/). You can use Twitter or GitHub to sign in.
+ * `Register` an account on [Codecademy](https://www.codecademy.com/learn)
+ * `Get` a domain name. I recommend getting one [from asmallorange.com](http://asmallorange.com)
+ * `Get` web hosting. Asmallorange's _small shared plan_ is about $5/mo.
+ * `Visit` CSS Zen Garden and choose a style. Download the HTML and CSS example files and try altering the CSS to create visual changes. For our in-class exercise, we will look at the theme [Apothecary](http://www.csszengarden.com/219/)
+ * `Experienced students` Take a look at Jacob Gube's [tutorial](http://sixrevisions.com/css/ghost-buttons/) on how to make "ghost buttons" with CSS.
+ * `This weekend` get started on Codecademy's [Learn HTML & CSS Part I](https://www.codecademy.com/learn/learn-html-css) tutorial.
+
+You should aim to have your domain name and website purchased by next Wednesday.

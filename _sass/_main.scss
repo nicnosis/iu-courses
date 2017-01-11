@@ -7,6 +7,11 @@ b, strong {
   color: $boldred;
 }
 
+code.highlighter-rouge {
+  color: $red;
+  background-color: #e8e8ed;
+}
+
 .container {
   font-family: $bodyFont;
 
@@ -18,6 +23,11 @@ b, strong {
   }
   h2 {
     color: $red;
+    margin-bottom: .5em;
+  }
+
+  li {
+    margin-bottom: .5em;
   }
 }
 
