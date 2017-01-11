@@ -12,7 +12,8 @@ course: j360
  * `Register` an account on [Codecademy](https://www.codecademy.com/learn)
  * `Get` a domain name. I recommend getting one [from asmallorange.com](http://asmallorange.com)
  * `Get` web hosting. Asmallorange's _small shared plan_ is about $5/mo.
- * `Visit` CSS Zen Garden and choose a style. Download the HTML and CSS example files and try altering the CSS to create visual changes. For our in-class exercise, we will look at the theme [Apothecary](http://www.csszengarden.com/219/)
+ * If you want to use `IU Pages`, [get an account](https://access.iu.edu/Accounts)
+ * `Visit` [CSS Zen Garden](http://www.csszengarden.com/218/) and choose a style. Download the HTML and CSS example files and try altering the CSS to create visual changes.
  * `Experienced students` Take a look at Jacob Gube's [tutorial](http://sixrevisions.com/css/ghost-buttons/) on how to make "ghost buttons" with CSS.
 
 #### This weekend
