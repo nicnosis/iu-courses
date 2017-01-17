@@ -12,20 +12,22 @@ course: j360
  * `register()` an account on [Codecademy](https://www.codecademy.com/learn)
  * `get()` a domain name. I recommend getting one [from asmallorange.com](http://asmallorange.com)
  * `get()` web hosting. Asmallorange's _small shared plan_ is about $5/mo.
- * `if(` you want to use __IU Pages__ `){` [get an account](https://access.iu.edu/Accounts) `}`
+ * `if` you want to use __IU Pages__: [get an account](https://access.iu.edu/Accounts)
  * `Experienced students` Take a look at Jacob Gube's [tutorial](http://sixrevisions.com/css/ghost-buttons/) on how to make "ghost buttons" with CSS.
 
 #### This weekend
  * `begin()` Codecademy's [Learn HTML & CSS Part I](https://www.codecademy.com/learn/learn-html-css) tutorial.
- * `complete()` sections __HTML Structure__ and __HTML Content__.
+ * `complete()` sections __(1) HTML Structure__ and __(2) HTML Content__.
  * Aim to have your domain name and website purchased by next Wednesday.
 
 ## week 2
  * `visit()` [CSS Zen Garden](http://www.csszengarden.com/218/) and choose a style. Download the HTML and CSS example files and try altering the CSS to create visual changes.
 
 #### In Class
- * 
+ * `Lesson` 2.1 - [Intro to CSS](http://codepen.io/novonagu/pen/bgBRJG)
+ * `Lesson` 2.2 - [Importing Fonts](http://codepen.io/novonagu/pen/BpQdJK)
+ * `if` time permits, we can delve into CSS's `id` and `class` rules.
 
 #### This weekend
- * You will continue working on the Codecademy _HTML & CSS Part 1_ tutorial.
- * `complete()` sections __Styling with CSS__ and __Organizing HTML & CSS__
+ * You will continue working on the Codecademy _HTML & CSS Part I_ tutorial.
+ * `complete()` sections __(3) Styling with CSS__ and __(4) Organizing HTML & CSS__

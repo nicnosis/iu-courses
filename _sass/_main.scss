@@ -1,5 +1,6 @@
 $red: #FF5370;
 $boldred: #AB495A;
+$gray: rgba(30, 30, 30, 0.2);
 $headerFont: 'Lato', sans-serif;
 $bodyFont: 'Open Sans', sans-serif;
 
@@ -21,7 +22,7 @@ code.highlighter-rouge {
     color: $red;
     margin: .5em auto;
     padding-top: .5em;
-    border-top: 1px solid rgba(30, 30, 30, 0.2);
+    border-top: 1px solid $gray;
   }
 
   li {
@@ -49,7 +50,7 @@ span.fa.fa-github, span.fa.fa-twitter {
 *******************************************/
 nav#myNav {
   padding: 0;
-  border-bottom: 1px solid rgba(60, 60, 60, 0.3);
+  border-bottom: 1px solid $gray;
 
   a {
     padding: 10px;
