@@ -6,11 +6,11 @@ highlight: home
 course: j460
 ---
 ## week 1
- * `read` [the syllabus]({{site.baseurl}}/j460/docs/idv-syllabus.pdf)
- * `fill out` your Canvas profile biography
- * `register` on both [Codecademy](https://www.codecademy.com/learn) and [Codepen](http://codepen.io/)
- * `experienced students` Complete Mike Bostock's [let's make a bar chart](https://bost.ocks.org/mike/bar/) tutorial. Use [this](http://codepen.io/mbostock/pen/Jaemg) codepen template
- * `Get` a domain name and webhosting. Two recommended ways of doing this are:
+ * `read()` [the syllabus]({{site.baseurl}}/j460/docs/idv-syllabus.pdf)
+ * `fillOut()` your Canvas profile biography
+ * `register()` on both [Codecademy](https://www.codecademy.com/learn) and [Codepen](http://codepen.io/)
+ * `Experienced students` Complete Mike Bostock's [let's make a bar chart](https://bost.ocks.org/mike/bar/) tutorial. Use [this](http://codepen.io/mbostock/pen/Jaemg) codepen template
+ * `get()` a domain name and webhosting. Two recommended ways of doing this are:
    * Through [asmallorange.com](http://asmallorange.com) (this is less than $5 a month!)
    * Through [IU Pages](https://access.iu.edu/Accounts) accounts.
 
@@ -20,4 +20,4 @@ course: j460
 
 #### This Weekend
  * Make sure you have a domain/hosting for class on Wednesday.
- * `Read` [Chapter 3](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html) of Scott Murray's _Interactive Data Visualization for the Web_. Yes, the whole thing.
+ * `read()` [Chapter 3](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html) of Scott Murray's _Interactive Data Visualization for the Web_. Yes, the whole thing.

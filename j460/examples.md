@@ -24,9 +24,11 @@ course: j460
  * [The Colors of Motion](http://thecolorsofmotion.com/films) - movie data
 
 ## collections
+ * [FiveThirtyEight 2016](https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/?ex_cid=Weekly) - Year-end roundups
  * [wsj interactives 2015](http://graphics.wsj.com/wsj-interactives-2015/) - WSJ Year-end roundups
  * [nytimes interactives 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html) - NYT Year-end roundups
  * [USA Today interactives](http://www.usatoday.com/topic/E01C4890-85A2-4E0B-A3DD-58BD88E71251/interactive-graphics/)
+ * [The Big List of d3 Examples](http://christopheviau.com/d3list/gallery.html) - Christophe Viau
 
 ## portfolios to watch
  * [Nadieh Bremer](http://www.visualcinnamon.com/) - lots of d3

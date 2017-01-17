@@ -11,8 +11,8 @@
     <div class="row">
         <!-- weeks nav goes here-->
         <div class="col-sm-2" id="sidebar" role="navigation">
-            <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="100">
-                <li><a href="#week-1">week 1</a></li>
+            <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="100" id="weeks-nav">
+                <!--<li><a href="#week-1">week 1</a></li>-->
             </ul>
         </div>
         <div class="col-sm-10">
@@ -21,5 +21,14 @@
     </div>
 </div>
 {% include footer.html %}
+<script>
+    const $h2 = $('h2');
+    for (var i = 0; i < $h2.length; i++) {
+        var id = $h2[i].id;
+        var text = id.replace('-',' ');
+        var li = '<li><a href="#' + id + '">' + text +  '</a>';
+        $('ul#weeks-nav').append(li);
+    }
+</script>
 </body>
 </html>
