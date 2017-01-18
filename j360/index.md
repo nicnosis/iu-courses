@@ -24,6 +24,7 @@ course: j360
  * `visit()` [CSS Zen Garden](http://www.csszengarden.com/218/) and choose a style. Download the HTML and CSS example files and try altering the CSS to create visual changes.
 
 #### In Class
+ * `download()` [this image](http://imgur.com/a/52JLv) for our in-class exercise
  * `Lesson` 2.1 - [Intro to CSS](http://codepen.io/novonagu/pen/bgBRJG)
  * `Lesson` 2.2 - [Importing Fonts](http://codepen.io/novonagu/pen/BpQdJK)
  * `if` time permits, we can delve into CSS's `id` and `class` rules.

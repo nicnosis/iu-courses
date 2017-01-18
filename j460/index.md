@@ -21,3 +21,12 @@ course: j460
 #### This Weekend
  * Make sure you have a domain/hosting for class on Wednesday.
  * `read()` [Chapter 3](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html) of Scott Murray's _Interactive Data Visualization for the Web_. Yes, the whole thing.
+
+## week 2
+ * This week, we will try to ensure that everybody has hosting, and that everybody has [set up a local web server](http://chimera.labs.oreilly.com/books/1230000000345/ch04.html#_setting_up_a_web_server).
+
+#### In Class
+ * `Lesson` 2.1 - [JS Refresher](http://codepen.io/novonagu/pen/rjWQQj)
+
+#### This Weekend
+ * `read()` [Chapter 5](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
