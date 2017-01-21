@@ -17,7 +17,7 @@ course: j360
 
 #### at home
  * `begin()` Codecademy's [Learn HTML & CSS Part I](https://www.codecademy.com/learn/learn-html-css) tutorial.
- * `complete()` sections __(1) HTML Structure__ and __(2) HTML Content__.
+ * `complete()` sections __(1) HTML Fundamentals__ and __(2) HTML Content__.
  * Aim to have your domain name and website purchased by next Wednesday.
 
 ## week 2
@@ -31,7 +31,7 @@ course: j360
 
 #### at home
  * You will continue working on the Codecademy _HTML & CSS Part I_ tutorial.
- * `complete()` sections __(3) Styling with CSS__ and __(4) Organizing HTML & CSS__
+ * `complete()` sections __(3) CSS Fundamentals__ and __(4) Styling with CSS__
 
 ## week 3
 #### in class
@@ -39,5 +39,5 @@ course: j360
  * `Lesson` [CSS Display Property](https://codepen.io/novonagu/pen/BpRWaO)
 
 #### at home
- * `start()` [Homework 1]()
- * `complete()` codecademy ...
+ * `start()` [Homework 1](docs/hw1.html)
+ * `complete()` sections __(5) Organizing HTML & CSS__ and __(6) The CSS Box model__

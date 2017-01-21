@@ -1,3 +1,10 @@
+---
+layout: default
+title: J360 - HW1
+footer: ''
+highlight: 'assignments'
+course: j360
+---
 # j360 - Homework 1
 ## Description
 Homework 1 is designed to test your ability to upload an HTML file to your site. For most students, this means setting up an FTP _(File Transfer Protocol)_ connection with your IUPages or asmallorange account.
