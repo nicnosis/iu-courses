@@ -7,15 +7,19 @@ course: j460
 # examples
 
 ## my vizzes
+#### d3
  * [United Nations Global Goals](http://saplumira.com/unglobalgoals/) - series of d3 vizzes
  * [climate change](http://nagu.io/projects/climate-change) - static infographics, tableau and d3
  * [coral restoration](http://nagu.io/projects/coral) - leaflet, d3
  * [heroin](http://nagu.io/heroin/projects/coral) - d3 and Google charts
- * [deinstitutionalization and homelessness](http://nagu.io/projects/homeless/deins.pdf) - static infographic
  * [voronoi circle dragging](http://codepen.io/novonagu/pen/oYZaPy) - using d3.voronoi and d3.drag in d3 version 4
  * [paint stuff](http://codepen.io/novonagu/pen/QGdvyw) - simple paint program with d3.drag and spectrum.js
 
-## hw
+#### Tableau, static
+ * [eduViz](http://nagu.io/projects/eduviz/web/) - Massive Tableau-based visualization of Department of Education data
+ * [deinstitutionalization and homelessness](http://nagu.io/projects/homeless/deins.pdf) - static infographic
+
+## highcharts
  * [highcharts]({{site.baseurl}}/j460/viz/highcharts/) - example using bar chart and choropleth
 
 ## photo/video/audio
@@ -62,8 +66,8 @@ course: j460
  * <http://pages.iu.edu/~zhinyin/idv460/>
  * <http://pages.iu.edu/~mengzhuo/idv460/index.html>
 
-# p5.js resources
-## my sketches
+## p5.js resources
+#### my sketches
   * [henon phase](http://codepen.io/novonagu/pen/woLRwW) visualization. Based off of code I found [here](http://www.complexification.net/gallery/machines/henonPhase/)
   * [2d perlin viz](http://codepen.io/novonagu/pen/xRZqGJ) - Perlin noise algorithm visualized in two dimensions, using dat.gui.js and p5.js
   * [1d perlin viz]()

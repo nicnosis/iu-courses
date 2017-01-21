@@ -27,6 +27,13 @@ course: j460
 
 #### In Class
  * `Lesson` 2.1 - [JS Refresher](http://codepen.io/novonagu/pen/rjWQQj)
+ * `Lesson` 2.2 - [Intro to SVG](http://codepen.io/novonagu/pen/jyyBow)
 
 #### This Weekend
  * `read()` [Chapter 5](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
+
+## week 3
+
+#### tutorials
+ * `watch()` [tutorial: svg circles]()
+ * `watch()` [tutorial: hosting on OSX]()

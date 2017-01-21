@@ -15,7 +15,7 @@ course: j360
  * `if` you want to use __IU Pages__: [get an account](https://access.iu.edu/Accounts)
  * `Experienced students` Take a look at Jacob Gube's [tutorial](http://sixrevisions.com/css/ghost-buttons/) on how to make "ghost buttons" with CSS.
 
-#### This weekend
+#### at home
  * `begin()` Codecademy's [Learn HTML & CSS Part I](https://www.codecademy.com/learn/learn-html-css) tutorial.
  * `complete()` sections __(1) HTML Structure__ and __(2) HTML Content__.
  * Aim to have your domain name and website purchased by next Wednesday.
@@ -23,12 +23,21 @@ course: j360
 ## week 2
  * `visit()` [CSS Zen Garden](http://www.csszengarden.com/218/) and choose a style. Download the HTML and CSS example files and try altering the CSS to create visual changes.
 
-#### In Class
+#### in class
  * `download()` [this image](http://imgur.com/a/52JLv) for our in-class exercise
  * `Lesson` 2.1 - [Intro to CSS](http://codepen.io/novonagu/pen/bgBRJG)
  * `Lesson` 2.2 - [Importing Fonts](http://codepen.io/novonagu/pen/BpQdJK)
  * `if` time permits, we can delve into CSS's `id` and `class` rules.
 
-#### This weekend
+#### at home
  * You will continue working on the Codecademy _HTML & CSS Part I_ tutorial.
  * `complete()` sections __(3) Styling with CSS__ and __(4) Organizing HTML & CSS__
+
+## week 3
+#### in class
+ * Codepen - class and id
+ * Codepen - divs and spans
+
+#### at home
+ * `start()` [Homework 1]()
+ * `complete()` codecademy ...
