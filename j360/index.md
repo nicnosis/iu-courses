@@ -35,8 +35,8 @@ course: j360
 
 ## week 3
 #### in class
- * Codepen - class and id
- * Codepen - divs and spans
+ * `Lesson` [CSS Box Model](https://codepen.io/novonagu/pen/GrmWKx)
+ * `Lesson` [CSS Display Property](https://codepen.io/novonagu/pen/BpRWaO)
 
 #### at home
  * `start()` [Homework 1]()
