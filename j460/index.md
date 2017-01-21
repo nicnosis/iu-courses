@@ -35,5 +35,5 @@ course: j460
 ## week 3
 
 #### tutorials
- * `watch()` [tutorial: svg circles]()
+ * `watch()` [tutorial: svg circles](https://youtu.be/eyhnHVV09MQ)
  * `watch()` [tutorial: hosting on OSX]()
