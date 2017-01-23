@@ -3,6 +3,7 @@ $boldred: #AB495A;
 $gray: rgba(0, 0, 0, 0.15);
 $headerFont: 'Lato', sans-serif;
 $bodyFont: 'Open Sans', sans-serif;
+$codeFont: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 
 b, strong {
   color: $boldred;
@@ -28,6 +29,18 @@ code.highlighter-rouge {
   li {
     padding-left: 1em;
     line-height: 2em;
+  }
+
+  .coded {
+    p, h1, h2, h3, h4, ul li {
+      font-family: $codeFont;
+    }
+    ul li {
+      color: rgb(60, 60, 60);
+    }
+    .highlighter-rouge {
+      font-size: 16px;
+    }
   }
 }
 
