@@ -3,7 +3,6 @@ layout: default
 title: presentation
 course: j360
 ---
-
 # j360 Presentation
 
 ## Description
@@ -23,7 +22,8 @@ Making a GitHub repo with (functional) code for your presentation will also help
 
  * Bash scripting _(OSX Terminal)_
  * StackOverflow
- * [Bower](https://bower.io/)
+ * [GitBook](https://www.gitbook.com)
+ * [Yarn](http://yarn.io)
  * [NPM](https://www.npmjs.com/)
  * [JSFiddle](https://jsfiddle.net/)
  * Templating:
