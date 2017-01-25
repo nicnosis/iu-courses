@@ -119,8 +119,7 @@ Cyberduck demonstration - get people to upload
 
 
 ### Wed 01.25
-#### Codepen
-##### 3.3 - blockquote
+#### 3.3 - blockquote
 Reminder that 1em == 16px  
 solution:
 ```css
@@ -148,3 +147,11 @@ blockquote p {
 }
 ```
 
+#### 3.4
+<http://getbootstrap.com/examples/jumbotron/>
+
+#### 3.5
+<http://www.w3schools.com/cssref/css3_pr_transform.asp>
+
+#### Let's see how our FTP progress is going
+#### ADD ASSIGNMENT TO CANVAS

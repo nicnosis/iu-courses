@@ -18,26 +18,17 @@ code.highlighter-rouge {
   font-family: $bodyFont;
 
   h1, h2, h3, h4, h5, h6 { font-family: $headerFont; }
-  h1 { padding-top: 15px; }
+  h1, h2 { padding-top: 1em; }
   h2 {
     color: $red;
-    margin: .5em auto;
-    padding-top: .5em;
-    border-top: 1px solid $gray;
+    //margin: .5em auto;
+    //padding-top: .75em;
+    //border-top: 1px solid $gray;
   }
 
   li {
-    padding-left: 1em;
+    padding-left: 1.5em;
     line-height: 2em;
-  }
-
-  .coded {
-    p, h1, h2, h3, h4, ul li {
-      font-family: $codeFont;
-    }
-    ul li {
-      color: rgb(60, 60, 60);
-    }
   }
 }
 

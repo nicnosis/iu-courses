@@ -36,9 +36,15 @@ course: j460
 #### In Class
  * `Lesson` 3.1 - [Intro to Generators](http://codepen.io/novonagu/pen/VPWbwB)
  * `Lesson` 3.2 - [d3 area chart](http://codepen.io/novonagu/pen/VPbEGJ)
- * `Lesson` 3.x - [d3 scatter plot]()
+ * `Lesson` 3.3 - [JS function practice](http://codepen.io/novonagu/pen/VPzOXB)
+ * `Lesson` 3.4 - [d3 scatter plot](http://codepen.io/novonagu/pen/BpdgQj)
 
 #### At Home
  * `read()` w3schools: [svg path](http://www.w3schools.com/graphics/svg_path.asp)
+ * `read()` w3schools: [JS Variables](http://www.w3schools.com/js/js_variables.asp)
+ * `read()` w3schools: [JS Functions](http://www.w3schools.com/js/js_functions.asp)
  * `watch()` [tutorial: svg circles](https://youtu.be/eyhnHVV09MQ)
  * `if` you're using OSX, `watch()` [tutorial: OSX simple http server](https://youtu.be/_sum8fooazo)
+ * Practice using your simple HTTP server
+   * OSX users use terminal command `python -m SimpleHTTPServer 8888`
+   * Windows users use command `py -m http.server`

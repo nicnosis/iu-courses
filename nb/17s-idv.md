@@ -132,3 +132,48 @@ var circle = svg.selectAll("circle")
 run `python -v`
 
 ### Wed 1.25
+#### 3.2 area chart
+```js
+var data = [2, 3, 5, 10, 12];
+
+var squares = data.map(square);
+d3.select("#squares")
+  .selectAll("p")
+  .data(data)
+  .enter().append("p")
+  .text(function(d){return d;})
+
+function sayHi() {
+    console.log("hi");
+}
+function add(a, b) {
+    return a+b;
+}
+function square(a) {
+    return a*a;
+}
+```
+
+#### 3.3 function practice
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map>
+
+#### 3.4 function
+```js
+// make an array and populate with 50 points
+var points = [];
+for (var i = 0; i < 50; i++) {
+  var point = {
+    x: Math.random(),
+    y: Math.random()
+  };
+  points.push(point);
+}
+
+var svg = d3.select("svg");
+var circle = svg.selectAll("circle")
+  .data(points)
+  .enter().append("circle")
+  .attr("cx", function(d) { return d.x * 400 })
+  .attr("cy", function(d) { return d.y * 400 })
+  .attr("r", 5);
+```

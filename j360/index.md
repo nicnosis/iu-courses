@@ -38,7 +38,10 @@ course: j360
  * `Lesson` 3.1 - [CSS Box Model](https://codepen.io/novonagu/pen/GrmWKx)
  * `Lesson` 3.2 - [CSS Display Property](https://codepen.io/novonagu/pen/BpRWaO)
  * `Lesson` 3.3 - [CSS Blockquote exercise](http://codepen.io/novonagu/pen/VPzPEv)
+ * `Lesson` 3.4 - [Intro to Bootstrap](https://codepen.io/novonagu/pen/gwmVpN)
+ * `Lesson` 3.5 - [CSS Transforms](https://codepen.io/novonagu/pen/qajAYy)
 
 #### at home
  * `start()` [Homework 1](docs/hw1.html)
+ * `lookAt()` [Bootstrap Docs](http://getbootstrap.com/)
  * `complete()` sections __(5) Organizing HTML & CSS__ and __(6) The CSS Box model__
