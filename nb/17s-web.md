@@ -124,28 +124,27 @@ Cyberduck demonstration - get people to upload
 Reminder that 1em == 16px  
 solution:
 ```css
-    blockquote {
-      background: #f9f9f9;
-      border-left: 10px solid #ccc;
-      margin: 1.5em 10px;
-      padding: 0.5em 10px;
-      quotes: "\201C""\201D""\2018""\2019";
-    }
-    blockquote:before, blockquote:after {
-      color: #ccc;
-      font-size: 4em;
-      line-height: 0.1em;
-      margin-right: 0.25em;
-      vertical-align: -0.4em;
-    }
-    blockquote:before {
-        content: open-quote;
-    }
-    blockquote:after {
-        content: close-quote;
-    }
-    blockquote p {
-      display: inline;
-    }
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #333;
+}
+blockquote {
+  background: #eee;
+  border-left: 10px solid #aca;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "“" "”" "‘" "’";
+}
+blockquote:before {
+  color: #aca;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+    /*   display: inline; */
+}
 ```
 
