@@ -35,8 +35,9 @@ course: j360
 
 ## week 3
 #### in class
- * `Lesson` [CSS Box Model](https://codepen.io/novonagu/pen/GrmWKx)
- * `Lesson` [CSS Display Property](https://codepen.io/novonagu/pen/BpRWaO)
+ * `Lesson` 3.1 - [CSS Box Model](https://codepen.io/novonagu/pen/GrmWKx)
+ * `Lesson` 3.2 - [CSS Display Property](https://codepen.io/novonagu/pen/BpRWaO)
+ * `Lesson` 3.3 - [CSS Blockquote exercise]()
 
 #### at home
  * `start()` [Homework 1](docs/hw1.html)

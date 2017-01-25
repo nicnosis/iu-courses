@@ -6,9 +6,11 @@ highlight: home
 course: nb
 ---
 # j460 - Spring 2017
+
 week 1
 ------
-### M 17.01.07
+
+### M 1.07
 Intros
  * Let’s play a silly game -
  * First letter of your first name - use as noun or adjective to describe yourself
@@ -26,7 +28,7 @@ Intros
  * Add a pic if you have one handy
 
 
-### W 01.11
+### W 1.11
 #### 1.1
 ```
 h2
@@ -40,7 +42,7 @@ try making a link
 
 week 2
 ------
-### W 01.18
+### W 1.18
 + 2.1
 + 2.2
 + setting up local server
@@ -51,7 +53,7 @@ talk about array.length, array.push(),talk about Math.methods
 #### 2.2
 https://bost.ocks.org/mike/circles/
 
-```js
+```
 var dataArray = [5,11,18];
 
 var svg = d3.select("body").append("svg").attr("height","100%").attr("width","100%");
@@ -68,7 +70,65 @@ svg.selectAll("rect")
 
 week 3
 ------
-### M 01.23
+### M 1.23
+#### svg path element
+Begin by setting a width and height for our `svg`
+
+Let's make a path manually in HTML:
+```
+<path d="M150 0 L75 200 L225 200 Z" />
+```
 
 
+```
+var data = [{x: 5, y: 5}, {x:10, y:15}, {x:20, y: 7}, {x:30, y:18}, {x:40, y:10}];
 
+var svg = d3.select('body')
+    .append('svg')
+    .attr('height', '100%')
+    .attr('width', '100%');
+
+var line = d3.line()
+    .x(d => d.x*6)
+    .y(d => d.y*4)
+    .curve(d3.curveBasis);
+
+svg.append('path').attr('d', line(data))
+    .attr('stroke', 'blue')
+    .attr('fill', 'none')
+```
+
+#### d3 area chart
+Start by explaining the two array variables. Also show what we have in `html`. Add height, width and area generators
+
+```
+var w = 1000;
+var h = 200;
+var svg = d3.select("svg")
+  .attr("width", w)
+  .attr("height", h);
+var area = d3.area()
+  .x(function(d, i) { return i*30; })
+  .y0(function(d) { return h - d; })
+  .y1(h);
+
+svg.append("path").attr("d", area(scores));
+```
+let's make some circles:
+```
+var circle = svg.selectAll("circle")
+  .data(scores)
+  .enter().append("circle")
+  .attr("cx", function(d,i) {
+    return i*30;
+  })
+  .attr("cy", function(d) {
+    return h - d;
+  })
+  .attr("r", 5);
+```
+
+#### simpleHTTPServer
+run `python -v`
+
+### Wed 1.25

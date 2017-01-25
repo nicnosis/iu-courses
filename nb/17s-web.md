@@ -82,7 +82,33 @@ Remaining time: help individuals with hosting and stuff
 ## week 3
 ### Mon 01.23
 + Review 2.2 - fonts
-+ CodePen Lessons
+
+#### CSS Box Model
+```
+
+body {
+  font-family: Arial;
+}
+
+div {
+  background-color: steelblue;
+  width: 300px;
+}
+
+.fancy {
+  margin-top: 15px;
+  padding: 10px;
+  border: 2px solid orange;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px #333;
+} 
+
+.caps {
+  text-transform: uppercase;
+}
+```
+
+
 + hw1 - due next Friday (2/3)
     + Download file
     + Edit it
@@ -93,5 +119,33 @@ Cyberduck demonstration - get people to upload
 
 
 ### Wed 01.25
-check to see if everybody got FTP working  
-talk about project 1
+#### Codepen
+##### 3.3 - blockquote
+Reminder that 1em == 16px  
+solution:
+```css
+    blockquote {
+      background: #f9f9f9;
+      border-left: 10px solid #ccc;
+      margin: 1.5em 10px;
+      padding: 0.5em 10px;
+      quotes: "\201C""\201D""\2018""\2019";
+    }
+    blockquote:before, blockquote:after {
+      color: #ccc;
+      font-size: 4em;
+      line-height: 0.1em;
+      margin-right: 0.25em;
+      vertical-align: -0.4em;
+    }
+    blockquote:before {
+        content: open-quote;
+    }
+    blockquote:after {
+        content: close-quote;
+    }
+    blockquote p {
+      display: inline;
+    }
+```
+

@@ -18,7 +18,7 @@ course: j460
  * `Lesson` 1.1 - [HTML Refresher](http://codepen.io/novonagu/pen/pRyjge)
  * `Lesson` 1.2 - [d3 enter() and exit()](http://codepen.io/novonagu/pen/OWVaBz)
 
-#### This Weekend
+#### At Home
  * Make sure you have a domain/hosting for class on Wednesday.
  * `read()` [Chapter 3](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html) of Scott Murray's _Interactive Data Visualization for the Web_. Yes, the whole thing.
 
@@ -29,11 +29,16 @@ course: j460
  * `Lesson` 2.1 - [JS Refresher](http://codepen.io/novonagu/pen/rjWQQj)
  * `Lesson` 2.2 - [Intro to SVG](http://codepen.io/novonagu/pen/jyyBow)
 
-#### This Weekend
+#### At Home
  * `read()` [Chapter 5](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
 
 ## week 3
+#### In Class
+ * `Lesson` 3.1 - [Intro to Generators](http://codepen.io/novonagu/pen/VPWbwB)
+ * `Lesson` 3.2 - [d3 area chart](http://codepen.io/novonagu/pen/VPbEGJ)
+ * `Lesson` 3.x - [d3 scatter plot]()
 
-#### tutorials
+#### At Home
+ * `read()` w3schools: [svg path](http://www.w3schools.com/graphics/svg_path.asp)
  * `watch()` [tutorial: svg circles](https://youtu.be/eyhnHVV09MQ)
- * `watch()` [tutorial: hosting on OSX]()
+ * `if` you're using OSX, `watch()` [tutorial: OSX simple http server](https://youtu.be/_sum8fooazo)
