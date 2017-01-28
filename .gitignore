@@ -2,6 +2,7 @@
 .idea/
 nosync/
 _site/
+_solutions/
 package.json
 node_modules
 yarn.lock

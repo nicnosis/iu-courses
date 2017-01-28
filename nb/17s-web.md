@@ -133,6 +133,7 @@ blockquote {
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   quotes: "“" "”" "‘" "’";
+  quotes: "\201C""\201D""\2018""\2019";
 }
 blockquote:before {
   color: #aca;
@@ -152,6 +153,6 @@ blockquote p {
 
 #### 3.5
 <http://www.w3schools.com/cssref/css3_pr_transform.asp>
-
 #### Let's see how our FTP progress is going
-#### ADD ASSIGNMENT TO CANVAS
+
+## week 4

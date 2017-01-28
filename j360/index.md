@@ -45,3 +45,8 @@ course: j360
  * `start()` [Homework 1](docs/hw1.html)
  * `lookAt()` [Bootstrap Docs](http://getbootstrap.com/)
  * `complete()` sections __(5) Organizing HTML & CSS__ and __(6) The CSS Box model__
+
+## week 4
+
+#### at home
+ * `start()` [Project 1](docs/project1.html)
