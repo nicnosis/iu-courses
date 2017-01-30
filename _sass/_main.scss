@@ -21,14 +21,14 @@ code.highlighter-rouge {
   h1, h2 { padding-top: 1em; }
   h2 {
     color: $red;
-    //margin: .5em auto;
-    //padding-top: .75em;
-    //border-top: 1px solid $gray;
   }
 
   li {
     padding-left: 1.5em;
     line-height: 2em;
+  }
+  td {
+    padding-right: 10px;
   }
 }
 

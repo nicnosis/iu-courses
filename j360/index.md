@@ -47,6 +47,13 @@ course: j360
  * `complete()` sections __(5) Organizing HTML & CSS__ and __(6) The CSS Box model__
 
 ## week 4
+You will use week 4 to better familiarize ourselves with [Bootstrap](http://getbootstrap.com/) and begin Project 1.
+
+#### in class
+ * `Lesson` 4.1 - [Bootstrap grid](http://codepen.io/novonagu/pen/RKxrBR)
+ * `Lesson` 4.2 - [Bootstrap navbar](http://codepen.io/novonagu/pen/JEMGwP)
+ * `Lesson` 4.3 - [Bootstrap dynamic tabs](http://codepen.io/novonagu/pen/pRpgMx)
 
 #### at home
+ * `read()` [Bootstrap Grid Basics](http://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp)
  * `start()` [Project 1](docs/project1.html)

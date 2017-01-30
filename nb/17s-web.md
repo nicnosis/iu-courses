@@ -156,3 +156,65 @@ blockquote p {
 #### Let's see how our FTP progress is going
 
 ## week 4
+#### 4.1 basics
+1. Need to pull in the Bootstrap CSS first
+2. Make a jumbotron: `.jumbotron>h1`
+```
+<div class="jumbotron">
+    <h1 class="text-center">my header</h1>
+</div>
+```
+3. Make a page-header: `.page-header>h2+small`
+```
+<div class="page-header">
+    <h2>This is a header. <small>This text is small.</small></h2>
+</div>
+```
+4. Make some rows and columns:
+```
+.container
+.row
+.column
+.col-*-*
+```
+
+#### 4.2 nav
+```html
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+</nav>
+```
+
+#### 4.3 tabs
+```html
+  <ul class="nav nav-tabs">
+    <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+    <li><a data-toggle="tab" href="#menu1">Menu 1</a></li>
+    <li><a data-toggle="tab" href="#menu2">Menu 2</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+      <h3>HOME</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+    </div>
+    <div id="menu1" class="tab-pane fade">
+      <h3>Menu 1</h3>
+      <p>...</p>
+    </div>
+    <div id="menu2" class="tab-pane fade">
+      <h3>Menu 2</h3>
+      <p>...</p>
+    </div>
+  </div>
+```
