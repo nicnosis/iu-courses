@@ -27,6 +27,10 @@ course: j460
  * [cinemetrics](http://cinemetrics.fredericbrodbeck.de/) - movie data
  * [The Colors of Motion](http://thecolorsofmotion.com/films) - movie data
 
+## election stuff
+ * [inagurate speeches](http://inauguratespeeches.com/)
+ * periscopic - [inaguration emotions](http://emotions.periscopic.com/inauguration/)
+
 ## collections
  * [FiveThirtyEight 2016](https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/?ex_cid=Weekly) - Year-end roundups
  * [wsj interactives 2015](http://graphics.wsj.com/wsj-interactives-2015/) - WSJ Year-end roundups

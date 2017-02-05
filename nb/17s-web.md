@@ -157,21 +157,24 @@ blockquote p {
 
 ## week 4
 #### 4.1 basics
-1. Need to pull in the Bootstrap CSS first
-2. Make a jumbotron: `.jumbotron>h1`
-```
+(1) Need to pull in the Bootstrap CSS first
+
+(2) Make a jumbotron: `.jumbotron>h1`
+```html
 <div class="jumbotron">
     <h1 class="text-center">my header</h1>
 </div>
 ```
-3. Make a page-header: `.page-header>h2+small`
-```
+
+(3) Make a page-header: `.page-header>h2+small`
+```html
 <div class="page-header">
     <h2>This is a header. <small>This text is small.</small></h2>
 </div>
 ```
-4. Make some rows and columns:
-```
+
+(4) Make some rows and columns:
+```html
 .container
 .row
 .column

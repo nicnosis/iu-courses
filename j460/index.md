@@ -48,3 +48,21 @@ course: j460
  * Practice using your simple HTTP server
    * OSX users use terminal command `python -m SimpleHTTPServer 8888`
    * Windows users use command `py -m http.server`
+
+## week 4
+At this point, you should have:
+ * A domain name with hosting
+ * An HTTP server. This can be done with the `python` script in terminal. If you are a PC User who doesn't have it working, you might consider getting PHPStorm.
+
+[PHPStorm](https://www.jetbrains.com/student/) is a fantastic editor and it's free for students. It has a built-in HTTP server.
+
+#### In Class
+ * `Lesson` 4.1 - [d3 bar chart 1](http://codepen.io/novonagu/pen/EZopqE)
+ * `Lesson` 4.2 - [d3 bar chart 2](http://codepen.io/novonagu/pen/LxegGp)
+ * `Lesson` 4.3 - [d3 bar chart 3](http://codepen.io/novonagu/pen/bgamoK)
+ <!-- * `Lesson` 4.4 - [another d3 scatter plot](http://codepen.io/novonagu/pen/bgvgoz) -->
+
+#### At Home
+ * `read()` Mike Bostock - [Thinking With Joins](https://bost.ocks.org/mike/join/)
+ * `read()` Mike Bostock - [Introducing d3-scale](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f)
+ * `read()` [Chapter 7](http://chimera.labs.oreilly.com/books/1230000000345/ch07.html)

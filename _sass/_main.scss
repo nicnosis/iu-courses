@@ -1,16 +1,16 @@
-$red: #FF5370;
-$boldred: #AB495A;
+$primaryColor: #FF5370;
+$boldColor: #AB495A;
 $gray: rgba(0, 0, 0, 0.15);
 $headerFont: 'Lato', sans-serif;
 $bodyFont: 'Open Sans', sans-serif;
 $codeFont: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 
 b, strong {
-  color: $boldred;
+  color: $boldColor;
 }
 
 code.highlighter-rouge {
-  color: $red;
+  color: $primaryColor;
   background-color: #e8e8ed;
 }
 
@@ -20,7 +20,7 @@ code.highlighter-rouge {
   h1, h2, h3, h4, h5, h6 { font-family: $headerFont; }
   h1, h2 { padding-top: 1em; }
   h2 {
-    color: $red;
+    color: $primaryColor;
   }
 
   li {
@@ -49,6 +49,10 @@ span.fa.fa-github, span.fa.fa-twitter {
 /*******************************************
 *  NAV
 *******************************************/
+a.navbar-brand {
+  font-family: $codeFont;
+  letter-spacing: .1em;
+}
 nav#myNav {
   padding: 0;
   border-bottom: 1px solid $gray;
@@ -58,5 +62,8 @@ nav#myNav {
   }
 }
 .nav-item.active {
-  border-bottom: 2px solid $red;
+  border-bottom: 2px solid $primaryColor;
+}
+.navbar-light .navbar-nav .active.active-color>.nav-link {
+  color: $primaryColor;
 }

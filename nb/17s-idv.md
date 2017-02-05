@@ -177,3 +177,149 @@ var circle = svg.selectAll("circle")
   .attr("cy", function(d) { return d.y * 400 })
   .attr("r", 5);
 ```
+
+## week 4
+#### 4.1
+Use this: <https://bost.ocks.org/mike/bar/>
+
+(1) practice a basic append
+```
+d3.select("body")
+  .append("div")
+  .text("hi!")
+```
+
+(2) practice data join
+```
+d3.selectAll("p")
+   .data(data)
+   .enter().append("p")
+   .text(d => d)
+```
+
+(3) making a primitive chart  
+(3a) first go to HTML and make a `.chart` div  
+(3b)
+```js
+d3.select(".chart")
+  .selectAll("div")
+  .data(data)
+  .enter().append("div")
+  .style("width", d => d * 10 + "px")
+  .text(d => d)
+```
+(3c) let's style it
+```css
+.chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+```
+(4) Let's scale it to fit
+```
+var x = d3.scaleLinear()
+  .domain([0, d3.max(data)])
+  .range([0, 420])
+
+d3.select(".chart")
+  .selectAll("div")
+  .data(data)
+  .enter().append("div")
+  .style("width", d => x(d) + "px")
+  .text(d => d)
+```
+
+#### 4.2
+```
+var width = 420,
+    barHeight = 20;
+
+var x = d3.scaleLinear()
+  .domain([0, d3.max(data, d => d.value)])
+  .range([0, width]);
+
+var chart = d3.select(".chart")
+  .attr("width", width)
+  .attr("height", barHeight * data.length);
+
+var bar = chart.selectAll("g")
+  .data(data)
+  .enter().append("g")
+  .attr("transform", (d,i) => "translate(0," + i*barHeight + ")");
+
+bar.append("rect")
+  .attr("width", d => x(d.value))
+  .attr("height", barHeight - 1);
+
+bar.append("text")
+      .attr("x", d => x(d.value) - 3)
+      .attr("y", barHeight / 2)
+      .attr("dy", ".35em")
+      .text(d => d.value);
+```
+
+#### 4.3
+Use this <https://bl.ocks.org/d3noob/bdf28027e0ce70bd132edc64f1dd7ea4>
+```js
+var margin = {
+      top: 20,
+      right: 20,
+      bottom: 30,
+      left: 40
+   },
+   width = 720 - margin.left - margin.right,
+   height = 480 - margin.top - margin.bottom;
+
+var svg = d3.select("svg")
+   .attr("width", width + margin.left + margin.right)
+   .attr("height", height + margin.top + margin.bottom)
+   .append("g")
+   .attr("transform",
+      "translate(" + margin.left + "," + margin.top + ")");
+
+// set the ranges
+var x = d3.scaleBand()
+          .range([0, width])
+          .padding(0.1);
+var y = d3.scaleLinear()
+          .range([height, 0]);
+
+// Scale the range of the data in the domains
+x.domain(data.map(function(d) {
+   return d.salesperson;
+}));
+y.domain([0, d3.max(data, function(d) {
+   return d.sales;
+})]);
+
+// append the rectangles for the bar chart
+svg.selectAll(".bar")
+   .data(data)
+   .enter().append("rect")
+   .attr("class", "bar")
+   .attr("x", function(d) {
+      return x(d.salesperson);
+   })
+   .attr("width", x.bandwidth())
+   .attr("y", function(d) {
+      return y(d.sales);
+   })
+   .attr("height", function(d) {
+      return height - y(d.sales);
+   });
+
+// add the x Axis
+svg.append("g")
+   .attr("transform", "translate(0," + height + ")")
+   .call(d3.axisBottom(x));
+
+// add the y Axis
+svg.append("g")
+   .call(d3.axisLeft(y));
+```
+
+#### 4.4

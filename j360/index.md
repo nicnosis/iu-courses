@@ -16,7 +16,7 @@ course: j360
  * `Experienced students` Take a look at Jacob Gube's [tutorial](http://sixrevisions.com/css/ghost-buttons/) on how to make "ghost buttons" with CSS.
 
 #### at home
- * `begin()` Codecademy's [Learn HTML & CSS Part I](https://www.codecademy.com/learn/learn-html-css) tutorial.
+ * `start()` Codecademy's [Learn HTML & CSS Part I](https://www.codecademy.com/learn/learn-html-css) tutorial.
  * `complete()` sections __(1) HTML Fundamentals__ and __(2) HTML Content__.
  * Aim to have your domain name and website purchased by next Wednesday.
 
@@ -50,10 +50,25 @@ course: j360
 You will use week 4 to better familiarize ourselves with [Bootstrap](http://getbootstrap.com/) and begin Project 1.
 
 #### in class
- * `Lesson` 4.1 - [Bootstrap grid](http://codepen.io/novonagu/pen/RKxrBR)
- * `Lesson` 4.2 - [Bootstrap navbar](http://codepen.io/novonagu/pen/JEMGwP)
- * `Lesson` 4.3 - [Bootstrap dynamic tabs](http://codepen.io/novonagu/pen/pRpgMx)
+ * `Lesson` 4.1 - [Bootstrap Grid](http://codepen.io/novonagu/pen/RKxrBR)
+ * `Lesson` 4.2 - [Bootstrap Navbar](http://codepen.io/novonagu/pen/JEMGwP)
+ * `Lesson` 4.3 - [Bootstrap Dynamic Tabs](http://codepen.io/novonagu/pen/pRpgMx)
+ * `Lesson` 4.4 - [Bootswatch Themes](http://codepen.io/novonagu/pen/zNRmNX)
+ * `Lesson` 4.5 - [JS Variables and Data Types](http://codepen.io/novonagu/pen/OWQBaQ)
+ * `Lesson` 4.6 - [JS Operators](https://codepen.io/novonagu/pen/PGVmBX)
 
 #### at home
  * `read()` [Bootstrap Grid Basics](http://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp)
+ * `read()` [JavaScript Variables](http://www.w3schools.com/js/js_variables.asp)
+ * `read()` [JavaScript Operators](http://www.w3schools.com/js/js_operators.asp). Skip the part about "Bitwise Operators"
+ * `read()` [JavaScript Data Types](http://www.w3schools.com/js/js_datatypes.asp)
  * `start()` [Project 1](docs/project1.html)
+
+## week 5
+
+#### in class
+ * `Lesson` 5.1 - [JS Functions]()
+ * `Lesson` 5.2 - [Intro to jQuery]()
+
+#### at home
+ * `start()` Codecademy's [Learn jQuery](https://www.codecademy.com/learn/jquery) tutorial. Complete everything up to and including section 4 (jQuery Events)
