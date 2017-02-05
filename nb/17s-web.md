@@ -221,3 +221,53 @@ blockquote p {
     </div>
   </div>
 ```
+
+## week 5
+#### 5.1 JS Functions
+Try using `onclick="..."` attribute
+
+```js
+function sayHi() {
+    console.log("hi");
+}
+
+function add(a, b) {
+    return a + b;
+}
+
+function square(n) {
+    return n * n;
+}
+```
+
+#### 5.2
+```js
+$(document).ready(function() { console.log("ready!"); });
+$(function() { console.log("ready!"); });
+```
+
+Define the function:
+```js
+function fn() {
+  console.log("hi");
+}
+```
+Pass the function as an argument to $():
+```javascript
+$(fn);
+```
+
+#### 5.3 selectors
+
+```html
+<ul class="my-list">
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+</ul>
+```
+```js
+$(".my-list").click(function() {
+    $(this).hide();
+});
+```
