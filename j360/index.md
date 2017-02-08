@@ -69,7 +69,9 @@ You will use week 4 to better familiarize ourselves with [Bootstrap](http://getb
 #### in class
  * `Lesson` 5.1 - [JS Functions](http://codepen.io/novonagu/pen/mRKOvV)
  * `Lesson` 5.2 - [Intro to jQuery](http://codepen.io/novonagu/pen/dNKmaN)
- * `Lesson` 5.3 - [jQuery Selectors]()
+ * `Lesson` 5.3 - [jQuery Selectors](http://codepen.io/novonagu/pen/JEZvpy)
+ * `Lesson` 5.4 - [JS Math Object](http://codepen.io/novonagu/pen/qRMmdP)
+ * `Lesson` 5.5 - [JS Math Object 2](http://codepen.io/novonagu/pen/rjZmxW)
 
 #### at home
  * `start()` Codecademy's [Learn jQuery](https://www.codecademy.com/learn/jquery) tutorial. Complete everything up to and including section 4 (jQuery Events)

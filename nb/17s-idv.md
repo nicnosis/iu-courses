@@ -322,4 +322,10 @@ svg.append("g")
    .call(d3.axisLeft(y));
 ```
 
-#### 4.4
+## week 5
+ * [5.1 solution](http://codepen.io/novonagu/pen/MJBpKM)
+ * [5.2 solution](http://codepen.io/novonagu/pen/ygqMMm)
+ * [color scales doc](https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory10)
+ * [Histrogram II](https://bl.ocks.org/mbostock/b2fee5dae98555cf78c9e4c5074b87c3)
+ * [Scatterplot v4](http://bl.ocks.org/weiglemc/6185069)
+ * [Scatterplot old](https://bl.ocks.org/mbostock/3887118)

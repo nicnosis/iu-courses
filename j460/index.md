@@ -60,9 +60,14 @@ At this point, you should have:
  * `Lesson` 4.1 - [d3 bar chart 1](http://codepen.io/novonagu/pen/EZopqE)
  * `Lesson` 4.2 - [d3 bar chart 2](http://codepen.io/novonagu/pen/LxegGp)
  * `Lesson` 4.3 - [d3 bar chart 3](http://codepen.io/novonagu/pen/bgamoK)
- <!-- * `Lesson` 4.4 - [another d3 scatter plot](http://codepen.io/novonagu/pen/bgvgoz) -->
+<!-- * `Lesson` 4.4 - [another d3 scatter plot](http://codepen.io/novonagu/pen/bgvgoz) -->
 
 #### At Home
  * `read()` Mike Bostock - [Thinking With Joins](https://bost.ocks.org/mike/join/)
  * `read()` Mike Bostock - [Introducing d3-scale](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f)
  * `read()` [Chapter 7](http://chimera.labs.oreilly.com/books/1230000000345/ch07.html)
+
+## week 5
+#### In Class
+ * `Lesson` 5.1 - [d3 scatter plot (iris)](http://codepen.io/novonagu/pen/wgxoOz)
+ * `Lesson` 5.2 - [d3 multi-line chart with legend](http://codepen.io/novonagu/pen/bgjqRO)
