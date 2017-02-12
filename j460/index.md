@@ -71,3 +71,6 @@ At this point, you should have:
 #### In Class
  * `Lesson` 5.1 - [d3 scatter plot (iris)](http://codepen.io/novonagu/pen/wgxoOz)
  * `Lesson` 5.2 - [d3 multi-line chart with legend](http://codepen.io/novonagu/pen/bgjqRO)
+
+#### At Home
+ * `start()` [Assignment 1](docs/assignment1.html)

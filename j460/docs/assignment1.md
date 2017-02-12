@@ -7,14 +7,23 @@ course: j460
 ---
 # Assignment 1
 ## Description
-
+We will be using data from [GapMinder](http://gapminder.org) to create a scatter plot. The goal is to create a chart a simplified version of [this chart](https://www.gapminder.org/tools/#_chart-type=bubbles) using d3.js.
 
 ## Download
-Download this file
+Download this file - [j460 project 1 starter](assignment1-starter.zip)
 
 ## Tutorials
+The best way to complete this project is to follow the video tutorials:
+
+ * [Part 1 - Setup](https://youtu.be/NHqZPmKfqUM)
+ * [Part 2 - Loading data](https://youtu.be/TPtP2_unlc0)
+ * [Part 3 - Rendering dots](https://youtu.be/NWhaYfJoe1A)
+
+## HTTP Server
+You will need a local HTTP server to complete this project. If you are using PHPStorm, use the built-in server. If you are using terminal, use the command `python -m SimpleHTTPServer 8888` in the folder that contains your files.
 
 ## Connect and Upload
+You will need to upload your final page to your website. Your submission on Canvas will be a link to the `index.html` of this project.
 
 #### Get an FTP client
 You will need a program, called an FTP client, that establishes a connection with your site, allowing you to upload files.
