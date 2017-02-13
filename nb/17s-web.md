@@ -271,3 +271,92 @@ $(".my-list").click(function() {
     $(this).hide();
 });
 ```
+
+## week 6
+#### 6.1
+
+First make an HTML button
+```html
+<button class="btn btn-primary">Click me!</button>
+```
+
+First make a .click thing for the button
+```js
+$("button").click(function() {
+    console.log("hi");
+});
+```
+
+Next manually add selector
+```js
+$("button").click(function() {
+    $("p").toggle();
+});
+```
+
+Next add variable
+```js
+$("button").click(function() {
+    var el = "p";
+    $(el).toggle();
+});
+```
+
+Next let's try list items
+```js
+var el = "ul li";
+```
+
+#### 6.2
+First write something in the text/num fields
+
+Then, write some CSS for `span`
+
+Now we want to change HTML
+```html
+<span id="value1"></span> + <span id="value2">3</span> = <span id="sum"></span>
+```
+
+First without the unary operators
+```js
+$(function(){
+	var html = $("#value1").html() + $("#value2").html();
+	console.log(html);
+	$("#sum").html(html);
+});
+```
+
+then with
+```js
+$(function(){
+	var html = +$("#value1").html() + +$("#value2").html();
+	console.log(html);
+	$("#sum").html(html);
+});
+```
+
+use JQuery's .html() to change
+the content of #text and #num
+$(selector).html(content);
+
+#### 6.3
+FIRST LETS CHANGE OUR INPUT FORM
+```html
+<input type="text" class="form-control" id="inputSpeed" placeholder="enter in milliseconds">
+```
+LETS ADD A BUTTON
+
+```html
+<button class="btn btn-default">Toggle</button>
+```
+
+```js
+var speed = 1000;
+
+$("button").click(function() {
+  var value = $(selector).val();
+  $("#square").toggle(value);
+});
+
+$("form").submit(function(e){ return false; });
+```

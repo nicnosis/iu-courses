@@ -60,7 +60,6 @@ At this point, you should have:
  * `Lesson` 4.1 - [d3 bar chart 1](http://codepen.io/novonagu/pen/EZopqE)
  * `Lesson` 4.2 - [d3 bar chart 2](http://codepen.io/novonagu/pen/LxegGp)
  * `Lesson` 4.3 - [d3 bar chart 3](http://codepen.io/novonagu/pen/bgamoK)
-<!-- * `Lesson` 4.4 - [another d3 scatter plot](http://codepen.io/novonagu/pen/bgvgoz) -->
 
 #### At Home
  * `read()` Mike Bostock - [Thinking With Joins](https://bost.ocks.org/mike/join/)
@@ -74,3 +73,11 @@ At this point, you should have:
 
 #### At Home
  * `start()` [Assignment 1](docs/assignment1.html)
+
+## week 6
+#### In Class
+ * `Lesson` 6.1 - [interaction - mouseover event](http://codepen.io/novonagu/pen/dNaYaq)
+ * `Lesson` 6.2 - [interaction - drag event](http://codepen.io/novonagu/pen/bgzVXV)
+
+#### At Home
+ * `read()` [Chapter 10](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)

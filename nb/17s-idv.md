@@ -329,3 +329,127 @@ svg.append("g")
  * [Histrogram II](https://bl.ocks.org/mbostock/b2fee5dae98555cf78c9e4c5074b87c3)
  * [Scatterplot v4](http://bl.ocks.org/weiglemc/6185069)
  * [Scatterplot old](https://bl.ocks.org/mbostock/3887118)
+
+## week 6
+#### 6.1 iris scatter plot with interaction
+solution: <http://codepen.io/novonagu/pen/jydPed>
+
+(1) setup scales
+```js
+var x = d3.scaleLinear().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
+var color = d3.scaleOrdinal(d3.schemeCategory10);
+```
+
+(2) set domains
+```js
+  // set domains
+  x.domain(d3.extent(data, d => d.sepalWidth));
+  y.domain(d3.extent(data, d => d.sepalLength));
+  
+  // draw circles
+  var circle = svg.selectAll(".dot")
+    .data(data)
+    .enter().append("circle")
+    .attr("class", "dot")
+    .attr("r", 3.5)
+    .attr("cx", d => x(d.sepalWidth))
+    .attr("cy", d => y(d.sepalLength))
+    .style("fill", d => color(d.species))
+```
+
+(3) setup legends
+```js
+  // setup legend selection
+  var legend = svg.selectAll(".legend")
+    .data(color.domain())
+    .enter().append("g")
+    .attr("class", "legend")
+    .attr("transform", (d,i) => "translate(0," + i*20 + ")");
+
+  // draw legend rectangles
+  legend.append("rect")
+    .attr("x", width - 18)
+    .attr("width", 18)
+    .attr("height", 18)
+    .style("fill", color);
+
+  // daw legend text
+  legend.append("text")
+    .attr("x", width - 24)
+    .attr("y", 9)
+    .attr("dy", 5)
+    .style("text-anchor", "end")
+    .text(d => d);
+```
+(5) let's add a basic mouseover
+```js
+.attr("mouseover", function(d) {console.log(d) })
+```
+
+(6) go to HTML and start filling in spans
+(7) remember to use `.on()`
+```js
+circle.on("mouseover", function(d) {
+  d3.select("#species").html(d.species);
+  d3.select("#petalLength").html(d.petalLength);
+  console.log("mouseover at " + (d3.event.pageX) + ", " + (d3.event.pageY))
+});
+```
+(8) make bullets nicer
+```css
+li {
+  font-size: 14px;
+  list-style-type: none;
+}
+```
+
+#### 6.2 circle dragging
+solution - <http://codepen.io/novonagu/pen/jVBELX>
+
+(1) setup our SVG style
+```css
+svg {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: rgba(0, 0, 0, 0.2) 3px 3px 5px;
+}
+```
+
+(2) make our circles array
+```js
+var circles = d3.range(20).map(function() {
+  return {
+    x: Math.round(Math.random() * width),
+    y: Math.round(Math.random() * height),
+    r: 16 + Math.random() * 24
+  }
+});
+```
+
+(3) draw our circles and (4) setup drag events
+```js
+svg.selectAll("circle")
+  .data(circles)
+  .enter().append("circle")
+  .attr("cx", d => d.x)
+  .attr("cy", d => d.y)
+  .attr("r", d => d.r)
+  .style("fill", (d,i) => color(i))
+  .call(d3.drag()
+    .on("start", dragstarted)
+    .on("drag", dragged)
+    .on("end", dragended)
+  );
+
+function dragstarted(d) {
+  d3.select(this).raise().classed("active", true);
+}
+
+function dragged(d) {
+  d3.select(this).attr("cx", d.x = d3.event.x).attr("cy", d.y = d3.event.y);
+}
+
+function dragended(d) {
+  d3.select(this).classed("active", false);
+}
+```

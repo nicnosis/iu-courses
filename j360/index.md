@@ -75,3 +75,9 @@ You will use week 4 to better familiarize ourselves with [Bootstrap](http://getb
 
 #### at home
  * `start()` Codecademy's [Learn jQuery](https://www.codecademy.com/learn/jquery) tutorial. Complete everything up to and including section 4 (jQuery Events)
+
+## week 6
+#### in class
+ * `Lesson` 6.1 - [jQuery, JS Variable Refresher](http://codepen.io/novonagu/pen/ggZoxr)
+ * `Lesson` 6.2 - [JS Variables With .html()](http://codepen.io/novonagu/pen/bgOarq)
+ * `Lesson` 6.3 - [Using .toggle() With Forms](http://codepen.io/novonagu/pen/RGYKwG)
