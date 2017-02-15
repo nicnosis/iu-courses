@@ -81,3 +81,8 @@ You will use week 4 to better familiarize ourselves with [Bootstrap](http://getb
  * `Lesson` 6.1 - [jQuery, JS Variable Refresher](http://codepen.io/novonagu/pen/ggZoxr)
  * `Lesson` 6.2 - [JS Variables With .html()](http://codepen.io/novonagu/pen/bgOarq)
  * `Lesson` 6.3 - [Using .toggle() With Forms](http://codepen.io/novonagu/pen/RGYKwG)
+ * `Lesson` 6.4 - [jQuery Animations I](http://codepen.io/novonagu/pen/QdobXJ)
+ * `Lesson` 6.5 - [jQuery Animations II](http://codepen.io/novonagu/pen/OWqybo)
+
+#### at home
+ * `start()` [Homework 2](docs/hw2.html)

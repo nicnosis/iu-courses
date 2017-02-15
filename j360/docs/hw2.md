@@ -14,7 +14,7 @@ The interactivity is based on assigning functionality to HTML buttons, which wil
 You will not need to write/edit HTML or CSS for this assignment; only Javascript.
 
 ## Demo
-This project has a [live demo]()
+This project has a [live demo](demo/hw2/)
 
 ## Starter Files
 You will be given three files:
@@ -25,7 +25,7 @@ You will be given three files:
 
 The only file you need to modify is `script.js`
 
-Download here - [homework 2 starter files]()
+Download here - [homework 2 starter files](hw2-starter.zip)
 
 ## Approach
 This assignment will be much easier if you write down the selectors you need for each part. For each part you will have a button selector, and another selector. E.g., for part one you will need `$("#btn1")` (the button) and `$("#part1")` (the square div).
@@ -53,9 +53,9 @@ This project has five parts, each worth `20 points`.
 You can get `5 extra credit points` on part 3 by creating another button, that when clicked, removes the `shadow` class from the red square.
 
 ## Submission - Canvas
-After you are done writing code, you can upload the entire folder to your site. The best way is to drag and drop the entire folder
+After you are done writing code, you can upload the entire folder to your site. The best way is to drag and drop the entire folder.
 
-Submit the link to your assignment on `Canvas`
+Submit the link to your assignment on Canvas.
 
 #### **Due Friday 3/3 at 11:59pm**
 

@@ -360,3 +360,113 @@ $("button").click(function() {
 
 $("form").submit(function(e){ return false; });
 ```
+
+#### 6.4
+USE THIS - <https://css-tricks.com/examples/jQueryStop/>
+
+First let's make some squares
+```html
+<!-- Add your squares here -->
+<div class="square" id="sq1"></div>
+<div class="square" id="sq2"></div>
+<!--                       -->
+```
+
+Add CSS rules
+```css
+/* Add your .square selector here */
+.square {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border-radius: 10px;
+  background: coral;
+}
+```
+
+let's animate stuff
+ * First use selector ".square"
+ * Then use selector "#sq1"
+ * Then make a hover or click event
+```js
+$("#sq1").animate({
+  left: '250px',
+  opacity: '0.5',
+  height: '150px',
+  width: '150px'
+});
+```
+Add a callback
+```js
+$("#sq1").hover(function() {
+  $(this).animate({
+    opacity: '0.5',
+    height: '150px',
+    width: '150px'
+  });
+}, function() {
+  $(this).animate({
+    opacity: '1',
+    width: '50px',
+    height: '50px'
+  });
+});
+```
+
+#### 6.5
+before diving into waves, talk a bit about javascript for loops
+```js
+for (var i = 0; i < 10; i++) {
+    $("body").append("number: " + i);
+}
+```
+
+css first
+```css
+/* Add your .wave selector here */
+.wave {
+  float: left;
+  background: blue;
+  height: 100px;
+  width: 20px;
+  position: relative;
+}
+```
+
+first get here and explain why it's bad
+```js
+  var wave = $("<div>", {"class": "wave"});
+
+  wave.hover(function() {
+    $(this).animate({ top: "20px", height: "80px" });
+  }, function() {
+    $(this).animate({ top: "0px", height: "100px" });
+  });
+
+  $("#waves").append(wave);
+
+  var wave2 = $("<div>", {"class": "wave"});
+
+  wave2.hover(function() {
+    $(this).animate({ top: "20px" });
+  }, function() {
+    $(this).animate({ top: "0px" });
+  });
+
+  $("#waves").append(wave2);
+```
+
+SOLUTION:
+```js
+for (var i = 0; i < 20; i++) {
+    var wave = $("<div>", {"class": "wave"});
+
+  wave.hover(function() {
+    $(this).animate({ top: "20px", height: "80px" });
+  }, function() {
+    $(this).animate({ top: "0px", height: "100px" });
+  });
+
+  $("#waves").append(wave);
+}
+```
