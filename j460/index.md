@@ -78,6 +78,10 @@ At this point, you should have:
 #### In Class
  * `Lesson` 6.1 - [interaction - mouseover event](http://codepen.io/novonagu/pen/dNaYaq)
  * `Lesson` 6.2 - [interaction - drag event](http://codepen.io/novonagu/pen/bgzVXV)
+ * `practice()` using [RAWGraphs](http://rawgraphs.io/). Use one of these datasets:
+   * [iris.csv](data/iris.csv)
+   * [nations.json](data/nations.json)
+ * `Lesson` 6.3 - [d3 transitions](http://codepen.io/novonagu/pen/wgOYXr)
 
 #### At Home
  * `read()` [Chapter 10](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)

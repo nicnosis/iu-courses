@@ -453,3 +453,46 @@ function dragended(d) {
   d3.select(this).classed("active", false);
 }
 ```
+#### 6.3
+First let's do transition on just the body:
+```js
+d3.select("body")
+  .transition()
+    .style("background-color", "red");
+```
+
+Now we add some rectangles
+```js
+var rects = svg.selectAll("rect")
+  .data(data)
+  .enter().append("rect")
+  .attr("width", 50)
+  .attr("height", 50)
+  .attr("y", (d,i) => 50*i)
+  .style("fill", "black")
+```
+
+Now we can add mouseover
+```js
+function mouseover() {
+  d3.select(this).transition()
+    .style("fill", "black");
+}
+```
+
+Now let's make it dynamic
+```js
+function mouseover() {
+  d3.select(this).transition()
+    .style("fill", d => "rgb(150, 0," + d + ")");
+}
+```
+
+Now do something with `mouseout`
+```js
+function mouseout() {
+  d3.select(this).transition()
+    .attr("width", 100)
+}
+```
+
