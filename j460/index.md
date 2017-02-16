@@ -81,7 +81,8 @@ At this point, you should have:
  * `practice()` using [RAWGraphs](http://rawgraphs.io/). Use one of these datasets:
    * [iris.csv](data/iris.csv)
    * [nations.json](data/nations.json)
- * `Lesson` 6.3 - [d3 transitions](http://codepen.io/novonagu/pen/wgOYXr)
+ * `Lesson` 6.3 - [d3 transitions I](http://codepen.io/novonagu/pen/wgOYXr)
+ * `Lesson` 6.4 - [d3 transitions II](http://codepen.io/novonagu/pen/oBVQVp)
 
 #### At Home
  * `read()` [Chapter 10](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)

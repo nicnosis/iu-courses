@@ -20,7 +20,7 @@ course: j460
  * [deinstitutionalization and homelessness](http://nagu.io/projects/homeless/deins.pdf) - static infographic
 
 ## highcharts
- * [highcharts]({{site.baseurl}}/j460/viz/highcharts/) - example using bar chart and choropleth
+ * [highcharts]({{site.baseurl}}/j460/demo/highcharts/) - example using bar chart and choropleth
 
 ## photo/video/audio
  * smalin - [Bach, Fugue in C minor, WTC I, BWV 847](https://youtu.be/0b93Bkdksek) - audio viz

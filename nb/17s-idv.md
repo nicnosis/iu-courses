@@ -496,3 +496,37 @@ function mouseout() {
 }
 ```
 
+#### 6.4
+solution:
+```js
+var rects = svg.selectAll("rect")
+  .data(data)
+  .enter().append("rect")
+  .attr("width", barWidth)
+  .attr("height", height)
+  .attr("x", (d,i) => i * barWidth)
+  .attr("fill", "blue")
+  .on("mouseover", mouseover)
+  .on("mouseout", mouseout)
+
+function mouseover() {
+  d3.select(this).transition()
+    .duration(100)
+    .attr("height", height/2)
+    .attr("y", height/2)
+    .attr("fill", "skyblue")
+}
+function mouseout() {
+  d3.select(this).transition()
+    .attr("height", height)
+    .attr("y", 0)
+    .attr("fill", "blue")
+}
+```
+
+lastly css
+```css
+rect {
+  shape-rendering: crispEdges;
+}
+```

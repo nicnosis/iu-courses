@@ -9,6 +9,9 @@ course: j460
 ## Description
 We will be using data from [GapMinder](http://gapminder.org) to create a scatter plot. The goal is to create a chart a simplified version of [this chart](https://www.gapminder.org/tools/#_chart-type=bubbles) using d3.js.
 
+## Demo
+This project features a [live demo](../demo/assignment1/). The purpose of this demo is to give you an idea of what your chart should look like when it's finished. Yours doesn't have to be perfectly identical, but it should look quite similar.
+
 ## Download
 Download this file - [j460 project 1 starter](assignment1-starter.zip)
 
@@ -19,6 +22,9 @@ The best way to complete this project is to follow the video tutorials:
  * [Part 2 - Loading data](https://youtu.be/TPtP2_unlc0)
  * [Part 3 - Rendering dots](https://youtu.be/NWhaYfJoe1A)
  * [Part 4 - Adding axes](https://youtu.be/tiDgmQyPccQ)
+ * [Part 5 - Adding color](https://youtu.be/H0n7urwu1kM)
+ * [Part 6 - Logarithmic scale](https://youtu.be/sSKZvM38dB4)
+ * [How to Upload Your Finished Project](https://youtu.be/VJvfIHnNVzw)
 
 ## HTTP Server
 You will need a local HTTP server to complete this project. If you are using PHPStorm, use the built-in server. If you are using terminal, use the command `python -m SimpleHTTPServer 8888` in the folder that contains your files.
