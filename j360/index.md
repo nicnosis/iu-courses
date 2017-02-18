@@ -86,3 +86,7 @@ You will use week 4 to better familiarize ourselves with [Bootstrap](http://getb
 
 #### at home
  * `start()` [Homework 2](docs/hw2.html)
+
+## week 7
+#### at home
+ * `start()` [Project 2](docs/project2.html)

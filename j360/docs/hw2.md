@@ -58,5 +58,3 @@ After you are done writing code, you can upload the entire folder to your site. 
 Submit the link to your assignment on Canvas.
 
 #### **Due Friday 3/3 at 11:59pm**
-
-
