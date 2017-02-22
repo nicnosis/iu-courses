@@ -540,7 +540,7 @@ var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
 
-d3.json("/mbostock/raw/4090846/us.json", function(error, us) {
+d3.json("us.json", function(error, us) {
   if (error) throw error;
 
   var conus = topojson.feature(us, {
@@ -563,4 +563,5 @@ d3.json("/mbostock/raw/4090846/us.json", function(error, us) {
       .datum(conus)
       .attr("d", path);
 });
+
 ```

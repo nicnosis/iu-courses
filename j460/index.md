@@ -89,11 +89,13 @@ At this point, you should have:
 
 ## week 7
 #### In Class
+ * Before we start, let's take a look at [John Burn-Murdoch's version](https://bl.ocks.org/johnburnmurdoch/bcdb4e85c7523a2b0e64961f0d227154) of the health/wealth of nations scatterplot
  * We will begin working with geospatial data (maps).
    * We will begin our discussion on the topic of [map projections](https://github.com/d3/d3-geo-projection)
-   * Use this site: [mapstarter.com](http://mapstarter.com/)
    * Use this data: [us.json](data/us.json)
- * `Lesson` 7.1 - [Intro to Maps](http://codepen.io/novonagu/pen/MpgXGy)
+   * Use this site for handling large [JSON](https://en.wikipedia.org/wiki/JSON) data: [jsonviewer](http://jsonviewer.stack.hu/)
+   * Use this site for map prototypes: [mapstarter.com](http://mapstarter.com/)
+ * `download()` - [Intro to Maps](demo/intro-to-maps.zip)
 
 #### At Home
  * `finish()` [Assignment 1](docs/assignment1.html). Note that the due date has been extended to __Sun Feb 26th__
