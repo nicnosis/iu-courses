@@ -28,7 +28,7 @@ I cannot provide a live website of what your project should look like, as that w
 Watch - [Project 2 Demo](https://youtu.be/Yb5pd1-QYGI)
 
 ## Starter Files
-Use this to start with - [Project 2 Starter Files](../../legacy/j360/projects/p2/project2-starter.zip)
+Use this to start with - [Project 2 Starter Files](project2-starter.zip)
 
 ## Components
 ### Jumbotron

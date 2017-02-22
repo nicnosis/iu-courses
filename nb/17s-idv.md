@@ -530,3 +530,37 @@ rect {
   shape-rendering: crispEdges;
 }
 ```
+
+## week 7
+#### 7.1 maps
+solution <https://bl.ocks.org/mbostock/19ffece0a45434b0eef3cc4f973d1e3d> ok
+
+```
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+d3.json("/mbostock/raw/4090846/us.json", function(error, us) {
+  if (error) throw error;
+
+  var conus = topojson.feature(us, {
+    type: "GeometryCollection",
+    geometries: us.objects.states.geometries.filter(function(d) {
+      return d.id !== 2 // AK
+        && d.id !== 15 // HI
+        && d.id < 60; // outlying areas
+    })
+  });
+
+  // ESRI:102004
+  var path = d3.geoPath()
+      .projection(d3.geoConicConformal()
+          .parallels([33, 45])
+          .rotate([96, -39])
+          .fitSize([width, height], conus));
+
+  svg.append("path")
+      .datum(conus)
+      .attr("d", path);
+});
+```

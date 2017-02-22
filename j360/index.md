@@ -88,5 +88,13 @@ You will use week 4 to better familiarize ourselves with [Bootstrap](http://getb
  * `start()` [Homework 2](docs/hw2.html)
 
 ## week 7
+#### in class
+ * `Lesson` 7.1 - [Array Properties and Methods](http://codepen.io/novonagu/pen/BLgJJB)
+ * `Lesson` 7.2 - [Array Properties and Methods II](http://codepen.io/novonagu/pen/MjMrBm)
+ * `Lesson` 7.3 - [Array Properties and Methods III](http://codepen.io/novonagu/pen/WGqdBo)
+ * `Lesson` 7.4 - [Making Stuff with Arrays](http://codepen.io/novonagu/pen/edwMQp)
+
 #### at home
  * `start()` [Project 2](docs/project2.html)
+
+ <!-- * `Lesson` - [Using spectrum.js](http://codepen.io/novonagu/pen/vgqyeM) -->

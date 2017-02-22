@@ -86,3 +86,14 @@ At this point, you should have:
 
 #### At Home
  * `read()` [Chapter 10](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)
+
+## week 7
+#### In Class
+ * We will begin working with geospatial data (maps).
+   * We will begin our discussion on the topic of [map projections](https://github.com/d3/d3-geo-projection)
+   * Use this site: [mapstarter.com](http://mapstarter.com/)
+   * Use this data: [us.json](data/us.json)
+ * `Lesson` 7.1 - [Intro to Maps](http://codepen.io/novonagu/pen/MpgXGy)
+
+#### At Home
+ * `finish()` [Assignment 1](docs/assignment1.html). Note that the due date has been extended to __Sun Feb 26th__

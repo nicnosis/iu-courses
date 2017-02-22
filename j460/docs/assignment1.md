@@ -53,6 +53,6 @@ If you are using asmallorange - read [this article](https://kb.asmallorange.com/
 To put your site on your page, there's a public directory (folder) usually called `www` or `public_html`. This is your "root directory" for your site. Drag and drop your entire project folder in the root directory of your site, or into the `j460` folder on your site.
 
 ## Submission
-Assignment 1 is due __Friday, February 2/24__
+Assignment 1 is due **Sunday February 26th** at 11:59pm.
 
 You will submit on Canvas. All you need to do is link to your website, where the `index.html` file is located. Your submission link might look something like this: `mywebsite.com/j460/index.html`

@@ -470,3 +470,40 @@ for (var i = 0; i < 20; i++) {
   $("#waves").append(wave);
 }
 ```
+
+## week 7
+#### 7.1
+Students make an array.var people = ["Jon", "Bill", "Sally"];  
+try `console.log(people);`  
+try `console.log("Hello " + people[0]);`
+
+#### 7.2
+Try adding a new element to an array by specifying an index that doesn't exist yet  
+Try adding a new element by using **.push()**
+
+#### 7.3
+
+try using .sort(), .reverse(), and adding in new elements  
+mention muscle memory and repetition as being crucial learning conditions  
+try making an array that contains two arrays in it
+
+#### 7.4
+```js
+// (1) make array
+var friends = ["Bob", "Cindy", "Adam"];
+
+// (2) make string
+var html = "";
+
+// (3) loop
+for (var i = 0; i < friends.length; i++) {
+    html += "<li>";
+    html += friends[i];
+    html += "</li>";
+}
+
+// (4) populate ul#friends
+$("#friends").html(html);
+````
+now repeat, this time using a `<select>` with `<option>`
+
