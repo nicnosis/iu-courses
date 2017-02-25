@@ -21,26 +21,36 @@ code.highlighter-rouge {
   /*** Course select ***/
   h1#semester {
     color: #3c3c3c;
-    font-family: 'Oswald', sans-serif;
-    font-weight: 300;
-    letter-spacing: 2px;
-
     border-bottom: 1px solid rgba(30, 30, 30, 0.5);
     padding-bottom: 0.2em;
     margin-bottom: 0.5em;
   }
   a.btn-huge {
     color: $primaryColor;
+    border: 1px solid $primaryColor;
     width: 100%;
+    margin-bottom: 10px;
 
-    h4 {
-      font-family: 'Oswald', sans-serif;
-      font-weight: 300;
-      letter-spacing: 2px;
-    }
+    transition: background-color 0.2s ease-out,
+    color 0.2s ease-out;
+
     small {
       color: #666;
+      transition: background-color 0.2s ease-out,
+      color 0.2s ease-out;
     }
+  }
+  a.btn-huge:hover, a.btn-huge:active {
+    background-color: $primaryColor;
+    color: white;
+    small {
+      color: white;
+    }
+  }
+  h1#semester, a.btn-huge h4 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    letter-spacing: 2px;
   }
   /*** End course select ***/
 
@@ -49,8 +59,6 @@ code.highlighter-rouge {
   h2 {
     color: $primaryColor;
   }
-
-
 
   li {
     padding-left: 1.5em;
