@@ -97,4 +97,11 @@ You will use week 4 to better familiarize ourselves with [Bootstrap](http://getb
 #### at home
  * `start()` [Project 2](docs/project2.html)
 
- <!-- * `Lesson` - [Using spectrum.js](http://codepen.io/novonagu/pen/vgqyeM) -->
+<!-- * `Lesson` - [Using spectrum.js](http://codepen.io/novonagu/pen/vgqyeM) -->
+
+## week 8
+#### in class
+
+#### at home
+ * `start()` Codecademy's [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript) tutorial.
+ * `complete()` sections __(1) Introduction to JavaScript__ and __(2) Control Flow__.

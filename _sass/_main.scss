@@ -1,7 +1,8 @@
 $primaryColor: #FF5370;
 $boldColor: #AB495A;
 $gray: rgba(0, 0, 0, 0.15);
-$headerFont: 'Lato', sans-serif;
+//$headerFont: 'Lato', sans-serif;
+$headerFont: 'Oswald', sans-serif;
 $bodyFont: 'Open Sans', sans-serif;
 $codeFont: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 
@@ -19,12 +20,6 @@ code.highlighter-rouge {
   font-family: $bodyFont;
 
   /*** Course select ***/
-  h1#semester {
-    color: #3c3c3c;
-    border-bottom: 1px solid rgba(30, 30, 30, 0.5);
-    padding-bottom: 0.2em;
-    margin-bottom: 0.5em;
-  }
   a.btn-huge {
     color: $primaryColor;
     border: 1px solid $primaryColor;
@@ -47,14 +42,32 @@ code.highlighter-rouge {
       color: white;
     }
   }
-  h1#semester, a.btn-huge h4 {
-    font-family: 'Oswald', sans-serif;
+  a.btn-huge h4 {
+    font-family: $headerFont;
     font-weight: 300;
     letter-spacing: 2px;
   }
   /*** End course select ***/
-
-  h1, h2, h3, h4, h5, h6 { font-family: $headerFont; }
+  h1 {
+    color: #3c3c3c;
+    border-bottom: 1px solid rgba(30, 30, 30, 0.5);
+    padding-bottom: 0.2em;
+    margin-bottom: 0.5em;
+    font-family: $headerFont;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  h2 {
+    text-transform: capitalize;
+    padding-bottom: 0.2em;
+    border-bottom: 1px solid rgba(30, 30, 30, 0.2);
+  }
+  h2, h3, h4, h5, h6 {
+    font-family: $headerFont;
+    font-weight: 300;
+    letter-spacing: 2px;
+  }
   h1, h2 { padding-top: 1em; }
   h2 {
     color: $primaryColor;
@@ -90,7 +103,8 @@ span.fa.fa-github, span.fa.fa-twitter {
 *  NAV
 *******************************************/
 a.navbar-brand {
-  font-family: $codeFont;
+  //font-family: $codeFont;
+  font-family: $headerFont;
   letter-spacing: .1em;
 }
 nav#myNav {
