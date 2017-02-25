@@ -14,14 +14,43 @@ code.highlighter-rouge {
   background-color: #e8e8ed;
 }
 
+
 .container {
   font-family: $bodyFont;
+
+  /*** Course select ***/
+  h1#semester {
+    color: #3c3c3c;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    letter-spacing: 2px;
+
+    border-bottom: 1px solid rgba(30, 30, 30, 0.5);
+    padding-bottom: 0.2em;
+    margin-bottom: 0.5em;
+  }
+  a.btn-huge {
+    color: $primaryColor;
+    width: 100%;
+
+    h4 {
+      font-family: 'Oswald', sans-serif;
+      font-weight: 300;
+      letter-spacing: 2px;
+    }
+    small {
+      color: #666;
+    }
+  }
+  /*** End course select ***/
 
   h1, h2, h3, h4, h5, h6 { font-family: $headerFont; }
   h1, h2 { padding-top: 1em; }
   h2 {
     color: $primaryColor;
   }
+
+
 
   li {
     padding-left: 1.5em;

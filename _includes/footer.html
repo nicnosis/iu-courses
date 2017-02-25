@@ -3,8 +3,6 @@
         <small>
             {% if page.footer == nil %}
             &copy; Nicolas Aguirre {{ site.time | date: '%Y' }}
-            {% else %}
-            {{ page.footer }}
             {% endif %}
         </small>
     </footer>
@@ -22,14 +20,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.4.3/velocity.ui.min.js"></script>
 
 <!-- velocity effects -->
+{% if page.footer == 'no_script' %}
+{% else %}
 <script>
 const options = {stagger: 100, duration: 500};
 $(function() {
     $("h1, ul#weeks-nav li").velocity("transition.slideLeftIn", options);
     $("#weeks-content h2, #weeks-content ul, #weeks-content h4").velocity("transition.slideLeftIn", options);
-
 });
 </script>
+{% endif %}
 
 <!-- highlight active tab -->
 {% if page.highlight == nil %}
