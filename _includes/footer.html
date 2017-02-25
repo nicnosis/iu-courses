@@ -18,6 +18,18 @@
         integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK"
         crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.4.3/velocity.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.4.3/velocity.ui.min.js"></script>
+
+<!-- velocity effects -->
+<script>
+const options = {stagger: 100, duration: 500};
+$(function() {
+    $("h1, ul#weeks-nav li").velocity("transition.slideLeftIn", options);
+    $("#weeks-content h2, #weeks-content ul, #weeks-content h4").velocity("transition.slideLeftIn", options);
+
+});
+</script>
 
 <!-- highlight active tab -->
 {% if page.highlight == nil %}
