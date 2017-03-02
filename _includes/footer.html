@@ -26,7 +26,12 @@
 const options = {stagger: 50, duration: 200};
 $(function() {
     $("h1, ul#weeks-nav li").velocity("transition.slideLeftIn", options);
-    $("#weeks-content h2, #weeks-content ul, #weeks-content h4").velocity("transition.slideLeftIn", options);
+    var $sel = "#weeks-content ul, " +
+        "#weeks-content h2, " +
+        "#weeks-content h4, " +
+        "#weeks-content h5, " +
+        "#weeks-content p";
+    $($sel).velocity("transition.slideLeftIn", options);
 });
 </script>
 {% endif %}

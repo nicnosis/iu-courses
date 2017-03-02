@@ -507,3 +507,31 @@ $("#friends").html(html);
 ````
 now repeat, this time using a `<select>` with `<option>`
 
+## week 8
+#### 8.6
+Start by importing the CDN
+```
+function setup() {
+	background(128); // 0 == black; 255 == white
+	ellipse (60, 60, 50, 50); // try changing these parameters
+}
+function draw() {
+  
+}
+```
+
+#### 8.7 mouse events
+```
+function setup() {
+  createCanvas(640, 480); // Makes a 'canvas' div, 640 by 480 pixels
+}
+
+function draw() {
+  if (mouseIsPressed) {
+    fill(0);  // fill black if mouse button is pressed
+  } else {
+    fill(255);// fill white if mouse button is not pressed
+  }
+  ellipse(mouseX, mouseY, 80, 80); // draw an 80x80 ellipse at mouse position
+}
+```

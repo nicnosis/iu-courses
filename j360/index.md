@@ -101,6 +101,15 @@ You will use week 4 to better familiarize ourselves with [Bootstrap](http://getb
 
 ## week 8
 #### in class
+ * `Lesson` 8.1 - [JS Objects I](http://codepen.io/novonagu/pen/VpYErp)
+ * `Lesson` 8.2 - [JS Objects II](http://codepen.io/novonagu/pen/evmPyO)
+ * `Lesson` 8.3 - [JS For Loops I](http://codepen.io/novonagu/pen/xqbyYV)
+ * `Lesson` 8.4 - [JS For Loops II](http://codepen.io/novonagu/pen/OpPBQZ)
+ * `watch()` [hello p5](http://hello.p5js.org/)
+ * `Lesson` 8.5 - [JS Review](http://codepen.io/novonagu/pen/dOPOBw)
+ * `Lesson` 8.6 - [p5: setup() and draw()](http://codepen.io/novonagu/pen/BQyLNw)
+ * `Lesson` 8.7 - [p5: Mouse Events](http://codepen.io/novonagu/pen/PbwJQg)
+ * `Lesson` 8.8 - [p5: More drawing practice](http://codepen.io/novonagu/pen/gLbXgp)
 
 #### at home
  * `start()` Codecademy's [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript) tutorial.

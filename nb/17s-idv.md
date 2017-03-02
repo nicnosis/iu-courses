@@ -565,3 +565,55 @@ d3.json("us.json", function(error, us) {
 });
 
 ```
+
+## week 8
+#### 8.1
+My solution: <http://codepen.io/novonagu/pen/evNZRa>
+
+One solution: <http://codepen.io/gvenech/pen/rVaLBW?editors=0010>
+
+#### leaflet simple csv thing
+ * Download files
+ * open starter folder
+ * make config.js
+ * fire it up - no basemap!
+ * let's open up mapbox studio and get our baseurl
+
+adding markers
+```
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {
+            icon:L.icon({
+                iconUrl: './js/map/marker.png',
+                shadowUrl: './js/map/marker-shadow.png',
+                iconSize: [41,41],
+                shadowSize:   [25, 25], // size of the shadow
+                shadowAnchor: [12,-12]
+            })
+        });
+    },
+```
+
+changing markerCluster colors
+```
+.marker-cluster-small {
+	background-color: rgba(255, 177, 159, 0.6);
+}
+.marker-cluster-small div {
+	background-color: rgba(255, 177, 159, 0.6);
+}
+
+.marker-cluster-medium {
+	background-color: rgba(255, 146, 113, 0.6);
+}
+.marker-cluster-medium div {
+	background-color: rgba(255, 146, 113, 0.6);
+}
+
+.marker-cluster-large {
+	background-color: rgba(255, 99, 44, 0.6);
+}
+.marker-cluster-large div {
+	background-color: rgba(255, 99, 44, 0.6);
+}
+```

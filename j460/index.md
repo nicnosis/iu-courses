@@ -99,3 +99,16 @@ At this point, you should have:
 
 #### At Home
  * `finish()` [Assignment 1](docs/assignment1.html). Note that the due date has been extended to __Sun Feb 26th__
+
+## week 8
+#### In Class
+##### Monday
+ * We're going to continue exploring map-making tools. We are particularly interested in [Leaflet](http://leafletjs.com/), an open-source JavaScript mapping library.
+ * You will need to go to [Mapbox](https://www.mapbox.com/studio/signup/) and register an account. This will give you an 'access token' for their map services.
+ * `Lesson` 8.1 - [Intro to Leaflet](http://codepen.io/novonagu/pen/aJOXdr)
+
+##### Wednesday
+Today we're going to plot point data with Leaflet. We will need a few things...
+ * Let's open [Mapbox Studio](https://www.mapbox.com/studio/) in another tab
+ * `download()` [leaflet-simple-csv](https://github.com/perrygeo/leaflet-simple-csv) - this is a useful plugin for using CSV format data with Leaflet
+ * `download()` [exercise files](demo/0301_exercise.zip) for today

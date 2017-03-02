@@ -69,9 +69,8 @@ code.highlighter-rouge {
     letter-spacing: 2px;
   }
   h1, h2 { padding-top: 1em; }
-  h2 {
-    color: $primaryColor;
-  }
+  h2 { color: $primaryColor; }
+  h5 { color: #3c3c3c; }
 
   li {
     padding-left: 1.5em;
@@ -82,6 +81,9 @@ code.highlighter-rouge {
   }
   table {
     margin-bottom: 20px;
+  }
+  ul {
+    margin-bottom: 2.5em;
   }
 }
 
