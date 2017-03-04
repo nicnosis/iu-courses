@@ -112,5 +112,15 @@ You will use week 4 to better familiarize ourselves with [Bootstrap](http://getb
  * `Lesson` 8.8 - [p5: More drawing practice](http://codepen.io/novonagu/pen/gLbXgp)
 
 #### at home
- * `start()` Codecademy's [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript) tutorial.
- * `complete()` sections __(1) Introduction to JavaScript__ and __(2) Control Flow__.
+ * `start()` Codecademy's [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript) tutorial
+ * `complete()` sections __(1) Introduction to JavaScript__ and __(2) Control Flow__
+
+## week 9
+#### in class
+ * `Lesson` 9.1 - [line(), rect(), width and height](http://codepen.io/novonagu/pen/OpXjVZ)
+ * `Lesson` 9.2 - [Bouncy ball](http://codepen.io/novonagu/pen/pebrgm)
+ * `Lesson` 9.3 - [Ball object](http://codepen.io/novonagu/pen/WpxZaR)
+
+#### at home
+ * `continue()` working on Codecademy's [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript) tutorial
+ * `complete()` sections __(3) Functions and Scope__ and __(4) Arrays and Loops__

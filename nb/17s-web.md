@@ -535,3 +535,37 @@ function draw() {
   ellipse(mouseX, mouseY, 80, 80); // draw an 80x80 ellipse at mouse position
 }
 ```
+
+## week 9
+#### 9.1
+
+
+#### 9.2
+```
+var x; var y; var movingRight = true;
+var speed = 4;
+function setup() {
+  createCanvas(600, 480);
+  background(128);
+  x = 0;
+  y = height/2;
+}
+
+function draw() {
+  background(128);
+  speed = +$("#speed").val();
+  
+  // 1 adjust x position
+  if (movingRight) { x += speed; }
+  else { x -= speed; }
+
+  if (x < 25) { movingRight = true }
+  if (x > width - 25) { movingRight = false; }
+  
+  // 2 draw ellipse
+  ellipse(x, y, 50, 50);
+  ellipse(width - x, y, 50, 50);
+}
+```
+#### 9.3
+solution <http://codepen.io/novonagu/pen/yMJoed>
