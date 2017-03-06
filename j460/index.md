@@ -112,3 +112,8 @@ Today we're going to plot point data with Leaflet. We will need a few things...
  * Let's open [Mapbox Studio](https://www.mapbox.com/studio/) in another tab
  * `download()` [leaflet-simple-csv](https://github.com/perrygeo/leaflet-simple-csv) - this is a useful plugin for using CSV format data with Leaflet
  * `download()` [exercise files](demo/0301_exercise.zip) for today
+
+## week 9
+#### In Class
+#### At Home
+ * `start()` [Assignment 2](docs/assignment2.html)

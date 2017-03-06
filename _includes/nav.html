@@ -18,7 +18,6 @@
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="responsiveNavbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
                 <div class="dropdown-menu" aria-labelledby="responsiveNavbarDropdown">
                     <!--<a class="dropdown-item" href="#">Project 1</a>-->
-
                     {% if page.course == 'j360' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw1.html">Homework 1</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw2.html">Homework 2</a>
@@ -30,6 +29,7 @@
                     <!--<a class="dropdown-item" href="#">Presentation</a>-->
                     {% else if page.course == 'j460' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment1.html">Assignment 1</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment2.html">Assignment 2</a>
                     {% endif %}
                     <!--<a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/presentation.html">Presentation</a>-->
                 </div>
