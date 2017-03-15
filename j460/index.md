@@ -115,5 +115,14 @@ Today we're going to plot point data with Leaflet. We will need a few things...
 
 ## week 9
 #### In Class
+ * `visit()` [USGS Earthquake Data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php)
+ * `visit()` [csvjson](http://www.csvjson.com/csv2json)
+ * `watch()` [The Best Stats You've Ever Seen](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
+ * `Lesson` 9.1 - [Bar chart refresher](http://codepen.io/novonagu/pen/jBVpbM)
+ * `Lesson` 9.2 - [Drop down menu](http://codepen.io/novonagu/pen/KWNBxX)
+
 #### At Home
  * `start()` [Assignment 2](docs/assignment2.html)
+
+## week 10
+ * `complete()` this [informal course questionnaire](https://goo.gl/forms/lnvcey3IBm1F5c3h1)

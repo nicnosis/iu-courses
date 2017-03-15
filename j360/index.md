@@ -122,6 +122,10 @@ You will use week 4 to better familiarize ourselves with [Bootstrap](http://getb
  * `Lesson` 9.3 - [Ball object](http://codepen.io/novonagu/pen/WpxZaR)
 
 #### at home
+_update:_ Many of you are working on Project 2. You may find Bootstrap's [examples](http://getbootstrap.com/getting-started/#examples) useful.
  * `start()` [Homework 3](docs/hw3.html)
  * `continue()` working on Codecademy's [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript) tutorial
  * `complete()` sections __(3) Functions and Scope__ and __(4) Arrays and Loops__
+
+## week 10
+ * `complete()` this [informal course questionnaire](https://goo.gl/forms/HfCgkYp3UVX3MF4A3)

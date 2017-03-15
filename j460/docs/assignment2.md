@@ -23,10 +23,10 @@ This project features a [live demo](../demo/assignment2/). The purpose of this d
 The best way to complete this project is to follow the video tutorials:
 
  * [Part 1 - Setup](https://youtu.be/uvdQLro9kFQ)
- * [Part 2 - Configure rScale]()
- * [Part 3 - Adjust log scale]()
+ * [Part 2 - Configure rScale](https://youtu.be/owK8hXXN1AU)
+ * [Part 3 - Adjust log scale](https://youtu.be/TaH_NUd5b7w)
 
 ## Submission
-Assignment 2 is due **Sunday February 26th** at 11:59pm.
+Assignment 2 is due **Sunday March 26th** at 11:59pm.
 
 You will submit on Canvas. All you need to do is link to your website, where the `index.html` file is located. Your submission link might look something like this: `mywebsite.com/j460/earthquakes/`

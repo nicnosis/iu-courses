@@ -22,6 +22,9 @@ You should watch these tutorials by Adi Purdila before beginning:
 * [Introducing Emmet Syntax](https://www.youtube.com/watch?v=83krBnWfUNY)
 * [Building Bootstrap with Emmet](https://www.youtube.com/watch?v=z3d4u4Wnkdc)
 
+### Examples
+While working on this project, you may find it useful to peruse the [examples](http://getbootstrap.com/getting-started/#examples) section of Bootstrap's documentation site.
+
 ## Demo
 I cannot provide a live website of what your project should look like, as that would enable you to appropriate the source code. Instead, I've uploaded a demo to YouTube:
 

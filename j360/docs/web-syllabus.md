@@ -1,6 +1,6 @@
 # J360 WEB DESIGN - SPRING 2017
 
-**LOCATION** - Franklin Hall 060   
+**LOCATION** - Franklin Hall 060  
 **SECTIONS**  
 16278 - Meets MW 8:30am - 10:30am  
 17016 - Meets MW 10:45am - 12:45pm  
@@ -165,24 +165,23 @@ Our schedule will be followed more rigidly in the first half of the semester, an
 ## Schedule
 Schedule is subject to change. A given class of students can differ widely in skills and teaching needs, so our schedule is likely to be looser in the second half of the semester.
 
-|       |Dates|Activity   |
-|-------|-----|-----------|
-|week 1 |Mon 1/9 Wed 1/11 | Set up IDEs. Intro to HTML|
-|week 2 |Mon 1/16         |*Martin Luther King Day - No Class*|
-|       |Wed 1/18         | HTML tags/elements and the DOM |
-|week 3 |Mon 1/23 Wed 1/25| HTML attributes. Intro to styling and CSS|
-|week 4 |Mon 1/30 Wed 2/1 | Project 1 (HTML) due **Friday 2/3**|
-|week 5 |Mon 2/6  Wed 2/8 | Stylesheets. CSS Box Model|
-|week 6 |Mon 2/13 Wed 2/15| Classes and IDs. CSS Selectors. CSS Transitions |
-|week 7 |Mon 2/20 Wed 2/22| Bootstrap, column and grid layouts, flexbox |
-|week 8 |Mon 2/27 Wed 3/1 | Project 2 (Bootstrap+CSS) due **Friday 3/3**|
-|week 9 |Mon 3/6  Wed 3/8 | JavaScript - Variables, statements, functions|
-|       |Sun 3/13 - Sun 3/19|*Spring Break*|
-|week 10|Mon 3/20 Wed 3/22| Intro to JQuery. JS Arrays and Iteration|
-|week 11|Mon 3/27 Wed 3/29| JS Objects|
-|week 12|Mon 4/3  Wed 4/5 |Project 3 (JS) due **Friday 4/7**|
-|week 13|Mon 4/10 Wed 4/12| Introduction to p5.js. Begin presentations|
-|week 14|Mon 4/17 Wed 4/19| p5.js - Push and Pop, Objects|
-|week 15|Mon 4/17 Wed 4/19| Work on Project 4, more p5.js|
-|week 16|Mon 4/24 Wed 4/26| Project 4 (Integration) due **Friday 4/28**|
-|       |                 | This course will not meet for a final exam|
+|         | Dates               | Activity                                        |
+|:--------|:--------------------|:------------------------------------------------|
+| week 1  | Mon 1/9 Wed 1/11    | Set up IDEs. Intro to HTML                      |
+| week 2  | Mon 1/16            | *Martin Luther King Day - No Class*             |
+|         | Wed 1/18            | HTML tags/elements and the DOM                  |
+| week 3  | Mon 1/23 Wed 1/25   | HTML attributes. Intro to styling and CSS       |
+| week 4  | Mon 1/30 Wed 2/1    | Project 1 (HTML) due **Friday 2/3**             |
+| week 5  | Mon 2/6  Wed 2/8    | Stylesheets. CSS Box Model                      |
+| week 6  | Mon 2/13 Wed 2/15   | Classes and IDs. CSS Selectors. CSS Transitions |
+| week 7  | Mon 2/20 Wed 2/22   | Bootstrap, column and grid layouts, flexbox     |
+| week 8  | Mon 2/27 Wed 3/1    | Project 2 (Bootstrap+CSS) due **Friday 3/3**    |
+| week 9  | Mon 3/6  Wed 3/8    | JavaScript - Variables, statements, functions   |
+|         | Sun 3/13 - Sun 3/19 | *Spring Break*                                  |
+| week 10 | Mon 3/20 Wed 3/22   | Intro to JQuery. JS Arrays and Iteration        |
+| week 11 | Mon 3/27 Wed 3/29   | JS Objects                                      |
+| week 12 | Mon 4/3  Wed 4/5    | Project 3 (JS) due **Friday 4/7**               |
+| week 13 | Mon 4/10 Wed 4/12   | Introduction to p5.js. Begin presentations      |
+| week 14 | Mon 4/17 Wed 4/19   | p5.js - Push and Pop, Objects                   |
+| week 15 | Mon 4/24 Wed 4/26   | Project 4 (Integration) due **Friday 4/28**     |
+|         |                     | This course will not meet for a final exam      |

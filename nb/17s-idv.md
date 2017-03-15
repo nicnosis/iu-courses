@@ -617,3 +617,95 @@ changing markerCluster colors
 	background-color: rgba(255, 99, 44, 0.6);
 }
 ```
+
+## week 9
+#### 9.1
+bar chart refresher
+
+solution:
+```js
+var data = [{
+  name: "A",
+  value: 4
+}, {
+  name: "B",
+  value: 2
+}, {
+  name: "C",
+  value: 5
+}, {
+  name: "D",
+  value: 1
+}, {
+  name: "E",
+  value: 3
+}];
+
+var svg = d3.select("svg")
+  .attr("width", 200)
+  .attr("height", 200);
+
+var x = d3.scaleLinear()
+  .range([0, 200])
+  .domain([0, d3.max(data, d => d.value)]);
+var y = d3.scaleBand()
+  .range([200, 0])
+  .domain(data.map(d => d.name))
+  .padding(0.1);
+
+var bars = svg.selectAll(".bar")
+  .data(data)
+  .enter().append("rect")
+  .attr("class", "bar")
+  .attr("fill", "teal")
+  .attr("x", 0)
+  .attr("y", d => y(d.name))
+  .attr("width", d => x(d.value))
+  .attr("height", y.bandwidth());
+```
+
+#### 9.2
+[almighty solution](http://codepen.io/novonagu/pen/MpbqpZ)
+Stay strong Nicolas.
+
+ * [Select helper function from un-viz](https://github.com/novoNagu/un-viz-2016/blob/master/js/helpers.js)
+ * [Dynamic Scatter plot based on Select input](http://bl.ocks.org/jfreels/6871643) jfreels
+ * [Create an HTML select box using d3.js and create a paragraph referencing the selection](http://bl.ocks.org/jfreels/6734823) by jfreels
+
+##### add mouse interactivity
+```js
+var bars = svg.selectAll(".bar")
+  .data(data)
+  .enter().append("rect")
+  .attr("class", "bar")
+  .attr("fill", "teal")
+  .attr("x", 0)
+  .attr("y", d => y(d.name))
+  .attr("width", d => x(d.value)).attr("height", y.bandwidth())
+  .on("mouseover", mouseover)
+  .on("mouseout", mouseout)
+
+function mouseover(d) {
+  d3.select(this).transition().attr("fill", "blue")
+}
+function mouseout(d) {
+  d3.select(this).transition().attr("fill", "teal")
+}
+```
+
+##### add select
+Next, make a `select` and populate with some options.
+ * Adjust select by setting `display: block` in css
+
+##### populating select menu
+```js
+var options = d3.select("#dd")
+  .selectAll("option")
+  .data(data)
+  .enter().append("option")
+  .attr("value", d => d.name)
+  .text(d => d.name)
+```
+
+##### adding change function
+

@@ -567,5 +567,11 @@ function draw() {
   ellipse(width - x, y, 50, 50);
 }
 ```
+#### 0308
+Start with 8.1 - JS Objects I
+Then go to 9.1 - line rect width height
+Then if time permits go to 9.3 - ball object
+
 #### 9.3
 solution <http://codepen.io/novonagu/pen/yMJoed>
+
