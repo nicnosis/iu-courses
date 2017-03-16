@@ -575,3 +575,40 @@ Then if time permits go to 9.3 - ball object
 #### 9.3
 solution <http://codepen.io/novonagu/pen/yMJoed>
 
+## week 10
+#### constrain I
+Use this <https://p5js.org/reference/#/p5/constrain>
+
+1. Look at the documentation together
+2. Try using `constrain()` in the console log to get an idea for how the values work
+3. make wall variables, draw straight lines
+4. draw a single ellipse in the middle
+5. draw two ellipses
+6. make `cx` variable
+7. import jQuery and make debug for variables `mouseX` and `cx`
+8. Use `cx` on the ellipse
+
+```js
+var leftWall = 200;
+var rightWall = 400;
+function setup() {
+  createCanvas(600, 400);
+  stroke(128);
+}
+function draw() {
+  background(30); // gray bg
+  
+  var cx = constrain(mouseX, leftWall, rightWall);
+  
+  line(leftWall, 0, leftWall, height);
+  line(rightWall, 0, rightWall, height);
+  
+  ellipse(mouseX, 100, 50, 50);
+  ellipse(cx, 300, 50, 50);
+  
+  logMouse(); // log coordinates
+}
+function logMouse() {
+  console.log("(x, y): " + "(" + round(mouseX) + ", " + round(mouseY) + ")");
+}
+```

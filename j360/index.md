@@ -128,4 +128,14 @@ _update:_ Many of you are working on Project 2. You may find Bootstrap's [exampl
  * `complete()` sections __(3) Functions and Scope__ and __(4) Arrays and Loops__
 
 ## week 10
+#### in class
  * `complete()` this [informal course questionnaire](https://goo.gl/forms/HfCgkYp3UVX3MF4A3)
+ * `Lesson` 10.1 - [Line grid](http://codepen.io/novonagu/pen/XMzjmb)
+ * `Lesson` 10.2 - [constrain() I](http://codepen.io/novonagu/pen/wJPzmO)
+ * `Lesson` 10.3 - [constrain() II](http://codepen.io/novonagu/pen/XMzjYN)
+ * `Lesson` 10.4 - [introducing map()]()
+
+#### at home
+
+
+
