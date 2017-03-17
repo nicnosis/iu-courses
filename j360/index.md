@@ -133,9 +133,7 @@ _update:_ Many of you are working on Project 2. You may find Bootstrap's [exampl
  * `Lesson` 10.1 - [Line grid](http://codepen.io/novonagu/pen/XMzjmb)
  * `Lesson` 10.2 - [constrain() I](http://codepen.io/novonagu/pen/wJPzmO)
  * `Lesson` 10.3 - [constrain() II](http://codepen.io/novonagu/pen/XMzjYN)
- * `Lesson` 10.4 - [introducing map()]()
+ * `Lesson` 10.4 - [introducing map()](http://codepen.io/novonagu/pen/QpOqXg)
 
 #### at home
-
-
 

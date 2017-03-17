@@ -612,3 +612,39 @@ function logMouse() {
   console.log("(x, y): " + "(" + round(mouseX) + ", " + round(mouseY) + ")");
 }
 ```
+
+#### introducing map
+```js
+function setup() {
+  createCanvas(100, 100);
+}
+function draw() {
+  background(155);
+  line(25, 0, 25, 100);
+  line(75, 0, 75, 100);
+  
+  ellipse(mouseX, 25, 10, 10);
+  var mapx = map(mouseX, 0, 100, 25, 75);
+  ellipse(mapx, 75, 10, 10);
+}
+```
+now refactor using variables for those static values
+```js
+var start;
+var stop;
+
+function setup() {
+  createCanvas(200, 200);
+  start = width/4;
+  stop = width/4 * 3;
+}
+function draw() {
+  background(155);
+  line(start, 0, start, height);
+  line(stop, 0, stop, height);
+  
+  ellipse(mouseX, 50, 10, 10);
+  var mapx = map(mouseX, 0, width, start, stop);
+  ellipse(mapx, 100, 10, 10);
+}
+```
