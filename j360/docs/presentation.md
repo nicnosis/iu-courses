@@ -38,6 +38,7 @@ Making a GitHub repo with (functional) code for your presentation will also help
    * [Stylus](http://stylus-lang.com/)
    * You can also get some ideas from [CSS Tricks](https://css-tricks.com/) and show how to implement them in a tutorial
  * JavaScript Libraries:
+   * [anime.js](http://anime-js.com/)
    * [C3](http://c3js.org/)
    * [D3](https://d3js.org/)
    * [ThreeJS](https://threejs.org/)
@@ -45,6 +46,7 @@ Making a GitHub repo with (functional) code for your presentation will also help
    * [HighChartsJS](http://www.highcharts.com/)
    * [HighlightJS](https://highlightjs.org/)
    * [Leaflet](http://leafletjs.com/)
+   * [matter.js](http://brm.io/matter-js/)
    * [Moment](http://momentjs.com/)
    * [p5play](http://p5play.molleindustria.org/)
    * [Plotly](https://plot.ly/javascript/)
@@ -63,6 +65,7 @@ Making a GitHub repo with (functional) code for your presentation will also help
 	* [Laravel](https://laravel.com/)
 	* [Meteor](https://www.meteor.com/)
 	* [NodeJS](https://nodejs.org/en/)
+	* [React](https://facebook.github.io/react/)
 	* SQL
 
 ## Submission
@@ -72,6 +75,8 @@ On the presentation sign-up sheet, you must fill in two parts
 
 1. Your desired timeslot, with your name or initials
 2. Your topic, so that nobody else can present on the same thing
+
+It is __your responsibility-_ to make sure you are presenting on a topic that hasn't been claimed yet.
 
 The presentation will appear on Canvas, but you don't have to do anything there.
 
