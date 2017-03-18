@@ -136,4 +136,5 @@ _update:_ Many of you are working on Project 2. You may find Bootstrap's [exampl
  * `Lesson` 10.4 - [introducing map()](http://codepen.io/novonagu/pen/QpOqXg)
 
 #### at home
-
+ * `finish()` [Homework 3](docs/hw3.html)
+ <!-- * `start()` [Homework 4](docs/hw4.html) -->
