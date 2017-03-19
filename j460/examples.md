@@ -19,8 +19,8 @@ course: j460
  * [eduViz](http://nagu.io/projects/eduviz/web/) - Massive Tableau-based visualization of Department of Education data
  * [deinstitutionalization and homelessness](http://nagu.io/projects/homeless/deins.pdf) - static infographic
 
-## highcharts
- * [highcharts]({{site.baseurl}}/j460/demo/highcharts/) - example using bar chart and choropleth
+<!-- ## highcharts -->
+ <!-- * [highcharts]({{site.baseurl}}/j460/demo/highcharts/) - example using bar chart and choropleth -->
 
 ## photo/video/audio
  * smalin - [Bach, Fugue in C minor, WTC I, BWV 847](https://youtu.be/0b93Bkdksek) - audio viz
@@ -37,6 +37,9 @@ course: j460
  * [nytimes interactives 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html) - NYT Year-end roundups
  * [USA Today interactives](http://www.usatoday.com/topic/E01C4890-85A2-4E0B-A3DD-58BD88E71251/interactive-graphics/)
  * [The Big List of d3 Examples](http://christopheviau.com/d3list/gallery.html) - Christophe Viau
+
+## miscellaneous
+ * NYT - [Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 
 ## portfolios to watch
  * [Nadieh Bremer](http://www.visualcinnamon.com/) - lots of d3

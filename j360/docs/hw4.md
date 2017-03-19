@@ -5,7 +5,7 @@ footer: ''
 highlight: 'assignments'
 course: j360
 ---
-# Homework 4 - p5.js
+# Homework 4 - p5.js map() and constrain()
 ## Description
 You will create a p5.js sketch that incorporates various drawing methods and techniques, with a focus on understanding the coordinate system. You are encouraged to review them before beginning the project:
 

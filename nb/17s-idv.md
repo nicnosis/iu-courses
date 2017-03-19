@@ -666,7 +666,6 @@ var bars = svg.selectAll(".bar")
 
 #### 9.2
 [almighty solution](http://codepen.io/novonagu/pen/MpbqpZ)
-Stay strong Nicolas.
 
  * [Select helper function from un-viz](https://github.com/novoNagu/un-viz-2016/blob/master/js/helpers.js)
  * [Dynamic Scatter plot based on Select input](http://bl.ocks.org/jfreels/6871643) jfreels
@@ -709,3 +708,76 @@ var options = d3.select("#dd")
 
 ##### adding change function
 
+## week 10
+begin with course questionnaire
+
+#### dimple single line chart
+(1) students download starter, which includes
+ * index.html
+ * single-line.csv
+ * stocks.csv
+
+(2) Make a #chart div and an `svg` style rule, set `background-color: #eee;`
+
+(3) bring in script tags
+```
+    <head>
+      <script src="http://d3js.org/d3.v4.min.js"></script>
+      <script src="http://dimplejs.org/dist/dimple.v2.3.0.min.js"></script>
+    </head>
+```
+
+(4) make a chart container
+```
+    var svg = dimple.newSvg("#chart", 600, 400);
+```
+
+(5) load up data and spit it to console
+```js
+d3.csv("single-line.csv", function(data) {
+//        window.dataset = data;
+    console.log(data);
+});
+```
+
+(6) finish it
+```js
+    d3.csv("single-line.csv", function(data) {
+//        window.dataset = data;
+        console.log(data);
+        var myChart = new dimple.chart(svg, data);
+        myChart.setBounds(60, 30, 505, 305);
+        var x = myChart.addCategoryAxis("x", "date");
+        x.addOrderRule("Date");
+        myChart.addMeasureAxis("y", "close");
+        var s = myChart.addSeries(null, dimple.plot.line);
+        myChart.draw();
+    });
+```
+
+(7) fix the x axis label
+```
+myChart.setBounds(60, 30, 505, 290);
+```
+
+(8) let's look at documentation to fix axis label font size
+```js
+var svg = dimple.newSvg("#chart", 600, 400);
+d3.csv("single-line.csv", function(data) {
+//        window.dataset = data;
+    console.log(data);
+    var myChart = new dimple.chart(svg, data);
+//        myChart.setBounds(60, 30, 505, 305);
+    myChart.setBounds(60, 20, 505, 290);
+
+    var x = myChart.addCategoryAxis("x", "date");
+    x.addOrderRule("Date");
+    x.fontSize = "12";
+
+    var y = myChart.addMeasureAxis("y", "close");
+    y.fontSize = "12";
+
+    var s = myChart.addSeries(null, dimple.plot.line);
+    myChart.draw();
+});
+```

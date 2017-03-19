@@ -5,7 +5,7 @@ footer: ''
 highlight: 'assignments'
 course: j360
 ---
-# Homework 3 - p5.js
+# Homework 3 - p5.js simple paint program
 ## Description
 You will create a simple paint program with jQuery and p5.js. You will have a canvas that when clicked on, draws colored circles. You will make colored squares with HTML and CSS that when clicked, change the fill color of the circles drawn on the canvas. This will be more easily understood once you view the demo...
 

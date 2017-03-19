@@ -576,6 +576,9 @@ Then if time permits go to 9.3 - ball object
 solution <http://codepen.io/novonagu/pen/yMJoed>
 
 ## week 10
+#### evaluation
+Start by having students do informal questionnaire
+
 #### constrain I
 Use this <https://p5js.org/reference/#/p5/constrain>
 

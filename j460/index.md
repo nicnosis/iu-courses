@@ -125,4 +125,10 @@ Today we're going to plot point data with Leaflet. We will need a few things...
  * `start()` [Assignment 2](docs/assignment2.html)
 
 ## week 10
+This week, we will spend some time exploring [dimple](http://dimplejs.org/index.html), a powerful JS library that builds off of d3.
+
+#### In Class
  * `complete()` this [informal course questionnaire](https://goo.gl/forms/lnvcey3IBm1F5c3h1)
+ * `visit()` [dimple documentation](http://dimplejs.org/index.html)
+ * `Lesson` 10.1 -
+
