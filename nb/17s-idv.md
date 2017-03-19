@@ -781,3 +781,50 @@ d3.csv("single-line.csv", function(data) {
     myChart.draw();
 });
 ```
+
+#### dimple scatter
+We can duplicate our single-line.html file and reuse a lot of the code. Let's start here:
+
+```js
+var svg = dimple.newSvg("#chart", 600, 400);
+d3.csv("iris.csv", function(data) {
+
+});
+```
+
+Let's get to here:
+```js
+var svg = dimple.newSvg("#chart", 600, 400);
+d3.csv("iris.csv", function(data) {
+    console.log(data);
+    var myChart = new dimple.chart(svg, data);
+    myChart.setBounds(60, 30, 500, 330); // x,y: 60, 30, width 500 height 330
+    myChart.addMeasureAxis("x", "sepal_width"); // linear
+    myChart.addMeasureAxis("y", "sepal_length"); // linear
+    myChart.draw();
+});
+```
+
+We can't see anything, so we add in a series:
+```js
+    myChart.addSeries(["species"], dimple.plot.bubble);
+    myChart.draw();
+```
+
+Still not much, so we need to add a unique identifier...
+
+```js
+var svg = dimple.newSvg("#chart", 600, 400);
+d3.csv("iris.csv", function(data) {
+    data.forEach(function(d, i) {
+        d.id = i;
+    });
+    console.log(data);
+    var myChart = new dimple.chart(svg, data);
+    myChart.setBounds(60, 30, 500, 330); // x,y: 60, 30, width 500 height 330
+    myChart.addMeasureAxis("x", "sepal_width"); // linear
+    myChart.addMeasureAxis("y", "sepal_length"); // linear
+    myChart.addSeries(["id", "species"], dimple.plot.bubble);
+    myChart.draw();
+});
+```

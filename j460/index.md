@@ -130,5 +130,5 @@ This week, we will spend some time exploring [dimple](http://dimplejs.org/index.
 #### In Class
  * `complete()` this [informal course questionnaire](https://goo.gl/forms/lnvcey3IBm1F5c3h1)
  * `visit()` [dimple documentation](http://dimplejs.org/index.html)
- * `Lesson` 10.1 -
+ * `download()` [dimple starter files](docs/dimple-starter.zip)
 
