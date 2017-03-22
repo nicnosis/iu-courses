@@ -135,6 +135,7 @@ _update:_ Many of you are working on Project 2. You may find Bootstrap's [exampl
  * `Lesson` 10.3 - [constrain() II](http://codepen.io/novonagu/pen/XMzjYN)
  * `Lesson` 10.4 - [introducing map()](http://codepen.io/novonagu/pen/QpOqXg)
  * `Lesson` 10.5 - [map() - inner and outer rectangle](http://codepen.io/novonagu/pen/ZexvPN)
+ * `Lesson` 10.6 - [map() - ellipse dimensions](http://codepen.io/novonagu/pen/XMEZXb)
 
 #### at home
  * `finish()` [Homework 3](docs/hw3.html)

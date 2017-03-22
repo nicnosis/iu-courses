@@ -695,3 +695,67 @@ function draw() {
 ```
 
 (4) finally, try flipping input and output ranges to see what happens
+
+
+#### 10.6 mapping circle radius
+(1) first get an ellipse on the canvas
+```js
+function setup() {
+  createCanvas(300, 300);
+}
+
+function draw() {
+  background(50);
+
+  ellipse(width/2, height/2, 50, 50);
+}
+```
+
+(2) now let's map mouseX to radius
+```js
+function setup() {
+  createCanvas(300, 300);
+}
+
+function draw() {
+  background(50);
+  
+  var r = map(mouseX, 0, width, 10, 100);
+  ellipse(width/2, height/2, r, r);
+}
+```
+
+(3) now let's map mouseX => w and mouseY => h
+```js
+function setup() {
+  createCanvas(300, 300);
+}
+
+function draw() {
+  background(50);
+  
+  var w = map(mouseX, 0, width, 10, 100);
+  var h = map(mouseY, 0, height, 10, 100);
+  // ellipse(width/2, height/2, 50, 50);
+  ellipse(width/2, height/2, w, h);
+}
+```
+
+(4) now let's map mouseX => gray
+```js
+function setup() {
+  createCanvas(300, 300);
+}
+
+function draw() {
+  background(127);
+
+  var w = map(mouseX, 0, width, 10, 100);
+  var h = map(mouseY, 0, height, 10, 100);
+  
+  var white = map(mouseY, 0, height, 0, 255);
+  fill(white);
+  
+  ellipse(width/2, height/2, w, h);
+}
+```
