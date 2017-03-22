@@ -616,7 +616,7 @@ function logMouse() {
 }
 ```
 
-#### introducing map
+#### 10.4 introducing map
 ```js
 function setup() {
   createCanvas(100, 100);
@@ -651,3 +651,47 @@ function draw() {
   ellipse(mapx, 100, 10, 10);
 }
 ```
+
+#### 10.5 map with inner and outer rectangles
+(1) start by drawing the whole thing on the board
+
+(2) make a rectangle, draw our first circle
+```js
+function setup() {
+  createCanvas(300, 300);
+}
+
+function draw() {
+  background(200);
+  
+  fill(50);
+  rect(100, 100, 100, 100);
+  
+  fill("crimson");
+  ellipse(mouseX, mouseY, 20, 20);
+}
+```
+
+(3) finish the thing
+```js
+function setup() {
+  createCanvas(300, 300);
+}
+
+function draw() {
+  background(200);
+  
+  fill(50);
+  rect(100, 100, 100, 100);
+  
+  fill("crimson");
+  ellipse(mouseX, mouseY, 20, 20);
+  
+  var mapx = map(mouseX, 0, width, 100, 200);
+  var mapy = map(mouseY, 0, height, 100, 200);
+  fill("yellow");
+  ellipse(mapx, mapy, 10, 10);
+}
+```
+
+(4) finally, try flipping input and output ranges to see what happens

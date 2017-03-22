@@ -35,6 +35,7 @@ This list is by no means exhaustive, but should give a starting point. You don't
 
  * [CodingTrain Coding Challenges](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH) - this is a list of videos by [Dan Shiffman](http://shiffman.net/). Most of these projects use p5.js
  * [Official p5 examples](https://p5js.org/examples/) - There is a lot of excellent starting code here! You can use it as long as you cite it somewhere in your projects
+ * [p5.play](http://p5play.molleindustria.org/) - A library for making games with p5.js
  * [inconvergent](http://inconvergent.net/)
 
 ### Twitter feeds
@@ -67,4 +68,4 @@ Blatant copy-and-pasting of code or plagiarism will result in a failing grade. Y
 ## Submission
 After you are done writing code, you can upload the entire folder to your site. The best way is to drag and drop the entire folder.
 
-Submit the link to your assignment on Canvas.
+Submit the link to your project on Canvas.

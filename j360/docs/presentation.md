@@ -76,8 +76,11 @@ On the presentation sign-up sheet, you must fill in two parts
 1. Your desired timeslot, with your name or initials
 2. Your topic, so that nobody else can present on the same thing
 
-It is __your responsibility-_ to make sure you are presenting on a topic that hasn't been claimed yet.
+It is __your responsibility__ to make sure you are presenting on a topic that hasn't been claimed yet.
 
-The presentation will appear on Canvas, but you don't have to do anything there.
+  <div class="card-block">
+    <h4 class="card-title">Sign up</h4>
+    <p class="card-text">Make sure you claim a timeslot and a topic. Fewer topics will remain as others students claim them.</p>
+    <a href="https://docs.google.com/spreadsheets/d/1ihlsrUQBAJHc4umHAJmnKjqAcJMjtWl6RXdTPCXyuTk/edit?usp=sharing" class="btn btn-primary" target="_blank">Sign up</a>
+  </div>
 
-Here is the <span class="big">[SIGN UP SHEET](https://docs.google.com/spreadsheets/d/1ihlsrUQBAJHc4umHAJmnKjqAcJMjtWl6RXdTPCXyuTk/edit?usp=sharing)</span>
