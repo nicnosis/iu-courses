@@ -131,4 +131,9 @@ This week, we will spend some time exploring [dimple](http://dimplejs.org/index.
  * `complete()` this [informal course questionnaire](https://goo.gl/forms/lnvcey3IBm1F5c3h1)
  * `visit()` [dimple documentation](http://dimplejs.org/index.html)
  * `download()` [dimple starter files](docs/dimple-starter.zip)
+ * `analyze()` [luminocity3d - world city populations](http://luminocity3d.org/WorldCity/) - this fantastic visualization was made with [cartodb]() and dimple.
 
+##### Activity: Dimple stock data
+ * If you don't have your starter files from Monday, make sure you `download()` them.
+ * `visit()` [Google Finance](https://www.google.com/finance). We will use historical stock data
+ * `visit()` [This d3 example](https://bl.ocks.org/zanarmstrong/ca0adb7e426c12c06a95) on time and date formats

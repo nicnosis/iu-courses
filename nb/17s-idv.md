@@ -828,3 +828,30 @@ d3.csv("iris.csv", function(data) {
     myChart.draw();
 });
 ```
+
+#### Activity: Dimple stocks
+(1) have everybody download starter files; open Finance in another tab
+
+(2) Stocks we are interested in:
+ * VHT - Vanguard Healthcare
+ * LMT - Lockheed Martin
+
+(3) Download both in Excel, make a "Symbol" column and set the symbols for both, combining them into one sheet. Move it into your dimple folder
+
+(4) Duplicate your "single-line.html" file and call it "stocks.html". Open it in your editor
+
+(5) here we go
+```js
+var svg = dimple.newSvg("#chart", 600, 400);
+d3.csv("stocks.csv", function(data) {
+
+    var myChart = new dimple.chart(svg, data);
+    myChart.setBounds(60, 30, 505, 290);
+    var x = myChart.addTimeAxis("x", "Date", "%d-%b-%y", "%m/%d/%Y")
+
+    myChart.addMeasureAxis("y", "Close");
+    myChart.addSeries("Symbol", dimple.plot.line);
+    myChart.addLegend(60, 10, 500, 20, "right");
+    myChart.draw();
+});
+```
