@@ -840,7 +840,21 @@ d3.csv("iris.csv", function(data) {
 
 (4) Duplicate your "single-line.html" file and call it "stocks.html". Open it in your editor
 
-(5) here we go
+(5) let's get here
+```js
+var svg = dimple.newSvg("#chart", 600, 400);
+d3.csv("stocks.csv", function(data) {
+    console.log(data);
+    var myChart = new dimple.chart(svg, data);
+    myChart.setBounds(60, 30, 505, 290);
+    var x = myChart.addCategoryAxis("x", "Date");
+    var y = myChart.addMeasureAxis("y", "Close");
+    myChart.addSeries("Symbol", dimple.plot.line);
+    myChart.draw();
+});
+```
+
+(6) solution
 ```js
 var svg = dimple.newSvg("#chart", 600, 400);
 d3.csv("stocks.csv", function(data) {
@@ -853,5 +867,6 @@ d3.csv("stocks.csv", function(data) {
     myChart.addSeries("Symbol", dimple.plot.line);
     myChart.addLegend(60, 10, 500, 20, "right");
     myChart.draw();
+    x.shapes.selectAll("text").attr("transform", "rotate(60)");
 });
 ```

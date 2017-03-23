@@ -136,4 +136,4 @@ This week, we will spend some time exploring [dimple](http://dimplejs.org/index.
 ##### Activity: Dimple stock data
  * If you don't have your starter files from Monday, make sure you `download()` them.
  * `visit()` [Google Finance](https://www.google.com/finance). We will use historical stock data
- * `visit()` [This d3 example](https://bl.ocks.org/zanarmstrong/ca0adb7e426c12c06a95) on time and date formats
+ * `visit()` [This d3 example](https://bl.ocks.org/zanarmstrong/raw/ca0adb7e426c12c06a95/) on time and date formats
