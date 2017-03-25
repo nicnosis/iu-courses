@@ -9,6 +9,7 @@
             {% if page.course == 'j360' %}
             <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/docs/web-syllabus.pdf">syllabus</a></li>
             {% else if page.course == 'j460' %}
+            <li class="nav-item" id="nav-datasets"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/datasets.html">datasets</a></li>
             <li class="nav-item" id="nav-examples"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/examples.html">examples</a></li>
             <li class="nav-item"><a class="nav-link" href="http://chimera.labs.oreilly.com/books/1230000000345/index.html">book</a></li>
             <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/docs/idv-syllabus.pdf">syllabus</a></li>
@@ -31,6 +32,7 @@
                     {% else if page.course == 'j460' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment1.html">Assignment 1</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment2.html">Assignment 2</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment3.html">Assignment 3</a>
                     {% endif %}
                     <!--<a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/presentation.html">Presentation</a>-->
                 </div>
