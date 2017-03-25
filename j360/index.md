@@ -141,3 +141,13 @@ _update:_ Many of you are working on Project 2. You may find Bootstrap's [exampl
  * `finish()` [Homework 3](docs/hw3.html)
  * `start()` [Homework 4](docs/hw4.html)
  * `start()` researching  topics for your [presentation](docs/presentation.html)
+
+## week 11
+#### in class
+ * `Lesson` 11.1 - [introducing random()](http://codepen.io/novonagu/pen/YZvWzY)
+ * `Lesson` 11.2 - [random() lines](http://codepen.io/novonagu/pen/VpdjMd)
+ * `Lesson` 11.3 - [random() + rotate() + line()](http://codepen.io/novonagu/pen/vxrKQv)
+
+#### at home
+ * Continue working on [Homework 4](docs/hw4.html)
+ * `start()` [Project 3](docs/project3.html). The sooner you can come up with an idea, the better.

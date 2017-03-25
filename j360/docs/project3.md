@@ -39,6 +39,7 @@ This list is by no means exhaustive, but should give a starting point. You don't
  * [p5 DOM](https://p5js.org/reference/#/libraries/p5.dom) - This allows you to create interface elements to interact with your sketch. For example, sliders that control color.
  * [p5 sound](https://p5js.org/reference/#/libraries/p5.sound) - You can control sound input/output with this library.
  * [p5.play](http://p5play.molleindustria.org/) - A library for making games with p5.js
+ * [perlin noise](http://genekogan.com/code/p5js-perlin-noise/) - excellent article on Perlin noise with p5js. This is a fun way to introduce randomization
  * [inconvergent](http://inconvergent.net/) - Generative artwork with JavaScript
  * [Gallery of Computation](http://www.complexification.net/gallery/) - Generate art made with Processing
 
@@ -59,7 +60,7 @@ Following the creative work of others on Twitter/Tumblr or similar platforms is 
 ## Grading
 In grading, you are awarded points for:
 
-* __Skills__ - You must employ several methods/variables from the __p5.js__ library. If you are not using p5.js, then you will be evaluated more leniently for this part. Did you use a combination of at least five
+* __Skills__ - You must employ several methods/variables from the __p5.js__ library. If you are not using p5.js, then you will be evaluated more leniently for this part. You should have a combination of at least five p5 methods/variables.
 * __Ideation__ - Did you spend time reviewing and analyzing examples? Is your idea actionable? You will be awarded more points if it is evident that you took time to brainstorm and think about your project before beginning.
 * __Rigor__ - Is this project challenging for your level of skill? Is your project a carbon copy of somebody else's work, or did you innovate and make changes? __Rigor__ is the perceived level of difficulty for this project - it should be challenging, but realistic given the time frame.
 * __Aesthetics__ - Your project should be polished, presentable, and have the level of quality that an employer or client might expect.
@@ -83,4 +84,4 @@ After you are done writing code, you can upload the entire folder to your site. 
 
 Submit the link to your project on Canvas.
 
-#### **Due Friday 4/7 at 11:59pm**
+#### **Due Sunday 4/9 at 11:59pm**

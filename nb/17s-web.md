@@ -759,3 +759,144 @@ function draw() {
   ellipse(width/2, height/2, w, h);
 }
 ```
+
+## week 11
+#### introducing random()
+(1) start by calling random() from console, explain min/max parameter
+
+(2) Make an ellipse, pick random x coordinate for it. Make sure to explain the difference between doing this in `setup` vs `draw`
+
+```js
+var x = random(0, width);
+ellipse(x, height/2, 20, 20);
+```
+
+(3) Let's practice randomizing...
+ * x and y position
+ * width and height
+ * red/green/blue
+
+SOLUTION:
+```js
+var x = 100;
+var y = 100;
+
+function setup() {
+  createCanvas(400, 400);
+  background(0);
+  noStroke();
+}
+
+function draw() {
+  var x = random(100, 300);
+  var y = random(0, height);
+  var diameter = random(10, 30);
+  
+  var red = random(0, 255);
+  var green = random(0, 50);
+  var blue = random(0, 255);
+  
+  fill(red, green, blue, 100);
+  ellipse(x, y, diameter, diameter);
+}
+```
+
+#### transformations: push and pop
+(1) explain coordinate system and draw the system with quadrants on the board. Draw a couple of lines and ellipses normally then begin push
+
+(2) show translate
+
+(3) show rotate
+
+SOLUTION:
+```js
+function setup() {
+  createCanvas(400, 400);
+  background(200);
+  strokeWeight(2); // 2 pixel stroke width
+}
+function draw() {
+  push();
+  translate(width/2, height/2);
+  rotate(PI/4); // 45 degrees
+  
+  fill(0, 0, 200);
+  ellipse(0, 0, 20, 20); // this line is the same as
+  ellipse(40, 20, 20, 20);
+  line(-100, 0, 100, 0);
+  line(0, -100, 0, 100);
+  
+  pop();
+  ellipse(0, 0, 20, 20); // this line
+}
+```
+
+#### random, rotate, lines
+Let's start by getting here:
+
+```js
+function setup() {
+  createCanvas(400, 400);
+  background("#eee");
+}
+
+function draw() {
+  stroke("#ccc");
+  line(-width, 0, width, 0);
+  line(0, -height, 0, height);
+  
+  stroke(random(255));
+  var y = random(0, height);
+  var length = random(0, width);
+  line(0, y, length, y);
+}
+```
+
+THEN HERE
+```js
+function setup() {
+  createCanvas(400, 400);
+  background("#eee");
+}
+
+function draw() {
+  push();
+  translate(width/2, height/2);
+  stroke("#ccc");
+  line(-width, 0, width, 0);
+  line(0, -height, 0, height);
+  
+  var y = random(-200, 200);
+  var length = random(-200, 200);
+  var value = random(0, 255);
+  stroke(value);
+  line(0, y, length, y);
+
+  pop();
+}
+```
+
+FINALLY HERE
+```js
+function setup() {
+  createCanvas(400, 400);
+  background("#eee");
+}
+
+function draw() {
+  push();
+  translate(width/2, height/2);
+  stroke("#ccc");
+  line(-width, 0, width, 0);
+  line(0, -height, 0, height);
+  
+  var angle = random(0, 2*PI); // rotate between 0 and 360 deg
+  rotate(angle);
+  var length = random(100, 200);
+  stroke(random(0, 255), 0, 100);
+  line(0, 0, 0, length);
+  ellipse(0, 0, 50, 50);
+  ellipse(0, length, 10, 10);
+  pop();
+}
+```

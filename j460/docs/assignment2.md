@@ -1,6 +1,6 @@
 ---
 layout: default
-title: J460 - Assignment 1
+title: J460 - Assignment 2
 footer: ''
 highlight: 'assignments'
 course: j460
