@@ -16,7 +16,6 @@ code.highlighter-rouge {
 
 .container {
   font-family: $bodyFont;
-
   /*** Course select ***/
   a.btn-huge {
     color: $primaryColor;
@@ -67,20 +66,23 @@ code.highlighter-rouge {
   h2 { color: $primaryColor; }
   h5 { color: #3c3c3c; }
 
-  li {
-    padding-left: 1.5em;
-    line-height: 2em;
-  }
   table {
     td, th {
       padding-right: 10px;
     }
     margin-bottom: 20px;
   }
+  li {
+    padding-left: 1.5em;
+    line-height: 2em;
+  }
   ul {
     margin-bottom: 2.5em;
   }
-
+  ol li {
+    list-style-position: inside;
+    list-style-type: decimal;
+  }
   .card-block {
     background-color: #f0f0f0;
   }
