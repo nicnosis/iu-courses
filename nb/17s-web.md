@@ -900,3 +900,98 @@ function draw() {
   pop();
 }
 ```
+
+#### 10.4 random colors array
+(1) Review random by using console. Try using `random()` and `random(min, max)`
+
+(2) Briefly go over arrays. Make an array of words and pick one randomly
+
+```js
+var words = [ "apple", "bear", "cat", "dog" ];
+var word = random(words);  // select random word
+text(word,10,50);  // draw the word
+```
+
+(3)
+ * Get a photo from google images. Download it.
+ * Open colormind in a new tab. Upload your image
+ * Make an array with strings containing your colors
+ * try this
+
+ ```js
+ function setup() {
+   createCanvas(400, 400);
+   var col = random(colors);
+   background(col);
+ }
+ ```
+
+Finished product:
+
+```js
+var colors = [
+  '#BEC399',
+  '#66B4CE',
+  '#2777D2',
+  '#29528C',
+  '#122A47'
+];
+
+function setup() {
+  createCanvas(400, 400);
+  background(0);
+}
+
+function draw() {
+  var x = random(0, width);
+  var y = random(0, height);
+  var d = random(5, 20);
+  
+  var fillcol = random(colors);
+  fill(fillcol);
+  var strokecol = random(colors);
+  stroke(strokecol);
+  
+  ellipse(x, y, d, d);
+}
+```
+
+#### 11.5 - keyboard events
+Start by getting a ball to display. Remember to cover objects
+```js
+var ball = {
+  x: 100,
+  y: 100
+}
+function setup() {
+  createCanvas(400, 400);
+  background(60)
+}
+function draw() {
+  ellipse(ball.x, ball.y, 20, 20);
+}
+```
+
+Let's get a simple keyPressed function going:
+
+```js
+function keyPressed() {
+  console.log('hi');
+}
+```
+
+solution:
+
+```js
+function keyPressed() {
+  if (keyCode === LEFT_ARROW) {
+    ball.x--;
+  } else if (keyCode === RIGHT_ARROW) {
+    ball.x++;
+  } else if (keyCode === UP_ARROW) {
+    ball.y--;
+  } else if (keyCode === DOWN_ARROW) {
+    ball.y++;
+  }
+}
+```

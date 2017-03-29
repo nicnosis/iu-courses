@@ -870,3 +870,10 @@ d3.csv("stocks.csv", function(data) {
     x.shapes.selectAll("text").attr("transform", "rotate(60)");
 });
 ```
+
+## week 11
+#### Google Public Data - Life Expectancy
+ * Start here - <https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&hl=en>
+ * Then end up here - <http://countryeconomy.com/demography/life-expectancy/cambodia>
+ * Then this event - <https://en.wikipedia.org/wiki/Cambodian_genocide>
+ * Then this guy - <https://en.wikipedia.org/wiki/Pol_Pot>

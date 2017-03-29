@@ -59,6 +59,9 @@ Make sure that you __take your time__ finding data; if you are thorough and meth
 
 <a class="btn btn-secondary" href="../datasets.html" target="_blank">view datasets</a>
 
+#### IU Research Help
+If you still find this assignment daunting, you might benefit from [scheduling an appointment](https://libraries.indiana.edu/consult) with an IU research assistant.
+
 ## Part 3 - Choosing a visualization
 At this point, you want to have some idea of how you will bring your data into a visualization. You might say something like, "I want to visualize world population with a choropleth map," or, "I want to show infant mortality rates over time with a line chart." Once you have a concrete idea like this, it's just a matter of finding some starter code and fitting your data into it.
 

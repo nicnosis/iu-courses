@@ -143,11 +143,18 @@ _update:_ Many of you are working on Project 2. You may find Bootstrap's [exampl
  * `start()` researching  topics for your [presentation](docs/presentation.html)
 
 ## week 11
+__ANNOUNCEMENT__: Extra credit is available for those willing to participate in an ICR study. Link here - [Extra Credit](docs/extra-credit.html)
+
+ If you don't want to do the ICR study, let me know and I can find a suitable substitute for your extra credit.
+
 #### in class
  * `Lesson` 11.1 - [introducing random()](http://codepen.io/novonagu/pen/YZvWzY)
  * `Lesson` 11.2 - [random() lines](http://codepen.io/novonagu/pen/VpdjMd)
  * `Lesson` 11.3 - [random() + rotate() + line()](http://codepen.io/novonagu/pen/vxrKQv)
+ * `Lesson` 11.4 - [random() with arrays](http://codepen.io/novonagu/pen/XMxVpj)
+ * `Lesson` 11.5 - [keyPressed()](http://codepen.io/novonagu/pen/zZmRvR)
 
 #### at home
  * Continue working on [Homework 4](docs/hw4.html)
  * `start()` [Project 3](docs/project3.html). The sooner you can come up with an idea, the better.
+ * [Extra Credit](docs/extra-credit.html)

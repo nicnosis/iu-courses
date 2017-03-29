@@ -13,6 +13,7 @@ With these examples, pay close attention to whether they are using `d3.v3` or `d
  * [Mike Bostock's bl.ocks](https://bl.ocks.org/mbostock)
  * [d3noob's bl.ocks](https://bl.ocks.org/d3noob)
  * [Christopher Viau's gallery](http://christopheviau.com/d3list/gallery.html)
+ * [d3fc](https://d3fc.io/examples/)
 
 #### individual charts/starter code
  * [bar chart](https://bl.ocks.org/mbostock/3885304)

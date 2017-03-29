@@ -137,3 +137,13 @@ This week, we will spend some time exploring [dimple](http://dimplejs.org/index.
  * If you don't have your starter files from Monday, make sure you `download()` them.
  * `visit()` [Google Finance](https://www.google.com/finance). We will use historical stock data
  * `visit()` [This d3 example](https://bl.ocks.org/zanarmstrong/raw/ca0adb7e426c12c06a95/) on time and date formats
+
+## week 11
+ * We will be using the rest of the class to focus on [Assignment 3](docs/assignment3.html)
+ * If you aren't planning on using d3, get [Tableau](https://www.tableau.com/academic/students)
+
+#### In Class
+ * `analyze()` - [Interactive: See how higher speeds led to more crashes on I-295](http://www.pressherald.com/2017/03/29/interactive-see-higher-speeds-led-crashes-295/)
+
+##### Announcement
+Extra credit is available. Link here - [Extra Credit](docs/extra-credit.html)
