@@ -158,3 +158,10 @@ __ANNOUNCEMENT__: Extra credit is available for those willing to participate in 
  * Continue working on [Homework 4](docs/hw4.html)
  * `start()` [Project 3](docs/project3.html). The sooner you can come up with an idea, the better.
  * [Extra Credit](docs/extra-credit.html)
+
+## week 12
+This week, we will begin exploring __usability__. This means we will learn how to design sites that provide a pleasant experience for users.
+
+#### in class
+ * `Slides` - [Intro to Usability](https://docs.google.com/presentation/d/1Dkt7ORKEyaclE0A9oM2TlQzrJDOFaJ-Trik5qQzwwCg/edit?usp=sharing)
+ * `Lesson` 12.1 - [Button groups](http://codepen.io/novonagu/pen/QpYErq)

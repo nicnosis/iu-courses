@@ -18,6 +18,7 @@
             <li class="nav-item dropdown" id="nav-assignments">
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="responsiveNavbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
                 <div class="dropdown-menu" aria-labelledby="responsiveNavbarDropdown">
+
                     {% if page.course == 'j360' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw1.html">Homework 1</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw2.html">Homework 2</a>
@@ -29,10 +30,15 @@
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/project3.html">Project 3</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/presentation.html">Presentation</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/extra-credit.html">Extra Credit</a>
+
                     {% else if page.course == 'j460' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment1.html">Assignment 1</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment2.html">Assignment 2</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment3.html">Assignment 3</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/extra-credit.html">Extra Credit</a>
                     {% endif %}
                     <!--<a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/presentation.html">Presentation</a>-->
                 </div>

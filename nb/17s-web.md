@@ -901,7 +901,7 @@ function draw() {
 }
 ```
 
-#### 10.4 random colors array
+#### 11.4 random colors array
 (1) Review random by using console. Try using `random()` and `random(min, max)`
 
 (2) Briefly go over arrays. Make an array of words and pick one randomly
@@ -994,4 +994,21 @@ function keyPressed() {
     ball.y++;
   }
 }
+```
+
+## week 12
+#### review
+Do a review of random+rotate+lines (11.3)
+
+#### slides
+Do slides
+
+#### lesson - buttons
+Solution
+
+```
+<div class="btn-group" role="group">
+  <button type="button" class="btn btn-primary btn-lg">Primary Action</button>
+  <button type="button" class="btn btn-default btn-lg">Secondary Action</button>
+</div>
 ```
