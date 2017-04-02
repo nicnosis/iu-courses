@@ -1006,7 +1006,7 @@ Do slides
 #### lesson - buttons
 Solution
 
-```
+```html
 <div class="btn-group" role="group">
   <button type="button" class="btn btn-primary btn-lg">Primary Action</button>
   <button type="button" class="btn btn-default btn-lg">Secondary Action</button>

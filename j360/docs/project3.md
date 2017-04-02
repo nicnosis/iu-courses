@@ -84,4 +84,6 @@ After you are done writing code, you can upload the entire folder to your site. 
 
 Submit the link to your project on Canvas.
 
-#### **Due Sunday 4/9 at 11:59pm**
+Your `idea` is due __Sunday, April 9th at 11:59pm__
+
+Your `project` is due __Wednesday, April 12th at 11:59pm__
