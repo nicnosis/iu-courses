@@ -147,3 +147,17 @@ This week, we will spend some time exploring [dimple](http://dimplejs.org/index.
 
 ##### Announcement
 Extra credit is available. Link here - [Extra Credit](docs/extra-credit.html)
+
+## week 12
+Continue working on your projects. Make sure to submit your `project plan` by Friday
+
+#### in class
+ * `download()` [nations.csv](data/nations.csv) for our in-class activity.
+
+#### at home
+ * `read()` - [Tips for Working with Your Data](http://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm#data_tips.html)
+
+#### ANNOUNCEMENT
+Graham Roberts, five time Emmy nominee and Senior Graphics Editor at the New York Times will be giving a talk on April 25th at the IMU.
+
+See [this flyer](roberts.pdf) for more information.

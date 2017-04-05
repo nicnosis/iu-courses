@@ -877,3 +877,8 @@ d3.csv("stocks.csv", function(data) {
  * Then end up here - <http://countryeconomy.com/demography/life-expectancy/cambodia>
  * Then this event - <https://en.wikipedia.org/wiki/Cambodian_genocide>
  * Then this guy - <https://en.wikipedia.org/wiki/Pol_Pot>
+
+## week 12
+ * nations.csv into tableau
+ * (1) make a choropleth with life expectancy
+ * 

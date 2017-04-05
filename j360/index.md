@@ -165,6 +165,7 @@ This week, we will begin exploring __usability__. This means we will learn how t
 #### in class
  * `Slides` - [Intro to Usability](https://docs.google.com/presentation/d/1Dkt7ORKEyaclE0A9oM2TlQzrJDOFaJ-Trik5qQzwwCg/edit?usp=sharing)
  * `Lesson` 12.1 - [Button groups](http://codepen.io/novonagu/pen/QpYErq)
+ * `Slides` - [How we really use the Web](https://docs.google.com/presentation/d/1flKp6HTd6A_4xI9y5D3UAfBvejayiLdL2kXMJme-pHM/edit?usp=sharing)
 
 #### at home
  * `finish()` [Homework 4](docs/hw4.html). It is due __Friday__
