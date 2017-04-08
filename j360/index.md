@@ -154,7 +154,7 @@ __ANNOUNCEMENT__: Extra credit is available for those willing to participate in 
  * `Lesson` 11.4 - [random() with arrays](http://codepen.io/novonagu/pen/XMxVpj)
  * `Lesson` 11.5 - [keyPressed()](http://codepen.io/novonagu/pen/zZmRvR)
 
-#### at home
+#### at home 
  * Continue working on [Homework 4](docs/hw4.html)
  * `start()` [Project 3](docs/project3.html). The sooner you can come up with an idea, the better.
  * [Extra Credit](docs/extra-credit.html)
@@ -170,3 +170,8 @@ This week, we will begin exploring __usability__. This means we will learn how t
 #### at home
  * `finish()` [Homework 4](docs/hw4.html). It is due __Friday__
  * `submit()` your idea for [Project 3](docs/project3.html)
+
+## week 13
+You will use this week to continue working on [Project 3](docs/project3.html). This week's lectures will teach you principles that you will use for your final project, starting next week.
+#### in class
+ * `Slides` - [Design Strategies](https://docs.google.com/presentation/d/1ElasIjOt3397EhXcpnd8dFYm66EzyqFSGJv8-KDmacg/edit?usp=sharing)
