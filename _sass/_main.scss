@@ -63,8 +63,7 @@ code.highlighter-rouge {
   }
   h2 {
     text-transform: capitalize;
-    padding-bottom: 0.2em;
-    border-bottom: 1px solid rgba(30, 30, 30, 0.2);
+    //border-bottom: 1px solid rgba(30, 30, 30, 0.2);
   }
   h1, h2 { padding-top: 1em; }
   h2 { color: $primaryColor; }
@@ -77,8 +76,7 @@ code.highlighter-rouge {
     margin-bottom: 20px;
   }
   li {
-    padding-left: 1.5em;
-    line-height: 2em;
+    padding: 0.4em 0 0.4em 1em;
   }
   ul {
     margin-bottom: 2.5em;
