@@ -18,6 +18,8 @@ This list is far from exhaustive, but should give you more than enough starting 
  * [Google Public Data Explorer](https://www.google.com/publicdata/directory)
  * [Kaggle datasets](https://www.kaggle.com/datasets)
  * Quora - [Where can I find the largest datasets open to the public?](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+ * [Our World in Data](https://ourworldindata.org/)
  * Pinboard.com, [search=datasets](https://pinboard.in/search/?query=datasets&all=Search+All)
  * Reddit - [r/datasets](https://www.reddit.com/r/datasets/)
+ * [World Bank](http://data.worldbank.org/)
  * [World Health Organization](http://www.who.int/gho/en/) - Has built-in charting tools; very helpful
