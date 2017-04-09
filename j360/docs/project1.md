@@ -27,10 +27,10 @@ Project 1 will test your knowledge of basic HTML and CSS. You will create a basi
  * basic class selection
 
 ## Example
-Your page should look more or less like [this](project1-solution.pdf) when you're done
+Your page should look more or less like [this](demo/project1-demo.pdf) when you're done
 
 ## Starter File
-Download the [starter file](project1-starter.zip)
+Download the [starter file](starter/project1-starter.zip)
 
 ## You Will Need...
 

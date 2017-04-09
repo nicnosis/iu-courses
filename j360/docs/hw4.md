@@ -27,7 +27,7 @@ You will be given two files:
 
 The only file you need to modify is `sketch.js`
 
-Download here - [Project 4 Starter Files](hw4-starter.zip)
+Download here - [Project 4 Starter Files](starter/hw4-starter.zip)
 
 ## Approach
 I recommend having some tabs open for reference while working on this project:

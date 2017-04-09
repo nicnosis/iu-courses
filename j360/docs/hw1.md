@@ -12,7 +12,7 @@ Homework 1 is designed to test your ability to upload an HTML file to your site.
 This assignment is pretty straightforward - you will download a template file, make some small changes, and upload it to your site.
 
 ## Download
-Download this file - [hw1-starter.zip](hw1-starter.zip) and unzip it.
+Download this file - [hw1-starter.zip](starter/hw1-starter.zip) and unzip it.
 
 ## Modify
 The download should unzip to a folder called `my-site`. You can rename this folder and use it to keep the files that you are hosting on your site.

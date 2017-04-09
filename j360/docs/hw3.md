@@ -13,7 +13,7 @@ You will create a simple paint program with jQuery and p5.js. You will have a ca
 This project has a [live demo](demo/hw3/)
 
 ## Starter Files
-Download here - [homework 3 starter files](hw3-starter.zip)
+Download here - [homework 3 starter files](starter/hw3-starter.zip)
 
 ## Tutorials
 This assignment includes YouTube tutorials:

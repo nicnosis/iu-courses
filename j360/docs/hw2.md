@@ -25,7 +25,7 @@ You will be given three files:
 
 The only file you need to modify is `script.js`
 
-Download here - [homework 2 starter files](hw2-starter.zip)
+Download here - [homework 2 starter files](starter/hw2-starter.zip)
 
 ## Approach
 This assignment will be much easier if you write down the selectors you need for each part. For each part you will have a button selector, and another selector. E.g., for part one you will need `$("#btn1")` (the button) and `$("#part1")` (the square div).
