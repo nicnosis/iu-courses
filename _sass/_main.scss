@@ -6,6 +6,10 @@ $headerFont: 'Oswald', sans-serif;
 $bodyFont: 'Open Sans', sans-serif;
 $codeFont: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 
+body {
+  padding-top: 50px;
+}
+
 b, strong {
   color: $boldColor;
 }
