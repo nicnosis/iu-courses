@@ -86,4 +86,4 @@ Submit the link to your project on Canvas.
 
 Your `idea` is due __Sunday, April 9th at 11:59pm__
 
-Your `project` is due __Wednesday, April 12th at 11:59pm__
+Your `project` is due __Friday, April 14th at 11:59pm__
