@@ -161,3 +161,8 @@ Continue working on your projects. Make sure to submit your `project plan` by Fr
 Graham Roberts, five time Emmy nominee and Senior Graphics Editor at the New York Times will be giving a talk on April 25th at the IMU.
 
 See [this flyer](roberts.pdf) for more information.
+
+## week 13
+Continue working on your project. By this point, you should have a solid idea and at least one dataset.
+
+Your should aim to have at least one visualization prototype by the end of the week.

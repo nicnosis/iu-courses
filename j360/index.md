@@ -175,3 +175,4 @@ This week, we will begin exploring __usability__. This means we will learn how t
 You will use this week to continue working on [Project 3](docs/project3.html). This week's lectures will teach you principles that you will use for your final project, starting next week.
 #### in class
  * `Slides` - [Design Strategies](https://docs.google.com/presentation/d/1ElasIjOt3397EhXcpnd8dFYm66EzyqFSGJv8-KDmacg/edit?usp=sharing)
+ * `Slides` - [Design Trends](https://docs.google.com/presentation/d/1e1r2_MG0iyxcSV4YZMCZpWt3rSPl27AE4_0JqxVyyr0/edit?usp=sharing)
