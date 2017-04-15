@@ -37,7 +37,7 @@ var length = random(0, 200); // this gives a random number between 0 and 200
 line(0, 0, 0, length); // draw a line of that length
 ```
 
-There is __no requirement for length__ of your writing. You don't have to meet a certain word count or anything like that - the purpose of the writing segment is to show off your knowledge of p5.js in a portfolio piece.
+There is __no requirement for length__ of your writing. You don't have to meet a certain word count or anything like that - the purpose of the writing segment is to show off your knowledge of p5.js in a portfolio piece. For most of you, the writing will be a couple of paragraphs talking about your project, and a code sample that gives the reader an idea of how your sketch works.
 
 ## Approach
 First download the starter files (below).
@@ -50,13 +50,23 @@ Finally, you can focus on the writing component of the project.
 <div class="card-block">
     <h4 class="card-title">Starter files</h4>
     <p class="card-text">Material Bootstrap has a lot of setup files. I have given you a template to use.</p>
-    <a href="docs/starter/material-starter.zip" class="btn btn-primary" target="_blank">Download</a>
+    <a href="starter/material-starter.zip" class="btn btn-primary" target="_blank">Download</a>
  </div>
 
 <div style="height:20px"></div>
 
-####Tutorials
+## Tutorials
+* [Part 1 - Introduction]()
+* [Part 2 - Row/column layout]()
+* [Part 3 - Adding in your code]()
+* [Part 4 - Putting your sketch in a container]()
+* [Part 5 - Finishing touches]()
 
+#### box-shadow
+For part 5 of the tutorials, you will need to copy this CSS code:
+```css
+box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+```
 
 ## Grading
 You are awarded points for:
