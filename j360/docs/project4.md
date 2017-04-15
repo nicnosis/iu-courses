@@ -6,48 +6,79 @@ highlight: 'assignments'
 course: j360
 ---
 
-# Project 4 - Profile
+# Project 4 - Sketch Showcase
 ## Description
-You will use Bootstrap to create a profile for a person, place, business, or event. If you are doing a person, it can be a historical figure, favorite musical artist, celebrity, etc. If you are doing a place, you might choose a prominent location, popular vacation spot, or interesting historical site.
+You will use [Material Bootstrap](http://fezvrasta.github.io/bootstrap-material-design/) to create a site that showcases one of your p5.js sketches. It does not necessarily have to be the one you did for project 3. The idea is to create an attractive portfolio piece that shows employers that you:
 
-The idea is to create an attractive, one-page site that gives users an overview of your chosen topic.
+ * Can use JavaScript
+ * Can learn JS libraries, such as p5.js
+ * Can create a site with bootstrap
+ * Can understand and talk about your code
 
-#### Topics
-Recommended topics are:
- * A favorite historical figure
- * Your favorite band
- * An upcoming show/gig/concert
- * A menu for a restaurant
- * A popular vacation spot
- * A venue/bar/club
+## Components
+There are two main parts to this project: (1) The layout and hierarchy or your page and (2) your writing/code samples
 
-## Writing content
-__DO NOT PLAGIARIZE__. If you are going to use text, word-for-word, from another person's site, you must give credit.
+#### Layout
+This will be detailed in the YouTube tutorials. You will use bootstrap's [grid system](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp) to create a site layout that has:
+ * A jumbotron (large section at top)
+ * A container for your p5 sketch
+ * A section where you talk about the purpose of your sketch, why you did it, etc.
+ * A section where you give some code examples to demonstrate your knowledge of the p5.js library
 
-+ bootstrap examples
+#### Writing
+You want to make sure that this portfolio piece gives people a good understanding of your knowledge of code. You will use the `<pre>` and `<code>` tags to show code samples (this is explained in the tutorials). You do not necessarily have to show all of the code you used.
 
-+ bootstrap theme
+For example, if `random()` was a big part of your project, you might include something like this:
 
-+ google font
 
-+ img circle responsive
+"I used random() to generate lines of varying lengths"
+```js
+var length = random(0, 200); // this gives a random number between 0 and 200
+line(0, 0, 0, length); // draw a line of that length
+```
+
+There is __no requirement for length__ of your writing. You don't have to meet a certain word count or anything like that - the purpose of the writing segment is to show off your knowledge of p5.js in a portfolio piece.
+
+## Approach
+First download the starter files (below).
+
+Then complete the YouTube tutorials (below). This will give you your basic layout (e.g., rows/columns/grid).
+
+Finally, you can focus on the writing component of the project.
+
+
+<div class="card-block">
+    <h4 class="card-title">Starter files</h4>
+    <p class="card-text">Material Bootstrap has a lot of setup files. I have given you a template to use.</p>
+    <a href="docs/starter/material-starter.zip" class="btn btn-primary" target="_blank">Download</a>
+ </div>
+
+<div style="height:20px"></div>
+
+####Tutorials
+
 
 ## Grading
 You are awarded points for:
 
-* __Layout and hierarchy__ - You should make use of Bootstrap's [grid system](http://getbootstrap.com/examples/grid/) to create an enticing visual layout.
-* __Aesthetics__ - Your project should have a clean and aesthetic appearance. Your site should be free of any distracting, noisy/busy or unnecessary visual elements. Use of colors and visual style should create a pleasant experience for the user.
-* __Typography__ - Your project should use at least one web font, such as those from [Google Fonts](https://fonts.google.com/). Attention to detail is expected when it comes to font-weight, size, spacing, margins, etc. Text should be optimized for readability; e.g., important text should be BIG and less important text should be small
-* __Image__ - You should have a circular image that fits nicely in the page. If your image is distorted, of poor resolution, or doesn't display correctly, you will lose points. Your `img` tag should also have the appropriate classes specified in this rubric.
+* __Writing__ - The entire purpose of this project is to talk about your experience with p5.js, and to showcase your knowledge of JavaScript and the p5.js library. Your writing, code examples, and general use of language should indicate you have a working understanding of the p5.js library and applied it to make a sketch.
+* __Layout and Hierarchy__ - Your site should make use of the Material Bootstrap theme. You should have appropriate rows and columns set up. Your rationale for structuring your columns, sketch container, and other visual elements should make sense given your sketch. For example, if your sketch is very wide then you may want to keep it on its own row and talk about the code on another row.
+* __Integration of Sketch__ - The sketch that you choose should fit nicely onto the page. It doesn't have to be perfect, but it should be clear that you made an effort to use correct rows and columns and got your sketch to fit inside the sketch-container.
 * __Code Quality__ - Your code should be well organized. Did you indent your code properly? Are your variable names sensible and self-descriptive? Is your code thoroughly commented? Others should be able to look at your code and build off of it. Your project should follow conventions covered in class and be free of error-prone or unnecessary code.
 
 ### Points
 
-| Component            |  Points |
-|:---------------------|--------:|
-| Layout and hierarchy |      40 |
-| Aesthetics           |      20 |
-| Typography           |      10 |
-| Image                |      10 |
-| Code Quality         |      20 |
+| Component             | Points |
+|:----------------------|-------:|
+| Writing               |     25 |
+| Layout and hierarchy  |     25 |
+| Integration of Sketch |     25 |
+| Code Quality          |     25 |
 | **Total**            | **100** |
+
+## Submission
+After you are done writing code, you can upload the entire folder to your site. The best way is to drag and drop the entire folder in Cyberduck or whatever FTP program you're using.
+
+Submit the link to your project on Canvas.
+
+Your project is due __Friday, May 5th at 11:59pm__
