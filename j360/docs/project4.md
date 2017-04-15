@@ -56,11 +56,11 @@ Finally, you can focus on the writing component of the project.
 <div style="height:20px"></div>
 
 ## Tutorials
-* [Part 1 - Introduction]()
-* [Part 2 - Row/column layout]()
-* [Part 3 - Adding in your code]()
-* [Part 4 - Putting your sketch in a container]()
-* [Part 5 - Finishing touches]()
+* [Part 1 - Introduction](https://youtu.be/1UoJK7sk5cI)
+* [Part 2 - Row/column layout](https://youtu.be/n9C1DzMmR8Q)
+* [Part 3 - Adding in your code](https://youtu.be/6ECwGiPb5gU)
+* [Part 4 - Putting your sketch in a container](https://youtu.be/KstKXS8lwMQ)
+* [Part 5 - Finishing touches](https://youtu.be/lAVw2mmWszQ)
 
 #### box-shadow
 For part 5 of the tutorials, you will need to copy this CSS code:
