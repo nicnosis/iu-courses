@@ -1012,3 +1012,78 @@ Solution
   <button type="button" class="btn btn-default btn-lg">Secondary Action</button>
 </div>
 ```
+
+## week 13
+Slides!
+
+## week 14
+#### 14.1 - Analyze Bootstrap Grid
+ * Show CSS in CodePen Settings
+ * Try changing column numbers
+ * Try changing column display sizes
+ * Let's add in styling so we can see our columns
+
+```css
+.row div {
+  background-color: #eee;
+  border: 1px solid #ccc;
+}
+```
+
+#### 14.2 - Implement Bootstrap Grid
+(1) Need to pull in the Bootstrap CSS first
+
+(2) Make a jumbotron: `.jumbotron>h1`
+```html
+<div class="jumbotron">
+    <h1 class="text-center">my header</h1>
+</div>
+```
+
+(3) Make a page-header: `.page-header>h2+small`
+```html
+<div class="page-header">
+    <h2>This is a header. <small>This text is small.</small></h2>
+</div>
+```
+
+(4) Make some rows and columns:
+```html
+.container
+.row
+.column
+.col-*-*
+```
+
+(5) Export the pen to take a look at it
+
+#### 14.3 - Embedding a p5 sketch
+First bring in p5 and p5.dom
+
+Next make some columns and stuff
+```html
+<div class="container">
+  <div class="jumbotron">
+    <h2>my sketch</h2>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+      Sketch will go here
+      <div id="sketch-container"></div>
+    </div>
+    <div class="col-sm-6">Talk about sketch here</div>
+  </div>
+</div>
+```
+
+```js
+function setup() {
+  var myCanvas = createCanvas(200, 200);
+  myCanvas.parent("sketch-container");
+}
+
+function draw() {
+  background(0);
+  ellipse(20, 20, 20, 20);
+}
+```

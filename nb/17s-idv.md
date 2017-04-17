@@ -881,4 +881,11 @@ d3.csv("stocks.csv", function(data) {
 ## week 12
  * nations.csv into tableau
  * (1) make a choropleth with life expectancy
- * 
+
+## week 13
+working on projects...
+
+## week 14
+
+
+

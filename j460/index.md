@@ -166,3 +166,11 @@ See [this flyer](roberts.pdf) for more information.
 Continue working on your project. By this point, you should have a solid idea and at least one dataset.
 
 Your should aim to have at least one visualization prototype by the end of the week.
+
+## week 14
+Continue working. By now, you should have at least one or two core visualizations that drive your story. Many of you will be in the process of integrating your visualization into a story.
+
+#### Tableau Examples
+ * `Analyze()` - [Marial Status of Americans Visualized by Age](http://overflow.solutions/demographic-data/age-distributions/the-marital-status-of-americans-visualized-by-age/)
+ * `Analyze()` - [12 Generations mapped in Tableau](https://public.tableau.com/en-us/s/gallery/12-generations-map)
+ * `Analyze()` - [Millions of UK workers at risk of being replaced by robots](https://public.tableau.com/profile/yanning.wang#!/vizhome/MM2017Week14YW/MM2017Week14YW)

@@ -176,3 +176,14 @@ You will use this week to continue working on [Project 3](docs/project3.html). T
 #### in class
  * `Slides` - [Design Strategies](https://docs.google.com/presentation/d/1ElasIjOt3397EhXcpnd8dFYm66EzyqFSGJv8-KDmacg/edit?usp=sharing)
  * `Slides` - [Design Trends](https://docs.google.com/presentation/d/1e1r2_MG0iyxcSV4YZMCZpWt3rSPl27AE4_0JqxVyyr0/edit?usp=sharing)
+
+## week 14
+#### in class
+ * `Lesson` 14.1 - [Bootstrap grid - Analyze](https://codepen.io/novonagu/pen/JNdJoa)
+ * `Lesson` 14.2 - [Bootstrap grid - Implement](https://codepen.io/novonagu/pen/pPJwNr)
+ * `Lesson` 14.3 - [p5 sketch container](https://codepen.io/novonagu/pen/NjqgXp)
+
+#### at home
+ * `start()` [Project 4](docs/project4.html)
+
+
