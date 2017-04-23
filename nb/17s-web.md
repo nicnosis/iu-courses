@@ -1087,3 +1087,114 @@ function draw() {
   ellipse(20, 20, 20, 20);
 }
 ```
+
+#### Backstretch
+First go to site <https://github.com/jquery-backstretch/jquery-backstretch>
+
+Let's download it together and look at examples
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>my backstretch page</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<script src="libs/jquery/jquery.js"></script>
+	<script src="jquery.backstretch.js"></script>
+	<style>
+		.container {
+			background-color: #eee;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="jumbotron"><h1>hi</h1></div>
+		<div class="row">
+			<div class="col-md-6">
+				<h2>hi</h2>
+			</div>
+		</div>
+	</div>
+
+
+	<script>
+		$.backstretch(["examples/pot-holder.jpg", "examples/dome.jpg"],{duration: 5000, fade: 750});
+	</script>
+</body>
+</html>
+```
+
+## week 15
+#### Review CSS Transforms
+
+Solution:
+```html
+<p>Use the <code>transform</code> property</p>
+
+<div class="translate">Translate me!</div>
+<div class="rotate">Rotate me!</div>
+<div class="scale">Scale me!</div>
+```
+
+```css
+div {
+  background-color: #ccc;
+  margin-bottom: 50px;
+  padding: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.translate {
+  transform: translate(40px, 10px);
+}
+.rotate {
+  transform: rotate(45deg);
+}
+.scale {
+  transform: scale(1.5);
+}
+```
+
+#### CSS Transitions
+
+```html
+<div class="one"></div>
+<div class="two"></div>
+<div class="three"></div>
+```
+
+```css
+div {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+
+.one {
+  transition: background-color 2s;
+}
+.one:hover {
+  background-color: red;
+}
+
+.two {
+  transition: height 3s, width 3s;
+}
+.two:hover {
+  width: 200px;
+  height: 300px;
+}
+
+.three {
+  transition: transform 3s, background-color 3s;
+}
+.three:hover {
+  transform: rotate(360deg) scale(2);
+  background-color: blue;
+}
+```

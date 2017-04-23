@@ -183,7 +183,13 @@ You will use this week to continue working on [Project 3](docs/project3.html). T
  * `Lesson` 14.2 - [Bootstrap grid - Implement](https://codepen.io/novonagu/pen/pPJwNr)
  * `Lesson` 14.3 - [p5 sketch container](https://codepen.io/novonagu/pen/NjqgXp)
 
+##### Activity - Backstretch
+ * `visit()` - [jQuery Backstretch](https://github.com/jquery-backstretch/jquery-backstretch)
+
 #### at home
  * `start()` [Project 4](docs/project4.html)
 
-
+## week 15
+#### in class
+ * `Lesson` 15.1 - [Review - CSS Transforms](https://codepen.io/novonagu/pen/mmEYPV)
+ * `Lesson` 15.2 - [CSS Transitions](https://codepen.io/novonagu/pen/WGOpmG)
