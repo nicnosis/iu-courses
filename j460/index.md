@@ -176,4 +176,7 @@ Continue working. By now, you should have at least one or two core visualization
  * `Analyze()` - [Millions of UK workers at risk of being replaced by robots](https://public.tableau.com/profile/yanning.wang#!/vizhome/MM2017Week14YW/MM2017Week14YW)
 
 <!-- * `Analyze()` - [Where Words Come From](https://pudding.cool/2017/02/new-slang/) -->
- <!-- * `Analyze()` - [What city is the microbrew capital of the US?](https://pudding.cool/2017/04/beer/) -->
+<!-- * `Analyze()` - [What city is the microbrew capital of the US?](https://pudding.cool/2017/04/beer/) -->
+
+## week 15
+Your project should be nearing completion. Your visualizations should be finished and you should be integrating them into a web page. Remember that your submission will be a __URL link to your site__. E.g., `www.mysite.com/j460/final/index.html`

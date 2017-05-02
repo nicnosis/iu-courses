@@ -13,9 +13,16 @@ body {
 b, strong {
   color: $boldColor;
 }
+
+// code styles
 code.highlighter-rouge {
   color: $primaryColor;
   background-color: #e8e8ed;
+}
+pre.highlight  {
+  background-color: #efefef;
+  padding-left: 0.5em;
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .container {

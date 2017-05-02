@@ -193,3 +193,5 @@ You will use this week to continue working on [Project 3](docs/project3.html). T
 #### in class
  * `Lesson` 15.1 - [Review - CSS Transforms](https://codepen.io/novonagu/pen/mmEYPV)
  * `Lesson` 15.2 - [CSS Transitions](https://codepen.io/novonagu/pen/WGOpmG)
+ * `Lesson` 15.3 - [Random Walk I](https://codepen.io/novonagu/pen/PmbmLW)
+ * `Lesson` 15.4 - [Random Walk II](https://codepen.io/novonagu/pen/Ombgyj)

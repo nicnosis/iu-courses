@@ -1198,3 +1198,140 @@ div {
   background-color: blue;
 }
 ```
+
+#### Random Walk I
+Let's get here to start
+
+```js
+var x = 100;
+var y = 100;
+
+function setup() {
+  createCanvas(400, 400);
+  background("lightgray");
+}
+
+function draw() {
+  
+}
+```
+
+Let's do it the inefficient way first
+```js
+var x = 100;
+var y = 100;
+
+function setup() {
+  createCanvas(400, 400);
+  background("lightgray");
+}
+
+function draw() {
+  
+  // move walker
+  x += random(-1, 1);
+  y += random(-1, 1);
+  
+  // draw walker
+  ellipse(x, y, 10, 10);
+}
+```
+
+Now refactor with functions
+
+```js
+var x = 100;
+var y = 100;
+
+function setup() {
+  createCanvas(400, 400);
+  background("lightgray");
+}
+
+function draw() {
+  update();
+  display();
+}
+
+function update() {
+  // move walker
+  x += random(-1, 1);
+  y += random(-1, 1);
+}
+
+function display() {
+  // draw walker
+  ellipse(x, y, 10, 10);
+}
+```
+
+#### Random Walker II
+Let's set up our template first
+
+```js
+function Walker() {
+  this.x = random(0, width);
+  this.y = random(0, height);
+  this.update = function() {
+    this.x += random(-1, 1);
+    this.y += random(-1, 1);
+  }
+  this.display = function() {
+    this.ellipse(this.x, this.y, 10, 10);
+  }
+}
+```
+
+Now let's make a single walker
+```js
+var w;
+
+function setup() {
+  createCanvas(400, 400);
+  background("lightgray");
+  
+  w = new Walker();
+}
+
+function draw() {
+  w.update();
+  w.display();
+}
+```
+
+SOLUTION:
+
+```js
+var walkers = [];
+
+function setup() {
+  createCanvas(400, 400);
+  background("lightgray");
+  
+  // make 50 walkers
+  for(var i = 0; i < 50; i++) {
+    var w = new Walker();
+    walkers.push(w);
+  }
+}
+
+function draw() {
+  for(var i = 0; i < walkers.length; i++) {
+    walkers[i].update();
+    walkers[i].display();
+  }
+}
+
+function Walker() {
+  this.x = random(0, width);
+  this.y = random(0, height);
+  
+  this.update = function() {
+    this.x += random(-1, 1);
+    this.y += random(-1, 1);
+  }
+  this.display = function() {
+    ellipse(this.x, this.y, 10, 10);
+  }
+}
+```
