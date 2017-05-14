@@ -7,17 +7,27 @@
             <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/instructor.html">instructor</a></li>
 
             {% if page.course == 'j360' %}
-            <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/docs/web-syllabus.pdf">syllabus</a></li>
+            <!--<li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/docs/web-syllabus.pdf">syllabus</a></li>-->
             {% else if page.course == 'j460' %}
             <li class="nav-item" id="nav-datasets"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/datasets.html">datasets</a></li>
             <li class="nav-item" id="nav-examples"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/examples.html">examples</a></li>
             <li class="nav-item"><a class="nav-link" href="http://chimera.labs.oreilly.com/books/1230000000345/index.html">book</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/docs/idv-syllabus.pdf">syllabus</a></li>
+            <!--<li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/docs/idv-syllabus.pdf">syllabus</a></li>-->
             {% endif %}
 
+            <li class="nav-item dropdown" id="nav-materials">
+                <a class="nav-link dropdown-toggle" href="http://example.com" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
+                <div class="dropdown-menu" aria-labelledby="nav-link-materials">
+                    {% if page.course == 'j360' %}
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/atom.html">Using Atom</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/web-syllabus.pdf">Syllabus</a>
+                    {% endif %}
+                </div>
+            </li>
+
             <li class="nav-item dropdown" id="nav-assignments">
-                <a class="nav-link dropdown-toggle" href="http://example.com" id="responsiveNavbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
-                <div class="dropdown-menu" aria-labelledby="responsiveNavbarDropdown">
+                <a class="nav-link dropdown-toggle" href="http://example.com" id="nav-link-assignments" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
+                <div class="dropdown-menu" aria-labelledby="nav-link-assignments">
 
                     {% if page.course == 'j360' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw1.html">Homework 1</a>
