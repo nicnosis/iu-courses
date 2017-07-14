@@ -121,8 +121,6 @@ a.navbar-brand {
 }
 nav#myNav {
   padding: 0;
-  border-bottom: 1px solid $gray;
-
   a {
     padding: 10px;
   }
@@ -132,4 +130,8 @@ nav#myNav {
 }
 .navbar-light .navbar-nav .active.active-color>.nav-link {
   color: $primaryColor;
+}
+
+.nav-item a.nav-link {
+  font-weight: 500;
 }

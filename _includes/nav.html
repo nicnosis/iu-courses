@@ -5,6 +5,7 @@
             <li class="nav-item"><a href="{{site.baseurl}}/" class="navbar-brand">{{page.course}}</a></li>
             <li class="nav-item" id="nav-home"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/index.html">home <span class="sr-only">(current)</span></a></li>
             <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/instructor.html">instructor</a></li>
+            <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/#">syllabus</a></li>
 
 
             <!-- SPRING 2017 -->
@@ -27,6 +28,10 @@
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="nav-link-assignments" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-assignments">
 
+                    {% if page.course == 'j360' %}
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/test.html" class="dropdown-item">test</a>
+                    {% endif %}
+
                     {% if page.course == 'sp17/j360' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw1.html">Homework 1</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw2.html">Homework 2</a>
@@ -41,8 +46,9 @@
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/presentation.html">Presentation</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/extra-credit.html">Extra Credit</a>
+                    {% endif %}
 
-                    {% else if page.course == 'sp17/j460' %}
+                    {% if page.course == 'sp17/j460' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment1.html">Assignment 1</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment2.html">Assignment 2</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment3.html">Assignment 3</a>
