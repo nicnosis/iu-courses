@@ -3,7 +3,7 @@ layout: default
 title: J360 - HW2
 footer: ''
 highlight: 'assignments'
-course: j360
+course: 'sp17/j360'
 ---
 # Homework 2 - jQuery
 ## Description

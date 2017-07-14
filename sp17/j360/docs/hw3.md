@@ -3,7 +3,7 @@ layout: default
 title: J360 - HW3
 footer: ''
 highlight: 'assignments'
-course: j360
+course: 'sp17/j360'
 ---
 # Homework 3 - p5.js simple paint program
 ## Description

@@ -3,7 +3,7 @@ layout: default
 title: J360 - Project 3
 footer: ''
 highlight: 'assignments'
-course: j360
+course: 'sp17/j360'
 ---
 # Project 3 - p5.js Freestyle
 ## Description

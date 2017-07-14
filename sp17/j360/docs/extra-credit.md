@@ -3,7 +3,7 @@ layout: default
 title: J360 - Extra Credit
 footer: ''
 highlight: 'assignments'
-course: j360
+course: 'sp17/j360'
 ---
 
 # Extra Credit

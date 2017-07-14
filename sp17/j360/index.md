@@ -3,10 +3,10 @@ layout: home
 title: J360 - Web Design
 footer: ''
 highlight: home
-course: j360
+course: 'sp17/j360'
 ---
 ## week 1
- * `read()` [the syllabus]({{site.baseurl}}/j360/docs/web-syllabus.pdf)
+ * `read()` [the syllabus]({{site.baseurl}}/{{page.course}}/docs/web-syllabus.pdf)
  * `download()` [SublimeText](https://www.sublimetext.com) or another editor. Good alternatives are PHPStorm/WebStorm, Atom, and Brackets
  * `register()` an account on [Codepen](http://codepen.io/). You can use Twitter or GitHub to sign in
  * `register()` an account on [Codecademy](https://www.codecademy.com/learn)

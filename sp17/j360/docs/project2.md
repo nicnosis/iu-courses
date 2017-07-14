@@ -3,7 +3,7 @@ layout: default
 title: J360 - Project 2
 footer: ''
 highlight: 'assignments'
-course: j360
+course: 'sp17/j360'
 ---
 # Project 2 - Bootstrap
 ## Description

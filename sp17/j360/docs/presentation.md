@@ -1,7 +1,7 @@
 ---
 layout: default
 title: presentation
-course: j360
+course: 'sp17/j360'
 ---
 # Presentation
 
