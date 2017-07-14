@@ -2,7 +2,7 @@
 layout: default
 title: datasets
 highlight: datasets
-course: j460
+course: 'sp17/j460'
 ---
 # datasets
 This list is far from exhaustive, but should give you more than enough starting points.

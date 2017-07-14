@@ -2,7 +2,7 @@
 layout: default
 title: examples
 highlight: examples
-course: j460
+course: 'sp17/j460'
 ---
 # examples
 ## d3js

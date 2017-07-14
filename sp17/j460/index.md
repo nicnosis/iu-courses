@@ -3,7 +3,7 @@ layout: home
 title: J460 - Interactive Data Visualization
 footer: ''
 highlight: home
-course: j460
+course: 'sp17/j460'
 ---
 ## week 1
  * `read()` [the syllabus]({{site.baseurl}}/j460/docs/idv-syllabus.pdf)
