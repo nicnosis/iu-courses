@@ -14,7 +14,7 @@ b, strong {
   color: $boldColor;
 }
 
-// code styles
+/*** Code Styles ***/
 code.highlighter-rouge {
   color: $primaryColor;
   background-color: #e8e8ed;
@@ -24,6 +24,7 @@ pre.highlight  {
   padding-left: 0.5em;
   border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
+/*** End code styles ***/
 
 .container {
   font-family: $bodyFont;
@@ -97,6 +98,7 @@ pre.highlight  {
   }
 }
 
+/*** Profile ***/
 img#professor {
   width: 100%;
 }
@@ -110,28 +112,4 @@ a.btn.btn-social-icon {
 span.fa.fa-github, span.fa.fa-twitter {
   color: white;
 }
-
-/*******************************************
-*  NAV
-*******************************************/
-a.navbar-brand {
-  //font-family: $codeFont;
-  font-family: $headerFont;
-  letter-spacing: .1em;
-}
-nav#myNav {
-  padding: 0;
-  a {
-    padding: 10px;
-  }
-}
-.nav-item.active {
-  border-bottom: 2px solid $primaryColor;
-}
-.navbar-light .navbar-nav .active.active-color>.nav-link {
-  color: $primaryColor;
-}
-
-.nav-item a.nav-link {
-  font-weight: 500;
-}
+/*** End profile ***/
