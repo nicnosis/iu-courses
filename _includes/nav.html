@@ -5,7 +5,15 @@
             <li class="nav-item"><a href="{{site.baseurl}}/" class="navbar-brand">{{page.course}}</a></li>
             <li class="nav-item" id="nav-home"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/index.html">home <span class="sr-only">(current)</span></a></li>
             <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/instructor.html">instructor</a></li>
-            <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/#">syllabus</a></li>
+            <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
+
+            <li class="nav-item dropdown" id="nav-materials">
+                <a class="nav-link dropdown-toggle" href="http://example.com" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
+                <div class="dropdown-menu" aria-labelledby="nav-link-materials">
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/atom.html">Using Atom</a>
+                </div>
+            </li>
+
 
 
             <!-- SPRING 2017 -->

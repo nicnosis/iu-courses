@@ -50,6 +50,9 @@ You will design, prototype, and develop a multi-page website using [Bootstrap](h
 ### Homework
 This class has __four__ homework assignments designed to test and reinforce knowledge from class. Homework assignments will typically involve a shorter or less involved coding task.
 
+#### Codecademy
+You will be given assignments to complete on [Codecademy](https://www.codecademy.com/learn/learn-html-css/). In order to really learn and memorize code, you need to practice. While the Codecademy assignments are not graded, completing them will make your homeworks, projects, and quizzes much easier.
+
 ### Quizzes
 This course will feature __four__ unannounced quizzes. The quizzes should be fairly simple if you have been reading the textbook and following lectures.
 
@@ -105,22 +108,19 @@ If you are re-submitting work:
 
 
 ## Required Readings and Materials
+### Text
+We will use [HTML and CSS: Visual QuickStart Guide ](http://a.co/gwPoEWG), _8th edition_ by Elizabeth Castro et al. You are welcome to use any book you like, but assignments and projects will be tailored to the contents of this textbook.
 
-There is no required text for this course. Most of our reading will be in the form of free documentation available on the web. Two sources we will reference frequently are **W3Schools** and **Codecademy**.
-
-### Hosting
-You will need to purchase a domain name and hosting service. I recommend using [asmallorange.com](https://asmallorange.com). The cost is about $5 per month for hosting. Most domain names available through asmallorange.com start at $15.
-
-If you have another means of hosting - through IU Pages, Burrow, or GitHub pages, that is also fine. The idea is for you to build a functional website with your work as the semester progresses.
+### Codecademy
+You will use [Codecademy](https://www.codecademy.com/learn/learn-html-css/), a free online learning environment, to practice your coding skills outside of class.
 
 ### Software
-Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development. A good deal of class time will be spent assisting students with installation and configuration of software.
+Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development.
 
 We will use:  
 
- 1. A text editor - SublimeText is recommended. Good alternatives are Atom and TextWrangler.  
- 2. A means of version control - [GitHub](https://github.com) is recommended, Google Drive, Box, and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
- 3. A file transfer tool - OSX users can use [Cyberduck](https://cyberduck.io/), Windows users should use [PuTTy](http://www.putty.org/)
+ 1. A text editor - [Atom]() is recommended.  
+ 2. A means of version control - [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
 
 ### Hardware
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
@@ -130,12 +130,14 @@ It is also useful to have access to a large display, or dual display configurati
 ## Policies
 
 ### Attendance
-Students should make a serious effort to attend every lecture. A repeated pattern of absence or tardiness will result in a deduction of points from your participation grade. Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. As such, **attendance is the strongest guarantor of success** in this course.
+Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
-Students are allowed **two unexcused absences** per semester. Additional absences will deduct points.
+Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
 
 ### Lost Data
 You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
+
+I **highly recommend** getting a [Box](https://uits.iu.edu/box) account. It is free, helps you to stay organized, and most importantly provides **backups** for your files.
 
 ### Food and Drink in Class
 Sorry, they are not permitted.
@@ -166,20 +168,3 @@ Schedule is subject to change. A given class of students can differ widely in sk
 |         | Dates               | Activity                                        |
 |:--------|:--------------------|:------------------------------------------------|
 | week 1  | Mon 1/9 Wed 1/11    | Set up IDEs. Intro to HTML                      |
-| week 2  | Mon 1/16            | *Martin Luther King Day - No Class*             |
-|         | Wed 1/18            | HTML tags/elements and the DOM                  |
-| week 3  | Mon 1/23 Wed 1/25   | HTML attributes. Intro to styling and CSS       |
-| week 4  | Mon 1/30 Wed 2/1    | Project 1 (HTML) due **Friday 2/3**             |
-| week 5  | Mon 2/6  Wed 2/8    | Stylesheets. CSS Box Model                      |
-| week 6  | Mon 2/13 Wed 2/15   | Classes and IDs. CSS Selectors. CSS Transitions |
-| week 7  | Mon 2/20 Wed 2/22   | Bootstrap, column and grid layouts, flexbox     |
-| week 8  | Mon 2/27 Wed 3/1    | Project 2 (Bootstrap+CSS) due **Friday 3/3**    |
-| week 9  | Mon 3/6  Wed 3/8    | JavaScript - Variables, statements, functions   |
-|         | Sun 3/13 - Sun 3/19 | *Spring Break*                                  |
-| week 10 | Mon 3/20 Wed 3/22   | Intro to JQuery. JS Arrays and Iteration        |
-| week 11 | Mon 3/27 Wed 3/29   | JS Objects                                      |
-| week 12 | Mon 4/3  Wed 4/5    | Project 3 (JS) due **Friday 4/7**               |
-| week 13 | Mon 4/10 Wed 4/12   | Introduction to p5.js. Begin presentations      |
-| week 14 | Mon 4/17 Wed 4/19   | p5.js - Push and Pop, Objects                   |
-| week 15 | Mon 4/24 Wed 4/26   | Project 4 (Integration) due **Friday 4/28**     |
-|         |                     | This course will not meet for a final exam      |
