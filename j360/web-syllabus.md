@@ -45,7 +45,7 @@ Students will construct a basic website outline using HTML. This project assesse
 The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. Project 2 will test students' knowledge of CSS selectors, properties, and values, as well as the Box-Model. 
 
 #### Final Project - Bootstrap Site
-You will design, prototype, and develop a multi-page website using [Bootstrap](http://getbootstrap.com/).
+You will design, prototype, and develop a multi-page website using [Bootstrap](http://getbootstrap.com/). This project is designed to combine all of the skills you've acquired throughout the semester.
 
 ### Homework
 This class has __four__ homework assignments designed to test and reinforce knowledge from class. Homework assignments will typically involve a shorter or less involved coding task.
@@ -57,7 +57,7 @@ You will be given assignments to complete on [Codecademy](https://www.codecademy
 This course will feature __four__ unannounced quizzes. The quizzes should be fairly simple if you have been reading the textbook and following lectures.
 
 ### Participation
-Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. __Ten__ of these small exercises will be given throughout the semester. They are all to be finished during class and are generally graded on completion.
+Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. __Ten__ of these small exercises will be given throughout the semester. They are to be finished during class and are generally graded on completion.
 
 ### Final
 There is no final exam for this class. Instead, you will submit your final project by the end of the semester.
@@ -160,7 +160,7 @@ For more information - [https://studentaffairs.indiana.edu/disability-services-s
 Source: [http://enrollmentbulletin.indiana.edu/pages/relo.php](http://enrollmentbulletin.indiana.edu/pages/relo.php)
 
 ### Syllabus
-Our schedule will be followed more rigidly in the first half of the semester, and more loosely in the second half. Courses such as this one will have a wide array of students with varying strengths and weaknesses. Because this course is rich in content, the instructor reserves the right to amend this syllabus to better match the needs of a given class. 
+This course is rich in content and skill levels vary widely among students. The instructor reserves the right to amend this syllabus to better match the needs of a given class.
 
 ## Schedule
 Schedule is subject to change. A given class of students can differ widely in skills and teaching needs, so our schedule is likely to be looser in the second half of the semester.
