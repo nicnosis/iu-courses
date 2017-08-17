@@ -60,7 +60,8 @@ Participation is an important element of this class. It is not enough to read ab
 There is no final exam for this class. Instead, you will submit your __final project__ by the end of the semester.
 
 ### Extra Credit
-There will be __one__ opportunity this semester to earn 2 pts. of extra credit. You can either (a) participate in an ICR research study, or (b) create a short video tutorial for a web design technique.
+There will be __one__ opportunity this semester to earn __2 pts.__ of extra credit.  
+You can either (a) participate in an ICR research study, or (b) create a short video tutorial for a web design technique.
 
 ## Grade
 There are a total of **100** points in this class. 
@@ -135,6 +136,8 @@ Sorry, they are not permitted.
 ### Deadlines
 Deadlines are strict and non-negotiable. Late assignments will be accepted for the first five calendar days after a deadline. After that, I will remove 10% daily. Assignments may not be submitted after five calendar days have elapsed (Example - Deadline is September 8th, you cannot submit after September 13th)
 
+The only __exception to this rule__ is the final project, which cannot be submitted late.
+
 ### Proper Attribution for Referenced Works
 By nature, code is re-usable and extensible. It is both acceptable and encouraged to utilize and adapt examples of code; this is common on websites like StackOverflow. However, the sources for all referenced code must be given in your code commenting. I will assist students with finding code that is reusable (such as under the GNU license), and help with giving proper credit to the source.
 
@@ -166,6 +169,9 @@ Source: [http://enrollmentbulletin.indiana.edu/pages/relo.php](http://enrollment
 
 ### Syllabus
 This course is rich in content and skill levels vary widely among students. The instructor reserves the right to amend this syllabus to better match the needs of a given class.
+
+### Final Grade
+The instructor reserves the right to adjust your final grade based on effort and participation. This is very uncommon.
 
 ## (Tentative) Schedule
 A given class of students can differ widely in skills and teaching needs, so schedule is subject to change.
