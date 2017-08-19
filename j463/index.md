@@ -1,9 +1,9 @@
 ---
 layout: home
-title: J460 - Coding for Media Messages
+title: J463 - Graphic Design
 footer: ''
 highlight: home
-course: 'j460'
+course: 'j463'
 ---
 ## week 1
  * hi
