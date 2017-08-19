@@ -7,7 +7,7 @@
 **OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00A - 11:00A
 
 ## Description
-Web design has a profound impact on our everyday experiences of work, recreation, and communication. This course focuses on developing practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, students will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
+Web design has a profound impact on our everyday experiences of work, recreation, and communication. Students will develop practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, students will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
 
 ### Prerequisites
 ```
@@ -35,7 +35,7 @@ This course is divided into __four units__, each about 3-4 weeks in length.
 Unit One tackles the basics of web design and HTML, which is used to create the structural elements and content of a website. Class time will be spent familiarizing yourself with your text editor, analyzing websites, and learning fundamental web design concepts.
 
 ### Unit Two: CSS
-Unit Two focuses on CSS, which is used to control the style and appearance of HTML elements. You will learn how to import, create, and work with stylesheets. This unit will give you more creative control over how your sites look and feel
+Unit Two focuses on CSS, which is used to control the style and appearance of HTML elements. You will learn how to import, create, and work with stylesheets. This unit will give you more creative control over how your sites look and feel.
 
 ### Unit Three: Design and Usability
 Unit Three focuses on creating pleasant experiences for users on your website. Terms like __usability__ and __user experience__ will become familiar as you learn how to make compelling and exciting experiences for your users.
@@ -43,7 +43,7 @@ Unit Three focuses on creating pleasant experiences for users on your website. T
 During Unit Three, you will begin to plan and layout your final project.
 
 ### Unit Four: Final Project
-During this unit, there will be less lecturing and more hands-on work for your websites. Your instructor will give more individual instruction at this point as each person's website will differ. Your efforts will go into coding and designing your final website. This is also a great opportunity to learn and discuss any new web technologies that were not presented earlier in the course.
+During this unit, there will be less lecturing and more hands-on work for your websites. I will give more individual instruction at this point as each person's website will differ. Your efforts will go into coding and designing your final website. This is also a great opportunity to learn and discuss any new web technologies that were not presented earlier in the course.
 
 ## Work
 ### Use of Class Time
@@ -80,10 +80,9 @@ There is no final exam for this class. Instead, you will submit your __final pro
 There will be __one__ opportunity this semester to earn __2 pts.__ of extra credit.  
 You can either (a) participate in an ICR research study, or (b) create a short video tutorial for a web design technique.
 
-## Grade
-There are a total of **100** points in this class. 
-
-The grade is divided as follows:
+## Grading
+### Points
+There are a total of **100** points in this class. The grade is divided as follows:
 
 | Assignment                 |  Points |
 |:---------------------------|--------:|
@@ -95,6 +94,7 @@ The grade is divided as follows:
 | Participation              |      10 |
 | **Total**                  | **100** |
 
+### Course Grade
 Your grade will be assigned as follows:
 
 | Points     | Grade |
@@ -155,9 +155,6 @@ Deadlines are strict and non-negotiable. Late assignments will be accepted for t
 
 The only __exception to this rule__ is the final project, which cannot be submitted late.
 
-### Proper Attribution for Referenced Works
-By nature, code is re-usable and extensible. It is both acceptable and encouraged to utilize and adapt examples of code; this is common on websites like StackOverflow. However, the sources for all referenced code must be given in your code commenting. I will assist students with finding code that is reusable (such as under the GNU license), and help with giving proper credit to the source.
-
 ### Students with Disabilities
 If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.  
 
@@ -165,6 +162,9 @@ For more information - [https://studentaffairs.indiana.edu/disability-services-s
 
 ### Academic Integrity
 As a student at IU, you are expected to adhere to the standards and policies detailed in the Code of Student Rights, Responsibilities, and Conduct (Code). When you submit an assignment with your name on it, you are signifying that the work contained therein is yours, unless otherwise cited or referenced. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. All suspected violations of the Code will be reported to the Dean of Students and handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final course grade, and a failing grade in the course, among other possibilities. If you are unsure about the expectations for completing an assignment or taking a test or exam, be sure to seek clarification beforehand.
+
+#### Proper Attribution for Referenced Works
+By nature, code is re-usable and extensible. It is both acceptable and encouraged to utilize and adapt examples of code; this is common on websites like StackOverflow. However, the sources for all referenced code must be given in your code commenting. I will assist students with finding code that is reusable (such as under the GNU license), and help with giving proper credit to the source.
 
 ### Sexual Misconduct
 As your instructor, one of my responsibilities is to create a positive learning environment for all students. Title IX and IU’s Sexual Misconduct Policy prohibit sexual misconduct in any form, including sexual harassment, sexual assault, stalking, and dating and domestic violence.  If you have experienced sexual misconduct, or know someone who has, the University can help.
@@ -190,33 +190,33 @@ This course is rich in content and skill levels vary widely among students. The 
 ### Final Grade
 The instructor reserves the right to adjust your final grade based on effort and participation. This is very uncommon.
 
-## (Tentative) Schedule
+## Tentative Schedule
 A given class of students can differ widely in skills and teaching needs, so schedule is subject to change.
 
-|         | Dates                  | Activity                      |
-|:--------|:-----------------------|:------------------------------|
-| -       | -                      | __UNIT ONE__                  |
-| week 1  | Mon 8/21, Wed 8/23     | Intro to HTML, tags           |
-| week 2  | Mon 8/28, Wed 8/30     | HTML Structure, Intro to Atom |
-| week 3  | Mon 9/4                | _NO CLASS; LABOR DAY_         |
-| week 3  | Wed 9/6                | Divs, spans and containers    |
-| week 4  | Mon 9/11, Wed 9/13     | Text, images, links           |
-| -       | -                      | __UNIT TWO__                  |
-| week 5  | Mon 9/18, Wed 9/20     | Introducing CSS               |
-| week 6  | Mon 9/25, Wed 9/27     | Selectors, class and id       |
-| week 7  | Mon 10/2, Wed 10/4     | Text styling                  |
-| week 8  | Mon 10/9, Wed 10/11    | Layouts with styling          |
-| -       | -                      | __UNIT THREE__                |
-| week 9  | Mon 10/16, Wed 10/18   | Intro to design/usability     |
-| week 10 | Mon 10/23, Wed 10/25   | Trends/strategy in design     |
-| week 11 | Mon 10/30, Wed 11/1    |                               |
-| week 12 | Mon 11/6, Wed 11/8     |                               |
-| -       | -                      | __UNIT FOUR__                 |
-| week 13 | Mon 11/13, Wed 11/14   |                               |
-| -       | Sun 11/19 to Sun11/26  | __THANKSGIVING BREAK__        |
-| week 14 | Mon 11/27, Wed 11/29   |                               |
-| week 15 | Mon 12/4, Wed 12/6     |                               |
-| week 16 | Mon 12/11 to Fri 12/15 | __FINALS__                    |
+|         | Dates                 | Topic                         |
+|:--------|:----------------------|:------------------------------|
+| -       | -                     | __UNIT ONE__                  |
+| week 1  | Mon 8/21, Wed 8/23    | Intro to HTML, tags           |
+| week 2  | Mon 8/28, Wed 8/30    | HTML Structure, Intro to Atom |
+| week 3  | Mon 9/4               | _NO CLASS; LABOR DAY_         |
+| week 3  | Wed 9/6               | Divs, spans and containers    |
+| week 4  | Mon 9/11, Wed 9/13    | Text, images, links           |
+| -       | -                     | __UNIT TWO__                  |
+| week 5  | Mon 9/18, Wed 9/20    | Introducing CSS               |
+| week 6  | Mon 9/25, Wed 9/27    | Selectors, class and id       |
+| week 7  | Mon 10/2, Wed 10/4    | Text styling                  |
+| week 8  | Mon 10/9, Wed 10/11   | Layouts with styling          |
+| week 9  | Mon 10/16, Wed 10/18  | Tables, forms and lists       |
+| -       | -                     | __UNIT THREE__                |
+| week 10 | Mon 10/23, Wed 10/25  | Intro to design/usability     |
+| week 11 | Mon 10/30, Wed 11/1   | Trends/strategy in design     |
+| week 12 | Mon 11/6, Wed 11/8    | Wireframing, prep for final   |
+| -       | -                     | __UNIT FOUR__                 |
+| week 13 | Mon 11/13, Wed 11/14  | Intro to Bootstrap            |
+| -       | Sun 11/19 - Sun11/26  | _THANKSGIVING BREAK_          |
+| week 14 | Mon 11/27, Wed 11/29  | Bootstrap, rows and columns   |
+| week 15 | Mon 12/4, Wed 12/6    | Final project                 |
+| week 16 | Mon 12/11 - Fri 12/15 | __FINALS__                    |
 
 ### Important Dates
 Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml) for important dates. I have listed some of them here:
@@ -232,5 +232,5 @@ Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/
 | Final Exams  | Dec 11 - Dec 15 |
 | Ends         | Fri, Dec 15     |
 
-### Due Dates
+#### Due Dates
 Due dates for assignments and projects can be found on Canvas and on our [course website](http://pages.iu.edu/~naguirre/).
