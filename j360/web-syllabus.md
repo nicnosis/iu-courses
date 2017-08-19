@@ -28,6 +28,23 @@ In this course, you will:
  * Gain a demonstrable command of front-end web languages
  * Learn to adapt to a constantly-changing medium
 
+## Structure
+This course is divided into __four units__, each about 3-4 weeks in length.
+
+### Unit One: HTML
+Unit One tackles the basics of web design and HTML, which is used to create the structural elements and content of a website. Class time will be spent familiarizing yourself with your text editor, analyzing websites, and learning fundamental web design concepts.
+
+### Unit Two: CSS
+Unit Two focuses on CSS, which is used to control the style and appearance of HTML elements. You will learn how to import, create, and work with stylesheets. This unit will give you more creative control over how your sites look and feel
+
+### Unit Three: Design and Usability
+Unit Three focuses on creating pleasant experiences for users on your website. Terms like __usability__ and __user experience__ will become familiar as you learn how to make compelling and exciting experiences for your users.
+
+During Unit Three, you will begin to plan and layout your final project.
+
+### Unit Four: Final Project
+During this unit, there will be less lecturing and more hands-on work for your websites. Your instructor will give more individual instruction at this point as each person's website will differ. Your efforts will go into coding and designing your final website. This is also a great opportunity to learn and discuss any new web technologies that were not presented earlier in the course.
+
 ## Work
 ### Use of Class Time
 This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. An effort is made to create a more interactive and less passive experience for students.
@@ -176,9 +193,30 @@ The instructor reserves the right to adjust your final grade based on effort and
 ## (Tentative) Schedule
 A given class of students can differ widely in skills and teaching needs, so schedule is subject to change.
 
-|        | Dates            | Activity                   |
-|:-------|:-----------------|:---------------------------|
-| week 1 | Mon 1/9 Wed 1/11 | Set up IDEs. Intro to HTML |
+|         | Dates                  | Activity                      |
+|:--------|:-----------------------|:------------------------------|
+| -       | -                      | __UNIT ONE__                  |
+| week 1  | Mon 8/21, Wed 8/23     | Intro to HTML, tags           |
+| week 2  | Mon 8/28, Wed 8/30     | HTML Structure, Intro to Atom |
+| week 3  | Mon 9/4                | _NO CLASS; LABOR DAY_         |
+| week 3  | Wed 9/6                | Divs, spans and containers    |
+| week 4  | Mon 9/11, Wed 9/13     | Text, images, links           |
+| -       | -                      | __UNIT TWO__                  |
+| week 5  | Mon 9/18, Wed 9/20     | Introducing CSS               |
+| week 6  | Mon 9/25, Wed 9/27     | Selectors, class and id       |
+| week 7  | Mon 10/2, Wed 10/4     | Text styling                  |
+| week 8  | Mon 10/9, Wed 10/11    | Layouts with styling          |
+| -       | -                      | __UNIT THREE__                |
+| week 9  | Mon 10/16, Wed 10/18   | Intro to design/usability     |
+| week 10 | Mon 10/23, Wed 10/25   | Trends/strategy in design     |
+| week 11 | Mon 10/30, Wed 11/1    |                               |
+| week 12 | Mon 11/6, Wed 11/8     |                               |
+| -       | -                      | __UNIT FOUR__                 |
+| week 13 | Mon 11/13, Wed 11/14   |                               |
+| -       | Sun 11/19 to Sun11/26  | __THANKSGIVING BREAK__        |
+| week 14 | Mon 11/27, Wed 11/29   |                               |
+| week 15 | Mon 12/4, Wed 12/6     |                               |
+| week 16 | Mon 12/11 to Fri 12/15 | __FINALS__                    |
 
 ### Important Dates
 Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml) for important dates. I have listed some of them here:
