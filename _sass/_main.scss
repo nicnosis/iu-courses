@@ -6,15 +6,18 @@ $headerFont: 'Oswald', sans-serif;
 $bodyFont: 'Open Sans', sans-serif;
 $codeFont: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 
+/* GENERAL STYLES */
 body {
   padding-top: 50px;
 }
-
 b, strong {
   color: $boldColor;
 }
+em {
+  font-style: italic;
+}
 
-/*** Code Styles ***/
+/* CODE STYLES */
 code.highlighter-rouge {
   color: $primaryColor;
   background-color: #e8e8ed;
@@ -57,6 +60,8 @@ pre.highlight  {
     letter-spacing: 2px;
   }
   /*** End course select ***/
+
+  /* HEADING STYLES */
   h1 {
     color: #3c3c3c;
     border-bottom: 1px solid rgba(30, 30, 30, 0.5);
@@ -77,21 +82,27 @@ pre.highlight  {
   h2 { color: $primaryColor; }
   h5 { color: #3c3c3c; }
 
+  /* TABLE STYLES */
   table {
     td, th {
       padding-right: 10px;
     }
     margin-bottom: 20px;
   }
+
+  /* LIST STYLES */
   li {
-    padding: 0.4em 0 0.4em 1em;
+    list-style-type: circle;
+    margin: 0.4em 0 0.4em 1em;
+  }
+  #sidebar li {
+    list-style-type: none;
   }
   ul {
     margin-bottom: 2.5em;
   }
   ol li {
-    list-style-position: inside;
-    list-style-type: decimal;
+    list-style: decimal inside;
   }
   .card-block {
     background-color: #f0f0f0;

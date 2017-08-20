@@ -10,10 +10,19 @@
             <li class="nav-item dropdown" id="nav-materials">
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-materials">
+                    <!--WEB DESIGN-->
+                    {% if page.course == 'j360' %}
                     <a class="dropdown-item" href="http://www.htmlcssvqs.com/8ed/examples/">Text Companion Site</a>
                     <a class="dropdown-item" href="https://www.codecademy.com/courses/learn-html-css/">Codecademy</a>
                     <a class="dropdown-item" href="https://www.w3schools.com/">W3Schools</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/atom.html">Using Atom</a>
+                    {% endif %}
+
+                    <!--GRAPHIC DESIGN-->
+                    {% if page.course == 'j463' %}
+                    <a class="dropdown-item" href="https://mcpl.info/">MCPL</a>
+                    <a class="dropdown-item" href="https://iuware.iu.edu/">IUWare</a>
+                    {% endif %}
                 </div>
             </li>
 
@@ -29,9 +38,16 @@
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="nav-link-assignments" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-assignments">
 
+                    <!-- WEB DESIGN -->
                     {% if page.course == 'j360' %}
                     <!--<a href="{{site.baseurl}}/{{page.course}}/assignments/test.html" class="dropdown-item">test</a>-->
                     {% endif %}
+
+                    <!-- GRAPHIC DESIGN -->
+                    {% if page.course == 'j463' %}
+                    <!--<a href="{{site.baseurl}}/{{page.course}}/assignments/test.html" class="dropdown-item">test</a>-->
+                    {% endif %}
+
 
                     <!-- SPRING 2017 -->
                     {% if page.course == 'sp17/j360' %}

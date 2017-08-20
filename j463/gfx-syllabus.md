@@ -2,14 +2,14 @@
 
 **LOCATION** - Franklin Hall 003  
 **SECTIONS**  
-36278 - Meets MW 08:30AM - 10:30AM  
+36278 - Meets Mon/Wed, 8:30AM - 10:30AM  
 **INSTRUCTOR** - Nic Aguirre - naguirre@indiana.edu  
 **OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00A - 11:00A
 
 ## Description
 Graphic design is everywhere. It is used to communicate, persuade, express feelings and establish identity. In today's digital landscape, graphic design has never been more prevalent. It determines how you read and process information, and what ideas you associate with visual imagery.
 
-Graphic design is a powerful tool for conveying ideas and messages. Fundamentally, it is about communication. This course is designed to give you skills that will serve you in other disciplines. You will learn a powerful visual language that can be applied to any visual medium.
+Graphic design is a powerful tool for conveying ideas and messages. Fundamentally, it is about communication. This course is designed to give you skills that will serve you in other disciplines. You will learn a powerful visual language that can be applied to any graphical medium.
 
 ### Prerequisites
 ```
@@ -29,7 +29,7 @@ In this course, you will:
  * Gain a foundation for expanding your design skills in any context
 
 ## Structure
-This course is divided into __four units__, each about 3-4 weeks in length. Each unit will cover a different Adobe technology:
+This course is divided into __four units__, each between 3-5 weeks in length. Each unit will cover a different Adobe technology:
 
  * Unit One: InDesign
  * Unit Two: Photoshop
@@ -37,6 +37,8 @@ This course is divided into __four units__, each about 3-4 weeks in length. Each
  * Unit Four: Muse
 
 ## Work
+This course has 100 points, divided into __projects__, __homework__ and __quizzes__.
+
 ### Use of Class Time
 This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. An effort is made to create a more interactive and less passive experience for students.
 
@@ -50,16 +52,13 @@ This class has __four__ homework assignments designed to test and reinforce know
 This course has __eight__ unannounced quizzes. The quizzes should be fairly straightforward if you have been participating in class.
 
 ### Readings and Tutorials
-You will generally be asked to complete a reading or tutorial outside of class over the weekend. Most of the tutorials will be videos from Lynda.com.
-
-Failure to keep up with readings and tutorials will make it difficult to do well on projects, homework, and quizzes.
+You will generally be asked to complete a reading or tutorial outside of class over the weekend. Most of the tutorials will be videos from Lynda.com. Failure to keep up with readings and tutorials will make it difficult to do well on projects, homework, and quizzes.
 
 ### Final
 There is no final exam for this class.
 
 ### Extra Credit
-There will be __one__ opportunity this semester to earn __2 pts.__ of extra credit.  
-You can either (a) participate in an ICR research study, or (b) create a short video tutorial for a graphic design technique.
+There will be __one__ opportunity this semester to earn __2 pts.__ of extra credit. You can either (a) participate in an ICR research study, or (b) create a short video tutorial for a graphic design technique.
 
 ## Grading
 ### Points
@@ -85,23 +84,31 @@ Your grade will be assigned as follows:
 
 Grading criteria will be given for each individual assignment.
 
+## Feedback
+The design process is an iterative one; our visions rarely take the shape we want on our first try. That being said, criticism and feedback is essential for the betterment of one's craft. You might see very differently from your colleagues, and everyone has a unique viewpoint.
+
+In this course, you will give and receive constructive criticism with other students. The goal is to prepare you for "real life" scenarios where you are asked to change or alter a design based on the client's needs. Learning to accept criticism and adapt accordingly is an absolutely essential skill.
+
+This will help you to consider client needs, see differently, and rid yourself of "creative anxiety."
+
 ## Revisions
 When working with clients, customers, and co-workers, revisions are common. Factoring that graphic design is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
 
 If you are re-submitting work:
+
 1. You must have submitted the work by its due date. Late work is not eligible for re-submission.
-2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission. This is at the instructor's discretion.
+2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete work is not eligible for resubmission. This is at the instructor's discretion.
 3. You may only recover partial points lost.
 
 ## Required Readings and Materials
 ### Text
-There is no required text, but I recommend reading [Universal Principles of Design](http://a.co/cI4o0VL) by William Lidwell et al. This is a fantastic book regardless of what job you intend to do in the future.
+There is no required text, but I recommend reading [Universal Principles of Design](http://a.co/cI4o0VL) by William Lidwell et al. This is a fantastic book and it will serve you well in almost any career.
 
 ### Lynda
 You want access to Lynda.com, which can be obtained FREE with a [Monroe County Public Library](https://mcpl.info/) card.
 
 ### Adobe Software
-We will be four Adobe products - InDesign, Photoshop, Illustrator and Muse.
+We will use four Adobe products - InDesign, Photoshop, Illustrator and Muse.
 
 Go to [iuware.iu.edu](https://iuware.iu.edu) to download Adobe Creative Cloud applications.
 We will be using CC 2017 in this class.
@@ -119,7 +126,7 @@ It is also useful to have access to a large display, or dual display configurati
 ### Attendance
 Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
-Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
+Course material is cumulative in nature and class periods are used to develop design skills and work on projects. Missing class also means missing out on quizzes and valuable hands-on practice.
 
 ### Lost Data
 You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or Box to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
@@ -169,7 +176,9 @@ Source: [http://enrollmentbulletin.indiana.edu/pages/relo.php](http://enrollment
 This course is rich in content and skill levels vary widely among students. The instructor reserves the right to amend this syllabus to better match the needs of a given class.
 
 ### Final Grade
-The instructor reserves the right to adjust your final grade based on effort and participation. This is very uncommon.
+The instructor reserves the right to adjust your final grade based on effort and participation.
+
+This is very uncommon and only applies to extenuating circumstances.
 
 ## Tentative Schedule
 A given class of students can differ widely in skills and teaching needs, so schedule is subject to change.
@@ -177,7 +186,7 @@ A given class of students can differ widely in skills and teaching needs, so sch
 |         | Dates                 | Topic                         |
 |:--------|:----------------------|:------------------------------|
 | -       | -                     | __UNIT ONE: InDesign__        |
-| week 1  | Mon 8/21, Wed 8/23    | Intro to graphic Design       |
+| week 1  | Mon 8/21, Wed 8/23    | Intro to Graphic Design       |
 | week 2  | Mon 8/28, Wed 8/30    | Documents; pages; text        |
 | week 3  | Mon 9/4               | _NO CLASS; LABOR DAY_         |
 | week 3  | Wed 9/6               | Graphics and color            |
