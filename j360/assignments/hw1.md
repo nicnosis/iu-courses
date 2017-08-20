@@ -1,9 +1,9 @@
 ---
 layout: default
-title: J360 - TEST
+title: Homework 1
 footer: ''
 highlight: 'assignments'
 course: 'j360'
 ---
 
-# j360 test assignment
+# Homework 1

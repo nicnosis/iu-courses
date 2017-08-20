@@ -15,8 +15,6 @@
                 </div>
             </li>
 
-
-
             <!-- SPRING 2017 -->
             {% if page.course == 'sp17/j460' %}
             <li class="nav-item" id="nav-datasets"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/datasets.html">datasets</a></li>
@@ -32,15 +30,17 @@
                 </div>
             </li>
             {% endif %}
+            <!-- END SPRING 2017 -->
 
             <li class="nav-item dropdown" id="nav-assignments">
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="nav-link-assignments" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-assignments">
 
                     {% if page.course == 'j360' %}
-                    <a href="{{site.baseurl}}/{{page.course}}/assignments/test.html" class="dropdown-item">test</a>
+                    <!--<a href="{{site.baseurl}}/{{page.course}}/assignments/test.html" class="dropdown-item">test</a>-->
                     {% endif %}
 
+                    <!-- SPRING 2017 -->
                     {% if page.course == 'sp17/j360' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw1.html">Homework 1</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw2.html">Homework 2</a>
@@ -56,7 +56,6 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/extra-credit.html">Extra Credit</a>
                     {% endif %}
-
                     {% if page.course == 'sp17/j460' %}
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment1.html">Assignment 1</a>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment2.html">Assignment 2</a>
@@ -64,6 +63,7 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/extra-credit.html">Extra Credit</a>
                     {% endif %}
+                    <!-- END SPRING 2017 -->
                 </div>
             </li>
         </ul>
