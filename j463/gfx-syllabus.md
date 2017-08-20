@@ -20,7 +20,7 @@ MSCH-C 226 or JOUR-J 210
 In this course, you will:
 
  * Learn universal principles of design (e.g., proportion, size, position, color)
- * Develop mastery of digital tools used for graphic design
+ * Develop mastery of digital tools used for graphic design - particularly Adobe software
  * Build an effective workflow and digital work environment
  * Create several attractive portfolio pieces
  * Learn to think and see differently
@@ -29,70 +29,48 @@ In this course, you will:
  * Gain a foundation for expanding your design skills in any context
 
 ## Structure
-This course is divided into __four units__, each about 3-4 weeks in length.
+This course is divided into __four units__, each about 3-4 weeks in length. Each unit will cover a different Adobe technology:
 
-### Unit One: HTML
-Unit One tackles the basics of web design and HTML, which is used to create the structural elements and content of a website. Class time will be spent familiarizing yourself with your text editor, analyzing websites, and learning fundamental web design concepts.
-
-### Unit Two: CSS
-Unit Two focuses on CSS, which is used to control the style and appearance of HTML elements. You will learn how to import, create, and work with stylesheets. This unit will give you more creative control over how your sites look and feel.
-
-### Unit Three: Design and Usability
-Unit Three focuses on creating pleasant experiences for users on your website. Terms like __usability__ and __user experience__ will become familiar as you learn how to make compelling and exciting experiences for your users.
-
-During Unit Three, you will begin to plan and layout your final project.
-
-### Unit Four: Final Project
-During this unit, there will be less lecturing and more hands-on work for your websites. I will give more individual instruction at this point as each person's website will differ. Your efforts will go into coding and designing your final website. This is also a great opportunity to learn and discuss any new web technologies that were not presented earlier in the course.
+ * Unit One: InDesign
+ * Unit Two: Photoshop
+ * Unit Three: Illustrator
+ * Unit Four: Muse
 
 ## Work
 ### Use of Class Time
 This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. An effort is made to create a more interactive and less passive experience for students.
 
-### Projects
-This class features __three__ large-scale web design projects, one of which will be your final website.
-
-#### Project 1 - HTML Tags and Attributes (10 pts.)
-Students will construct a basic website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
-
-#### Project 2 - Styling and CSS (15 pts.)
-The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. Project 2 will test students' knowledge of CSS selectors, properties, and values, as well as the Box-Model. 
-
-#### Final Project - Bootstrap Site (30 pts.)
-You will design, prototype, and develop a multi-page website using [Bootstrap](http://getbootstrap.com/). This project is designed to combine all of the skills you've acquired throughout the semester.
+### Projects (60 pts.)
+This class features __four__ creative projects; one for each unit. Each project gives you an opportunity to produce a strong portfolio piece; this will serve you both inside and outside of class.
 
 ### Homework (20 pts.)
-This class has __four__ homework assignments designed to test and reinforce knowledge from class. Homework assignments typically involve a shorter or less involved coding task.
+This class has __four__ homework assignments designed to test and reinforce knowledge from class. Homework assignments are intended to keep your skills sharp and prepare you for your projects.
 
-#### Codecademy
-You will be given assignments to complete on [Codecademy](https://www.codecademy.com/learn/learn-html-css/). In order to really learn and memorize code, you need to practice. While the Codecademy assignments are not graded, completing them will make your homeworks, projects, and quizzes much easier.
+### Quizzes (20 pts.)
+This course has __eight__ unannounced quizzes. The quizzes should be fairly straightforward if you have been participating in class.
 
-### Quizzes (15 pts.)
-This course has unannounced quizzes. The quizzes should be fairly straightforward if you have been reading the textbook and following lectures.
+### Readings and Tutorials
+You will generally be asked to complete a reading or tutorial outside of class over the weekend. Most of the tutorials will be videos from Lynda.com.
 
-### Participation (10 pts.)
-Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. About 8-10 of these small exercises will be given throughout the semester. They are to be finished during class and are generally graded on completion.
+Failure to keep up with readings and tutorials will make it difficult to do well on projects, homework, and quizzes.
 
 ### Final
-There is no final exam for this class. Instead, you will submit your __final project__ by the end of the semester.
+There is no final exam for this class.
 
 ### Extra Credit
 There will be __one__ opportunity this semester to earn __2 pts.__ of extra credit.  
-You can either (a) participate in an ICR research study, or (b) create a short video tutorial for a web design technique.
+You can either (a) participate in an ICR research study, or (b) create a short video tutorial for a graphic design technique.
 
 ## Grading
 ### Points
 There are a total of **100** points in this class. The grade is divided as follows:
 
-| Assignment                 |  Points |
-|:---------------------------|--------:|
-| Project 1                  |      10 |
-| Project 2                  |      15 |
-| Final Project              |      30 |
-| Homeworks (4 @ 5 pts each) |      20 |
-| Quizzes                    |      15 |
-| Participation              |      10 |
-| **Total**                  | **100** |
+| Assignment             |  Points |
+|:-----------------------|--------:|
+| Projects (15 pts each) |      60 |
+| Homeworks (5 pts each) |      20 |
+| Quizzes (2.5 pts each) |      20 |
+| **Total**              | **100** |
 
 ### Course Grade
 Your grade will be assigned as follows:
@@ -107,8 +85,8 @@ Your grade will be assigned as follows:
 
 Grading criteria will be given for each individual assignment.
 
-## Revisions  
-When software is created in a professional environment, changes and revisions are common. Factoring that web development is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
+## Revisions
+When working with clients, customers, and co-workers, revisions are common. Factoring that graphic design is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
 
 If you are re-submitting work:
 1. You must have submitted the work by its due date. Late work is not eligible for re-submission.
@@ -117,21 +95,22 @@ If you are re-submitting work:
 
 ## Required Readings and Materials
 ### Text
-We will use [HTML and CSS: Visual QuickStart Guide ](http://a.co/gwPoEWG), _8th edition_ by Elizabeth Castro et al. You are welcome to use any book you like, but assignments and projects will be tailored to the contents of this textbook.
+There is no required text, but I recommend reading [Universal Principles of Design](http://a.co/cI4o0VL) by William Lidwell et al. This is a fantastic book regardless of what job you intend to do in the future.
 
-### Codecademy
-You will use [Codecademy](https://www.codecademy.com/learn/learn-html-css/), a free online learning environment, to practice your coding skills outside of class.
+### Lynda
+You want access to Lynda.com, which can be obtained FREE with a [Monroe County Public Library](https://mcpl.info/) card.
 
-### Software
-Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development.
+### Adobe Software
+We will be four Adobe products - InDesign, Photoshop, Illustrator and Muse.
 
-We will use:  
+Go to [iuware.iu.edu](https://iuware.iu.edu) to download Adobe Creative Cloud applications.
+We will be using CC 2017 in this class.
 
- 1. A text editor - [Atom](https://atom.io/) is recommended.
- 2. A means of version control - [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
+#### File Storage
+ You really need a way to keep backups of your files! [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
 
 ### Hardware
-While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
+While graphic design can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts.
 
 It is also useful to have access to a large display, or dual display configuration. If you are bringing your own laptop to class, it is recommended to bring a mouse.
 
@@ -143,7 +122,7 @@ Students should make a serious effort to attend every lecture. While attendance 
 Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
 
 ### Lost Data
-You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
+You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or Box to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
 
 I **highly recommend** getting a [Box](https://uits.iu.edu/box) account. It is free, helps you to stay organized, and most importantly provides **backups** for your files.
 
@@ -163,8 +142,10 @@ For more information - [https://studentaffairs.indiana.edu/disability-services-s
 ### Academic Integrity
 As a student at IU, you are expected to adhere to the standards and policies detailed in the Code of Student Rights, Responsibilities, and Conduct (Code). When you submit an assignment with your name on it, you are signifying that the work contained therein is yours, unless otherwise cited or referenced. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. All suspected violations of the Code will be reported to the Dean of Students and handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final course grade, and a failing grade in the course, among other possibilities. If you are unsure about the expectations for completing an assignment or taking a test or exam, be sure to seek clarification beforehand.
 
-#### Proper Attribution for Referenced Works
-By nature, code is re-usable and extensible. It is both acceptable and encouraged to utilize and adapt examples of code; this is common on websites like StackOverflow. However, the sources for all referenced code must be given in your code commenting. I will assist students with finding code that is reusable (such as under the GNU license), and help with giving proper credit to the source.
+#### Use of Others' Assets
+Anything you make in this class must be __100 percent created by you__. You are allowed to borrow ideas, use images for reference, or imitate another artist's creative style, but you cannot steal photos/images without attribution.
+
+There are some instances in which it might be appropriate to use copyright- and royalty-free images. In this case, you must have my explicit consent, and you must give proper attribution to the source.
 
 ### Sexual Misconduct
 As your instructor, one of my responsibilities is to create a positive learning environment for all students. Title IX and IU’s Sexual Misconduct Policy prohibit sexual misconduct in any form, including sexual harassment, sexual assault, stalking, and dating and domestic violence.  If you have experienced sexual misconduct, or know someone who has, the University can help.
@@ -195,27 +176,27 @@ A given class of students can differ widely in skills and teaching needs, so sch
 
 |         | Dates                 | Topic                         |
 |:--------|:----------------------|:------------------------------|
-| -       | -                     | __UNIT ONE__                  |
-| week 1  | Mon 8/21, Wed 8/23    | Intro to HTML, tags           |
-| week 2  | Mon 8/28, Wed 8/30    | HTML Structure, Intro to Atom |
+| -       | -                     | __UNIT ONE: InDesign__        |
+| week 1  | Mon 8/21, Wed 8/23    | Intro to graphic Design       |
+| week 2  | Mon 8/28, Wed 8/30    | Documents; pages; text        |
 | week 3  | Mon 9/4               | _NO CLASS; LABOR DAY_         |
-| week 3  | Wed 9/6               | Divs, spans and containers    |
-| week 4  | Mon 9/11, Wed 9/13    | Text, images, links           |
-| -       | -                     | __UNIT TWO__                  |
-| week 5  | Mon 9/18, Wed 9/20    | Introducing CSS               |
-| week 6  | Mon 9/25, Wed 9/27    | Selectors, class and id       |
-| week 7  | Mon 10/2, Wed 10/4    | Text styling                  |
-| week 8  | Mon 10/9, Wed 10/11   | Layouts with styling          |
-| week 9  | Mon 10/16, Wed 10/18  | Tables, forms and lists       |
-| -       | -                     | __UNIT THREE__                |
-| week 10 | Mon 10/23, Wed 10/25  | Intro to design/usability     |
-| week 11 | Mon 10/30, Wed 11/1   | Trends/strategy in design     |
-| week 12 | Mon 11/6, Wed 11/8    | Wireframing, prep for final   |
-| -       | -                     | __UNIT FOUR__                 |
-| week 13 | Mon 11/13, Wed 11/14  | Intro to Bootstrap            |
+| week 3  | Wed 9/6               | Graphics and color            |
+| week 4  | Mon 9/11, Wed 9/13    | InDesign composition          |
+| -       | -                     | __UNIT TWO: Photoshop__       |
+| week 5  | Mon 9/18, Wed 9/20    | Digital image essentials      |
+| week 6  | Mon 9/25, Wed 9/27    | Canvas; selections; layers    |
+| week 7  | Mon 10/2, Wed 10/4    | Filters; effects; levels      |
+| -       | -                     | __UNIT THREE: Illustrator__   |
+| week 8  | Mon 10/9, Wed 10/11   | Artboards; documents          |
+| week 9  | Mon 10/16, Wed 10/18  | Fill and stroke; shapes       |
+| week 10 | Mon 10/23, Wed 10/25  | Layers; objects; groups       |
+| week 11 | Mon 10/30, Wed 11/1   | Pathfinder and complex shapes |
+| week 12 | Mon 11/6, Wed 11/8    | Composition and workflow      |
+| -       | -                     | __UNIT FOUR: Muse__           |
+| week 13 | Mon 11/13, Wed 11/14  | Wireframing and prototyping   |
 | -       | Sun 11/19 - Sun11/26  | _THANKSGIVING BREAK_          |
-| week 14 | Mon 11/27, Wed 11/29  | Bootstrap, rows and columns   |
-| week 15 | Mon 12/4, Wed 12/6    | Final project                 |
+| week 14 | Mon 11/27, Wed 11/29  | Making pages, adding content  |
+| week 15 | Mon 12/4, Wed 12/6    | Finishing your portfolio      |
 | week 16 | Mon 12/11 - Fri 12/15 | __FINALS__                    |
 
 ### Important Dates
