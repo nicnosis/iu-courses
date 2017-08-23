@@ -16,4 +16,9 @@ This week you will familiarize yourself with course materials and get a basic un
  * `install` Adobe Creative Cloud from [IU Ware](https://iuware.iu.edu/) if you don't already have it.
  * `get` a way to backup files - Box Sync or Google Drive are good options
  * `get` a library card from [MCPL](https://mcpl.monroe.lib.in.us/patronaccount/selfregister.aspx). It's free and you will need it to access Lynda. Do this as soon as possible.
- * `watch` _Learn InDesign in 30 Minutes_ from [InDesign CC 2017 Essential Training](https://www.lynda.com/InDesign-tutorials/Welcome/466174/559612-4.html)
+
+### Tutorials
+You will begin watching [InDesign CC 2017 Essential Training](https://www.lynda.com/InDesign-tutorials/Welcome/466174/559612-4.html)
+
+ * `watch` 1: _Learn InDesign in 30 Minutes_
+ * `watch` 2: _Creating a Document_

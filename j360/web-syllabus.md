@@ -111,6 +111,7 @@ Grading criteria will be given for each individual assignment.
 When software is created in a professional environment, changes and revisions are common. Factoring that web development is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
 
 If you are re-submitting work:
+
 1. You must have submitted the work by its due date. Late work is not eligible for re-submission.
 2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission. This is at the instructor's discretion.
 3. You may only recover partial points lost.
