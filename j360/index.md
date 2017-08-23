@@ -10,10 +10,11 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### In Class
  * `take` [this pre-test](https://goo.gl/forms/8DmxGILSVcKJFxpu2)
+ * `download` [this](examples/170823.zip) for today's activity
 
 ### At Home
  * `read` the [syllabus](j360-syllabus.pdf)
  * `read` Chapter 1
  * `register` for [Codecademy](https://www.codecademy.com/courses/learn-html-css/) and complete Section 1 - HTML Fundamentals
- * Get a way to backup files - Box Sync or Google Drive are good options
+ * `get` a way to backup files - Box Sync or Google Drive are good options
 
