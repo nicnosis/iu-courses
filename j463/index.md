@@ -22,3 +22,16 @@ You will begin watching [InDesign CC 2017 Essential Training](https://www.lynda.
 
  * `watch` 1: _Learn InDesign in 30 Minutes_
  * `watch` 2: _Creating a Document_
+
+## week 2
+At this point, you should have your library card with access to Lynda, your Adobe Creative Cloud software, and some basic InDesign skills.
+
+### At Home
+ * `begin` [Homework One](assignments/hw1.html)
+
+### Tutorials
+From _InDesign CC 2017 Essential Training_...
+
+ * `watch` 3: _Managing Pages_
+ * `watch` 4: _Text_
+ * `watch` 5: _Graphics_
