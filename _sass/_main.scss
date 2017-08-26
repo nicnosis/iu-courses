@@ -1,5 +1,7 @@
-$primaryColor: #FF5370;
-$boldColor: #AB495A;
+//$primaryColor: #FF5370;
+$primaryColor: #b8497d; // vin rouge
+//$boldColor: #AB495A;
+$boldColor: #a02b4d;
 $gray: rgba(0, 0, 0, 0.15);
 //$headerFont: 'Lato', sans-serif;
 $headerFont: 'Oswald', sans-serif;
@@ -27,7 +29,12 @@ pre.highlight  {
   padding-left: 0.5em;
   border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
-/*** End code styles ***/
+
+/* HERO STYLES */
+.course-header {
+  width: 100%;
+  height: auto;
+}
 
 .container {
   font-family: $bodyFont;
@@ -99,13 +106,14 @@ pre.highlight  {
     list-style-type: none;
   }
   ul {
-    margin-bottom: 2.5em;
+    margin-bottom: 2em;
   }
   ol li {
     list-style: decimal inside;
   }
   .card-block {
     background-color: #f0f0f0;
+    margin-bottom: 1rem;
   }
 }
 

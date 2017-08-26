@@ -6,6 +6,10 @@
 {% include nav.html %}
 {% endif %}
 <div class="container">
+    {% if page.course == 'j463' %}
+    <img src="{{site.baseurl}}/img/j463-header.png" alt="" class="course-header img-responsive">
+    {% endif %}
+    
     <h1>home</h1>
     <div class="row">
         <!-- weeks nav goes here-->

@@ -2,7 +2,13 @@
     <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
     <div class="collapse navbar-toggleable-md" id="navbarResponsive">
         <ul class="nav navbar-nav">
-            <li class="nav-item"><a href="{{site.baseurl}}/" class="navbar-brand">{{page.course}}</a></li>
+            <!-- BRAND -->
+            <li class="nav-item">
+                <a href="{{site.baseurl}}/" class="navbar-brand">
+                    {{page.course}}
+                </a>
+            </li>
+
             <li class="nav-item" id="nav-home"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/index.html">home <span class="sr-only">(current)</span></a></li>
             <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/instructor.html">instructor</a></li>
             <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
@@ -12,16 +18,16 @@
                 <div class="dropdown-menu" aria-labelledby="nav-link-materials">
                     <!--WEB DESIGN-->
                     {% if page.course == 'j360' %}
-                    <a class="dropdown-item" href="http://www.htmlcssvqs.com/8ed/examples/">Text Companion Site</a>
-                    <a class="dropdown-item" href="https://www.codecademy.com/courses/learn-html-css/">Codecademy</a>
-                    <a class="dropdown-item" href="https://www.w3schools.com/">W3Schools</a>
-                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/atom.html">Using Atom</a>
+                    <a class="dropdown-item" target="_blank" href="http://www.htmlcssvqs.com/8ed/examples/">Text Companion Site</a>
+                    <a class="dropdown-item" target="_blank" href="https://www.codecademy.com/courses/learn-html-css/">Codecademy</a>
+                    <a class="dropdown-item" target="_blank" href="https://www.w3schools.com/">W3Schools</a>
+                    <a class="dropdown-item" target="_blank" href="{{site.baseurl}}/{{page.course}}/atom.html">Using Atom</a>
                     {% endif %}
 
                     <!--GRAPHIC DESIGN-->
                     {% if page.course == 'j463' %}
-                    <a class="dropdown-item" href="https://mcpl.info/">MCPL</a>
-                    <a class="dropdown-item" href="https://iuware.iu.edu/">IUWare</a>
+                    <a class="dropdown-item" target="_blank" href="https://mcpl.info/">MCPL</a>
+                    <a class="dropdown-item" target="_blank" href="https://iuware.iu.edu/">IUWare</a>
                     {% endif %}
                 </div>
             </li>
@@ -45,7 +51,7 @@
 
                     <!-- GRAPHIC DESIGN -->
                     {% if page.course == 'j463' %}
-                    <!--<a href="{{site.baseurl}}/{{page.course}}/assignments/test.html" class="dropdown-item">test</a>-->
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw1.html" class="dropdown-item">hw1</a>
                     {% endif %}
 
 
