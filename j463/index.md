@@ -31,6 +31,7 @@ Download these helpful references:
 
  * [body-copy.pdf](mats/w2/body-copy.pdf)
  * [font-list.pdf](mats/w2/font-list.pdf)
+ * [type-anatomy.jpg](mats/w2/type-anatomy.jpg)
 
 We'll be doing this exercise together:
 
