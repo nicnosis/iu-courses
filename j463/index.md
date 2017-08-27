@@ -26,6 +26,16 @@ You will begin watching [InDesign CC 2017 Essential Training](https://www.lynda.
 ## week 2
 At this point, you should have your library card with access to Lynda, your Adobe Creative Cloud software, and some basic InDesign skills.
 
+### In Class
+Download these helpful references:
+
+ * [body-copy.pdf](mats/w2/body-copy.pdf)
+ * [font-list.pdf](mats/w2/font-list.pdf)
+
+We'll be doing this exercise together:
+
+ * [setting-type.zip](mats/w2/setting-type.zip)
+
 ### At Home
  * `begin` [Homework One](assignments/hw1.html)
 
