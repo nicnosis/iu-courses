@@ -27,6 +27,7 @@ Size correctly
 
 ### `2 point` HTML Tags
 
+### `bonus`
 
 ## Grading
 
