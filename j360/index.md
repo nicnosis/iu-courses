@@ -31,6 +31,7 @@ This week we'll be covering `chapter 3` of the text. At this point, you should b
 ### At Home
  * `read` Chapter 3. You can read Chapter 2 if you like, but we have covered most of it in class.
  * `read` Chapter 4.
+ * `begin` [Homework One](assignments/hw1.html)
 
 #### Codecademy
  * `complete` Section 2 - HTML Content

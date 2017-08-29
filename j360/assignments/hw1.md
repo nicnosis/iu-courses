@@ -14,26 +14,26 @@ Your finished product should look like [this](img/hw1-finished.png)
 ## Grading and Requirements
 Homeworks are worth `five points` in this course. Grading criteria are detailed below.
 
-### `1 point` File and Folder names
+### File and Folder names `1 pt.`
  * DO NOT use spaces in your filenames. Use hyphens instead
  * DO NOT use capital letters in your filenames
  * Make sure your HTML file is called `index.html`. This is the standard filename for a site
  * Your site folder should be named `hw1_lastname-firstname` _(e.g., hw1_aguirre-nicolas)_
  * You will submit a `.zip` file. Right click on your site folder and choose `compress`. Make sure this file is called `hw1_lastname-firstname.zip`
 
-### `1 point` Code Quality
+### Code Quality `1 pt.`
 Your code should:
 
  * Be free of extraneous whitespaces
  * Use proper indentation to show structure with nested tags - It should be easy to read for me
  * Follow conventions described in class and in the reading _(e.g., do not capitalize tags, use quotation marks when specifying an attribute)_
 
-### `1 point` Image
+### Image `1 pt.`
  * Make sure your image is included in your submission
  * Your `<img>` tag's `src` attribute should correctly reference the image
  * Your image should be reasonably sized. If it's too big/small, use the `width` and `height` attributes to adjust
 
-### `2 point` HTML Tags
+### HTML Tags `2 pts.`
 You should use these:
 
  * `<title>` - do not leave this empty
@@ -48,7 +48,7 @@ Your tags should be:
  * Properly nested; don't start another tag before closing the one you're in
  * Indented to line up properly
 
-### `bonus` Style
+### Style `1 bonus pt.`
 You'll get `1 bonus point` on this assignment if you make some stylistic changes.
 
 Put a `<style>` tag in your `<head>`. Use CSS to:
