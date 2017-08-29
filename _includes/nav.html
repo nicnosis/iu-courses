@@ -13,6 +13,7 @@
             <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/instructor.html">instructor</a></li>
             <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
 
+            <!-- COURSE MATERIALS -->
             <li class="nav-item dropdown" id="nav-materials">
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-materials">
@@ -31,6 +32,7 @@
                     {% endif %}
                 </div>
             </li>
+            <!-- END COURSE MATERIALS -->
 
             <!-- SPRING 2017 -->
             {% if page.course == 'sp17/j460' %}
@@ -40,13 +42,14 @@
             {% endif %}
             <!-- END SPRING 2017 -->
 
+            <!-- ASSIGNMENTS -->
             <li class="nav-item dropdown" id="nav-assignments">
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="nav-link-assignments" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-assignments">
 
                     <!-- WEB DESIGN -->
                     {% if page.course == 'j360' %}
-                    <!--<a href="{{site.baseurl}}/{{page.course}}/assignments/test.html" class="dropdown-item">test</a>-->
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw1.html" class="dropdown-item">Homework One</a>
                     {% endif %}
 
                     <!-- GRAPHIC DESIGN -->
@@ -81,6 +84,7 @@
                     <!-- END SPRING 2017 -->
                 </div>
             </li>
+            <!-- END ASSIGNMENTS -->
         </ul>
     </div>
 </nav>
