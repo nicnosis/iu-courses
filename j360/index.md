@@ -22,16 +22,18 @@ This week you will familiarize yourself with course materials and get a basic un
  * `complete` Section 1 - HTML Fundamentals
 
 ## week 2
-This week we'll be covering `chapter 3` of the text. At this point, you should be developing familiarity with HTML. You should begin feeling comfortable in Atom by the end of this week.
+This week we'll be covering chapters 3 and 4 of the text. At this point, you should be developing familiarity with HTML. You should begin feeling comfortable in Atom by the end of this week.
 
 ### In Class
  * `analyze` [structure-final.html](http://www.htmlcssvqs.com/8ed/examples/chapter-03/structure-final.html)
  * `download` [treat.zip](mats/w2/treat.zip)
+ * `download` [text.zip](mats/w2/text.zip)
 
 ### At Home
  * `read` Chapter 3. You can read Chapter 2 if you like, but we have covered most of it in class.
  * `read` Chapter 4.
  * `begin` [Homework One](assignments/hw1.html)
+ * `install` [atom-wrap-in-tag](https://atom.io/packages/atom-wrap-in-tag). To use it - select something in Atom and hit <kbd>Option + Shift + W</kbd> to surround your selection with a tag.
 
 #### Codecademy
  * `complete` Section 2 - HTML Content
