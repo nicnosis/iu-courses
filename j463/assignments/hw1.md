@@ -37,7 +37,7 @@ I need two things from you:
 Put both files into a folder named `HW1_lastname-firstname` and `compress` it into a `.zip` or `.rar` file. You will submit that single archive file to Canvas.
 
 ### Due Date
-This assignment is due __WEDNESDAY SEPTEMBER 6th__
+This assignment is due __FRIDAY SEPTEMBER 8th__ @ 11:59pm.
 
 ## Grading
 Homeworks are worth `five points` each.
