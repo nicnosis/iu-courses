@@ -36,6 +36,7 @@ Download these helpful references:
 We'll be doing this exercise together:
 
  * [setting-type.zip](mats/w2/setting-type.zip)
+ * [grids.zip](mats/w2/grids.zip)
 
 ### At Home
  * `begin` [Homework One](assignments/hw1.html)
