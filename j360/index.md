@@ -41,9 +41,13 @@ This week we'll be covering chapters 3 and 4 of the text. At this point, you sho
 ## week 3
 This week, we will focus on __links__. By the end of this week, you should understand how to create links on your sites, and have an understanding of how URLs and file paths work.
 
+You will begin [Project One](assignments/p1.html) this week.
+
 ### In Class
  * `download` [links.zip](mats/w3/links.zip)
 
 ### At Home
  * `read` Chapter 6
  * `read` [HTML Links](https://www.w3schools.com/html/html_links.asp) on W3Schools
+ * `finish` [Homework One](assignments/hw1.html)
+ * `begin` [Project One](assignments/p1.html)
