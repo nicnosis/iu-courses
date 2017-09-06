@@ -51,7 +51,15 @@ From _InDesign CC 2017 Essential Training_...
 ## week 3
 This week, we will focus on [modular design](https://designshack.net/articles/layouts/modular-design-the-complete-primer-for-beginners/). You will begin Project One this week.
 
+### In Class
+ * `download` [olympics.zip](mats/w3/olympics.zip)
+
 ### At Home
  * `finish` [Homework One](assignments/hw1.html)
  * `begin` [Project One](assignments/p1.html)
 
+### Tutorials
+From _InDesign CC 2017 Essential Training_...
+
+ * `watch` 9: _Text Formatting_
+ * `watch` 10: _Styles_
