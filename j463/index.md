@@ -68,6 +68,7 @@ From _InDesign CC 2017 Essential Training_...
 This week, we will explore good practices of [news design](https://en.wikipedia.org/wiki/News_design). You should be thinking about [Project One](assignments/p1.html). By this point, you should be familiar with how to use [paragraph styles](https://helpx.adobe.com/indesign/using/paragraph-character-styles.html) in InDesign.
 
 ### In Class
+ * `download` [grids.zip](mats/w2/grids.zip)
  * `download` [olympics.zip](mats/w3/olympics.zip)
 
 ### At Home
