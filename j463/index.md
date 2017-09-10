@@ -52,7 +52,7 @@ From _InDesign CC 2017 Essential Training_...
 This week, we will focus on [modular design](https://designshack.net/articles/layouts/modular-design-the-complete-primer-for-beginners/). You will begin Project One this week.
 
 ### In Class
- * `download` [olympics.zip](mats/w3/olympics.zip)
+ * <del> `download` [olympics.zip](mats/w3/olympics.zip) </del>
 
 ### At Home
  * `finish` [Homework One](assignments/hw1.html)
@@ -63,3 +63,16 @@ From _InDesign CC 2017 Essential Training_...
 
  * `watch` 9: _Text Formatting_
  * `watch` 10: _Styles_
+
+## week 4
+This week, we will explore good practices of [news design](https://en.wikipedia.org/wiki/News_design). You should be thinking about [Project One](assignments/p1.html). By this point, you should be familiar with how to use [paragraph styles](https://helpx.adobe.com/indesign/using/paragraph-character-styles.html) in InDesign.
+
+### In Class
+ * `download` [olympics.zip](mats/w3/olympics.zip)
+
+### At Home
+ * Continue working on [Project One](assignments/p1.html). By now you should know which stories you're going to use, and have a basic idea for your layout structure.
+ * Visit [Newseum](http://www.newseum.org/todaysfrontpages/) and get inspiration from some of their front pages.
+
+### Tutorials
+Finish up _InDesign CC 2017 Essential Training_; review any sections that you did not understand. I encourage you to follow along with the exercise files.
