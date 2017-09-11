@@ -51,3 +51,15 @@ You will begin [Project One](assignments/p1.html) this week.
  * `read` [HTML Links](https://www.w3schools.com/html/html_links.asp) on W3Schools
  * `finish` [Homework One](assignments/hw1.html)
  * `begin` [Project One](assignments/p1.html)
+
+## week 4
+This week, lecture will cover technical aspects of images - resolution, size, file formats, and color spaces. At this point, you should begin to feel confident working with images on your sites. You will spend time practicing code in class, and refining Project One.
+
+### In Class
+ * Practice - HTML Structure
+ * Work on [Project One](assignments/p1.html)
+
+### At Home
+ * `read` Chapter 5
+ * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp) on W3Schools. Much of this should be familiar by now.
+ * `continue` working on [Project One](assignments/p1.html)
