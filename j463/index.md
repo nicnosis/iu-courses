@@ -71,6 +71,25 @@ This week, we will explore good practices of [news design](https://en.wikipedia.
  * `download` [grids.zip](mats/w2/grids.zip)
  * `download` [olympics.zip](mats/w3/olympics.zip)
 
+<p>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    See Paragraph Styles
+  </button>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-block">
+    <ul>
+      <li><strong>Label</strong> - SalvoSerifCond - Black -  14/14</li>
+      <li><strong>Headline</strong> - Georgia Pro - Cond Black - 30/30</li>
+      <li><strong>Deck</strong> - Georgia Pro - Cond - 18/24</li>
+      <li><strong>Byline</strong> - Avenir Next - Bold - 10/10</li>
+      <li><strong>Service line</strong> - Georgia Pro - Regular - 9/9</li>
+      <li><strong>Body copy</strong> - Georgia Pro - Regular - 9/10 or 10/11</li>
+      <li><strong>Caption</strong> - Georgia Pro - Italic - 10/10</li>
+    </ul>
+  </div>
+</div>
+
 ### At Home
  * Continue working on [Project One](assignments/p1.html). By now you should know which stories you're going to use, and have a basic idea for your layout structure.
  * Visit [Newseum](http://www.newseum.org/todaysfrontpages/) and get inspiration from some of their front pages.
