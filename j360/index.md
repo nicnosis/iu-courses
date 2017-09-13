@@ -36,7 +36,7 @@ This week we'll be covering chapters 3 and 4 of the text. At this point, you sho
  * `install` [atom-wrap-in-tag](https://atom.io/packages/atom-wrap-in-tag). To use it - select something in Atom and hit <kbd>Option + Shift + W</kbd> to surround your selection with a tag.
 
 #### Codecademy
- * `complete` Section 2 - HTML Content
+ * `complete` _Section 2 - HTML Content_
 
 ## week 3
 This week, we will focus on __links__. By the end of this week, you should understand how to create links on your sites, and have an understanding of how URLs and file paths work.
@@ -56,10 +56,14 @@ You will begin [Project One](assignments/p1.html) this week.
 This week, lecture will cover technical aspects of images - resolution, size, file formats, and color spaces. At this point, you should begin to feel confident working with images on your sites. You will spend time practicing code in class, and refining Project One.
 
 ### In Class
- * Practice - HTML Structure
- * Work on [Project One](assignments/p1.html)
+ * `download` [review.zip](mats/w4/review.zip)
+ * `work` on [Project One](assignments/p1.html)
 
 ### At Home
  * `read` Chapter 5
  * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp) on W3Schools. Much of this should be familiar by now.
  * `continue` working on [Project One](assignments/p1.html)
+
+#### Codecademy
+ * `begin` Course - [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` Section 1 - _CSS Selectors and Visual Rules_
