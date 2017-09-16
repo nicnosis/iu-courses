@@ -64,6 +64,17 @@ This week, lecture will cover technical aspects of images - resolution, size, fi
  * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp) on W3Schools. Much of this should be familiar by now.
  * `continue` working on [Project One](assignments/p1.html)
 
+## week 5
+We will begin `Unit Two`, learning [css](https://www.w3schools.com/w3css/default.asp). Up until now, we have focused on structure in content in our web pages. Now, we will focus on style and appearance.
+
+### In Class
+ * `download` [style1.zip](mats/w5/style1.zip)
+
+### At Home
+ * `read` Chapter 7
+ * `read` Chapter 8
+ * `finish` [Project One](assignments/p1.html)
+
 #### Codecademy
  * `begin` Course - [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * `complete` Section 1 - _CSS Selectors and Visual Rules_
