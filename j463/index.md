@@ -17,7 +17,7 @@ This week you will familiarize yourself with course materials and get a basic un
  * `get` a way to backup files - Box Sync or Google Drive are good options
  * `get` a library card from [MCPL](https://mcpl.monroe.lib.in.us/patronaccount/selfregister.aspx). It's free and you will need it to access Lynda. Do this as soon as possible.
 
-### Tutorials
+#### Tutorials
 You will begin watching [InDesign CC 2017 Essential Training](https://www.lynda.com/InDesign-tutorials/Welcome/466174/559612-4.html)
 
  * `watch` 1: _Learn InDesign in 30 Minutes_
@@ -41,7 +41,7 @@ We'll be doing this exercise together:
 ### At Home
  * `begin` [Homework One](assignments/hw1.html)
 
-### Tutorials
+#### Tutorials
 From _InDesign CC 2017 Essential Training_...
 
  * `watch` 3: _Managing Pages_
@@ -58,7 +58,7 @@ This week, we will focus on [modular design](https://designshack.net/articles/la
  * `finish` [Homework One](assignments/hw1.html)
  * `begin` [Project One](assignments/p1.html)
 
-### Tutorials
+#### Tutorials
 From _InDesign CC 2017 Essential Training_...
 
  * `watch` 9: _Text Formatting_
@@ -94,5 +94,22 @@ This week, we will explore good practices of [news design](https://en.wikipedia.
  * Continue working on [Project One](assignments/p1.html). By now you should know which stories you're going to use, and have a basic idea for your layout structure.
  * Visit [Newseum](http://www.newseum.org/todaysfrontpages/) and get inspiration from some of their front pages.
 
-### Tutorials
+#### Tutorials
 Finish up _InDesign CC 2017 Essential Training_; review any sections that you did not understand. I encourage you to follow along with the exercise files.
+
+## week 5
+This week, we will finish `Unit One` and begin `Unit Two`. You will start to learn Photoshop. You will begin the Lynda series, [Photoshop CC 2017 Essential Training: Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2017-Essential-Training-Basics/519289-2.html)
+
+### In Class
+ * `download` [setting-type.zip](mats/w5/setting-type.zip)
+ * `download` [six-words.zip](mats/w5/six-words.zip)
+
+### At Home
+ * `finish` Project One (newspage)
+
+#### Tutorials
+You will begin the Lynda series, [Photoshop CC 2017 Essential Training: Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2017-Essential-Training-Basics/519289-2.html)
+
+ * `watch` 1: _Opening Files_
+ * `watch` 2: _Documents and Navigation_
+ * `watch` 3: _Customizing the Photoshop Interface_
