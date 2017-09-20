@@ -74,8 +74,8 @@ We will begin `Unit Two`, learning [css](https://www.w3schools.com/w3css/default
  * `read` Chapter 7
  * `read` Chapter 8
  * `finish` [Project One](assignments/p1.html)
+ * `begin` [Homework Two](http://pages.iu.edu/~naguirre/j360/assignments/hw2.html)
 
 #### Codecademy
  * `begin` Course - [Learn CSS](https://www.codecademy.com/learn/learn-css)
- * `begin` [Homework Two](http://pages.iu.edu/~naguirre/j360/assignments/hw2.html)
  * `complete` Section 1 - _CSS Selectors and Visual Rules_

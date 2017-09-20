@@ -103,7 +103,6 @@ This week, we will finish `Unit One` and begin `Unit Two`. You will start to lea
 ### In Class
  * `download` [setting-type.zip](mats/w5/setting-type.zip)
  * `get` [Powder Explosion Brush Set](https://www.behance.net/gallery/31115821/Powder-Explosion-brush-set)
- * `download` [cutout.zip](mats/w5/cutout.zip)
 
 ### At Home
  * `finish` Project One (newspage)
@@ -114,3 +113,7 @@ You will begin the Lynda series, [Photoshop CC 2017 Essential Training: Basics](
  * `watch` 1: _Opening Files_
  * `watch` 2: _Documents and Navigation_
  * `watch` 3: _Customizing the Photoshop Interface_
+
+## week 6
+### In Class
+ * `download` [cutout.zip](mats/w5/cutout.zip)
