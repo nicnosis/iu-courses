@@ -34,6 +34,13 @@ pre.highlight  {
   padding-left: 0.5em;
   border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
+
+h1, h2, h3, h4, h5, h6 {
+    code.highlighter-rouge {
+        color: #333;
+        font-size: 80%;
+    }
+}
 /* END CODE STYLES */
 
 /* HERO STYLES */

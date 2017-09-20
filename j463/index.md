@@ -102,7 +102,7 @@ This week, we will finish `Unit One` and begin `Unit Two`. You will start to lea
 
 ### In Class
  * `download` [setting-type.zip](mats/w5/setting-type.zip)
- * `download` [six-words.zip](mats/w5/six-words.zip)
+ * `get` [Powder Explosion Brush Set](https://www.behance.net/gallery/31115821/Powder-Explosion-brush-set)
 
 ### At Home
  * `finish` Project One (newspage)
