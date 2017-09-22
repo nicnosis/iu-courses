@@ -79,3 +79,18 @@ We will begin `Unit Two`, learning [css](https://www.w3schools.com/w3css/default
 #### Codecademy
  * `begin` Course - [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * `complete` Section 1 - _CSS Selectors and Visual Rules_
+
+## week 6
+
+### In Class
+ * `download` [style2.zip](mats/w6/style2.zip)
+ * `visit` [Font Pairing](https://femmebot.github.io/google-type/)
+ * `visit` [Google Fonts](https://fonts.google.com)
+
+### At Home
+ * `read` Chapter 9
+ * `read` Chapter 10
+ * `finish` [Homework Two](http://pages.iu.edu/~naguirre/j360/assignments/hw2.html)
+
+#### Codecademy
+ * `complete` Section 2 - _The Box Model_
