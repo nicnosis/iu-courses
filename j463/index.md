@@ -117,3 +117,13 @@ You will begin the Lynda series, [Photoshop CC 2017 Essential Training: Basics](
 ## week 6
 ### In Class
  * `download` [cutout.zip](mats/w5/cutout.zip)
+
+### At Home
+ * `begin` [Homework Two](assignments/hw2.html)
+
+#### Tutorials
+Continue with [Photoshop CC 2017 Essential Training: Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2017-Essential-Training-Basics/519289-2.html).
+
+ * `watch` 4: Digital Image Essentials
+ * `watch` 5: Cropping, Straightening, and Adjusting Canvas Size
+ * `watch` 6: Layers
