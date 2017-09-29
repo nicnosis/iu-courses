@@ -1,0 +1,66 @@
+/*most nav code from w3schools*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #777;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+li a:hover {
+    background-color: #555;
+}
+/*end nav*/
+/*some button code from w3schools*/
+.small {
+    width: 300px;
+    border: 3px solid white;
+}
+.button {
+    background-color: #777;
+    color: white;
+    font-size: 12px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding: 10px 24px;
+    border: none;
+}
+.button:hover {
+    background-color: #555
+}
+/*end button*/
+/*general style*/
+main,footer {
+    background-color: #999;
+    padding: 1em;
+}
+h1 {
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-shadow: 3px 2px rgba(0, 0, 0, 0.3);
+    color: white
+}
+h2 {
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
+    color: white
+}
+h3, h4, p, footer {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+    line-height: 0.9;
+}
+h3 {
+    text-transform: uppercase;
+}
+/*general style end*/

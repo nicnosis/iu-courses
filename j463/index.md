@@ -116,7 +116,8 @@ You will begin the Lynda series, [Photoshop CC 2017 Essential Training: Basics](
 
 ## week 6
 ### In Class
- * `download` [cutout.zip](mats/w5/cutout.zip)
+ * `download` [cutout.zip](mats/w6/cutout.zip)
+ * `download` [cutout2.zip](mats/w6/cutout2.zip)
 
 ### At Home
  * `begin` [Homework Two](assignments/hw2.html)

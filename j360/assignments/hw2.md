@@ -14,6 +14,11 @@ You should consider the designs of other food/restaurant websites.
 
 You are free to innovate and experiment creatively. I will provide a list of CSS properties you must use, but how you implement them is completely up to you.
 
+<div class="card-block">
+  <p class="card-text">Here's an example from one of our students:</p>
+  <a href="../examples/pizza/" class="btn btn-primary" target="_blank">View Example</a>
+</div>
+
 ### Reference
 I highly recommend finishing the first CSS Codecademy lesson before attempting this assignment.
 

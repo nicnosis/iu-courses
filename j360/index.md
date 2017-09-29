@@ -84,6 +84,7 @@ We will begin `Unit Two`, learning [css](https://www.w3schools.com/w3css/default
 
 ### In Class
  * `download` [style2.zip](mats/w6/style2.zip)
+ * `download` [style3.zip](mats/w6/style3.zip)
  * `visit` [Font Pairing](https://femmebot.github.io/google-type/)
  * `visit` [Google Fonts](https://fonts.google.com)
 
@@ -94,3 +95,11 @@ We will begin `Unit Two`, learning [css](https://www.w3schools.com/w3css/default
 
 #### Codecademy
  * `complete` Section 2 - _The Box Model_
+
+## week 7
+
+### In Class
+ * `download` [layouts1.zip](mats/w7/layouts1.zip)
+ * `inspiration` [gus-trans](https://gus-trans.com/)
+
+### At Home

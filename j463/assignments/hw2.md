@@ -20,6 +20,7 @@ The final result might look something like this:
 <img src="img/collage.png" width="300">
 
 ## Approach
+You may find [this Adobe tutorial](https://helpx.adobe.com/photoshop/how-to/composite-select-mask.html) useful.
 
 1. Get your images. Google Images and/or Pexels are good starting places.
 2. "Cut out" your subject. I recommend doing this with the quick select tool. I highly recommend [this tutorial](https://youtu.be/J_GGu_ZaHbQ) for a good overview of the quick select tool.
