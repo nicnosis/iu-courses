@@ -74,7 +74,7 @@ We will begin `Unit Two`, learning [css](https://www.w3schools.com/w3css/default
  * `read` Chapter 7
  * `read` Chapter 8
  * `finish` [Project One](assignments/p1.html)
- * `begin` [Homework Two](http://pages.iu.edu/~naguirre/j360/assignments/hw2.html)
+ * `begin` [Homework Two](j360/assignments/hw2.html)
 
 #### Codecademy
  * `begin` Course - [Learn CSS](https://www.codecademy.com/learn/learn-css)
@@ -91,7 +91,7 @@ We will begin `Unit Two`, learning [css](https://www.w3schools.com/w3css/default
 ### At Home
  * `read` Chapter 9
  * `read` Chapter 10
- * `finish` [Homework Two](http://pages.iu.edu/~naguirre/j360/assignments/hw2.html)
+ * `finish` [Homework Two](assignments/hw2.html)
 
 #### Codecademy
  * `complete` Section 2 - _The Box Model_
@@ -101,5 +101,29 @@ We will begin `Unit Two`, learning [css](https://www.w3schools.com/w3css/default
 ### In Class
  * `download` [layouts1.zip](mats/w7/layouts1.zip)
  * `inspiration` [gus-trans](https://gus-trans.com/)
+ <!-- * `inspiration` [studio venezia](http://www.studio-venezia.com/) -->
 
 ### At Home
+### Project
+ * `begin` [Project Two](assignments/p2.html)
+
+#### Codecademy
+ * `complete` Section 3 - _CSS Display and Positioning_
+
+#### Flexbox
+We will begin using Flexbox, a helpful CSS feature for designing layouts. You may find these tutorials useful.
+
+<p>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    See Tutorials
+  </button>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-block">
+    <ul>
+        <li><a href="https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties">Scotch.io Visual Guide to Flexbox</a></li>
+        <li><a href="https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/">Scotch.io Flexbox Playground</a></li>
+        <li><a href="https://www.w3schools.com/css/css3_flexbox.asp">W3 Guide to Flexbox</a></li>
+    </ul>
+  </div>
+</div>
