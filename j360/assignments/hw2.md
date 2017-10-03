@@ -74,13 +74,13 @@ Implement each selector from the following list at least once. How you choose to
  * [margin](https://www.w3schools.com/cssref/pr_margin.asp) or [padding](https://www.w3schools.com/cssref/pr_padding.asp)
  * [text-transform](https://www.w3schools.com/cssref/pr_text_text-transform.asp)
 
-### File and folder names `1 pt`
+### File and folder names `1 pt.`
  * DO NOT use spaces in your filenames. Use hyphens instead
  * DO NOT use capital letters in your filenames
  * Your site folder should be named `hw2_lastname-firstname` _(e.g., hw2_aguirre-nicolas)_
  * You will submit a `.zip` file. Right-click on your site folder and choose `compress`. Make sure this file is called `hw2_lastname-firstname.zip`
 
-### Code Quality `1 pts.`
+### Code Quality `1 pt.`
 Your code should:
 
  * Be free of extraneous whitespaces

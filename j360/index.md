@@ -103,9 +103,9 @@ We will begin `Unit Two`, learning [css](https://www.w3schools.com/w3css/default
  * `inspiration` [gus-trans](https://gus-trans.com/)
  <!-- * `inspiration` [studio venezia](http://www.studio-venezia.com/) -->
 
-### At Home
-### Project
- * `begin` [Project Two](assignments/p2.html)
+<!-- ### At Home -->
+<!-- ### Project -->
+ <!-- * `begin` [Project Two](assignments/p2.html) -->
 
 #### Codecademy
  * `complete` Section 3 - _CSS Display and Positioning_

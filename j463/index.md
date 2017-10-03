@@ -128,3 +128,17 @@ Continue with [Photoshop CC 2017 Essential Training: Basics](https://www.lynda.c
  * `watch` 4: Digital Image Essentials
  * `watch` 5: Cropping, Straightening, and Adjusting Canvas Size
  * `watch` 6: Layers
+
+## week 7
+### In Class
+ * `download` [color.zip](mats/w7/color.zip)
+ * `download` [blend.zip](mats/w7/blend.zip)
+
+### At Home
+ * `finish` [Homework Two](assignments/hw2.html) by Wednesday
+ * `get` a [Pinterest](https://www.pinterest.com/) account if you don't have one. You will need it for Project Two.
+
+#### Tutorials
+ * `watch` 7: _Color and Brush Essentials_
+ * `watch` 8: _Working with Layer Masks_
+ * `watch` 9: _Making Selections_
