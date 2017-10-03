@@ -137,9 +137,10 @@ Continue with [Photoshop CC 2017 Essential Training: Basics](https://www.lynda.c
 ### At Home
  * `finish` [Homework Two](assignments/hw2.html) by Wednesday
  * `get` a [Pinterest](https://www.pinterest.com/) account if you don't have one. You will need it for Project Two.
- * `begin` [Project Two](assignments/p2.html). By Monday you should have:
-   * an idea of what you want to do
-   * a few examples or sources of inspiration. Use Pinterest to assemble a 'mood board' with ideas &mdash; color schemes, compositions, hierarchy, fonts, etc., that you can reference during your design.
+ * `begin` [Project Two](assignments/p2.html). By Monday you should:
+   * Have an idea of what you want to do
+   * Have (at least) a few examples or sources of inspiration. Use Pinterest to assemble a 'mood board' with ideas &mdash; color schemes, compositions, hierarchy, fonts, etc., that you can reference during your design.
+   * Complete [this form](https://goo.gl/forms/bFU04Z7N2DsTdRsk2)
 
 #### Tutorials
  * `watch` 7: _Color and Brush Essentials_
