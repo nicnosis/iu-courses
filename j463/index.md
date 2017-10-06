@@ -152,8 +152,9 @@ Begin working on [Project Two](assignments/p2.html). By the end of the week you 
 
 ### In Class
  * `download` [color.zip](mats/w7/color.zip)
- * `download` [smart-objects.zip]()
- * `download` [filters.zip]()
+ * `download` [smart-objects.zip](mats/w8/smart-objects.zip)
+ * `download` [transform.zip](mats/w8/transform.zip)
+ * `download` [filters.zip](mats/w8/filters.zip)
 
 ### At Home
 Continue working on your poster. You are expected to work steadily on this, prepared to share progress each class period.
