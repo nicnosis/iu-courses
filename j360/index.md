@@ -127,3 +127,16 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
     </ul>
   </div>
 </div>
+
+## week 8
+
+### In Class
+ * `download` [backstretch.zip](mats/w8/backstretch.zip)
+ * `download` [flex.zip](mats/w8/flex.zip)
+ * `inspiration` [rottefella](https://klaer.rottefella.no/en/intro)
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html)
+
+#### Codecademy
+ * `complete` Section 4 - _CSS Color_
