@@ -133,9 +133,7 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
 ### In Class
  * `download` [backstretch.zip](mats/w8/backstretch.zip)
  * `download` [flex.zip](mats/w8/flex.zip)
- * `download` [rwd.zip](mats/w8/rwd.zip)
  * `inspiration` [rottefella](https://klaer.rottefella.no/en/intro)
- * `inspiration` [inside the head](https://insidethehead.co/)
 
 ### At Home
  * `continue` [Project Two](assignments/p2.html)

@@ -148,7 +148,7 @@ Continue with [Photoshop CC 2017 Essential Training: Basics](https://www.lynda.c
  * `watch` 9: _Making Selections_
 
 ## week 8
-Begin working on [Project Two](assignments/p2.html). By the end of the week you should have a concept for your film. Begin collection sources of inspiration _(e.g., color schemes, other movie posters)_
+Begin working on [Project Two](assignments/p2.html). By the end of the week you should have a concept for your film. Begin collecting sources of inspiration _(e.g., color schemes, other movie posters)_
 
 ### In Class
  * `download` [color.zip](mats/w7/color.zip)
