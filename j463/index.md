@@ -158,3 +158,21 @@ Begin working on [Project Two](assignments/p2.html). By the end of the week you 
 
 ### At Home
 Continue working on your poster. You are expected to work steadily on this, prepared to share progress each class period.
+
+## week 9
+You will get a basic introduction to Illustrator this week. Continue working on your poster.
+
+### In Class
+ * `visit` [Behance AI gallery](https://www.behance.net/galleries/adobe/3/Illustrator?tracking_source=title)
+ * `download` [ai-interface.zip](mats/w9/ai-interface.zip)
+ * `download` [trace.zip](mats/w9/ai-trace.zip)
+ * `play` [the bezier game](http://bezier.method.ac/)
+
+### At Home
+Finish your movie poster. It is due `Monday, Oct 23rd`.
+
+#### Tutorials
+You will begin the Lynda series, [Illustrator CC 2017 Essential Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2017-Essential-Training/578066-2.html)
+
+ * `watch` 1: _Getting Started_
+ * `watch` 2: _Navigating Your Documents_

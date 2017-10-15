@@ -1,11 +1,11 @@
 # J360 DESIGNING BRAND IDENTITY
 ## Fall 2017, second 8 weeks
 
-**LOCATION** - Franklin Hall 062  
+**LOCATION** --- Franklin Hall 062  
 **SECTIONS**  
-11204 - Meets MW 10:45A - 12:45P  
-**INSTRUCTOR** - Nic Aguirre - naguirre@indiana.edu  
-**OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00A - 11:00A
+38525 - Meets TR 05:30P - 08:00P  
+**INSTRUCTOR** --- Nic Aguirre - naguirre@indiana.edu  
+**OFFICE HOURS** --- FF M130S (Stack 4), Friday 10:00A - 11:00A
 
 ## Description
 
@@ -25,15 +25,14 @@
 ### Points
 There are a total of **100** points in this class. The grade is divided as follows:
 
-| Assignment                 |  Points |
-|:---------------------------|--------:|
-| Project 1                  |      10 |
-| Project 2                  |      15 |
-| Final Project              |      30 |
-| Homeworks (4 @ 5 pts each) |      20 |
-| Quizzes                    |      15 |
-| Participation              |      10 |
-| **Total**                  | **100** |
+| Assignment         |  Points |
+|:-------------------|--------:|
+| Project 1: Analyze |      20 |
+| Project 2: Design  |      20 |
+| Project 3: Create  |      20 |
+| Homework           |      20 |
+| Participation      |      20 |
+| **Total**          | **100** |
 
 ### Course Grade
 Your grade will be assigned as follows:
@@ -89,7 +88,7 @@ The only __exception to this rule__ is the final project, which cannot be submit
 ### Students with Disabilities
 If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.  
 
-For more information - [https://studentaffairs.indiana.edu/disability-services-students/](https://studentaffairs.indiana.edu/disability-services-students/)
+For more information --- [https://studentaffairs.indiana.edu/disability-services-students/](https://studentaffairs.indiana.edu/disability-services-students/)
 
 ### Academic Integrity
 As a student at IU, you are expected to adhere to the standards and policies detailed in the Code of Student Rights, Responsibilities, and Conduct (Code). When you submit an assignment with your name on it, you are signifying that the work contained therein is yours, unless otherwise cited or referenced. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. All suspected violations of the Code will be reported to the Dean of Students and handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final course grade, and a failing grade in the course, among other possibilities. If you are unsure about the expectations for completing an assignment or taking a test or exam, be sure to seek clarification beforehand.
