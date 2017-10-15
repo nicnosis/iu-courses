@@ -142,3 +142,13 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
 
 #### Codecademy
  * `complete` Section 4 - _CSS Color_
+
+
+## week 9
+
+### In Class
+ * `download` [rwd2.zip](mats/w9/rwd2.zip)
+ * `inspiration` [zoomanity](http://zoomanity.land/en/)
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html)
