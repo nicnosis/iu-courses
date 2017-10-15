@@ -17,9 +17,7 @@
 
 
 ## Structure
-This course is divided into __four units__, each about 3-4 weeks in length.
 
-### Unit One: HTML
 
 ## Work
 
@@ -51,7 +49,7 @@ Your grade will be assigned as follows:
 Grading criteria will be given for each individual assignment.
 
 ## Revisions  
-When software is created in a professional environment, changes and revisions are common. Factoring that web development is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
+Students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
 
 If you are re-submitting work:
 
@@ -59,20 +57,9 @@ If you are re-submitting work:
 2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission. This is at the instructor's discretion.
 3. You may only recover partial points lost.
 
-## Required Readings and Materials
-### Text
-We will use [HTML and CSS: Visual QuickStart Guide ](http://a.co/gwPoEWG), _8th edition_ by Elizabeth Castro et al. You are welcome to use any book you like, but assignments and projects will be tailored to the contents of this textbook.
-
-### Codecademy
-You will use [Codecademy](https://www.codecademy.com/learn/learn-html-css/), a free online learning environment, to practice your coding skills outside of class.
 
 ### Software
-Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development.
-
-We will use:  
-
- 1. A text editor - [Atom](https://atom.io/) is recommended.
- 2. A means of version control - [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
+You will need access to Adobe Creative Cloud.
 
 ### Hardware
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
@@ -137,30 +124,17 @@ The instructor reserves the right to adjust your final grade based on effort and
 ## Tentative Schedule
 A given class of students can differ widely in skills and teaching needs, so schedule is subject to change.
 
-|         | Dates                 | Topic                         |
-|:--------|:----------------------|:------------------------------|
-| -       | -                     | __UNIT ONE__                  |
-| week 1  | Mon 8/21, Wed 8/23    | Intro to HTML, tags           |
-| week 2  | Mon 8/28, Wed 8/30    | HTML Structure, Intro to Atom |
-| week 3  | Mon 9/4               | _NO CLASS; LABOR DAY_         |
-| week 3  | Wed 9/6               | Divs, spans and containers    |
-| week 4  | Mon 9/11, Wed 9/13    | Text, images, links           |
-| -       | -                     | __UNIT TWO__                  |
-| week 5  | Mon 9/18, Wed 9/20    | Introducing CSS               |
-| week 6  | Mon 9/25, Wed 9/27    | Selectors, class and id       |
-| week 7  | Mon 10/2, Wed 10/4    | Text styling                  |
-| week 8  | Mon 10/9, Wed 10/11   | Layouts with styling          |
-| week 9  | Mon 10/16, Wed 10/18  | Tables, forms and lists       |
-| -       | -                     | __UNIT THREE__                |
-| week 10 | Mon 10/23, Wed 10/25  | Intro to design/usability     |
-| week 11 | Mon 10/30, Wed 11/1   | Trends/strategy in design     |
-| week 12 | Mon 11/6, Wed 11/8    | Wireframing, prep for final   |
-| -       | -                     | __UNIT FOUR__                 |
-| week 13 | Mon 11/13, Wed 11/14  | Intro to Bootstrap            |
-| -       | Sun 11/19 - Sun11/26  | _THANKSGIVING BREAK_          |
-| week 14 | Mon 11/27, Wed 11/29  | Bootstrap, rows and columns   |
-| week 15 | Mon 12/4, Wed 12/6    | Final project                 |
-| week 16 | Mon 12/11 - Fri 12/15 | __FINALS__                    |
+|         | Dates                   | Topic                |
+|:--------|:------------------------|:---------------------|
+| week 9  | Thurs 10/19             |                      |
+| week 10 | Tues 10/24, Thurs 10/26 |                      |
+| week 11 | Tues 10/31, Thurs 11/2  |                      |
+| week 12 | Tues 11/7, Thurs 11/9   |                      |
+| week 13 | Tues 11/14, Thurs 11/16 |                      |
+| -       | Sun 11/19 - Sun11/26    | _THANKSGIVING BREAK_ |
+| week 14 | Tues 11/28, Thurs 11/30 |                      |
+| week 15 | Tues 12/5, Thurs 12/7   |                      |
+| week 16 | Mon 12/11 - Fri 12/15   | __FINALS__           |
 
 ### Important Dates
 Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml) for important dates. I have listed some of them here:
