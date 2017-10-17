@@ -8,13 +8,32 @@
 **OFFICE HOURS** --- FF M130S (Stack 4), Friday 10:00A - 11:00A
 
 ## Description
+In this course, you will learn why brands are important, and how to build them. Brands exist in obvious places: companies, logos, and products--- but also in less obvious places: individuals, cultures, and subcultures.
 
+You will come to understand the importance of brands--- why they matter and what value they provide to consumers. You will learn to see differently; analyzing and understanding the role that brands play and how organizations build them.
 
-### Prerequisites
-
+After you learn how to create a memorable and marketable brand identity, you will design and prototype creative marketing materials for a product.
 
 ## Objectives
+### Analysis
+Before creating your own brand, you will:
 
+ * Analyze existing brands
+ * Reflect on your own experience--- come to understand why you identify with and buy certain products
+ * Identify successful branding tactics
+ * Understand the purpose and value of branding
+ * Understand how an brand's beliefs, mission, and values determine its behavior and identity
+
+### Design and Development
+After you learn principles of branding, you will apply them.
+
+You will:
+
+ * Develop a concept for a brand--- mission and core values
+ * Build an identity for a brand
+    * Decide what kind of "voice" or message this brand has
+    * Decide what colors, graphical elements, and media best represent the brand
+ * Design a creative advertisement _(e.g., e-mail campaign)_ that serves as a vehicle for your brand's voice and identity
 
 ## Structure
 
