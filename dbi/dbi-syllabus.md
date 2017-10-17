@@ -25,7 +25,7 @@ Before creating your own brand, you will:
 * Reflect on your own experience--- come to understand why you identify with and buy certain products
 * Identify successful branding tactics
 * Understand the purpose and value of branding
-* Understand how an brand's beliefs, mission, and values determine its behavior and identity
+* Understand how a brand's beliefs, mission, and values determine its behavior and identity
 
 ### Design and Development
 
@@ -113,9 +113,9 @@ It is also useful to have access to a large display, or dual display configurati
 
 ### Attendance
 
-Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
+Attendance is absolutely mandatory. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
-Course material is cumulative in nature and class periods are used to develop skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
+Course material is cumulative in nature and class periods are used to develop skills and work on projects. You will also miss out on participation activities if you miss class.
 
 ### Lost Data
 
@@ -144,8 +144,17 @@ For more information --- [https://studentaffairs.indiana.edu/disability-services
 As a student at IU, you are expected to adhere to the standards and policies detailed in the Code of Student Rights, Responsibilities, and Conduct (Code). When you submit an assignment with your name on it, you are signifying that the work contained therein is yours, unless otherwise cited or referenced. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. All suspected violations of the Code will be reported to the Dean of Students and handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final course grade, and a failing grade in the course, among other possibilities. If you are unsure about the expectations for completing an assignment or taking a test or exam, be sure to seek clarification beforehand.
 
 #### Proper Attribution for Referenced Works
+You may find yourself referencing other work. Examples may include:
 
-By nature, code is re-usable and extensible. It is both acceptable and encouraged to utilize and adapt examples of code; this is common on websites like StackOverflow. However, the sources for all referenced code must be given in your code commenting. I will assist students with finding code that is reusable (such as under the GNU license), and help with giving proper credit to the source.
+1. Using code for a website
+2. Using a photograph that somebody else took
+
+If you are doing this, you must do two things:
+
+1. Get my permission to use the other person's work
+2. Properly attribute _(e.g., citing the source of code you used)_
+
+This is taken __very seriously__.
 
 ### Sexual Misconduct
 
@@ -192,7 +201,7 @@ The instructor reserves the right to adjust your final grade based on effort and
 
 ### Important Dates
 
-Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml) for important dates. I have listed some of them here:
+Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml?s=8w2) for important dates. I have listed some of them here:
 
 #### Fall 2017 <small>second 8 weeks</small>
 
