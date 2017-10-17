@@ -1,13 +1,13 @@
 # J360 DESIGNING BRAND IDENTITY
-## Fall 2017, second 8 weeks
+## Fall 2017, <small>second 8 weeks</small>
 
 **LOCATION** --- Franklin Hall 062  
 **SECTIONS**  
-38525 - Meets TR 05:30P - 08:00P  
+38525 - Meets TR 05:30P -- 08:00P  
 **INSTRUCTOR** --- Nic Aguirre - naguirre@indiana.edu  
 **OFFICE HOURS** --- FF M130S (Stack 4), Friday 10:00A - 11:00A
 
-## Description
+## Description
 In this course, you will learn why brands are important, and how to build them. Brands exist in obvious places: companies, logos, and products--- but also in less obvious places: individuals, cultures, and subcultures.
 
 You will come to understand the importance of brands--- why they matter and what value they provide to consumers. You will learn to see differently; analyzing and understanding the role that brands play and how organizations build them.
@@ -31,14 +31,25 @@ You will:
 
  * Develop a concept for a brand--- mission and core values
  * Build an identity for a brand
-    * Decide what kind of "voice" or message this brand has
-    * Decide what colors, graphical elements, and media best represent the brand
- * Design a creative advertisement _(e.g., e-mail campaign)_ that serves as a vehicle for your brand's voice and identity
-
-## Structure
-
+    * Develop a voice, character, and message for this brand
+    * Consider the experience you want people to have with your brand
+    * Choose colors, graphical elements, and media that represent the brand
+  * Design a brand identity style guide--- a creative brief that shows the visual style and 'character' of a brand
+  * Design a creative commercial product _(e.g., e-mail campaign or landing page)_ that serves as a vehicle for your brand's voice and identity
 
 ## Work
+### Projects
+This course is project-based with the intention of engaging students through active, creative projects. The course is designed to help you build viable portfolio pieces. You are expected to work on projects __both inside and outside of class__. There are three large projects during the semester.
+
+You will present your third project during finals week.
+
+### Homework
+You are expected to complete homework assignments. These may include reading, writing, or design/creative work. There will be 1 to 2 homework assignments a week.
+
+### Participation
+Rather than listen to me lecture for the entire class period, you will actively participate in the subject matter. Remember that everyone has had different experiences with brands--- your opinions, views, and experiences serve as valuable contributions to the course.
+
+You are expected to __participate in class activities and discussion__. Whether you are comfortable speaking in public, or quiet and reticent, this class will serve as an opportunity to hone your speaking skills and build confidence.
 
 ## Grading
 ### Points
@@ -56,13 +67,13 @@ There are a total of **100** points in this class. The grade is divided as follo
 ### Course Grade
 Your grade will be assigned as follows:
 
-| Points     | Grade |
-|:-----------|:------|
-| 90 - 100   | A     |
-| 80 - 89.99 | B     |
-| 70 - 78.99 | C     |
-| 60 - 69.99 | D     |
-| below 60   | F     |
+| Points      | Grade |
+|:------------|:------|
+| 90 -- 100   | A     |
+| 80 -- 89.99 | B     |
+| 70 -- 78.99 | C     |
+| 60 -- 69.99 | D     |
+| below 60    | F     |
 
 Grading criteria will be given for each individual assignment.
 
@@ -72,7 +83,7 @@ Students are __sometimes__ allowed to revise and resubmit assignments. Re-submit
 If you are re-submitting work:
 
 1. You must have submitted the work by its due date. Late work is not eligible for re-submission.
-2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission. This is at the instructor's discretion.
+2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete work is not eligible for resubmission. This is at the instructor's discretion.
 3. You may only recover partial points lost.
 
 
@@ -89,7 +100,7 @@ It is also useful to have access to a large display, or dual display configurati
 ### Attendance
 Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
-Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
+Course material is cumulative in nature and class periods are used to develop skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
 
 ### Lost Data
 You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
@@ -100,7 +111,7 @@ I **highly recommend** getting a [Box](https://uits.iu.edu/box) account. It is f
 Sorry, they are not permitted.
 
 ### Deadlines
-Deadlines are strict and non-negotiable. Late assignments will be accepted for the first five calendar days after a deadline. After that, I will remove 10% daily. Assignments may not be submitted after five calendar days have elapsed (Example - Deadline is September 8th, you cannot submit after September 13th)
+Deadlines are strict and non-negotiable. Late assignments will be accepted for the first five calendar days after a deadline. After that, I will remove 10% daily. Assignments may not be submitted after five calendar days have elapsed (Example --- Deadline is September 8th, you cannot submit after September 13th)
 
 The only __exception to this rule__ is the final project, which cannot be submitted late.
 
@@ -139,20 +150,20 @@ This course is rich in content and skill levels vary widely among students. The 
 ### Final Grade
 The instructor reserves the right to adjust your final grade based on effort and participation. This is very uncommon.
 
-## Tentative Schedule
-A given class of students can differ widely in skills and teaching needs, so schedule is subject to change.
+<!-- ## Tentative Schedule -->
+<!-- A given class of students can differ widely in skills and teaching needs, so schedule is subject to change. -->
 
-|         | Dates                   | Topic                |
-|:--------|:------------------------|:---------------------|
-| week 9  | Thurs 10/19             |                      |
-| week 10 | Tues 10/24, Thurs 10/26 |                      |
-| week 11 | Tues 10/31, Thurs 11/2  |                      |
-| week 12 | Tues 11/7, Thurs 11/9   |                      |
-| week 13 | Tues 11/14, Thurs 11/16 |                      |
-| -       | Sun 11/19 - Sun11/26    | _THANKSGIVING BREAK_ |
-| week 14 | Tues 11/28, Thurs 11/30 |                      |
-| week 15 | Tues 12/5, Thurs 12/7   |                      |
-| week 16 | Mon 12/11 - Fri 12/15   | __FINALS__           |
+<!-- |         | Dates                   | Topic                | -->
+<!-- |:--------|:------------------------|:---------------------| -->
+<!-- | week 9  | Thurs 10/19             |                      | -->
+<!-- | week 10 | Tues 10/24, Thurs 10/26 |                      | -->
+<!-- | week 11 | Tues 10/31, Thurs 11/2  |                      | -->
+<!-- | week 12 | Tues 11/7, Thurs 11/9   |                      | -->
+<!-- | week 13 | Tues 11/14, Thurs 11/16 |                      | -->
+<!-- | -       | Sun 11/19 - Sun11/26    | _THANKSGIVING BREAK_ | -->
+<!-- | week 14 | Tues 11/28, Thurs 11/30 |                      | -->
+<!-- | week 15 | Tues 12/5, Thurs 12/7   |                      | -->
+<!-- | week 16 | Mon 12/11 - Fri 12/15   | __FINALS__           | -->
 
 ### Important Dates
 Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml) for important dates. I have listed some of them here:
