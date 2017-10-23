@@ -152,3 +152,14 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
 
 ### At Home
  * `continue` [Project Two](assignments/p2.html)
+
+## week 10
+
+### In Class
+ * `inspiration` [the great agency](http://www.thegreat.agency/)
+ * `play` [Flexbox Froggy](http://flexboxfroggy.com/)
+ * `download` [backstretch](mats/w8/backstretch.zip)
+ <!-- * `download` [flex2.zip](mats/w10/flex2.zip) -->
+
+### At Home
+ * `finish` [Project Two](assignments/p2.html). It is due `Friday Oct 27th` at midnight.

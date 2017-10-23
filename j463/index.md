@@ -176,3 +176,18 @@ You will begin the Lynda series, [Illustrator CC 2017 Essential Training](https:
 
  * `watch` 1: _Getting Started_
  * `watch` 2: _Navigating Your Documents_
+
+## week 10
+### In Class
+ * `download` [layers.zip](mats/w10/layers.zip)
+ * `download` [shapes.zip](mats/w10/shapes.zip)
+
+### At Home
+Finish your movie poster. It is due `Monday, Oct 23rd` at midnight.
+
+#### Tutorials
+Continue watching [Illustrator CC 2017 Essential Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2017-Essential-Training/578066-2.html).
+
+ * `watch` 4: _Working with Layers_
+ * `watch` 5: _Basic Shapes_
+ * `watch` 6: _Transforming Objects_

@@ -197,6 +197,7 @@ The instructor reserves the right to adjust your final grade based on effort and
 | -       | Sun 11/19 - Sun11/26    | _THANKSGIVING BREAK_      |
 | week 14 | Tues 11/28, Thurs 11/30 | Build: Prototype          |
 | week 15 | Tues 12/5, Thurs 12/7   | Build: Polish and Publish |
+|         | Sat 12/9                | Classes end               |
 | week 16 | Mon 12/11 - Fri 12/15   | __FINALS__                |
 
 ### Important Dates
@@ -207,9 +208,10 @@ Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/
 
 |                                 |                          |
 |:--------------------------------|:-------------------------|
-| Classes Begin                   | MonOct 16                |
+| Classes Begin                   | Mon Oct 16               |
 | Thanksgiving                    | Sun Nov 19 -- Sun Nov 26 |
 | Withdrawal with grade of W or F | Mon Nov 20               |
+| Classes End                     | Sat Dec 9                |
 | Final Exams                     | Mon Dec 11 -- Fri Dec 15 |
 | Ends                            | Fri Dec 15               |
 
