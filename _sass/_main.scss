@@ -117,6 +117,13 @@ h1, h2, h3, h4, h5, h6 {
   h5 { color: #3c3c3c; }
   /* END HEADING STYLES */
 
+  /* SPACER STYLES */
+  div.spacer-10 { height: 10px; }
+  div.spacer-30 { height: 30px; }
+  div.spacer-1em { height: 1em; }
+  div.spacer-1rem { height: 1rem; }
+  /* END SPACER STYLES */
+
   /* IMAGE STYLES */
   img.tut {
     max-width: 500px;

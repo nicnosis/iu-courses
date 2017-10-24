@@ -158,8 +158,18 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
 ### In Class
  * `inspiration` [the great agency](http://www.thegreat.agency/)
  * `play` [Flexbox Froggy](http://flexboxfroggy.com/)
- * `download` [backstretch](mats/w8/backstretch.zip)
- <!-- * `download` [flex2.zip](mats/w10/flex2.zip) -->
+ * `visit` [Google material icons](https://material.io/icons/)
+ * `download` [flex-cards.zip](mats/w10/flex-cards.zip)
+
+    <div class="spacer-1rem"></div>
+
+ * `inspiration` [Brutalism: BrutAl wEbsIteS for mOdern dAy webMAsTeRS.](https://www.awwwards.com/brutalism-brutalist-websites.html?utm_content=buffera083b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+ * `download` [css-trans.zip](mats/w10/css-trans.zip)
+
 
 ### At Home
  * `finish` [Project Two](assignments/p2.html). It is due `Friday Oct 27th` at midnight.
+
+#### Codecademy
+ * `complete` Section 5 - _CSS Typography_
+ * `complete` Section 6 - _CSS Grid_
