@@ -181,6 +181,8 @@ You will begin the Lynda series, [Illustrator CC 2017 Essential Training](https:
 ### In Class
  * `download` [layers.zip](mats/w10/layers.zip)
  * `download` [shapes.zip](mats/w10/shapes.zip)
+ * `download` [transform.zip](mats/w10/transform.zip)
+ * `download` [stroke-fills.zip](mats/w10/stroke-fills.zip)
 
 ### At Home
 Finish your movie poster. It is due `Monday, Oct 23rd` at midnight.

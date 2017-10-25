@@ -1,3 +1,5 @@
-{% if page.course != nil %}
+{% if page.course == 'j360' or page.course == 'j463' %}
 <img src="{{site.baseurl}}/img/{{page.course}}-header.png" alt="" class="course-header img-responsive">
+{% elsif page.course == 'dbi' %}
+<h1 id="hero-text">Designing Brand Identity</h1>
 {% endif %}
