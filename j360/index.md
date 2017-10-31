@@ -161,7 +161,7 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
  * `visit` [Google material icons](https://material.io/icons/)
  * `download` [flex-cards.zip](mats/w10/flex-cards.zip)
 
-    <div class="spacer-1rem"></div>
+<div class="spacer-1rem"></div>
 
  * `inspiration` [Brutalism: BrutAl wEbsIteS for mOdern dAy webMAsTeRS.](https://www.awwwards.com/brutalism-brutalist-websites.html?utm_content=buffera083b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
  * `download` [css-trans.zip](mats/w10/css-trans.zip)
@@ -173,3 +173,8 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
 #### Codecademy
  * `complete` Section 5 - _CSS Typography_
  * `complete` Section 6 - _CSS Grid_
+
+## week 11
+### In Class
+ * `inspiration` [elegant seagulls](https://www.elegantseagulls.com/)
+ * `download` [bootstrap1.zip](mats/w11/bootstrap1.zip)

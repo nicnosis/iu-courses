@@ -193,3 +193,21 @@ Continue watching [Illustrator CC 2017 Essential Training](https://www.lynda.com
  * `watch` 4: _Working with Layers_
  * `watch` 5: _Basic Shapes_
  * `watch` 6: _Transforming Objects_
+
+## week 11
+### In Class
+ * `download` [colors.zip](mats/w11/colors.zip)
+ * `download` [appearances.zip](mats/w11/appearances.zip)
+ * `download` [android.png](mats/w10/android.png)
+
+### At Home
+ * `begin` [Homework Three](assignments/hw3.html). It is due __Friday Nov 10th__ @ 11:59pm.
+
+#### Tutorials
+Continue watching [Illustrator CC 2017 Essential Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2017-Essential-Training/578066-2.html).
+
+ * `watch` 7: _Working with Fills and Strokes_
+ * `watch` 8: _Working with Color_
+ * `watch` 9: _Using the Appearance Panel_
+
+

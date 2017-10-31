@@ -27,3 +27,8 @@ The only thing you need Canvas for is submitting completed assignments.
  * `download` [trace.zip](mats/w10/trace.zip)
  * `download` [layers.zip](mats/w10/layers.zip)
  * `visit` [IU Brand Guidelines](https://brand.iu.edu/)
+ * `complete` the participation assignment on Canvas (_Assignments > Participation > One Word_)
+
+### at home
+ * `begin` [Project 1: Brand Concept](assignments/concept.html). It is due __Sunday November 5th__ @ 11:59pm.
+ * `prepare` to discuss your brand's concept on Tuesday. This will count for your participation grade. There won't be a formal presentation; you just have to explain your brand idea in a few sentences.
