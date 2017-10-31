@@ -198,7 +198,11 @@ Continue watching [Illustrator CC 2017 Essential Training](https://www.lynda.com
 ### In Class
  * `download` [colors.zip](mats/w11/colors.zip)
  * `download` [appearances.zip](mats/w11/appearances.zip)
+ * `download` [compound.zip](mats/w11/compound.zip)
+ * `download` [pen.zip](mats/w11/pen.zip)
  * `download` [android.png](mats/w10/android.png)
+
+When you are finished making your __android.ai__, upload it to Canvas under `Assignments > Quizzes`
 
 ### At Home
  * `begin` [Homework Three](assignments/hw3.html). It is due __Friday Nov 10th__ @ 11:59pm.

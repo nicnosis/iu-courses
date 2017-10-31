@@ -178,3 +178,6 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
 ### In Class
  * `inspiration` [elegant seagulls](https://www.elegantseagulls.com/)
  * `download` [bootstrap1.zip](mats/w11/bootstrap1.zip)
+
+### At Home
+ * `begin` [Homework Three](assignments/hw3.html). It is due `Sunday Nov 11th`.
