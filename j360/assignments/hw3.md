@@ -5,20 +5,20 @@ footer: ''
 highlight: 'assignments'
 course: 'j360'
 ---
-# Homework Three - <small>Bootstrap three column layout</small>
+# Homework Three --- <small>Bootstrap three-column layout</small>
 ## Description
 You will make a simple, three-column responsive layout using [Bootstrap](http://getbootstrap.com/). I will give you the necessary images, placeholder text, and starter files. You will write the HTML to set up the layout.
 
 Here's what it should look like...
 <div class="card-block">
-  <p class="card-text">Finished site:</p>
+  <p class="card-text lead">Finished site:</p>
   <a href="../examples/cakes.png" class="btn btn-primary" target="_blank">View Example</a>
 </div>
 
 ## Starter Files
 You are given some starter files.
 <div class="card-block">
-  <p class="card-text">Starter files for Homework Three.</p>
+  <p class="card-text lead">Starter files for Homework Three:</p>
   <a href="hw3.zip" class="btn btn-primary" target="_blank">Download</a>
 </div>
 
