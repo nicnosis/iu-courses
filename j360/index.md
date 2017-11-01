@@ -179,5 +179,9 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
  * `inspiration` [elegant seagulls](https://www.elegantseagulls.com/)
  * `download` [bootstrap1.zip](mats/w11/bootstrap1.zip)
 
+<div class="spacer-1rem"></div>
+
+ * `download` [bootstrap2.zip](mats/w11/bootstrap2.zip)
+
 ### At Home
- * `begin` [Homework Three](assignments/hw3.html). It is due `Sunday Nov 11th`.
+ * `begin` [Homework Three](assignments/hw3.html). It is due `Sunday Nov 12th`.

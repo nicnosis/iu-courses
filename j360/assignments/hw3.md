@@ -57,4 +57,4 @@ Compress your folder when finished. It should be named `hw3_lastname-firstname.z
 
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 3`
 
-#### **Due Sunday Nov. 11th at 11:59pm**
+#### **Due Sunday Nov. 12th at 11:59pm**
