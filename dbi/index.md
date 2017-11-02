@@ -37,7 +37,7 @@ The only thing you need Canvas for is submitting completed assignments.
  * `download` [android.png](mats/w11/android.png)
  * When you are finished making your android, upload your `.ai` file to Canvas under `Assignments > Participation`
 
-#### group work
+#### group work (Tues)
 __spades__ &#9824; --- Tropicana
  * `read` [What to Learn From Tropicana’s Packaging Redesign Failure?](http://www.thebrandingjournal.com/2015/05/what-to-learn-from-tropicanas-packaging-redesign-failure/)
 
@@ -49,6 +49,40 @@ __clubs__ &#9827; --- Plain Packaging
 
 __diamonds__ &#9830; --- Trends
  * `read` [hot branding trends of 2017](https://stratabeat.com/hot-branding-trends-of-2017/)
+
+#### group work (Thurs)
+
+__spades__ &#9824; --- Interior design  
+Pick one:
+
+1. Greek/Roman-inspired furniture
+2. Home decor for unabashedly lazy people
+
+<hr>
+
+__hearts__ &#9829; --- Tech  
+Pick one:
+
+1. A needy smartwatch that needs your constant approval
+2. App for people who are having a mid-life crisis, but want you to think everything is fine
+
+<hr>
+
+__clubs__ &#9827; --- Fashion  
+Pick one:
+
+1. Clothing for people who really don't care what you think
+2. Accessories (watch/wallet/tie/hat) for people who are over 40, but want to feel young
+
+<hr>
+
+__diamonds__ &#9830; --- Real estate  
+Pick one:
+
+1. Venue for socially-awkward people
+2. Coffee shop for bibliophiles (bookworms)
+
+<hr>
 
 ### at home
  * `complete` [Project 1: Brand Concept](assignments/concept.html). It is due __Sunday November 5th__ @ 11:59pm.
