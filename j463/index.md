@@ -214,4 +214,10 @@ Continue watching [Illustrator CC 2017 Essential Training](https://www.lynda.com
  * `watch` 8: _Working with Color_
  * `watch` 9: _Using the Appearance Panel_
 
+## week 12
+### In Class
+ * `download` [pen.zip](mats/w11/pen.zip)
+ * `download` [assessment-1.zip](mats/w12/assessment-1.zip)
 
+### At Home
+ * `continue` working on [Homework Three](assignments/hw3.html). It is due __Friday Nov 10th__ @ 11:59pm.

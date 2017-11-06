@@ -185,3 +185,11 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
 
 ### At Home
  * `begin` [Homework Three](assignments/hw3.html). It is due `Sunday Nov 12th`.
+
+## week 12
+### In Class
+ * `inspiration` [envylabs](https://envylabs.com/)
+ * `download` [bootstrap3.zip](mats/w12/bootstrap3.zip)
+
+### At Home
+ * `continue` [Homework Three](assignments/hw3.html). It is due `Sunday Nov 12th`.
