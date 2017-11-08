@@ -189,7 +189,15 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
 ## week 12
 ### In Class
  * `inspiration` [envylabs](https://envylabs.com/)
+ * `complete` [this form](https://goo.gl/forms/OyTnHVsXp19oeFC12). **Make sure you put your name so I can give you credit in Canvas.**
+ * `visit` [boardgamegeek.com](https://boardgamegeek.com/)
  * `download` [bootstrap3.zip](mats/w12/bootstrap3.zip)
+
+<div class="spacer-1rem"></div>
+
+ * `inspiration` [thebuyer.fr](https://thebuyer.fr/)
+ * `inspiration` [polaroid originals](https://us.polaroidoriginals.com/)
+ * `download` [bootstrap4.zip](mats/w12/bootstrap4.zip)
 
 ### At Home
  * `continue` [Homework Three](assignments/hw3.html). It is due `Sunday Nov 12th`.

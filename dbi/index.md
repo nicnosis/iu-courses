@@ -86,3 +86,8 @@ Pick one:
 
 ### at home
  * `complete` [Project 1: Brand Concept](assignments/concept.html). It is due __Sunday November 5th__ @ 11:59pm.
+
+## week 12
+### in class
+ * `complete` Canvas assignment--- `Reflection: Material Desires`
+ * `fill out` [this sheet](https://docs.google.com/spreadsheets/d/102PQvXg8WYY5TJRIDdq_OOeUU4CtAvdrSff3gKNHyss/edit?usp=sharing) about emotions
