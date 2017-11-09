@@ -187,17 +187,57 @@ We will begin using Flexbox, a helpful CSS feature for designing layouts. You ma
  * `begin` [Homework Three](assignments/hw3.html). It is due `Sunday Nov 12th`.
 
 ## week 12
-### In Class
+### In Class--- `Mon`
  * `inspiration` [envylabs](https://envylabs.com/)
  * `complete` [this form](https://goo.gl/forms/OyTnHVsXp19oeFC12). **Make sure you put your name so I can give you credit in Canvas.**
  * `visit` [boardgamegeek.com](https://boardgamegeek.com/)
  * `download` [bootstrap3.zip](mats/w12/bootstrap3.zip)
 
-<div class="spacer-1rem"></div>
+### In Class--- `Wed`
 
  * `inspiration` [thebuyer.fr](https://thebuyer.fr/)
  * `inspiration` [polaroid originals](https://us.polaroidoriginals.com/)
  * `download` [bootstrap4.zip](mats/w12/bootstrap4.zip)
+
+#### group work
+##### __INSTRUCTIONS__
+1. You were given a card. Get into groups based on your card suit.
+2. For your team, there are two premises listed. Confer with your group and pick one of the premises.
+3. Come up with an idea for a site
+4. Look at existing sites/apps to get ideas
+5. On the sheet provided, sketch out a desktop wireframe, and a mobile wireframe. __Make sure your names are on the sheet__ so you can receive participation points.
+
+__spades__ &#9824; --- Interior design  
+Pick one:
+
+1. Greek/Roman-inspired furniture
+2. Home decor for unabashedly lazy people
+
+<hr>
+
+__hearts__ &#9829; --- Community  
+Pick one:
+
+1. A support system for people trying to quit gossipping
+2. Site for people who are having a mid-life crisis, but want you to think everything is fine
+
+<hr>
+
+__clubs__ &#9827; --- Fashion  
+Pick one:
+
+1. Clothing for people who really don't care what you think
+2. Accessories (watch/wallet/tie/hat) for people who are over 40, but want to feel young
+
+<hr>
+
+__diamonds__ &#9830; --- Real estate  
+Pick one:
+
+1. Venue for socially-awkward people
+2. Coffee shop for bibliophiles (bookworms)
+
+<hr>
 
 ### At Home
  * `continue` [Homework Three](assignments/hw3.html). It is due `Sunday Nov 12th`.
