@@ -89,5 +89,12 @@ Pick one:
 
 ## week 12
 ### in class
+#### Tuesday
  * `complete` Canvas assignment--- `Reflection: Material Desires`
  * `fill out` [this sheet](https://docs.google.com/spreadsheets/d/102PQvXg8WYY5TJRIDdq_OOeUU4CtAvdrSff3gKNHyss/edit?usp=sharing) about emotions
+
+#### Thursday
+ * `fill out` [this sheet](https://docs.google.com/spreadsheets/d/1e-mOdRaY44G-HE2Dy9s6NNo_XfgiaWpmT9QFGEd62xE/edit?usp=sharing) with your name and a three-letter word.
+
+### at home
+ * `begin` [Homework Two](assignments/logo.html). It is due __Thursday November 16th__ @ 11:59pm.
