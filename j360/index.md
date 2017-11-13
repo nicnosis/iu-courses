@@ -241,3 +241,10 @@ Pick one:
 
 ### At Home
  * `continue` [Homework Three](assignments/hw3.html). It is due `Sunday Nov 12th`.
+
+## Week 13
+### In Class
+ * `inspiration` [Behance - webmosaica concept](https://www.behance.net/gallery/58343535/Web-Mosaica-Promo-Site)
+ * `inspiration` [Behance - slovigy concept](https://www.behance.net/gallery/58519973/Slovigy)
+ <!-- * `inspiration` -->
+ * `download` [bootstrap4.zip](mats/w12/bootstrap4.zip)

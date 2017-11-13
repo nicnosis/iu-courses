@@ -221,3 +221,11 @@ Continue watching [Illustrator CC 2017 Essential Training](https://www.lynda.com
 
 ### At Home
  * `continue` working on [Homework Three](assignments/hw3.html). It is due __Friday Nov 10th__ @ 11:59pm.
+
+## week 13
+### In Class
+ * `download` [assessment-1.zip](mats/w12/assessment-1.zip)
+ * `submit` your triptych example using [this form](https://goo.gl/forms/4s5S7atRqU9l9EZp2)
+
+### At Home
+ * `begin` [Project Three](assignments/p3.html). It is due __Monday Nov 27th__ @ 11:59pm.
