@@ -98,3 +98,13 @@ Pick one:
 
 ### at home
  * `begin` [Homework Two](assignments/logo.html). It is due __Thursday November 16th__ @ 11:59pm.
+
+## week 13
+### in class
+ * `download` [shapebuilder.zip](mats/w13/shapebuilder.zip)
+ * after you finish `5_camera.ai`, submit it to `Canvas > Assignments > Participation`
+
+### at home
+ * `finish` [Homework Two](assignments/logo.html). It is due __Thursday November 16th__ @ 11:59pm.
+
+<!-- Final exam will be Monday DEC 11th 7:15pm in room FF060 -->
