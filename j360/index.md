@@ -246,6 +246,10 @@ Pick one:
 ### In Class
  * `inspiration` [Behance - webmosaica concept](https://www.behance.net/gallery/58343535/Web-Mosaica-Promo-Site)
  * `inspiration` [Behance - slovigy concept](https://www.behance.net/gallery/58519973/Slovigy)
- * `fill out` [this form](https://goo.gl/forms/8o61v8YSE2QlDQHs2)
- * `view` [survey results](https://docs.google.com/spreadsheets/d/1hOultF4gpJ_pBGCm1U4LAV9tehOsl9ay8paQMMA3G0k/edit?usp=sharing)
+ <!-- * `fill out` [this form](https://goo.gl/forms/8o61v8YSE2QlDQHs2) -->
+ <!-- * `view` [survey results](https://docs.google.com/spreadsheets/d/1hOultF4gpJ_pBGCm1U4LAV9tehOsl9ay8paQMMA3G0k/edit?usp=sharing) -->
  * `download` [bootstrap4.zip](mats/w12/bootstrap4.zip)
+ <!-- * `inspiration` []() -->
+
+### At Home
+ * `begin` [Homework Four](assignments/hw4.html). It is due `Monday Nov. 27th`.
