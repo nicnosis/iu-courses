@@ -253,3 +253,9 @@ Pick one:
 
 ### At Home
  * `begin` [Homework Four](assignments/hw4.html). It is due `Monday Nov. 27th`.
+
+## Week 14
+### In Class
+
+### At Home
+ * `begin` [Project Three](assignments/p3.html)

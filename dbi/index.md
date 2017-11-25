@@ -104,7 +104,11 @@ Pick one:
  * `download` [shapebuilder.zip](mats/w13/shapebuilder.zip)
  * after you finish `5_camera.ai`, submit it to `Canvas > Assignments > Participation`
 
+### group activity
+ * `open up` [this form](https://docs.google.com/spreadsheets/d/1r5ssMfa1Mab_WXRlsQuemclP8lsPnL-8HHO1YLECUS8/edit?usp=sharing)
+
 ### at home
  * `finish` [Homework Two](assignments/logo.html). It is due __Thursday November 16th__ @ 11:59pm.
+  * `begin` [Project Two](assignments/style-guide.html). It is due __Tuesday November 28th__ @ 11:59pm.
 
 <!-- Final exam will be Monday DEC 11th 7:15pm in room FF060 -->

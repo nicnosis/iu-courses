@@ -49,4 +49,4 @@ I suggest printing off a few copies of each template page and drawing your ideas
 ## Submission--- Hand-in
 Unlike our previous assignments, for this one you will `hand in a hard copy`. __Make sure your name is on it.__
 
-#### **Due Monday Nov. 27th at 11:59pm**
+#### **Due Monday Nov. 27th in class**
