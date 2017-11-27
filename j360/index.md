@@ -258,6 +258,7 @@ Pick one:
 ### In Class
  * `inspiration` [Fabian Irsara](http://fabianirsara.com/)
  * `inspiration` [STRV](https://www.strv.com/)
+ * `download` [card-deck.zip](mats/w14/card-deck.zip)
 
 ### At Home
  * `begin` [Project Three](assignments/p3.html)
