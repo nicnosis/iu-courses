@@ -225,7 +225,20 @@ Continue watching [Illustrator CC 2017 Essential Training](https://www.lynda.com
 ## week 13
 ### In Class
  * `download` [assessment-1.zip](mats/w12/assessment-1.zip)
- * `submit` your triptych example using [this form](https://goo.gl/forms/4s5S7atRqU9l9EZp2)
+ <!-- * `submit` your triptych example using [this form](https://goo.gl/forms/4s5S7atRqU9l9EZp2) -->
 
 ### At Home
- * `begin` [Project Three](assignments/p3.html). It is due __Monday Nov 27th__ @ 11:59pm.
+ * `begin` [Project Three](assignments/p3.html). It is due __Wednesday Nov 29th__ @ 11:59pm.
+
+## week 14
+### In Class
+We will discuss visual identity design.
+
+#### Style Guides
+1. [Volusion](https://www.behance.net/gallery/55623181/Volusion-Brand-Identity)
+2. [Xender](https://www.behance.net/gallery/47991375/Xender-Branding)
+3. [Heritage Pizza](https://www.behance.net/gallery/58348783/Heritage-Pizza)
+4. [Juice Bar](https://www.behance.net/gallery/54810847/Juice-Bar-Branding)
+
+### At Home
+ * `begin` [Project Four](assignments/p4.html). It is due __Wednesday Dec 13th__ @ 11:59pm.

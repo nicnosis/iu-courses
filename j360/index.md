@@ -256,6 +256,8 @@ Pick one:
 
 ## Week 14
 ### In Class
+ * `inspiration` [Fabian Irsara](http://fabianirsara.com/)
+ * `inspiration` [STRV](https://www.strv.com/)
 
 ### At Home
  * `begin` [Project Three](assignments/p3.html)
