@@ -111,4 +111,13 @@ Pick one:
  * `finish` [Homework Two](assignments/logo.html). It is due __Thursday November 16th__ @ 11:59pm.
   * `begin` [Project Two](assignments/style-guide.html). It is due __Tuesday November 28th__ @ 11:59pm.
 
+## week 14
+### in class
+ * `article` [One Size Does Not Fit All: Abercrombie & Fitch’s Vanilla Rebranding Strategy](http://www.thebrandingjournal.com/2017/05/abercrombie-fitchs-rebranding-strategy/)
+ * `download` [mockups.zip](mats/w14/mockups.zip)
+
+### at home
+ * `finish` [Project Two](assignments/style-guide.html). It is due __Tuesday November 28th__ @ 11:59pm.
+
+
 <!-- Final exam will be Monday DEC 11th 7:15pm in room FF060 -->
