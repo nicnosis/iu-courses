@@ -234,11 +234,14 @@ Continue watching [Illustrator CC 2017 Essential Training](https://www.lynda.com
 ### In Class
 We will discuss visual identity design.
 
-#### Style Guides
+#### Monday--- Style Guides
 1. [Volusion](https://www.behance.net/gallery/55623181/Volusion-Brand-Identity)
 2. [Xender](https://www.behance.net/gallery/47991375/Xender-Branding)
 3. [Heritage Pizza](https://www.behance.net/gallery/58348783/Heritage-Pizza)
 4. [Juice Bar](https://www.behance.net/gallery/54810847/Juice-Bar-Branding)
+
+#### Wednesday--- Mockups
+ * `download` [mockups.zip](mats/w14/mockups.zip)
 
 ### At Home
  * `begin` [Project Four](assignments/p4.html). It is due __Wednesday Dec 13th__ @ 11:59pm.
