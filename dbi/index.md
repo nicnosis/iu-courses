@@ -113,11 +113,18 @@ Pick one:
 
 ## week 14
 ### in class
+#### TUESDAY
  * `article` [One Size Does Not Fit All: Abercrombie & Fitch’s Vanilla Rebranding Strategy](http://www.thebrandingjournal.com/2017/05/abercrombie-fitchs-rebranding-strategy/)
  * `download` [mockups.zip](mats/w14/mockups.zip)
 
+#### THURSDAY
+ * `fill out` [the course evaluation questionnaire](https://one.iu.edu/task/iub/course-evaluations)
+ * `fill out` [this form](https://docs.google.com/spreadsheets/d/1rXmjkRnqNwWMdn8r6jAJQm-mUM2Cd64x2G-M5_NpBZ0/edit?usp=sharing)
+ * `download` [mockups2.zip](mats/w14/mockups2.zip)
+
 ### at home
- * `finish` [Project Two](assignments/style-guide.html). It is due __Tuesday November 28th__ @ 11:59pm.
+ <!-- * `finish` [Project Two](assignments/style-guide.html). It is due __Tuesday November 28th__ @ 11:59pm. -->
+ * `begin` [Homework Three](assignments/final-ideation.html). It is due __Tuesday Dec 5th__ in class.
 
 
 <!-- Final exam will be Monday DEC 11th 7:15pm in room FF060 -->
