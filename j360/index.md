@@ -266,6 +266,12 @@ Pick one:
  * `begin` [Project Three](assignments/p3.html)
 
 ## Week 15
-Make sure to fill out the [course evaluation](https://one.iu.edu/task/iub/course-evaluations) if you haven't already.
+### In Class
+ * `inspiration` [A Foreigner's Guide to the Polish Alphabet](http://culture.pl/multimediaguides/alphabet/false-friends/1)
+ * `inspiration` [Andy Wei Art](http://andyweiart.com/)
+ * `fill out` the [course evaluation](https://one.iu.edu/task/iub/course-evaluations) if you haven't already.
 
-Keep working on [Project Three](assignments/p3.html). Remember that you have a `progress check` on Wednesday.
+### At Home
+`Continue` working on [Project Three](assignments/p3.html). It is due `Wed Dec 13th`
+
+Remember that you have a `progress check` on Wednesday.
