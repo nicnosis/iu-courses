@@ -264,3 +264,8 @@ Pick one:
 
 ### At Home
  * `begin` [Project Three](assignments/p3.html)
+
+## Week 15
+Make sure to fill out the [course evaluation](https://one.iu.edu/task/iub/course-evaluations) if you haven't already.
+
+Keep working on [Project Three](assignments/p3.html). Remember that you have a `progress check` on Wednesday.
