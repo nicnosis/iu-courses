@@ -123,8 +123,13 @@ Pick one:
  * `download` [mockups2.zip](mats/w14/mockups2.zip)
 
 ### at home
- <!-- * `finish` [Project Two](assignments/style-guide.html). It is due __Tuesday November 28th__ @ 11:59pm. -->
  * `begin` [Homework Three](assignments/final-ideation.html). It is due __Tuesday Dec 5th__ in class.
 
+## week 15
+### in class
+I will meet with each of you individually to look at your ideas.
 
-<!-- Final exam will be Monday DEC 11th 7:15pm in room FF060 -->
+### at home
+ * `begin` [Project Three---Final](assignments/final.html).
+   * Your in-class presentation is on `Monday Dec 11th 7:15pm in room FF060`
+   * Your Canvas submission is due `Wednesday Dec 13th @ 11:59pm`

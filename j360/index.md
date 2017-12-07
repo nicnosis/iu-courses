@@ -270,8 +270,7 @@ Pick one:
  * `inspiration` [A Foreigner's Guide to the Polish Alphabet](http://culture.pl/multimediaguides/alphabet/false-friends/1)
  * `inspiration` [Andy Wei Art](http://andyweiart.com/)
  * `fill out` the [course evaluation](https://one.iu.edu/task/iub/course-evaluations) if you haven't already.
+ * `inspiration` [supercrowds.co](https://supercrowds.co/)
 
 ### At Home
 `Continue` working on [Project Three](assignments/p3.html). It is due `Wed Dec 13th`
-
-Remember that you have a `progress check` on Wednesday.

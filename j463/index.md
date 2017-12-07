@@ -247,6 +247,6 @@ We will discuss visual identity design.
  * `begin` [Project Four](assignments/p4.html). It is due __Wednesday Dec 13th__ @ 11:59pm.
 
 ## week 15
-Continue working on [Project Four](assignments/p4.html).
-
-Make sure to fill out the [course evaluation](https://one.iu.edu/task/iub/course-evaluations) if you haven't already.
+ * Continue working on [Project Four](assignments/p4.html).
+ * Make sure to fill out the [course evaluation](https://one.iu.edu/task/iub/course-evaluations) if you haven't already.
+ * For those of you completing the `extra credit` assignment, here's the link: <http://tiny.cc/yddmoy>
