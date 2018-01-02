@@ -60,3 +60,5 @@ Upload your files. You can also link to a website (for instance, if you did a Yo
 
 Submit to:  
 `CANVAS > ASSIGNMENTS > PROJECT THREE`
+
+Canvas submission is due **Wednesday Dec 13th at 11:59pm**.
