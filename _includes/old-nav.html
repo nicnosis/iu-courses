@@ -1,0 +1,116 @@
+<nav class="navbar navbar-light bg-faded navbar-fixed-top" id="myNav">
+    <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
+    <div class="collapse navbar-toggleable-md" id="navbarResponsive">
+        <ul class="nav navbar-nav">
+            <!-- BRAND -->
+            <li class="nav-item">
+                <a href="{{site.baseurl}}/" class="navbar-brand">
+                    {{page.course}}
+                </a>
+            </li>
+
+            <li class="nav-item" id="nav-home"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/index.html">home <span class="sr-only">(current)</span></a></li>
+            <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/instructor.html">instructor</a></li>
+            <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
+
+            <!-- COURSE MATERIALS -->
+            {% if page.course != 'fa17/dbi' %}
+            <li class="nav-item dropdown" id="nav-materials">
+                <a class="nav-link dropdown-toggle" href="#" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
+                <div class="dropdown-menu" aria-labelledby="nav-link-materials">
+                    <!--WEB DESIGN-->
+                    {% if page.course == 'fa17/j360' %}
+                    <a class="dropdown-item" target="_blank" href="http://www.htmlcssvqs.com/8ed/examples/">Text Companion Site</a>
+                    <a class="dropdown-item" target="_blank" href="https://www.codecademy.com/courses/learn-html-css/">Codecademy</a>
+                    <a class="dropdown-item" target="_blank" href="https://www.w3schools.com/">W3Schools</a>
+                    <a class="dropdown-item" target="_blank" href="{{site.baseurl}}/{{page.course}}/atom.html">Using Atom</a>
+                    {% endif %}
+
+                    <!--GRAPHIC DESIGN-->
+                    {% if page.course == 'fa17/j463' %}
+                    <a class="dropdown-item" target="_blank" href="https://mcpl.info/">MCPL</a>
+                    <a class="dropdown-item" target="_blank" href="https://iuware.iu.edu/">IUWare</a>
+                    {% endif %}
+                </div>
+            </li>
+            {% endif %}
+            <!-- END COURSE MATERIALS -->
+
+            <!-- SPRING 2017 -->
+            {% if page.course == 'sp17/j460' %}
+            <li class="nav-item" id="nav-datasets"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/datasets.html">datasets</a></li>
+            <li class="nav-item" id="nav-examples"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/examples.html">examples</a></li>
+            <li class="nav-item"><a class="nav-link" href="http://chimera.labs.oreilly.com/books/1230000000345/index.html">book</a></li>
+            {% endif %}
+            <!-- END SPRING 2017 -->
+
+            <!-- ASSIGNMENTS -->
+            <li class="nav-item dropdown" id="nav-assignments">
+                <a class="nav-link dropdown-toggle" href="#" id="nav-link-assignments" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
+                <div class="dropdown-menu" aria-labelledby="nav-link-assignments">
+
+                    <!-- WEB DESIGN -->
+                    {% if page.course == 'fa17/j360' %}
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw1.html" class="dropdown-item">Homework One</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw2.html" class="dropdown-item">Homework Two</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw3.html" class="dropdown-item">Homework Three</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw4.html" class="dropdown-item">Homework Four</a>
+                    <div class="dropdown-divider"></div>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p1.html" class="dropdown-item">Project One</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p2.html" class="dropdown-item">Project Two</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p3.html" class="dropdown-item active">Project Three</a>
+                    {% endif %}
+
+                    <!-- GRAPHIC DESIGN -->
+                    {% if page.course == 'fa17/j463' %}
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw1.html" class="dropdown-item">Homework One</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw2.html" class="dropdown-item">Homework Two</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw3.html" class="dropdown-item">Homework Three</a>
+                    <div class="dropdown-divider"></div>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p1.html" class="dropdown-item">Project One</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p2.html" class="dropdown-item">Project Two</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p3.html" class="dropdown-item">Project Three</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p4.html" class="dropdown-item active">Project Four</a>
+                    {% endif %}
+
+                    <!-- DESIGNING BRAND IDENTITY -->
+                    {% if page.course == 'fa17/dbi' %}
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw1.pdf" class="dropdown-item">HW1 &mdash; Words and Images</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/logo.html" class="dropdown-item">HW2 &mdash; Logo Interpretation</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/final-ideation.html" class="dropdown-item">HW3 &mdash; Final Ideation</a>
+                    <div class="dropdown-divider"></div>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/concept.html" class="dropdown-item">Project 1 &mdash; Brand Concept</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/style-guide.html" class="dropdown-item">Project 2 &mdash; Style Guide</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/final.html" class="dropdown-item active">Project 3 &mdash; Final</a>
+                    {% endif %}
+
+                    <!-- SPRING 2017 -->
+                    {% if page.course == 'sp17/j360' %}
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw1.html">Homework 1</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw2.html">Homework 2</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw3.html">Homework 3</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/hw4.html">Homework 4</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/project1.html">Project 1</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/project2.html">Project 2</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/project3.html">Project 3</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/project4.html">Project 4</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/presentation.html">Presentation</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/extra-credit.html">Extra Credit</a>
+                    {% endif %}
+                    {% if page.course == 'sp17/j460' %}
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment1.html">Assignment 1</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment2.html">Assignment 2</a>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/assignment3.html">Assignment 3</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="{{site.baseurl}}/{{page.course}}/docs/extra-credit.html">Extra Credit</a>
+                    {% endif %}
+                    <!-- END SPRING 2017 -->
+                </div>
+            </li>
+            <!-- END ASSIGNMENTS -->
+        </ul>
+    </div>
+</nav>
