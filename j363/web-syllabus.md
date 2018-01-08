@@ -1,11 +1,11 @@
 # J363 WEB & MOBILE DESIGN SPRING 2018
 
-**LOCATION** - Franklin Hall 005  
-**SECTIONS**  
-34270 - Meets MW 8:30A -- 10:30A  
-33832 - Meets MW 10:45A -- 12:45P  
-**INSTRUCTOR** - Nic Aguirre - naguirre@indiana.edu  
-**OFFICE HOURS** - FF M130S (Stack 4), Friday 10:00A - 11:00A
+**LOCATION**--- Franklin Hall 005  
+**SECTIONS**
+34270 --- Meets MW 8:30A -- 10:30A  
+33832 --- Meets MW 10:45A -- 12:45P  
+**INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
+**OFFICE HOURS** --- FF M130S (Stack 4), Friday 10:00A -- 11:00A
 
 ## Description
 Web design has a profound impact on our everyday experiences of work, recreation, and communication. Students will develop practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, students will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
@@ -70,15 +70,16 @@ This class has __four__ homework assignments designed to test and reinforce know
 You will be given assignments to complete on [Codecademy](https://www.codecademy.com/learn/learn-html-css/). In order to really learn and memorize code, you need to practice. While the Codecademy assignments are not graded, completing them will make your homeworks, projects, and quizlabs much easier.
 
 ### Quizlabs (15 pts.)
-A 'quizlab' is either (a) an unannounced quiz or (b) an in-class lab activity.
+A 'quizlab' is either (a) an unannounced quiz or (b) an in-class lab activity. Quizlabs are designed to ensure that students are completing their readings, Codecademy work, and following along with in-class coding activities.
 
 ### Participation (5 pts.)
-Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. About 8-10 of these small exercises will be given throughout the semester. They are to be finished during class and are generally graded on completion.
+Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. They are to be finished during class and are generally graded on completion.
 
 ### Professionalism (5 pts.)
 Students are expected to behave like adults. Unprofessional behavior will be met with a grade deduction in this category.
 
 Unprofessional behavior includes (but is not limited to):
+
  * Repeated tardiness
  * Failure to observe course policies
  * Disrespect towards classmates or instructor
@@ -111,10 +112,10 @@ Your grade will be assigned as follows:
 
 | Points     | Grade |
 |:-----------|:------|
-| 90 - 100   | A     |
-| 80 - 89.99 | B     |
-| 70 - 79.99 | C     |
-| 60 - 69.99 | D     |
+| 90 -- 100   | A     |
+| 80 -- 89.99 | B     |
+| 70 -- 79.99 | C     |
+| 60 -- 69.99 | D     |
 | below 60   | F     |
 
 Grading criteria will be given for each individual assignment.
@@ -130,7 +131,7 @@ If you are re-submitting work:
 
 ## Required Readings and Materials
 ### Text
-We will use [HTML and CSS: Visual QuickStart Guide ](http://a.co/gwPoEWG), _8th edition_ by Elizabeth Castro et al. You are welcome to use any book you like, but assignments and projects will be tailored to the contents of this textbook.
+There is no assigned text. Most readings will come in the form of articles, tutorials, or content from [W3Schools](http://w3schools.com).
 
 ### Codecademy
 You will use [Codecademy](https://www.codecademy.com/learn/learn-html-css/), a free online learning environment, to practice your coding skills outside of class.
@@ -140,8 +141,8 @@ Software is a focal point of this course, and an effort was made to ensure that 
 
 We will use:  
 
- 1. A text editor - [Atom](https://atom.io/) is recommended.
- 2. A means of version control - [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
+ 1. A text editor--- [Atom](https://atom.io/) is recommended.
+ 2. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
 
 ### Hardware
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
@@ -181,7 +182,7 @@ Students should know that an e-mail responsive may take __up to 72 hours__ depen
 Sorry, they are not permitted.
 
 ### Deadlines
-Deadlines are strict and non-negotiable. Late assignments will be accepted for the first five calendar days after a deadline. After that, I will remove 10% daily. Assignments may not be submitted after five calendar days have elapsed (Example - Deadline is September 8th, you cannot submit after September 13th)
+Deadlines are strict and non-negotiable. Late assignments will be accepted for the first five calendar days after a deadline. After that, I will remove 10% daily. Assignments may not be submitted after five calendar days have elapsed (Example--- Deadline is September 8th, you cannot submit after September 13th)
 
 The only __exception to this rule__ is the final project, which cannot be submitted late.
 
@@ -191,7 +192,7 @@ If you have an excused absence for a quizlab or participation exercise, you have
 ### Students with Disabilities
 If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.  
 
-For more information - [https://studentaffairs.indiana.edu/disability-services-students/](https://studentaffairs.indiana.edu/disability-services-students/)
+For more information--- [https://studentaffairs.indiana.edu/disability-services-students/](https://studentaffairs.indiana.edu/disability-services-students/)
 
 ### Academic Integrity
 As a student at IU, you are expected to adhere to the standards and policies detailed in the Code of Student Rights, Responsibilities, and Conduct (Code). When you submit an assignment with your name on it, you are signifying that the work contained therein is yours, unless otherwise cited or referenced. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. All suspected violations of the Code will be reported to the Dean of Students and handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final course grade, and a failing grade in the course, among other possibilities. If you are unsure about the expectations for completing an assignment or taking a test or exam, be sure to seek clarification beforehand.
@@ -229,7 +230,6 @@ This course is rich in content and skill levels vary widely among students. The 
 The instructor reserves the right to adjust your final grade based on effort, participation, or conduct. This is uncommon.
 
 ## Tentative Schedule
-A given class of students can differ widely in skills and teaching needs, so schedule is subject to change.
 
 |         | Dates                | Topic                             |
 |:--------|:---------------------|:----------------------------------|
@@ -264,7 +264,7 @@ Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/
 |:-------------|:----------------|
 | Begins       | Mon, Jan 8      |
 | MLK Jr. Day  | Mon, Jan 15     |
-| Spring Break | Mar 11 – Mar 18 |
+| Spring Break | Mar 11 -- Mar 18 |
 | Auto W       | Sun, Mar 11     |
-| Final Exams  | Apr 30 – May 4  |
+| Final Exams  | Apr 30 -- May 4  |
 | Ends         | Fri, May 4      |

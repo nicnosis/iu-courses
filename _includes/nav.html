@@ -13,25 +13,17 @@
             <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/instructor.html">instructor</a></li>
             <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
 
-            <!-- COURSE MATERIALS -->
+            {% if page.course == 'j363' %}
+            <!-- WEB DESIGN COURSE MATERIALS -->
             <li class="nav-item dropdown" id="nav-materials">
                 <a class="nav-link dropdown-toggle" href="#" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-materials">
-                    <!--WEB DESIGN-->
-                    {% if page.course == 'j363' %}
                     <a class="dropdown-item" target="_blank" href="https://www.codecademy.com/courses/learn-html-css/">Codecademy</a>
                     <a class="dropdown-item" target="_blank" href="https://www.w3schools.com/">W3Schools</a>
                     <a class="dropdown-item" target="_blank" href="{{site.baseurl}}/{{page.course}}/atom.html">Using Atom</a>
-                    {% endif %}
-
-                    <!--GXD-->
-                    {% if page.course == 'g290' %}
-                    <a class="dropdown-item" target="_blank" href="http://www.htmlcssvqs.com/8ed/examples/">Text Companion Site</a>
-                    {% endif %}
-
-
                 </div>
             </li>
+            {% endif %}
             <!-- END COURSE MATERIALS -->
 
             <!-- ASSIGNMENTS -->
