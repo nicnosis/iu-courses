@@ -1,7 +1,7 @@
 # J363 WEB & MOBILE DESIGN SPRING 2018
 
 **LOCATION**--- Franklin Hall 005  
-**SECTIONS**
+**SECTIONS**  
 34270 --- Meets MW 8:30A -- 10:30A  
 33832 --- Meets MW 10:45A -- 12:45P  
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
@@ -55,7 +55,7 @@ This class features __four__ large-scale web design projects.
 Students will construct a basic website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
 
 #### Project 2--- Styling and CSS (15 pts.)
-The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. Project 2 will test students' knowledge of CSS selectors, properties, and values, as well as the Box-Model. 
+The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. Project 2 will test students' knowledge of CSS selectors, properties, and values, as well as the Box-Model.
 
 #### Project 3--- Bootstrap Site (15 pts.)
 You will design, prototype, and develop a single-page website using [Bootstrap](http://getbootstrap.com/). This project is designed to combine all of the skills you've acquired throughout the semester.
@@ -120,7 +120,7 @@ Your grade will be assigned as follows:
 
 Grading criteria will be given for each individual assignment.
 
-## Revisions  
+## Revisions
 When software is created in a professional environment, changes and revisions are common. Factoring that web development is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
 
 If you are re-submitting work:
@@ -139,7 +139,7 @@ You will use [Codecademy](https://www.codecademy.com/learn/learn-html-css/), a f
 ### Software
 Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development.
 
-We will use:  
+We will use:
 
  1. A text editor--- [Atom](https://atom.io/) is recommended.
  2. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
@@ -190,7 +190,7 @@ The only __exception to this rule__ is the final project, which cannot be submit
 If you have an excused absence for a quizlab or participation exercise, you have __one week__ to make up that assignment at office hours. If you cannot attend scheduled office hours, it is your responsibility to reach out and schedule another meeting time.
 
 ### Students with Disabilities
-If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.  
+If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.
 
 For more information--- [https://studentaffairs.indiana.edu/disability-services-students/](https://studentaffairs.indiana.edu/disability-services-students/)
 
@@ -206,20 +206,20 @@ Students may not share code samples with one another. If you are using code that
 Students with code that is identical or very similar (more than 75% the same) are subject to losing points, or a failing grade.
 
 ### Sexual Misconduct
-As your instructor, one of my responsibilities is to create a positive learning environment for all students. Title IX and IU’s Sexual Misconduct Policy prohibit sexual misconduct in any form, including sexual harassment, sexual assault, stalking, and dating and domestic violence.  If you have experienced sexual misconduct, or know someone who has, the University can help.
+As your instructor, one of my responsibilities is to create a positive learning environment for all students. Title IX and IU’s Sexual Misconduct Policy prohibit sexual misconduct in any form, including sexual harassment, sexual assault, stalking, and dating and domestic violence.  If you have experienced sexual misconduct, or know someone who has, the University can help.
 If you are seeking help and would like to speak to someone confidentially, you can make an appointment with:
 
  * The Sexual Assault Crisis Services (SACS) at (812) 855-8900 (counseling services)
  * Confidential Victim Advocates (CVA) at (812) 856-2469 (advocacy and advice services)
  * IU Health Center at (812) 855-4011 (health and medical services)
 
-It is also important that you know that Title IX and University policy require me to share any information brought to my attention about potential sexual misconduct, with the campus Deputy Title IX Coordinator or IU’s Title IX Coordinator.  In that event, those individuals will work to ensure that appropriate measures are taken and resources are made available.   Protecting student privacy is of utmost concern, and information will only be shared with those that need to know to ensure the University can respond and assist. 
+It is also important that you know that Title IX and University policy require me to share any information brought to my attention about potential sexual misconduct, with the campus Deputy Title IX Coordinator or IU’s Title IX Coordinator.  In that event, those individuals will work to ensure that appropriate measures are taken and resources are made available.   Protecting student privacy is of utmost concern, and information will only be shared with those that need to know to ensure the University can respond and assist.
 I encourage you to visit stopsexualviolence.iu.edu to learn more.
 
 
-### Religious Holidays 
+### Religious Holidays
 
-*It is the policy of Indiana University that instructors must reasonably accommodate students who want to observe their religious holidays at times when academic requirements conflict with those observances. This policy is intended to ensure that both faculty and students are fully aware of their rights and responsibilities in the accommodation of students' religious observances.*  
+*It is the policy of Indiana University that instructors must reasonably accommodate students who want to observe their religious holidays at times when academic requirements conflict with those observances. This policy is intended to ensure that both faculty and students are fully aware of their rights and responsibilities in the accommodation of students' religious observances.*
 
 Source: [http://enrollmentbulletin.indiana.edu/pages/relo.php](http://enrollmentbulletin.indiana.edu/pages/relo.php)
 
@@ -231,7 +231,7 @@ The instructor reserves the right to adjust your final grade based on effort, pa
 
 ## Tentative Schedule
 
-|         | Dates                | Topic                             |
+|         |                      |                                   |
 |:--------|:---------------------|:----------------------------------|
 | -       | -                    | __UNIT ONE__                      |
 | week 1  | Mon 1/8, Wed 1/10    | Intro to HTML, tags               |

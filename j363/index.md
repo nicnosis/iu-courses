@@ -11,7 +11,7 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### In Class
  * `take` [this pre-test](https://goo.gl/forms/ABunTarolAlUHWPn1)
- * `download` [inspect.zip](mats/wk1/inspect.zip) for today's activity
+ <!-- * `download` [inspect.zip](mats/wk1/inspect.zip) for today's activity -->
 
 ### At Home
  * `read` the [syllabus](j363-syllabus.pdf)
