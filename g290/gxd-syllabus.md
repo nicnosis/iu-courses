@@ -122,7 +122,7 @@ When design work is created in a professional environment, changes and revisions
 If you are re-submitting work:
 
 1. You must have submitted the work by its due date. Late work is not eligible for re-submission.
-2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission. This is at the instructor's discretion.
+2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional work is not eligible for resubmission. This is at the instructor's discretion.
 3. You may only recover partial points lost.
 
 ## Required Readings and Materials
@@ -155,16 +155,7 @@ If you e-mail me, make sure you tell me:
  * Who you are
  * What class you're in
 
-If you want me to help with code, make sure you send:
-
- * A screenshot if applicable _(e.g., something is displaying incorrectly)_
- * Your code. To share your code--- compress your project folder, put it on Box, and share a downloadable link.
-
-__It can be difficult to diagnose coding problems via e-mail.__ I'll do my best, but you should consider talking with me after class, or coming to office hours if you're struggling with an assignment.
-
-I will do my best to correct code over the e-mail, but students should not expect me to correct __more than three lines of code in an e-mail__.
-
-Students should know that an e-mail responsive may take __up to 72 hours__ depending on the time of the semester.
+Students should know that an e-mail response may take __up to 72 hours__ depending on the time of the semester.
 
 ### Food and Drink in Class
 Sorry, they are not permitted.

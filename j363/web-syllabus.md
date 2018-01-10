@@ -176,7 +176,7 @@ __It can be difficult to diagnose coding problems via e-mail.__ I'll do my best,
 
 I will do my best to correct code over the e-mail, but students should not expect me to correct __more than three lines of code in an e-mail__.
 
-Students should know that an e-mail responsive may take __up to 72 hours__ depending on the time of the semester.
+Students should know that an e-mail response may take __up to 72 hours__ depending on the time of the semester.
 
 ### Food and Drink in Class
 Sorry, they are not permitted.
