@@ -23,4 +23,4 @@ This week you will familiarize yourself with course materials and get a basic un
  * `begin` [Homework One](assignments/hw1.html). It is due `Sunday January 21st at 11:59pm`
 
 #### Codecademy
- * `complete` Section 1 - HTML Fundamentals
+ * `complete` Section 1 - HTML Elements and Structure

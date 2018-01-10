@@ -5,10 +5,9 @@ footer: ''
 highlight: 'assignments'
 course: 'j363'
 ---
-# Homework One - <small>Basic HTML Tags</small>
+# Homework One - <small>Bad Design</small>
 ## Description
-
-
+You need to find a `game, app, or website` with poor user experience and be ready to discuss it on `Wednesday, Jan 17th`.
 
 
 ## Submission - Canvas
