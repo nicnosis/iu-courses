@@ -14,7 +14,7 @@ This week you will familiarize yourself with course materials and get a basic un
  * `take` [this pre-test](https://goo.gl/forms/ABunTarolAlUHWPn1)
 
 #### Wednesday
-  * `download` [1_inspect.zip](mats/1_inspect.zip) for today's activity
+  * `download` [1-inspect.zip](mats/1-inspect.zip) for today's activity
 
 ### At Home
  * `read` the [syllabus](j363-syllabus.pdf)
@@ -30,10 +30,24 @@ Now that you understand basic HTML structure, you will familiarize yourself with
 
 ### In Class
  * `inspiration`: [elegantseagulls](https://www.elegantseagulls.com/)
- * `download` [2_elements.zip](mats/2_elements.zip)
+ * `download` [2-elements.zip](mats/2-elements.zip)
 
 ### At Home
  * `complete` [Homework One](assignments/hw1.html). It is due `Sunday January 21st at 11:59pm`
 
 #### Codecademy
  * `complete` HTML Elements and Structure: _Common Elements_
+
+## week 3
+The web functions as a collection of interconnected files. This week, we'll learn how to create pages with multiple sites.
+
+### In Class
+ * `download` [3.1-review.zip](mats/3.1-review.zip)
+ * `download` [3.2-links.zip](mats/3.2-links.zip)
+ * `compress` and `submit` your _3.2-links_ folder to Canvas
+
+### At Home
+#### Reading
+These readings should help to cement the ideas you're practicing in class.
+ * `read` [W3Schools: HTML Links](https://www.w3schools.com/html/html_links.asp). `Skip` the section _"HTML Link Colors"_
+ * `read` [W3Schools: HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)

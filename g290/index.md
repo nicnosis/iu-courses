@@ -28,3 +28,24 @@ This week you will familiarize yourself with course materials and get a basic un
    * Game— _Donkey Kong 64_
    * Game— _Superman 64_
    * Website— [BoardGameGeek.com](https://boardgamegeek.com/)
+
+
+## week 2
+### In Class
+ * `inspiration`: [kbsagency](https://kbsagency.ca/)
+ * `fill out` this survey: [4 most interesting](https://goo.gl/forms/QIh3J03JiwpLcgQx1)
+
+### At Home
+ * `complete` [Homework One](assignments/hw-bad-design.html). It is due Jan 22nd.
+
+## week 3
+### In Class
+ * `sign up` for [InVsion](https://invisionapp.com/)
+ * `complete` [Lab 1](https://iu.instructure.com/courses/1691052/assignments/8016150) and submit your shareable link to Canvas
+
+### At Home
+ * `watch` InVision Tutorial: [Prototype Basics](https://projects.invisionapp.com/d/main#/learn/project-basics)
+ * `watch` InVision Tutorial: [Interactive Prototypes](https://projects.invisionapp.com/d/main#/learn/interactive-prototypes)
+ * `watch` InVision Tutorial: [Design Feedback & Collaboration](https://projects.invisionapp.com/d/main#/learn/design-feedback)
+ * `watch` InVision Tutorial: [Using Overlay Screens](https://projects.invisionapp.com/d/main#/learn/overlays)
+ * `watch` Illustrator CC Tutorial: [10 Things Beginners Want To Know How To Do](https://youtu.be/Tw2qUdfvbEQ)
