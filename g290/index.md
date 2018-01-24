@@ -40,12 +40,21 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 3
 ### In Class
+#### Monday
  * `sign up` for [InVsion](https://invisionapp.com/)
  * `complete` [Lab 1](https://iu.instructure.com/courses/1691052/assignments/8016150) and submit your shareable link to Canvas
 
+#### Wednesday
+ * `download` [ai-layers.zip](mats/ai-layers.zip)
+ * `download` [ai-transform.zip](mats/ai-transform.zip)
+
 ### At Home
+#### Tutorials
  * `watch` InVision Tutorial: [Prototype Basics](https://projects.invisionapp.com/d/main#/learn/project-basics)
  * `watch` InVision Tutorial: [Interactive Prototypes](https://projects.invisionapp.com/d/main#/learn/interactive-prototypes)
  * `watch` InVision Tutorial: [Design Feedback & Collaboration](https://projects.invisionapp.com/d/main#/learn/design-feedback)
  * `watch` InVision Tutorial: [Using Overlay Screens](https://projects.invisionapp.com/d/main#/learn/overlays)
  * `watch` Illustrator CC Tutorial: [10 Things Beginners Want To Know How To Do](https://youtu.be/Tw2qUdfvbEQ)
+
+#### Project One
+ * `begin` [Project One](assignments/p-interfaces.html). It is due `Feb 5th`.

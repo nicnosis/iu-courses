@@ -42,12 +42,20 @@ Now that you understand basic HTML structure, you will familiarize yourself with
 The web functions as a collection of interconnected files. This week, we'll learn how to create pages with multiple sites.
 
 ### In Class
+#### Monday
  * `download` [3.1-review.zip](mats/3.1-review.zip)
- * `download` [3.2-links.zip](mats/3.2-links.zip)
- * `compress` and `submit` your _3.2-links_ folder to Canvas
+ * `download` [3.2-links.zip](mats/3.2-links.zip) and `submit` to Canvas when finished
+
+#### Wednesday
+ * `download` [3.3-links-review.zip](mats/3.3-links-review.zip)
+ * `download` [3.4-structure.zip](mats/3.4-structure.zip) and `submit` to Canvas when finished
 
 ### At Home
+ * `begin` [Project One](assignments/p1.html). It is due `Feb 5th`.
+
 #### Reading
 These readings should help to cement the ideas you're practicing in class.
  * `read` [W3Schools: HTML Links](https://www.w3schools.com/html/html_links.asp). `Skip` the section _"HTML Link Colors"_
  * `read` [W3Schools: HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
+ * `read` [W3Schools: HTML Blocks](https://www.w3schools.com/html/html_blocks.asp)
+ * `read` [W3Schools: HTML Classes](https://www.w3schools.com/html/html_classes.asp)
