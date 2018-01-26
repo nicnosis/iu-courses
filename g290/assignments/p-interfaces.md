@@ -5,7 +5,7 @@ footer: ''
 highlight: 'assignments'
 course: 'g290'
 ---
-# Project One - <small>Interface Prototype</small>
+# Project One - <small>Interface Prototype</small> `15 pts.`
 ## Description
 You will create a multi-screen game interface prototype. I recommend using InVision, but you can use Adobe XD, Axure, or anything else that generates an interactive prototype.
 

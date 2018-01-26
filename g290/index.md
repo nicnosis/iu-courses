@@ -47,6 +47,7 @@ This week you will familiarize yourself with course materials and get a basic un
 #### Wednesday
  * `download` [ai-layers.zip](mats/ai-layers.zip)
  * `download` [ai-transform.zip](mats/ai-transform.zip)
+ * `submit` an exported screenshot _(.png)_ from the `4_repeatTransformation.ai` file to Canvas for [participation](https://iu.instructure.com/courses/1691052/assignments/8023266).
 
 ### At Home
 #### Tutorials
@@ -58,3 +59,4 @@ This week you will familiarize yourself with course materials and get a basic un
 
 #### Project One
  * `begin` [Project One](assignments/p-interfaces.html). It is due `Feb 5th`.
+ * You are expected to bring hand-drawn sketches for `at least three screens` to class on Monday so we can discuss them.
