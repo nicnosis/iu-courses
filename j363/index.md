@@ -59,3 +59,17 @@ These readings should help to cement the ideas you're practicing in class.
  * `read` [W3Schools: HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
  * `read` [W3Schools: HTML Blocks](https://www.w3schools.com/html/html_blocks.asp)
  * `read` [W3Schools: HTML Classes](https://www.w3schools.com/html/html_classes.asp)
+
+## week 4
+### In Class
+ * `inspiration`: [variousways.com](http://www.variousways.com/)
+ * `download` [4.1-intro-to-css.zip](mats/4.1-intro-to-css.zip)
+ <!-- * `download` [4.2-box-model] -->
+
+### At Home
+ * `continue` [Project One](assignments/p1.html). It is due `Feb 5th`.
+
+#### Codecademy
+ * `begin` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+   * `complete` section 1: Selectors and Visual Rules
+   * `complete` section 2: The Box Model
