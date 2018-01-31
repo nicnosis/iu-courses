@@ -58,5 +58,13 @@ This week you will familiarize yourself with course materials and get a basic un
  * `watch` Illustrator CC Tutorial: [10 Things Beginners Want To Know How To Do](https://youtu.be/Tw2qUdfvbEQ)
 
 #### Project One
- * `begin` [Project One](assignments/p-interfaces.html). It is due `Feb 5th`.
+ * `begin` [Project One](assignments/p-interfaces.html). It is due `Feb 7th`.
  * You are expected to bring hand-drawn sketches for `at least three screens` to class on Monday so we can discuss them.
+
+## week 4
+### In Class
+ * `download` [ai-shapes.zip](mats/ai-shapes.zip)
+
+### At Home
+ * `continue` working on [Project One](assignments/p-interfaces.html). It is due `Feb 7th`.
+ * On Monday, you're expected to have at least one screen in InVision.

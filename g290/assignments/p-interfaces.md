@@ -37,4 +37,4 @@ I need two things:
 1. You will submit your project on Canvas a URL. You will give me your InVision/Axure shareable URL for this project. If you are using InVision, make sure to add me as a collaborator— `naguirre (at) indiana.edu`
 2. You will give me your assets. For most of you, this will mean giving me your `.ai` (Illustrator) files.
 
-#### **Due Monday Feb 5th @ 11:59pm**
+#### **Due Wednesday Feb 7th @ 11:59pm**
