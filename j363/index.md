@@ -62,9 +62,16 @@ These readings should help to cement the ideas you're practicing in class.
 
 ## week 4
 ### In Class
+#### Monday
  * `inspiration`: [variousways.com](http://www.variousways.com/)
  * `download` [4.1-intro-to-css.zip](mats/4.1-intro-to-css.zip)
- <!-- * `download` [4.2-box-model] -->
+
+#### Wednesday
+ * `inspiration`: [pigment by shapefactory](https://pigment.shapefactory.co/?p=50&l=50)
+ * `download` [4.2-stylesheet-review](mats/4.2-stylesheet-review.zip)
+ * `practice` using W3School's [CSS Selector Tester](https://www.w3schools.com/cssref/trysel.asp)
+ * `download` [4.3-css-selectors](mats/4.3-css-selectors.zip)
+ * `download` [4.4-text-formatting](mats/4.4-text-formatting.zip)
 
 ### At Home
  * `continue` [Project One](assignments/p1.html). It is due `Feb 5th`.

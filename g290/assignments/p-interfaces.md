@@ -7,7 +7,7 @@ course: 'g290'
 ---
 # Project One - <small>Interface Prototype</small> `15 pts.`
 ## Description
-You will create a multi-screen game interface prototype. I recommend using InVision, but you can use Adobe XD, Axure, or anything else that generates an interactive prototype.
+You will create a game interface prototype with multiple screens. I recommend using InVision, but you can use Adobe XD, Axure, or anything else that generates an interactive prototype.
 
 The idea of this project is:
 
