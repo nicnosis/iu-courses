@@ -80,3 +80,14 @@ These readings should help to cement the ideas you're practicing in class.
  * `begin` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
    * `complete` section 1: Selectors and Visual Rules
    * `complete` section 2: The Box Model
+
+## week 5
+### In Class
+ * `inspiration`: [happymeter](https://happymeter.lol/)
+ * `download`: [5.1-css-review](mats/5.1-css-review.zip)
+
+### At Home
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+   * `complete` section 3: CSS Display and Positioning
+   * `complete` section 4: Color
