@@ -68,3 +68,25 @@ This week you will familiarize yourself with course materials and get a basic un
 ### At Home
  * `continue` working on [Project One](assignments/p-interfaces.html). It is due `Feb 7th`.
  * On Monday, you're expected to have at least one screen in InVision.
+
+## week 5
+### In Class
+ * `download` [ai-color-groups.zip](mats/ai-color-groups.zip)
+ * _1_stroke-fill.ai_
+   * Using the eyedropper tool
+   * Making a color group from swatches
+ * _2_colorGroups.ai_
+   * Making a color group from swatches
+   * Making a color group from color guide (harmonic rules)
+ * _3_loadASE.ai_
+   * Selecting and removing unused colors
+   * Using .ase file format.
+   * Saving swatch as ASE with flyout menu
+   * Loading .ase with Swatch Libraries Menu; storing in swatches
+ * _4_participation.ai_
+   * Getting an image from Google Images (or other source)
+   * Generating a color palette from [color.adobe.com](https://color.adobe.com/)
+ * `submit` your saved ASE file to Canvas for participation when finished
+
+### At Home
+ * `finish` working on [Project One](assignments/p-interfaces.html). It is due Wednesday, `Feb 7th`.
