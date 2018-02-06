@@ -83,11 +83,19 @@ These readings should help to cement the ideas you're practicing in class.
 
 ## week 5
 ### In Class
+#### Monday
  * `inspiration`: [happymeter](https://happymeter.lol/)
- * `download`: [5.1-css-review](mats/5.1-css-review.zip)
+ * `download`: [5.1-css-review.zip](mats/5.1-css-review.zip)
+
+#### Wednesday
+ * `inspiration`: [Jony Guedj](http://www.jonyguedj.com/)
+ * `download`: [5.2-box-model.zip](mats/5.2-box-model.zip)
 
 ### At Home
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
    * `complete` section 3: CSS Display and Positioning
    * `complete` section 4: Color
+
+#### Homework
+ * `begin` [Homework Two](assignments/hw2.html). It is due `Feb 16th`.
