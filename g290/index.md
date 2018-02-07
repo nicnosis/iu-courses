@@ -90,3 +90,4 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### At Home
  * `finish` working on [Project One](assignments/p-interfaces.html). It is due Wednesday, `Feb 7th`.
+ * `submit` your interface examples for [Monday's participation exercise](https://iu.instructure.com/courses/1691052/assignments/8047347). These are due `4pm on Monday Feb 12th`.
