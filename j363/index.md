@@ -99,3 +99,12 @@ These readings should help to cement the ideas you're practicing in class.
 
 #### Homework
  * `begin` [Homework Two](assignments/hw2.html). It is due `Feb 16th`.
+
+## week 6
+### In Class
+#### Monday
+ * `inspiration`: [gus-trans](https://gus-trans.com/)
+ * `download`: [6.1-interface-styling.zip](mats/6.1-interface-styling.zip)
+
+### At Home
+ * `finish` [Homework Two](assignments/hw2.html). It is due `Feb 16th` (Friday).
