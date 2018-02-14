@@ -106,5 +106,9 @@ These readings should help to cement the ideas you're practicing in class.
  * `inspiration`: [gus-trans](https://gus-trans.com/)
  * `download`: [6.1-interface-styling.zip](mats/6.1-interface-styling.zip)
 
+#### Wednesday
+ * `inspiration`: [parall.ax](https://parall.ax/)
+ * `download`: [6.2-display-and-position.zip](mats/6.2-display-and-position.zip)
+
 ### At Home
  * `finish` [Homework Two](assignments/hw2.html). It is due `Feb 16th` (Friday).
