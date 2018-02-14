@@ -94,4 +94,14 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 6
 ### In Class
+#### Monday
  * `download` the [interface examples](mats/interface-examples.zip) for today's discussion.
+
+#### Wednesday
+ * `play` the [bezier game](http://bezier.method.ac/)
+ * `download` [ai-pen.zip](mats/ai-pen.zip)
+   * When finished, `export` the key you traced from the file `2_penToolPractice.ai`
+   * `upload` it and `submit` to Canvas for today's participation
+
+### At Home
+ * `begin` [Homework Two](assignments/hw-pen.html)
