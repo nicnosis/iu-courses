@@ -112,3 +112,9 @@ These readings should help to cement the ideas you're practicing in class.
 
 ### At Home
  * `finish` [Homework Two](assignments/hw2.html). It is due `Feb 16th` (Friday).
+
+## week 7
+### In Class
+ * `inspiration`: [color theory](http://www.colortheory.ca/)
+ * `download`: [color-meanings.docx]()
+ * `download`: [7.1-color.zip]()
