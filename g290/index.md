@@ -105,3 +105,12 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### At Home
  * `begin` [Homework Two](assignments/hw-pen.html)
+
+## week 7
+### In Class
+ * `download` [ai-pen2.zip](mats/ai-pen2.zip)
+ * `download` [ai-clip.zip](mats/ai-clip.zip)
+   * Once you finish clipping the paths and creating your card artworks, export them and submit to Canvas for Participation.
+
+### At Home
+ * `finish` [Homework Two](assignments/hw-pen.html). Make sure that you embed your image into the Illustrator file

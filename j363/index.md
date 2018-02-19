@@ -116,5 +116,6 @@ These readings should help to cement the ideas you're practicing in class.
 ## week 7
 ### In Class
  * `inspiration`: [color theory](http://www.colortheory.ca/)
- * `download`: [color-meanings.docx]()
- * `download`: [7.1-color.zip]()
+ * `download`: [color-meanings.docx](mats/color-meanings.docx)
+ * `download`: [7.1-color.zip](mats/7.1-color.zip)
+   * After generating three palettes, submit a screenshot to `Canvas` for today's participation
