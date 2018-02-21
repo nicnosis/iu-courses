@@ -115,7 +115,20 @@ These readings should help to cement the ideas you're practicing in class.
 
 ## week 7
 ### In Class
+#### Monday
  * `inspiration`: [color theory](http://www.colortheory.ca/)
  * `download`: [color-meanings.docx](mats/color-meanings.docx)
  * `download`: [7.1-color.zip](mats/7.1-color.zip)
    * After generating three palettes, submit a screenshot to `Canvas` for today's participation
+
+#### Wednesday
+ * `download`: [7.2-hero-image.zip](mats/7.2-hero-image.zip)
+ * `download`: [7.3-grid.zip](mats/7.3-grid.zip)
+
+### At Home
+ * `begin` [Project Two](assignments/p2.html). It is due `Friday March 9th`.
+
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+   * `complete` section 6: CSS Grid (you can skip section 5)
