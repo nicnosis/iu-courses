@@ -113,4 +113,5 @@ This week you will familiarize yourself with course materials and get a basic un
    * Once you finish clipping the paths and creating your card artworks, export them and submit to Canvas for Participation.
 
 ### At Home
- * `finish` [Homework Two](assignments/hw-pen.html). Make sure that you embed your image into the Illustrator file
+ * `finish` [Homework Two](assignments/hw-pen.html). It is due `Friday Feb 23rd`. Make sure that you embed your image into the Illustrator file
+ * `begin` [Project Two](assignments/p-assets.html). It is due `Friday March 9th`.

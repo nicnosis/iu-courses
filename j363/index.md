@@ -132,3 +132,11 @@ These readings should help to cement the ideas you're practicing in class.
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
    * `complete` section 6: CSS Grid (you can skip section 5)
+
+## week 8
+### In Class
+ * `inspiration`: [Bande A Part](http://www.bande-a-part.fr/)
+ * `download`: [8.1-grid.zip](mats/8.1-grid.zip)
+
+### At Home
+ * `continue` working on [Project Two](assignments/p2.html). It is due `Friday March 9th`.
