@@ -115,3 +115,11 @@ This week you will familiarize yourself with course materials and get a basic un
 ### At Home
  * `finish` [Homework Two](assignments/hw-pen.html). It is due `Friday Feb 23rd`. Make sure that you embed your image into the Illustrator file
  * `begin` [Project Two](assignments/p-assets.html). It is due `Friday March 9th`.
+
+## week 8
+### In Class
+ * `download` [proportion.pdf](mats/proportion.pdf)
+ * `download` [ai-grids.zip](mats/ai-grids.zip)
+ * 
+### At Home
+ * `continue` working on [Project Two](assignments/p-assets.html). It is due `Friday March 9th`.

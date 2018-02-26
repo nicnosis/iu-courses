@@ -39,17 +39,18 @@ If you are working from your personal computer, you might consider using [Adobe 
 ## Teams and Themes
 _(I will update this page with themes once they've been chosen)_
 
-#### Team One
+#### Team One— Gatekeeper + "Seeing is Believing"
+Members:
  * Nick Moody
  * Kayla
  * Will
 
-#### Team Two
+#### Team Two— Gatekeeper + "Enough is Enough"
  * Nik Stewart
  * Andrew
  * Viki
 
-#### Team Three
+#### Team Three— Gatekeeper + "Better in Reverse"
  * Sebastian
  * Josh
  * Spencer
