@@ -118,8 +118,25 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 8
 ### In Class
+#### Monday
  * `download` [proportion.pdf](mats/proportion.pdf)
  * `download` [ai-grids.zip](mats/ai-grids.zip)
+
+#### Wednesday
+##### INSPIRATION
+(1) Look through the list of links that follow that pick TWO examples you want to discuss as a class.
+(2) After choosing your examples, submit them through [this Google form](https://goo.gl/forms/Gx8FSiYfkcaPWmwy2). It will count as your participation.
+
+ * [collectui](http://collectui.com/)
+ * [uimovement](https://uimovement.com/)
+ * [abduzeedo](http://abduzeedo.com/) (check out the [weekly ui inspiration](http://abduzeedo.com/ui-inspiration-weeks-selections-outcrowd-mario-sestak-adrian-somoza-and-more))
+ * [muzli](https://medium.muz.li/)
+ * [web design inspiration](http://www.webdesign-inspiration.com/)
+ * [awwwards](https://www.awwwards.com/)
+ * [Pinterest Board 1](https://www.pinterest.com/animator422/video-game-design-inspiration/)
+ * [Pinterest Board 2](https://www.pinterest.com/markusmontalvo/gaming-design/)
+ * [Pinterest Board 3](https://www.pinterest.com/flowap/ui-design/)
+ * [Pinterest Search: ui design](https://www.pinterest.com/search/pins/?q=ui+design)
 
 ### At Home
  * `continue` working on [Project Two](assignments/p-assets.html). It is due `Friday March 9th`.
