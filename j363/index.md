@@ -135,8 +135,16 @@ These readings should help to cement the ideas you're practicing in class.
 
 ## week 8
 ### In Class
+#### Monday
  * `inspiration`: [Bande A Part](http://www.bande-a-part.fr/)
  * `download`: [8.1-grid.zip](mats/8.1-grid.zip)
 
+#### Wednesday
+ * `inspiration A`: [Heartbeat Agency](http://heartbeat.ua/)
+ * `inspiration B`: [The Great Agency](http://www.thegreat.agency/)
+ * `download` [8.2-grid.zip](mats/8.2-grid.zip)
+ * `download` [8.3-backstretch.zip](mats/8.3-backstretch.zip)
+
 ### At Home
  * `continue` working on [Project Two](assignments/p2.html). It is due `Friday March 9th`.
+ * `visit` [jquery backstretch](http://www.jquery-backstretch.com/). This can be useful for Project Two

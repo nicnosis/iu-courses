@@ -120,6 +120,6 @@ This week you will familiarize yourself with course materials and get a basic un
 ### In Class
  * `download` [proportion.pdf](mats/proportion.pdf)
  * `download` [ai-grids.zip](mats/ai-grids.zip)
- * 
+
 ### At Home
  * `continue` working on [Project Two](assignments/p-assets.html). It is due `Friday March 9th`.
