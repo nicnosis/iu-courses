@@ -148,3 +148,16 @@ These readings should help to cement the ideas you're practicing in class.
 ### At Home
  * `continue` working on [Project Two](assignments/p2.html). It is due `Friday March 9th`.
  * `visit` [jquery backstretch](http://www.jquery-backstretch.com/). This can be useful for Project Two
+
+## week 9
+### In Class
+ * `inspiration`: [inside the head](https://insidethehead.co/)
+ * `download`: [9.1-rwd.zip](mats/9.1-rwd.zip)
+
+### At Home
+ * `finish` [Project Two](assignments/p2.html). It is due `Friday March 9th`.
+
+#### Codecademy
+ * `begin` lesson: [responsive design](https://www.codecademy.com/learn/learn-responsive-design)
+   * `complete` section 1: Sizing Elements
+   * `complete` section 2: Media Queries
