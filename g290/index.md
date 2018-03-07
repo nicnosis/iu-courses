@@ -140,3 +140,6 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### At Home
  * `continue` working on [Project Two](assignments/p-assets.html). It is due `Friday March 9th`.
+
+## week 9
+This week, you will finish working on [Project Two](assignments/p-assets.html). It is due `Friday` (March 9th).
