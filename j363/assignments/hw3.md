@@ -12,14 +12,14 @@ You will make a simple, three-column responsive layout using [Bootstrap](http://
 Here's what it should look like...
 <div class="card-block">
   <p class="card-text lead">Finished site:</p>
-  <a href="../examples/cakes.png" class="btn btn-primary" target="_blank">View Example</a>
+  <a href="img/cake-finished.png" class="btn btn-primary" target="_blank">View Example</a>
 </div>
 
 ## Starter Files
 You are given some starter files.
 <div class="card-block">
   <p class="card-text lead">Starter files for Homework Three:</p>
-  <a href="hw3.zip" class="btn btn-primary" target="_blank">Download</a>
+  <a href="hw3-start.zip" class="btn btn-primary" target="_blank">Download</a>
 </div>
 
 ### About these files
@@ -41,7 +41,7 @@ No other CSS is necessary, but you can add additional styling if you like.
  * `jumbotron`--- this will be your hero section
  * `display-4`--- for making the `h1` display text
  * `row`--- for the main section, put columns in here
- * `col-sm-4`--- This will be a 1/3-width, column that gets stacked on small displays
+ * `col-md-4`--- This will be a 1/3-width, column that gets stacked on medium-sized displays
  * `img-responsive`--- Put this on your `img` tags so they resize properly
  * `lead`--- Put this on your paragraphs so they have larger text.
 
@@ -53,7 +53,7 @@ You will probably need to know about:
  * [Bootstrap components](https://getbootstrap.com/docs/4.0/components/alerts/) _(e.g., jumbotron)_
 
 ## Submission - Canvas
-Compress your folder when finished. It should be named `hw3_lastname-firstname.zip`.
+Make sure your project folder is named `hw3_lastname-firstname`. Then, compress it. It should be named `hw3_lastname-firstname.zip`.
 
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 3`
 

@@ -143,3 +143,16 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 9
 This week, you will finish working on [Project Two](assignments/p-assets.html). It is due `Friday` (March 9th).
+
+## week 10
+### "In Class"
+Remember that we're not meeting physically this week as I am attending the [Game Developers Conference](http://www.gdconf.com/).
+
+### At Home
+
+### Extra Credit: Adobe Creative Jam
+I __strongly recommend__ signing up for this year's Adobe Creative Jam. You'll get free meals, Adobe swag, and a chance to create some amazing portfolio work. The winning team gets a free year of Creative Cloud after graduating.
+
+If you apply and are accepted, I will award extra credit worth __two percent__ of your grade.
+
+<a href="http://bit.ly/iu-tournament-2018" class="btn btn-primary" target="_blank">Sign Up</a>
