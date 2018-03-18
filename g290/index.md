@@ -148,7 +148,10 @@ This week, you will finish working on [Project Two](assignments/p-assets.html). 
 ### "In Class"
 Remember that we're not meeting physically this week as I am attending the [Game Developers Conference](http://www.gdconf.com/).
 
-### At Home
+### Project Three + Homework Three
+You will use class time this week to begin your [third project](assignments/p-mobile.html).
+
+Project Three includes a milestone that will count as your third homework assignment. The milestone is due __in class Monday March 26th__.
 
 ### Extra Credit: Adobe Creative Jam
 I __strongly recommend__ signing up for this year's Adobe Creative Jam. You'll get free meals, Adobe swag, and a chance to create some amazing portfolio work. The winning team gets a free year of Creative Cloud after graduating.
