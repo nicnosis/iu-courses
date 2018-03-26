@@ -187,3 +187,15 @@ I __strongly recommend__ signing up for this year's Adobe Creative Jam. You'll g
 If you apply and are accepted, I will award extra credit worth __two percent__ of your grade.
 
 <a href="http://bit.ly/iu-tournament-2018" class="btn btn-primary" target="_blank">Sign Up</a>
+
+## week 11
+### in class
+ * `inspiration`
+   * [Caprock](http://www.thecaprockgroup.com)
+   * [thisness](https://www.thisness.com/)
+   * more examples: [awwwards: bootstrap](https://www.awwwards.com/websites/bootstrap/)
+   * more examples: [builtwithbootstrap.com](http://builtwithbootstrap.com/)
+* `download` [11.1-bootstrap.zip](mats/11.1-bootstrap.zip)
+
+### at home
+ * `finish` [Homework Three](assignments/hw3.html). It is due `Monday March 26th` at 11:59pm.
