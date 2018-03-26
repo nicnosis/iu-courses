@@ -159,3 +159,13 @@ I __strongly recommend__ signing up for this year's Adobe Creative Jam. You'll g
 If you apply and are accepted, I will award extra credit worth __two percent__ of your grade.
 
 <a href="http://bit.ly/iu-tournament-2018" class="btn btn-primary" target="_blank">Sign Up</a>
+
+## week 11
+### In Class
+ * `complete` [this survey](https://goo.gl/forms/p4ygUlua6jNtBTs82). As long as you fill in your name, I will grade it for you on Canvas
+ * `visit` [this spreadsheet](https://docs.google.com/spreadsheets/d/18rS2CjD-MkIZoACWWnIWIQsoqVN6Ae9E0C0nls_bswE/edit?usp=sharing) so we can share ideas about Project Three.
+
+### At Home
+Continue working on [Project Three](assignments/p-mobile.html).
+
+Project Three includes a milestone that will count as your third homework assignment. The milestone is due __in class Wednesday March 28th__.
