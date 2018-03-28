@@ -190,6 +190,7 @@ If you apply and are accepted, I will award extra credit worth __two percent__ o
 
 ## week 11
 ### in class
+#### Monday
  * `inspiration`
    * [Caprock](http://www.thecaprockgroup.com)
    * [thisness](https://www.thisness.com/)
@@ -197,5 +198,9 @@ If you apply and are accepted, I will award extra credit worth __two percent__ o
    * more examples: [builtwithbootstrap.com](http://builtwithbootstrap.com/)
 * `download` [11.1-bootstrap.zip](mats/11.1-bootstrap.zip)
 
+#### Wednesday
+
+
 ### at home
  * `finish` [Homework Three](assignments/hw3.html). It is due `Monday March 26th` at 11:59pm.
+ * `begin` [Project Three](assignments/p3.html). It is due `Friday April 13th` at 11:59pm.
