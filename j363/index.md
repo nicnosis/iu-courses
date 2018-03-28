@@ -196,11 +196,14 @@ If you apply and are accepted, I will award extra credit worth __two percent__ o
    * [thisness](https://www.thisness.com/)
    * more examples: [awwwards: bootstrap](https://www.awwwards.com/websites/bootstrap/)
    * more examples: [builtwithbootstrap.com](http://builtwithbootstrap.com/)
-* `download` [11.1-bootstrap.zip](mats/11.1-bootstrap.zip)
+ * `download` [11.1-bootstrap.zip](mats/11.1-bootstrap.zip)
 
 #### Wednesday
-
+ * `inspiration`: [envylabs](https://envylabs.com/)
+ * `discussion`: [boardgamegeek.com](https://boardgamegeek.com/)
+ * `download`: [11.2-bootstrap.zip](mats/11.2-bootstrap.zip)
+ * For today's participation: `Canvas > Assignments > Participation 3/28`
 
 ### at home
- * `finish` [Homework Three](assignments/hw3.html). It is due `Monday March 26th` at 11:59pm.
+ <!-- * `finish` [Homework Three](assignments/hw3.html). It is due `Monday March 26th` at 11:59pm. -->
  * `begin` [Project Three](assignments/p3.html). It is due `Friday April 13th` at 11:59pm.
