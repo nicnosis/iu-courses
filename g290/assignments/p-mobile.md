@@ -58,4 +58,4 @@ You will give me a `.zip` file with:
 1. Your illustrator `(.ai)` files
 2. Exported screenshots
 
-#### **Due April 6th @ 11:59pm**
+#### **Due Monday April 9th @ 11:59pm**
