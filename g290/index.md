@@ -169,3 +169,11 @@ If you apply and are accepted, I will award extra credit worth __two percent__ o
 Continue working on [Project Three](assignments/p-mobile.html).
 
 Project Three includes a milestone that will count as your third homework assignment. The milestone is due __in class Wednesday March 28th__.
+
+## week 12
+### In Class
+ * `complete` [this survey](https://goo.gl/forms/odG9Wh47nXD8hb3D2). As long as you fill in your name, I will grade it for you on Canvas
+
+### At Home
+ * `continue` working on [Project Three](assignments/p-mobile.html). It is due `Monday April 9th`
+
