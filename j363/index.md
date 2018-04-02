@@ -207,3 +207,11 @@ If you apply and are accepted, I will award extra credit worth __two percent__ o
 ### at home
  <!-- * `finish` [Homework Three](assignments/hw3.html). It is due `Monday March 26th` at 11:59pm. -->
  * `begin` [Project Three](assignments/p3.html). It is due `Friday April 13th` at 11:59pm.
+
+## week 12
+### in class
+ * `inspiration`: [thebuyer.fr](https://thebuyer.fr/)
+ * `inspiration`: [Polaroid Originals](https://us.polaroidoriginals.com/)
+
+### at home
+ * `continue` working on [Project Three](assignments/p3.html). Remember that you have a progress check on `Wednesday April 4th` in class.
