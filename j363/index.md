@@ -228,6 +228,9 @@ This week, you will finish up Project Three while familiarizing yourself with Co
  * `inspiration`: [2018.makemepulse.com](http://2018.makemepulse.com/)
  * `create` an account on [Codepen.io](https://codepen.io/). I recommend making a `j363` collection for this class.
  * `codepen` lesson: [13.1: Intro to Codepen](https://codepen.io/novonagu/pen/Brvogm)
+ * `codepen` lesson: [13.2: JS Variables and Data Types](https://codepen.io/novonagu/pen/WzLxoj)
+ * `codepen` lesson: [13.3: JS Operators](https://codepen.io/novonagu/pen/KobMoo)
+ * `codepen` lesson: [13.4: Participation](https://codepen.io/novonagu/pen/ZxVORq)
 
 ### at home
  * `finish` [Project Three](assignments/p3.html). It is due `Friday April 13th` at 11:59pm.
