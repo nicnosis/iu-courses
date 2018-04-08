@@ -210,8 +210,29 @@ If you apply and are accepted, I will award extra credit worth __two percent__ o
 
 ## week 12
 ### in class
+#### Monday
  * `inspiration`: [thebuyer.fr](https://thebuyer.fr/)
  * `inspiration`: [Polaroid Originals](https://us.polaroidoriginals.com/)
 
+#### Wednesday
+ * I will meet with you individually for your progress check.
+ * There is a `participation` assignment on Canvas today, but it will not unlock until later in the class period (once you've had some time to work on your project)
+
 ### at home
  * `continue` working on [Project Three](assignments/p3.html). Remember that you have a progress check on `Wednesday April 4th` in class.
+
+## week 13
+This week, you will finish up Project Three while familiarizing yourself with Codepen JavaScript.
+
+### in class
+ * `inspiration`: [2018.makemepulse.com](http://2018.makemepulse.com/)
+ * `create` an account on [Codepen.io](https://codepen.io/). I recommend making a `j363` collection for this class.
+ * `codepen` lesson: [13.1: Intro to Codepen](https://codepen.io/novonagu/pen/Brvogm)
+
+### at home
+ * `finish` [Project Three](assignments/p3.html). It is due `Friday April 13th` at 11:59pm.
+
+#### Codecademy
+ * `begin` course: [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
+   * `complete` section 1: Introduction to JavaScript, Variables
+   * `complete` section 2: Control Flow
