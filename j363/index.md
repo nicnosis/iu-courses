@@ -225,6 +225,7 @@ If you apply and are accepted, I will award extra credit worth __two percent__ o
 This week, you will finish up Project Three while familiarizing yourself with Codepen JavaScript.
 
 ### in class
+#### Monday
  * `inspiration`: [2018.makemepulse.com](http://2018.makemepulse.com/)
  * `create` an account on [Codepen.io](https://codepen.io/). I recommend making a `j363` collection for this class.
  * `codepen` lesson: [13.1: Intro to Codepen](https://codepen.io/novonagu/pen/Brvogm)
@@ -232,8 +233,17 @@ This week, you will finish up Project Three while familiarizing yourself with Co
  * `codepen` lesson: [13.3: JS Operators](https://codepen.io/novonagu/pen/KobMoo)
  * `codepen` lesson: [13.4: Participation](https://codepen.io/novonagu/pen/ZxVORq)
 
+#### Wednesday
+ * At the `start of class`, make sure that you have (1) made an account on Codepen.io (you can link your twitter/facebook by clicking 'log in') and (2) verified your e-mail address so you can use the `collections` feature.
+ * We will `review` [13.1: Intro to Codepen](https://codepen.io/novonagu/pen/Brvogm) and [13.2: JS Variables and Data Types](https://codepen.io/novonagu/pen/WzLxoj)
+ * `codepen` lesson: [13.5: JS Control Flow](https://codepen.io/novonagu/pen/MVxWGO)
+ * `codepen` lesson: [13.6: JS Functions](https://codepen.io/novonagu/pen/mRKOvV)
+ * `watch` [hello p5js](http://hello.p5js.org/).
+ * `codepen` lesson: [13.7: Intro to p5.js](https://codepen.io/novonagu/pen/qovaxE). You will use this for today's `participation`.
+
 ### at home
  * `finish` [Project Three](assignments/p3.html). It is due `Friday April 13th` at 11:59pm.
+ * `begin` [Homework Four](assignments/hw4.html). It is due `Friday April 20th` at 11:59pm.
 
 #### Codecademy
  * `begin` course: [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)

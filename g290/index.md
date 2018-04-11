@@ -179,11 +179,17 @@ Project Three includes a milestone that will count as your third homework assign
 
 ## week 13
 ### In Class
+#### Monday
 You will evaluate each other's work on this project. Please click the correct link for your team:
 
  * `Team one` fill out [this survey](https://goo.gl/forms/7cfine1ZCF6uczF53)
  * `Team two` fill out [this survey](https://goo.gl/forms/Zut0qo9fl9l8k7Xd2)
  * `Team three` fill out [this survey](https://goo.gl/forms/6B3JznGwPALJVzL02)
 
+#### Wednesday
+ * `download` [the slides](https://drive.google.com/open?id=1zwbnDxVqjVZKYFADzTEY-Jz3YFp4YlER) for today's presentation
+ * `participation`: On Canvas, you will share the most useful or interesting part of today's presentation
+
 ### At Home
- * `continue` working on [Project Three](assignments/p-mobile.html). It is due `Monday April 9th`
+ <!-- * `continue` working on [Project Three](assignments/p-mobile.html). It is due `Monday April 9th` -->
+ * `begin` [Homework Four](assignments/hw-proposal.html). It is due `Monday at the start of class`.
