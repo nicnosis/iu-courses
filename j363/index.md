@@ -249,3 +249,22 @@ This week, you will finish up Project Three while familiarizing yourself with Co
  * `begin` course: [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
    * `complete` section 1: Introduction to JavaScript, Variables
    * `complete` section 2: Control Flow
+
+## week 14
+### in class
+ * `review` lesson:  [13.7: Intro to p5.js](https://codepen.io/novonagu/pen/qovaxE)
+ * `codepen` lesson: [14.1: JS Array Properties and Methods I](https://codepen.io/novonagu/pen/BLgJJB)
+ * `codepen` lesson: [14.2: JS Array Properties and Methods II](https://codepen.io/novonagu/pen/MjMrBm)
+ * `codepen` lesson: [14.3: JS For Loops](https://codepen.io/novonagu/pen/xqbyYV)
+
+#### Participation:
+ * `codepen` lesson: [14.4: Drawing with Loops](https://codepen.io/novonagu/pen/aYgxmV)
+
+### at home
+ * `finish` [Homework Four](assignments/hw4.html). It is due `Friday April 20th` at 11:59pm.
+ * `begin` [Project Four](assignments/p4.html). It is due `May 4th` at 11:59pm.
+
+#### Codecademy
+ * `continue` course: [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
+   * `complete` section 3: Functions and Scope
+   * `complete` section 4: Arrays and Loops
