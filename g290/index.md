@@ -193,3 +193,13 @@ You will evaluate each other's work on this project. Please click the correct li
 ### At Home
  <!-- * `continue` working on [Project Three](assignments/p-mobile.html). It is due `Monday April 9th` -->
  * `begin` [Homework Four](assignments/hw-proposal.html). It is due `Monday at the start of class`.
+
+## week 14
+### In Class
+#### Monday
+ * `critiques`: Project Three. [Click here](project3.zip) to download submissions for review.
+ *  `discuss`: Project Four proposals
+ * `participation`: On Canvas, submit your plans for what you want to accomplish between now and Wednesday.
+
+### At Home
+Begin gathering materials for Project Four.
