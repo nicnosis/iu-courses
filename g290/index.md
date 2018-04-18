@@ -201,5 +201,11 @@ You will evaluate each other's work on this project. Please click the correct li
  *  `discuss`: Project Four proposals
  * `participation`: On Canvas, submit your plans for what you want to accomplish between now and Wednesday.
 
+#### Wednesday
+ * `complete` [Online Course Evaluations](https://one.iu.edu/launch-task/iuk/course-evaluations)
+ * `complete` Lab Two
+   * `download` [this](assignments/lab2.zip)
+   * `submit` on Canvas when finished
+
 ### At Home
-Begin gathering materials for Project Four.
+ * `work on` [Project Four](assignments/hw-proposal.html). Your final project is due `Friday May 4th at 11:59pm`

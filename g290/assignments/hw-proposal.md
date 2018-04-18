@@ -5,7 +5,8 @@ footer: ''
 highlight: 'assignments'
 course: 'g290'
 ---
-# Homework Four - <small>Final Proposal</small>
+# Homework Four: <small>Proposal</small>
+# Project Four: <small>Final</small>
 ## Description
 __Project Four__ (your final project) is meant to be an opportunity to apply all of your insights and ambitions related to game UI/UX.
 
@@ -34,7 +35,8 @@ For Homework Four (this proposal), you must submit:
 3. __At least three__ sketches on paper that convey your idea. Please __scan__ or __take a clear picture__ or your paper sketches.
 4. __Fifteen or more__ examples: screenshots, video clips, or other inspiration. Remember that your examples should __focus on UI/UX__, and less on character or environment art _(although these can still be relevant for defining a visual style)_.
 
-## Submission - Canvas
-I'm not picky about the format, but I recommend submitting a `.zip` file with all of your required documents.
+## Proposal Submission - Canvas
+<del>Due Monday April 16th @ at the start of class (not at midnight!!)</del>
 
-#### **Due Monday April 16th @ at the start of class** (not at midnight!!)
+## Final Project Submission - Canvas
+### `Due Friday May 4th at 11:59pm`. Because this is the final project, __late submissions are not accepted__
