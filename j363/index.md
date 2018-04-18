@@ -259,7 +259,8 @@ This week, you will finish up Project Three while familiarizing yourself with Co
  * `codepen` lesson: [14.3: JS For Loops](https://codepen.io/novonagu/pen/xqbyYV)
 
 #### Wednesday
- * `codepen` lesson: [14.5: Keyboard and Mouse EventsI](https://codepen.io/novonagu/pen/qYBWyg)
+ * `complete` [Online Course Evaluations](https://one.iu.edu/launch-task/iuk/course-evaluations)
+ * `codepen` lesson: [14.5: Keyboard and Mouse Events I](https://codepen.io/novonagu/pen/qYBWyg)
  * `codepen` lesson: [14.6: Keyboard and Mouse Events II](https://codepen.io/novonagu/pen/WJNeVE)
 
 ##### Participation
