@@ -275,3 +275,12 @@ This week, you will finish up Project Three while familiarizing yourself with Co
  * `continue` course: [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
    * `complete` section 3: Functions and Scope
    * `complete` section 4: Arrays and Loops
+
+## week 15
+### In Class
+ * `codepen` lesson [15.1: Custom shapes with vertex()](https://codepen.io/novonagu/pen/LmpoNR)
+ * `complete` [Quizlab 5](https://codepen.io/novonagu/pen/GdpaOx) and submit your screenshot (with your name) to Canvas
+
+### At Home
+ * `finish` [Project Four](assignments/p4.html). It is due `May 4th` at 11:59pm.
+ * For `participation` on Wednesday, April 25th, make sure that you either have: (a) a sketch on graph paper, or (b) some code already written for your final
