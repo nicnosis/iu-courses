@@ -208,4 +208,12 @@ You will evaluate each other's work on this project. Please click the correct li
    * `submit` on Canvas when finished
 
 ### At Home
- * `work on` [Project Four](assignments/hw-proposal.html). Your final project is due `Friday May 4th at 11:59pm`
+ * `work on` [Project Four](assignments/hw-proposal.html). It is due `Friday May 4th at 11:59pm`
+
+## week 15
+### In Class
+##### Monday
+ * `complete` today's participation exercise on Canvas.
+
+### At Home
+ * `work on` [Project Four](assignments/hw-proposal.html). It is due `Friday May 4th at 11:59pm`
