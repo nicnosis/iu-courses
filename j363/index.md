@@ -278,9 +278,14 @@ This week, you will finish up Project Three while familiarizing yourself with Co
 
 ## week 15
 ### In Class
+##### Monday
  * `codepen` lesson [15.1: Custom shapes with vertex()](https://codepen.io/novonagu/pen/LmpoNR)
  * `complete` [Quizlab 5](https://codepen.io/novonagu/pen/GdpaOx) and submit your screenshot (with your name) to Canvas
 
+##### Wednesday
+ * `codepen` lesson [15.2: constrain()](https://codepen.io/novonagu/pen/wJPzmO)
+ * `codepen` lesson [15.3: map()](https://codepen.io/novonagu/pen/QpOqXg)
+ * `participation`: Answer the question on Canvas
+
 ### At Home
  * `finish` [Project Four](assignments/p4.html). It is due `May 4th` at 11:59pm.
- * For `participation` on Wednesday, April 25th, make sure that you either have: (a) a sketch on graph paper, or (b) some code already written for your final
