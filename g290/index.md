@@ -215,5 +215,8 @@ You will evaluate each other's work on this project. Please click the correct li
 ##### Monday
  * `complete` today's participation exercise on Canvas.
 
+##### Wednesday
+ * `complete` today's participation exercise on Canvas.
+
 ### At Home
  * `work on` [Project Four](assignments/hw-proposal.html). It is due `Friday May 4th at 11:59pm`
