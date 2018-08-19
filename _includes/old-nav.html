@@ -11,7 +11,17 @@
 
             <li class="nav-item" id="nav-home"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/index.html">home <span class="sr-only">(current)</span></a></li>
             <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/instructor.html">instructor</a></li>
-            <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
+
+            <!--SYLLABUS-->
+            {% if page.course == 'sp18/j363' %}
+            <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/sp18-j363-syllabus.pdf">syllabus</a></li>
+            {% else %}
+            <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/sp18-g290-syllabus.pdf">syllabus</a></li>
+            {% endif %}
+
+            <!--<li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{site.baseurl}}/{{page.course}}/{{page.course}}-syllabus.pdf">syllabus</a></li>-->
+
+            <!--END SYLLABUS-->
 
             <!-- COURSE MATERIALS -->
             {% if page.course != 'fa17/dbi' %}
@@ -49,6 +59,35 @@
                 <a class="nav-link dropdown-toggle" href="#" id="nav-link-assignments" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-assignments">
 
+                    <!--SPRING 2018-->
+                    <!-- WEB DESIGN -->
+                    {% if page.course == 'sp18/j363' %}
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw1.html" class="dropdown-item">Homework One</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw2.html" class="dropdown-item">Homework Two</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw3.html" class="dropdown-item">Homework Three</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw4.html" class="dropdown-item">Homework Four</a>
+                    <div class="dropdown-divider"></div>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p1.html" class="dropdown-item">Project One</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p2.html" class="dropdown-item">Project Two</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p3.html" class="dropdown-item">Project Three</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p4.html" class="dropdown-item">Project Four</a>
+                    {% endif %}
+
+                    <!-- GXD -->
+                    {% if page.course == 'sp18/g290' %}
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw-bad-design.html" class="dropdown-item">Homework One</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw-pen.html" class="dropdown-item">Homework Two</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p-mobile.html" class="dropdown-item">Homework Three</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw-proposal.html" class="dropdown-item">Homework Four</a>
+                    <div class="dropdown-divider"></div>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p-interfaces.html" class="dropdown-item">Project One</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p-assets.html" class="dropdown-item">Project Two</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/p-mobile.html" class="dropdown-item">Project Three</a>
+                    <a href="{{site.baseurl}}/{{page.course}}/assignments/hw-proposal.html" class="dropdown-item">Project Four</a>
+                    {% endif %}
+                    <!--END SPRING 2018-->
+
+                    <!--FALL 2017-->
                     <!-- WEB DESIGN -->
                     {% if page.course == 'fa17/j360' %}
                     <a href="{{site.baseurl}}/{{page.course}}/assignments/hw1.html" class="dropdown-item">Homework One</a>
@@ -83,6 +122,7 @@
                     <a href="{{site.baseurl}}/{{page.course}}/assignments/style-guide.html" class="dropdown-item">Project 2 &mdash; Style Guide</a>
                     <a href="{{site.baseurl}}/{{page.course}}/assignments/final.html" class="dropdown-item active">Project 3 &mdash; Final</a>
                     {% endif %}
+                    <!--END FALL 2017-->
 
                     <!-- SPRING 2017 -->
                     {% if page.course == 'sp17/j360' %}
