@@ -1,0 +1,66 @@
+<!--Make variable that combines term and course-->
+{% assign term_course = {{page.term}}  | append: '/' | append: {{page.course}} %}
+{% assign path = {{site.baseurl}} | append: '/' | append: {{term_course}} %}
+
+<nav class="navbar navbar-light bg-faded navbar-fixed-top" id="myNav">
+    <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
+    <div class="collapse navbar-toggleable-md" id="navbarResponsive">
+        <ul class="nav navbar-nav">
+            <!-- BRAND -->
+            <li class="nav-item">
+                <a href="{{path}}" class="navbar-brand">{{page.course}}</a>
+            </li>
+
+            <li class="nav-item" id="nav-home"><a class="nav-link" href="{{path}}/index.html">home <span class="sr-only">(current)</span></a></li>
+            <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{path}}/instructor.html">instructor</a></li>
+            <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{path}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
+
+            <!-- WEB DESIGN COURSE MATERIALS -->
+            {% if page.course == 'j363' %}
+            <li class="nav-item dropdown" id="nav-materials">
+                <a class="nav-link dropdown-toggle" href="#" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
+                <div class="dropdown-menu" aria-labelledby="nav-link-materials">
+                    <a class="dropdown-item" target="_blank" href="https://www.codecademy.com/courses/learn-html-css/">Codecademy</a>
+                    <a class="dropdown-item" target="_blank" href="https://www.w3schools.com/">W3Schools</a>
+                    <a class="dropdown-item" target="_blank" href="{{path}}/atom.html">Using Atom</a>
+                </div>
+            </li>
+            {% endif %}
+            <!-- END COURSE MATERIALS -->
+
+            <!-- ASSIGNMENTS -->
+            <li class="nav-item dropdown" id="nav-assignments">
+                <a class="nav-link dropdown-toggle" href="#" id="nav-link-assignments" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
+                <div class="dropdown-menu" aria-labelledby="nav-link-assignments">
+
+                    <!-- WEB DESIGN -->
+                    {% if page.course == 'j363' %}
+                    <a href="{{path}}/assignments/hw1.html" class="dropdown-item">Homework One</a>
+                    <!--<a href="{{path}}/assignments/hw2.html" class="dropdown-item">Homework Two</a>-->
+                    <!--<a href="{{path}}/assignments/hw3.html" class="dropdown-item">Homework Three</a>-->
+                    <!--<a href="{{path}}/assignments/hw4.html" class="dropdown-item">Homework Four</a>-->
+                    <div class="dropdown-divider"></div>
+                    <!--<a href="{{path}}/assignments/p1.html" class="dropdown-item">Project One</a>-->
+                    <!--<a href="{{path}}/assignments/p2.html" class="dropdown-item">Project Two</a>-->
+                    <!--<a href="{{path}}/assignments/p3.html" class="dropdown-item">Project Three</a>-->
+                    <!--<a href="{{path}}/assignments/p4.html" class="dropdown-item">Project Four</a>-->
+                    {% endif %}
+
+                    <!-- GXD -->
+                    {% if page.course == 'g290' %}
+                    <!--<a href="{{path}}/assignments/hw-bad-design.html" class="dropdown-item">Homework One</a>-->
+                    <!--<a href="{{path}}/assignments/hw-pen.html" class="dropdown-item">Homework Two</a>-->
+                    <!--<a href="{{path}}/assignments/p-mobile.html" class="dropdown-item">Homework Three</a>-->
+                    <!--<a href="{{path}}/assignments/hw-proposal.html" class="dropdown-item">Homework Four</a>-->
+                    <div class="dropdown-divider"></div>
+                    <!--<a href="{{path}}/assignments/p-interfaces.html" class="dropdown-item">Project One</a>-->
+                    <!--<a href="{{path}}/assignments/p-assets.html" class="dropdown-item">Project Two</a>-->
+                    <!--<a href="{{path}}/assignments/p-mobile.html" class="dropdown-item">Project Three</a>-->
+                    <!--<a href="{{path}}/assignments/hw-proposal.html" class="dropdown-item">Project Four</a>-->
+                    {% endif %}
+                </div>
+            </li>
+            <!-- END ASSIGNMENTS -->
+        </ul>
+    </div>
+</nav>

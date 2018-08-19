@@ -4,7 +4,8 @@ title: J363 - Assignment Template
 footer: ''
 highlight: 'assignments'
 term: 'sp18'
-course: 'sp18/j363'
+term: 'sp18'
+course: 'j363'
 ---
 # Homework One - Basic HTML Tags
 ## Description

@@ -4,8 +4,7 @@ title: J363 - Web Design
 footer: ''
 highlight: home
 term: 'sp18'
-current: false
-course: 'sp18/j363'
+course: 'j363'
 ---
 ## week 1
 This week you will familiarize yourself with course materials and get a basic understanding of HTML.

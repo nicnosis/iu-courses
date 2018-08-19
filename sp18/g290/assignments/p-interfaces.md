@@ -3,6 +3,7 @@ layout: default
 title: G290 - Project One
 footer: ''
 highlight: 'assignments'
+term: 'sp18'
 course: 'g290'
 ---
 # Project One - <small>Interface Prototype</small> `15 pts.`

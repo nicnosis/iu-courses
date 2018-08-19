@@ -3,7 +3,8 @@ layout: default
 title: J363 - Homework Three
 footer: ''
 highlight: 'assignments'
-course: 'sp18/j363'
+term: 'sp18'
+course: 'j363'
 ---
 # Homework Three --- <small>Bootstrap three-column layout</small>
 ## Description

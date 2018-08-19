@@ -3,6 +3,7 @@ layout: default
 title: G290 - Homework Four
 footer: ''
 highlight: 'assignments'
+term: 'sp18'
 course: 'g290'
 ---
 # Homework Four: <small>Proposal</small>

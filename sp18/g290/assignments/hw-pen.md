@@ -3,6 +3,7 @@ layout: default
 title: G290 - Homework Two
 footer: ''
 highlight: 'assignments'
+term: 'sp18'
 course: 'g290'
 ---
 # Homework Two - <small>Pen Tool</small>

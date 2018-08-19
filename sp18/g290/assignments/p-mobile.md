@@ -3,6 +3,7 @@ layout: default
 title: G290 - Project Three
 footer: ''
 highlight: 'assignments'
+term: 'sp18'
 course: 'g290'
 ---
 # Project Three - <small>Mobile Game</small> `15 pts.` + `5 pts.`

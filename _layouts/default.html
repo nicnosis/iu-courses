@@ -2,17 +2,11 @@
 <html lang="en">
 <head>{% include head.html %}</head>
 <body>
-{% if page.course != nil %}
-    {% if page.current == false %}
-    <h1>page current is false</h1>
-    {% include nav.html %}
-    {% else %}
-    <h1>page current is true</h1>
-    {% endif %}
+{% if page.term != nil and page.title != 'courses' %}
+{% include navs/{{page.term}}-nav.html %}
 {% endif %}
+
 <div class="container">
-
-
     {% include hero.html %}
 
     {{ content }}

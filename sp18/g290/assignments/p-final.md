@@ -3,6 +3,7 @@ layout: default
 title: G290 - Project Four
 footer: ''
 highlight: 'assignments'
+term: 'sp18'
 course: 'g290'
 ---
 

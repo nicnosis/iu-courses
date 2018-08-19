@@ -3,6 +3,7 @@ layout: default
 title: G290 - Project Two
 footer: ''
 highlight: 'assignments'
+term: 'sp18'
 course: 'g290'
 ---
 # Project Two - <small>Interface with Assets</small> `15 pts.`

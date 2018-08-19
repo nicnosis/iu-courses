@@ -3,7 +3,8 @@ layout: default
 title: J363 - Homework Two
 footer: ''
 highlight: 'assignments'
-course: 'sp18/j363'
+term: 'sp18'
+course: 'j363'
 ---
 # Homework Two - <small>Styling a page with CSS</small>
 ## Description
