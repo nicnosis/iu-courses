@@ -2,9 +2,10 @@
 <html lang="en">
 <head>{% include head.html %}</head>
 <body>
-{% if page.course != nil %}
-{% include nav.html %}
+{% if page.term != nil %}
+{% include navs/{{page.term}}-nav.html %}
 {% endif %}
+
 <div class="container">
     {% include hero.html %}
     

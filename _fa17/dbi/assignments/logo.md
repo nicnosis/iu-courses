@@ -1,9 +1,10 @@
 ---
-layout: old/default
+layout: default
 title: DBI HW2 &mdash; Logo Interpretation
 footer: ''
 highlight: 'assignments'
-course: 'fa17/dbi'
+term: 'fa17'
+course: 'dbi'
 ---
 
 # Homework Two--- Logo Interpretation

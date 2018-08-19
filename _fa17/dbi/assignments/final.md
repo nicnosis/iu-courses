@@ -1,9 +1,10 @@
 ---
-layout: old/default
+layout: default
 title: DBI Project 3 &mdash; Final
 footer: ''
 highlight: 'assignments'
-course: 'fa17/dbi'
+term: 'fa17'
+course: 'dbi'
 ---
 # Project Three--- Visual Story
 ## Description

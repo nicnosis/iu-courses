@@ -1,9 +1,10 @@
 ---
-layout: old/default
+layout: default
 title: J463 - Homework 2
 footer: ''
 highlight: 'assignments'
-course: 'fa17/j463'
+term: 'fa17'
+course: 'j463'
 ---
 
 # Homework Two - <small>Composite Imagery</small>

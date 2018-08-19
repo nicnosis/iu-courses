@@ -1,9 +1,10 @@
 ---
-layout: old/default
+layout: default
 title: DBI HW3 &mdash; Final Ideation
 footer: ''
 highlight: 'assignments'
-course: 'fa17/dbi'
+term: 'fa17'
+course: 'dbi'
 ---
 
 # Homework Three--- Final Ideation

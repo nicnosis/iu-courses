@@ -1,9 +1,10 @@
 ---
-layout: old/default
+layout: default
 title: J360 - Homework One
 footer: ''
 highlight: 'assignments'
-course: 'fa17/j360'
+term: 'fa17'
+course: 'j360'
 ---
 # Homework One - <small>Basic HTML Tags</small>
 ## Description

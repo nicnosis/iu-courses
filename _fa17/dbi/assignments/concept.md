@@ -1,9 +1,10 @@
 ---
-layout: old/default
+layout: default
 title: DBI Project 1 &mdash; Brand Concept
 footer: ''
 highlight: 'assignments'
-course: 'fa17/dbi'
+term: 'fa17'
+course: 'dbi'
 ---
 
 # Project One --- Brand Concept

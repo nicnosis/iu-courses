@@ -1,9 +1,10 @@
 ---
-layout: old/home
+layout: home
 title: J463 - Graphic Design
 footer: ''
 highlight: home
-course: 'fa17/j463'
+term: 'fa17'
+course: 'j463'
 ---
 ## week 1
 This week you will familiarize yourself with course materials and get a basic understanding of Graphic Design.

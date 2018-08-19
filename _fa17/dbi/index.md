@@ -1,9 +1,10 @@
 ---
-layout: old/home
+layout: home
 title: J360 - Designing Brand Identity
 footer: ''
 highlight: home
-course: 'fa17/dbi'
+term: 'fa17'
+course: 'dbi'
 ---
 ## week 9
 Welcome to `DBI`! This course website will keep all of your assignments. I divide tasks into those completed `in class` and those completed `at home`.

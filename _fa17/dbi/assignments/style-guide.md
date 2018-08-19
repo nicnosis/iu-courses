@@ -1,9 +1,10 @@
 ---
-layout: old/default
+layout: default
 title: DBI Project 2 &mdash; Style Guide
 footer: ''
 highlight: 'assignments'
-course: 'fa17/dbi'
+term: 'fa17'
+course: 'dbi'
 ---
 # Project Two--- Personal Brand Style Guide
 ## Description
