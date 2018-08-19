@@ -3,6 +3,7 @@ layout: home
 title: J363 - Web Design
 footer: ''
 highlight: home
+current: true
 term: 'fa18'
 course: 'j363'
 ---
