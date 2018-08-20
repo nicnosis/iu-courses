@@ -1,7 +1,7 @@
 ---
 layout: home
 title: J363 - Web Design
-footer: ''
+footer: ' '
 highlight: home
 
 term: 'fa18'
@@ -23,3 +23,7 @@ This week you will familiarize yourself with course materials and get a basic un
 
 #### Codecademy
  * `complete` HTML Elements and Structure: _Introduction to HTML_
+
+#### W3Schools
+ * `read` [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+ * `read` [HTML Basic](https://www.w3schools.com/html/html_basic.asp)

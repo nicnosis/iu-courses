@@ -1,11 +1,11 @@
 # G290 GAME INTERFACE & EXPERIENCE DESIGN
-### SPRING 2018
+### FALL 2018
 
 **LOCATION**--- Franklin Hall 052  
 **SECTION**
-13385 --- Meets MW 04:00P-05:15P  
+31892 --- Meets MW 04:00P -- 05:15P  
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
-**OFFICE HOURS** --- FF M130S (Stack 4), Friday 10:00A -- 11:00A
+**OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:00A -- 11:00A
 
 ## Description
 In G290, students will focus on designing interfaces and control schemes that deliver rewarding gameplay experience. Students will design attractive and usable interfaces, as well as intelligent and sensible control schemes, with focus on meeting the needs of players. Visual design such as typography and iconography will be used to create an immersive and welcoming environment for players. Students will employ tests to find issues with a game’s interface, control scheme, and other design aspects that affect gameplay. While this course is intended for game designers, its principles of interface design are broad enough to help designers from other disciplines such as web and software development.
@@ -37,17 +37,17 @@ This class is project-driven, and demands consistent effort inside and outside o
 ### Projects (60 pts.)
 This class features __four__ large-scale design projects.
 
-#### Project 1--- Interface (15 pts.)
-Students will use [Invision](https://www.invisionapp.com/) or another interface-building software to create a functional prototype for a game.
+#### Project 1--- Lo-fi Interface (15 pts.)
+Given a concept, students will generate a low-fidelity prototype for a game.
 
-#### Project 2--- Assets (15 pts.)
+#### Project 2--- Hi-fidelity Assets (15 pts.)
 Given an existing interface, students will use Adobe Illustrator, or any other visual design software, to create a set of interface assets _(e.g., buttons, sliders, navigation)_
 
 #### Project 3--- Re-design (15 pts.)
 Given a scenario, students will improve on an existing design.
 
-#### Project 4--- Design Concept (15 pts.)
-Students have two choices:
+#### Project 4--- Design System (15 pts.)
+I am flexible about this assignment; it can be anything that applies what we've learned in class. Here are some ideas:
 
 ##### Option 1--- Create a design language
 Students will create a style guide that informs an intelligent, harmonious visual design for a game.
@@ -55,11 +55,8 @@ Students will create a style guide that informs an intelligent, harmonious visua
 ##### Option 2--- Create an asset pack
 Students who are already working on a game are encouraged to use this class project to create or re-invision their game's interface assets.
 
-### Labs (10 pts.)
-Students will complete in-class assignments from time to time. These labs are meant to keep students engaged while providing challenging situations to apply skills.
-
-### Homework (20 pts.)
-This class has __four__ homework assignments designed to test and reinforce knowledge from class.
+### Homework (30 pts.)
+This class has homework assignments designed to test and reinforce knowledge from class.
 
 ### Participation (5 pts.)
 Participation is an important element of this class. It is not enough to read about usability and interface design; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. They are to be finished during class and are generally graded on completion.
@@ -97,8 +94,7 @@ There are a total of **100** points in this class. The grade is divided as follo
 | Project 2       |      15 |
 | Project 3       |      15 |
 | Project 4       |      15 |
-| Labs            |      10 |
-| Homeworks       |      20 |
+| Homeworks       |      30 |
 | Participation   |       5 |
 | Professionalism |       5 |
 | **Total**       | **100** |
@@ -106,13 +102,21 @@ There are a total of **100** points in this class. The grade is divided as follo
 ### Course Grade
 Your grade will be assigned as follows:
 
-| Points      | Grade |
-|:------------|:------|
-| 90 -- 100   | A     |
-| 80 -- 89.99 | B     |
-| 70 -- 79.99 | C     |
-| 60 -- 69.99 | D     |
-| below 60    | F     |
+| Grade | Range            |
+|:------|:-----------------|
+| A+    | 100% to 97.0%    |
+| A     | < 97.0% to 93.0% |
+| A-    | < 93.0% to 90.0% |
+| B+    | < 90.0% to 87.0% |
+| B     | < 87.0% to 83.0% |
+| B-    | < 83.0% to 80.0% |
+| C+    | < 80.0% to 77.0% |
+| C     | < 77.0% to 73.0% |
+| C-    | < 73.0% to 70.0% |
+| D+    | < 70.0% to 67.0% |
+| D     | < 67.0% to 63.0% |
+| D-    | < 63.0% to 60.0% |
+| F     | < 60.0% to 0.0%  |
 
 Grading criteria will be given for each individual assignment.
 
@@ -125,10 +129,7 @@ If you are re-submitting work:
 2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional work is not eligible for resubmission. This is at the instructor's discretion.
 3. You may only recover partial points lost.
 
-## Required Readings and Materials
-### Text
-It is highly recommended to get Celia Hodent's book, [The Gamer's Brain: How Neuroscience and UX Can Impact Video Game Design](http://a.co/gSrh3k7)
-
+## Required Materials
 ### Hardware
 You are expected to have access to a reasonably powerful PC.
 
@@ -161,7 +162,9 @@ Students should know that an e-mail response may take __up to 72 hours__ dependi
 Sorry, they are not permitted.
 
 ### Deadlines
-Deadlines are strict and non-negotiable. Late assignments will be accepted for the first five calendar days after a deadline. After that, I will remove 10% daily. Assignments may not be submitted after five calendar days have elapsed (Example--- Deadline is September 8th, you cannot submit after September 13th)
+Deadlines are strict and non-negotiable. Late assignments will be accepted for the first three calendar days after a deadline. I will remove 15% for each day past the deadline _(Example--- If you got 85 on an assignment but submitted it two days late, you're getting a 55)_.
+
+Assignments may not be submitted after three calendar days have elapsed (Example--- Deadline is September 8th, you cannot submit after September 11th)
 
 The only __exception to this rule__ is the final project, which cannot be submitted late.
 
@@ -208,14 +211,15 @@ This course is rich in content and skill levels vary widely among students. The 
 The instructor reserves the right to adjust your final grade based on effort, participation, or conduct. This is uncommon.
 
 ### Important Dates
-Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/official-calendar-spring.shtml) for important dates. I have listed some of them here:
+Check the IU [Academic Calendar](https://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml) for important dates. I have listed some of them here:
 
-#### Spring 2018
+#### Fall 2018
 |              |                 |
 |:-------------|:----------------|
-| Begins       | Mon, Jan 8      |
-| MLK Jr. Day  | Mon, Jan 15     |
-| Spring Break | Mar 11 – Mar 18 |
-| Auto W       | Sun, Mar 11     |
-| Final Exams  | Apr 30 – May 4  |
-| Ends         | Fri, May 4      |
+| Begins       | Mon, Aug 20     |
+| Labor Day    | Mon, Sept 3     |
+| Fall Break   | Oct 5 - Oct 7   |
+| Auto W       | Sun, Oct 21     |
+| Thanksgiving | Nov 18 - Nov 25 |
+| Final Exams  | Dec 10 - Dec 14 |
+| Ends         | Fri, Dec 14     |

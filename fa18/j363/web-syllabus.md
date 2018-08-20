@@ -1,14 +1,14 @@
-# J363 WEB & MOBILE DESIGN SPRING 2018
+# J363 WEB & MOBILE DESIGN FALL 2018
 
-**LOCATION**--- Franklin Hall 005  
+**LOCATION**--- Franklin Hall 003  
 **SECTIONS**  
-34270 --- Meets MW 8:30A -- 10:30A  
-33832 --- Meets MW 10:45A -- 12:45P  
+31907 --- Meets MW 8:30A -- 10:30A  
+31908 --- Meets MW 10:45A -- 12:45P  
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
-**OFFICE HOURS** --- FF M130S (Stack 4), Friday 10:00A -- 11:00A
+**OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:00A -- 11:00A
 
 ## Description
-Web design has a profound impact on our everyday experiences of work, recreation, and communication. Students will develop practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, students will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
+Web design has a profound impact on our everyday experiences of work, recreation, and communication. You will develop practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, you will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
 
 ### Prerequisites
 ```
@@ -24,6 +24,7 @@ In this course, you will:
  * Develop mastery of tools and applications for elegant web design
  * Build an effective workflow and digital work environment
  * Produce aesthetic and functional websites using `HTML` and `CSS`
+ * Learn basic programming through `JavaScript`
  * Learn to develop for different platforms (mobile, responsive)
  * Build numerous attractive portfolio pieces
  * Gain a demonstrable command of front-end web languages
@@ -52,27 +53,26 @@ This class is project-driven, and demands consistent effort inside and outside o
 This class features __four__ large-scale web design projects.
 
 #### Project 1--- HTML Tags and Attributes (10 pts.)
-Students will construct a basic website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
+You will construct a basic website outline using HTML. This project assesses students' knowledge of HTML tags and basic site structure. Project 1 aims to familiarize students with their text editors and development tools.
 
 #### Project 2--- Styling and CSS (15 pts.)
-The focus of Project 2 is CSS. Students will demonstrate their ability to add visual elements and style to sites. Project 2 will test students' knowledge of CSS selectors, properties, and values, as well as the Box-Model.
+The focus of Project 2 is CSS. You will demonstrate their ability to add visual elements and style to sites. Project 2 will test students' knowledge of CSS selectors, properties, and values, as well as the Box-Model.
 
 #### Project 3--- Bootstrap Site (15 pts.)
 You will design, prototype, and develop a single-page website using [Bootstrap](http://getbootstrap.com/). This project is designed to combine all of the skills you've acquired throughout the semester.
 
 #### Project 4--- JavaScript (15 pts.)
-You use Javascript to create an interactive webpage, driven by JS logic.
+You will use Javascript to create an interactive visualization, with JavaScript's [p5.js](https://p5js.org/) library.
 
 ### Homework (20 pts.)
-This class has __four__ homework assignments designed to test and reinforce knowledge from class. Homework assignments typically involve a shorter or less involved coding task.
+This class has homework assignments designed to test and reinforce knowledge from class. Homework assignments typically involve a shorter or less involved coding task.
 
 #### Codecademy
-You will be given assignments to complete on [Codecademy](https://www.codecademy.com/learn/learn-html-css/). In order to really learn and memorize code, you need to practice. While the Codecademy assignments are not graded, completing them will make your homeworks, projects, and quizlabs much easier.
+You will be given assignments to complete on [Codecademy](https://www.codecademy.com/learn/learn-html-css/). In order to really learn and memorize code, you need to practice. While the Codecademy assignments are not graded, completing them will make your homeworks, projects, and quiz much easier.
 
-### Quizlabs (15 pts.)
-A 'quizlab' is either (a) an unannounced quiz or (b) an in-class lab activity. Quizlabs are designed to ensure that students are completing their readings, Codecademy work, and following along with in-class coding activities.
+### Quizzes and Participation (20 pts.)
+A quiz consists of either (a) an unannounced quiz or (b) an in-class lab activity. Quizzes are designed to ensure that students are completing their readings, Codecademy work, and following along with in-class coding activities.
 
-### Participation (5 pts.)
 Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. They are to be finished during class and are generally graded on completion.
 
 ### Professionalism (5 pts.)
@@ -102,21 +102,28 @@ There are a total of **100** points in this class. The grade is divided as follo
 | Project 3                  |      15 |
 | Project 4                  |      15 |
 | Homeworks (4 @ 5 pts each) |      20 |
-| Quizlabs                   |      15 |
-| Participation              |       5 |
+| Quizzes/Participation      |      20 |
 | Professionalism            |       5 |
 | **Total**                  | **100** |
 
 ### Course Grade
 Your grade will be assigned as follows:
 
-| Points     | Grade |
-|:-----------|:------|
-| 90 -- 100   | A     |
-| 80 -- 89.99 | B     |
-| 70 -- 79.99 | C     |
-| 60 -- 69.99 | D     |
-| below 60   | F     |
+| Grade | Range            |
+|:------|:-----------------|
+| A+    | 100% to 97.0%    |
+| A     | < 97.0% to 93.0% |
+| A-    | < 93.0% to 90.0% |
+| B+    | < 90.0% to 87.0% |
+| B     | < 87.0% to 83.0% |
+| B-    | < 83.0% to 80.0% |
+| C+    | < 80.0% to 77.0% |
+| C     | < 77.0% to 73.0% |
+| C-    | < 73.0% to 70.0% |
+| D+    | < 70.0% to 67.0% |
+| D     | < 67.0% to 63.0% |
+| D-    | < 63.0% to 60.0% |
+| F     | < 60.0% to 0.0%  |
 
 Grading criteria will be given for each individual assignment.
 
@@ -154,7 +161,7 @@ It is also useful to have access to a large display, or dual display configurati
 ### Attendance
 Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
-Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizlabs and participation activities if you miss class.
+Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
 
 ### Lost Data
 You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
@@ -182,12 +189,14 @@ Students should know that an e-mail response may take __up to 72 hours__ dependi
 Sorry, they are not permitted.
 
 ### Deadlines
-Deadlines are strict and non-negotiable. Late assignments will be accepted for the first five calendar days after a deadline. After that, I will remove 10% daily. Assignments may not be submitted after five calendar days have elapsed (Example--- Deadline is September 8th, you cannot submit after September 13th)
+Deadlines are strict and non-negotiable. Late assignments will be accepted for the first three calendar days after a deadline. I will remove 15% for each day past the deadline _(Example--- If you got 85 on an assignment but submitted it two days late, you're getting a 55)_.
+
+Assignments may not be submitted after three calendar days have elapsed (Example--- Deadline is September 8th, you cannot submit after September 11th)
 
 The only __exception to this rule__ is the final project, which cannot be submitted late.
 
 ### Making up work
-If you have an excused absence for a quizlab or participation exercise, you have __one week__ to make up that assignment at office hours. If you cannot attend scheduled office hours, it is your responsibility to reach out and schedule another meeting time.
+If you have an __excused absence__ for a quiz or participation exercise, you have __one week__ to make up that assignment at office hours. If you cannot attend scheduled office hours, it is your responsibility to reach out and schedule another meeting time.
 
 ### Students with Disabilities
 If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.
@@ -231,40 +240,37 @@ The instructor reserves the right to adjust your final grade based on effort, pa
 
 ## Tentative Schedule
 
-|         |                      |                                   |
-|:--------|:---------------------|:----------------------------------|
-| -       | -                    | __UNIT ONE__                      |
-| week 1  | Mon 1/8, Wed 1/10    | Intro to HTML, tags               |
-| week 2  | Mon 1/15             | _NO CLASS; MLK Jr. Day_           |
-| week 2  | Wed 1/17             | HTML Structure, Intro to Atom     |
-| week 3  | Mon 1/22, Wed 1/24   | Divs, spans and containers        |
-| week 4  | Mon 1/29, Wed 1/31   | Text, images, links               |
-| -       | -                    | __UNIT TWO__                      |
-| week 5  | Mon 2/5, Wed 2/7     | Introducing CSS                   |
-| week 6  | Mon 2/12, Wed 2/14   | Selectors, class and id           |
-| week 7  | Mon 2/19, Wed 2/21   | Text styling                      |
-| week 8  | Mon 2/26, Wed 2/28   | Layouts with styling              |
-| -       | -                    | __UNIT THREE__                    |
-| week 9  | Mon 3/5, Wed 3/7     | Intro to Bootstrap                |
-| -       | Sun 3/11 -- Sun 3/18 | _SPRING BREAK_                    |
-| week 10 | Mon 3/19, Wed 3/21   | Bootstrap grid system             |
-| week 11 | Mon 3/26, Wed 3/28   | Responsive design                 |
-| -       | -                    | __UNIT FOUR__                     |
-| week 12 | Mon 4/2, Wed 4/4     | JavaScript statements, data types |
-| week 13 | Mon 4/9, Wed 4/11    | JavaScript variables and arrays   |
-| week 14 | Mon 4/16, Wed 4/18   | JavaScript logic flow             |
-| week 15 | Mon 4/23, Wed 4/25   | Introducing p5.js                 |
-| week 16 | Mon 4/30 -- Fri 5/4  | __FINALS__                        |
+|         |                        |                                   |
+|:--------|:-----------------------|:----------------------------------|
+| week 1  | Mon 8/22, Wed 8/22     | Intro to HTML, tags               |
+| week 2  | Mon 8/27, Wed 8/29     | HTML Structure, Intro to Atom     |
+| week 3  | Mon 9/3                | __Labor Day. No Class__           |
+| week 3  | Wed 9/5                | Divs, spans, and containers       |
+| week 4  | Mon 9/10, Wed 9/12     | Text, images, links               |
+| week 5  | Mon 9/17, Wed 9/19     | Introducing CSS                   |
+| week 6  | Mon 9/24, Wed 9/26     | Selectors, class and id           |
+| week 7  | Mon 10/1, Wed 10/3     | Text styling                      |
+| week 8  | Mon 10/8, Wed 10/10    | Layouts with styling              |
+| week 9  | Mon 10/15, Wed 10/17   | Intro to Bootstrap                |
+| week 10 | Mon 10/22, Wed 10/24   | Bootstrap grid system             |
+| week 11 | Mon 10/29, Wed 10/31   | Responsive design                 |
+| week 12 | Mon 11/5, Wed 11/7     | JavaScript statements, data types |
+| week 13 | Mon 11/12, Wed 11/14   | JavaScript variables and arrays   |
+|         | Sun 11/18 to Sun 11/25 | THANKSGIVING BREAK                |
+| week 14 | Mon 11/26, Wed 11/28   | JavaScript logic flow             |
+| week 15 | Mon 12/3, Wed 12/5     | Introducing p5.js                 |
+| week 16 | Mon 12/10 to Fri 12/14 | __FINALS__                        |
 
 ### Important Dates
-Check the IU [Academic Calendar](http://registrar.indiana.edu/official-calendar/official-calendar-spring.shtml) for important dates. I have listed some of them here:
+Check the IU [Academic Calendar](https://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml) for important dates. I have listed some of them here:
 
-#### Spring 2018
+#### Fall 2018
 |              |                 |
 |:-------------|:----------------|
-| Begins       | Mon, Jan 8      |
-| MLK Jr. Day  | Mon, Jan 15     |
-| Spring Break | Mar 11 -- Mar 18 |
-| Auto W       | Sun, Mar 11     |
-| Final Exams  | Apr 30 -- May 4  |
-| Ends         | Fri, May 4      |
+| Begins       | Mon, Aug 20     |
+| Labor Day    | Mon, Sept 3     |
+| Fall Break   | Oct 5 - Oct 7   |
+| Auto W       | Sun, Oct 21     |
+| Thanksgiving | Nov 18 - Nov 25 |
+| Final Exams  | Dec 10 - Dec 14 |
+| Ends         | Fri, Dec 14     |

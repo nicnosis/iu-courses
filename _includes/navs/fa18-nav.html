@@ -8,7 +8,7 @@
         <ul class="nav navbar-nav">
             <!-- BRAND -->
             <li class="nav-item">
-                <a href="{{path}}" class="navbar-brand">{{page.course}}</a>
+                <a href="{{path}}/../.." class="navbar-brand">{{page.course}}</a>
             </li>
 
             <li class="nav-item" id="nav-home"><a class="nav-link" href="{{path}}/index.html">home <span class="sr-only">(current)</span></a></li>
@@ -20,7 +20,7 @@
             <li class="nav-item dropdown" id="nav-materials">
                 <a class="nav-link dropdown-toggle" href="#" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-materials">
-                    <a class="dropdown-item" target="_blank" href="https://www.codecademy.com/courses/learn-html-css/">Codecademy</a>
+                    <a class="dropdown-item" target="_blank" href="https://www.codecademy.com/">Codecademy</a>
                     <a class="dropdown-item" target="_blank" href="https://www.w3schools.com/">W3Schools</a>
                     <a class="dropdown-item" target="_blank" href="{{path}}/atom.html">Using Atom</a>
                 </div>
@@ -35,7 +35,7 @@
 
                     <!-- WEB DESIGN -->
                     {% if page.course == 'j363' %}
-                    <a href="{{path}}/assignments/hw1.html" class="dropdown-item">Homework One</a>
+                    <!--<a href="{{path}}/assignments/hw1.html" class="dropdown-item disabled">Homework One</a>-->
                     <!--<a href="{{path}}/assignments/hw2.html" class="dropdown-item">Homework Two</a>-->
                     <!--<a href="{{path}}/assignments/hw3.html" class="dropdown-item">Homework Three</a>-->
                     <!--<a href="{{path}}/assignments/hw4.html" class="dropdown-item">Homework Four</a>-->
