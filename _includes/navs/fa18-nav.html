@@ -10,10 +10,13 @@
             <li class="nav-item">
                 <a href="{{path}}/../.." class="navbar-brand">{{page.course}}</a>
             </li>
+            <!--END BRAND-->
 
+            <!--HOME, INSTRUCTOR, SYLLABUS-->
             <li class="nav-item" id="nav-home"><a class="nav-link" href="{{path}}/index.html">home <span class="sr-only">(current)</span></a></li>
             <li class="nav-item" id="nav-instructor"><a class="nav-link" href="{{path}}/instructor.html">instructor</a></li>
             <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{path}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
+            <!--END HOME, INSTRUCTOR, SYLLABUS-->
 
             <!-- WEB DESIGN COURSE MATERIALS -->
             {% if page.course == 'j363' %}
@@ -35,7 +38,7 @@
 
                     <!-- WEB DESIGN -->
                     {% if page.course == 'j363' %}
-                    <!--<a href="{{path}}/assignments/hw1.html" class="dropdown-item disabled">Homework One</a>-->
+                    <a href="{{path}}/assignments/hw1.html" class="dropdown-item">Homework One</a>
                     <!--<a href="{{path}}/assignments/hw2.html" class="dropdown-item">Homework Two</a>-->
                     <!--<a href="{{path}}/assignments/hw3.html" class="dropdown-item">Homework Three</a>-->
                     <!--<a href="{{path}}/assignments/hw4.html" class="dropdown-item">Homework Four</a>-->
