@@ -19,6 +19,7 @@ This week you will familiarize yourself with course materials and get a basic un
  <!--* `inspiration`: [EnvyLabs](https://envylabs.com/)-->
  <!--* `fill out` this survey: [3 defining usability](https://goo.gl/forms/gS4FRH3T77vLMxUR2)-->
  * Go to [this Google Sheet](https://docs.google.com/spreadsheets/d/1q7nTbS9Z-uOiYr-DNVcDXq1zHjX5MXjjmxO6hP5OQrA/edit?usp=sharing)
+ * `submit` Illustrator practice file to Canvas when finished
 
 ### At Home
  * `read` the [syllabus](g290-syllabus.pdf)

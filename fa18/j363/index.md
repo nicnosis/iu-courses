@@ -26,6 +26,7 @@ This week you will familiarize yourself with course materials and get a basic un
  * `begin` [Homework One](assignments/hw1.html). It is due `Monday August 27th at 11:59pm`
 
 #### Codecademy
+ * `begin` course: [Learn HTML](https://www.codecademy.com/learn/learn-html)
  * `complete` HTML Elements and Structure: _Introduction to HTML_
 
 #### W3Schools

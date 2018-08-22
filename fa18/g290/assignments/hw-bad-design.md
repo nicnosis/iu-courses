@@ -12,7 +12,7 @@ course: 'g290'
 2. Identify three things that made the experience unsatisfactory. This might include: control scheme; navigation; menus; icons/graphical elements; etc. __It is helpful to include screenshots if you can find them.__
 3. For each identified problem, suggest a solution.
 
-This assignment is intended to be very simple; don't overthink it! Remember that `you are a user` that your experience of the game/app/website is valid.
+This assignment is intended to be very simple; don't overthink it! Remember that `you are a user` and your experience of the game/app/website is valid.
 
 
 ## Submission - Canvas
