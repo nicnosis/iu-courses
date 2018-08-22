@@ -31,3 +31,5 @@ This week you will familiarize yourself with course materials and get a basic un
 #### W3Schools
  * `read` [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
  * `read` [HTML Basic](https://www.w3schools.com/html/html_basic.asp)
+ * `read` [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
+ * `read` [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
