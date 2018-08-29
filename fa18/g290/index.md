@@ -26,15 +26,18 @@ This week you will familiarize yourself with course materials and get a basic un
  * `begin` [Homework One](assignments/hw-bad-design.html)
 
 ## week 2
-
 ### In Class
- * `watch` [WARFRAME - New console UI update](https://www.youtube.com/watch?v=CJlHD2pFzEA
-)
+ * `watch` [WARFRAME - New console UI update](https://www.youtube.com/watch?v=CJlHD2pFzEA)
+
 #### Monday
  * `download` [1-ai-interface.zip](mats/1-ai-interface.zip)
  * `download` [2-ai-layers.zip](mats/2-ai-layers.zip)
- * `download` [3-ai-shapes.zip](mats/3-ai-shapes.zip)
  * `submit` a PNG export of your work (any) to Canvas before class ends.
 
+#### Wednesday
+ * `sign up` for [InVision](http://www.invisionapp.com/education-signup). Use the code `56-73-13-19`
+ * `download` the [lab files](mats/invision-lab.zip) for today
+ * `submit` a link to your finished prototype on Canvas
+
 ### At Home
- * `finish` [Homework One](assignments/hw-bad-design.html). It is due Wednesday Aug 29th @ 11:59pm
+ * `finish` [Homework One](assignments/hw-bad-design.html). It is due `Wednesday Aug 29th @ 11:59pm`
