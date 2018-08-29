@@ -38,15 +38,21 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 2
 ### In Class
+#### Monday
  * `inspiration`: [elegantseagulls](https://www.elegantseagulls.com/)
  * `download` [2.1-formatting.zip](mats/2.1-formatting.zip)
  * `download` [2.2-files.zip](mats/2.2-files.zip)
+
+#### Wednesday
+ * `inspiration`: [architecturaldigest --- clever](https://www.architecturaldigest.com/clever)
+ * `download` [2.2-files-solution.zip](mats/2.2-files-solution.zip)
  * `download` [2.3-links.zip](mats/2.3-links.zip)
  * `download` [2.4-structure.zip](mats/2.4-structure.zip)
 
 ### At Home
- * `finish` [Homework One](assignments/hw1.html). It is due `Monday August 27th at 11:59pm`
+ * `finish` [Homework One](assignments/hw1.html). <s>It is due Monday August 27th at 11:59pm</s>
  * `review` class notes: [Links and References](slides/180827-links.pdf)
+ * `review` class notes: [Site Structure](slides/180829-site-structure.pdf)
 
 #### Codecademy
  * `continue` course: [Learn HTML](https://www.codecademy.com/learn/learn-html)
