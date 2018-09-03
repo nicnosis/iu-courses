@@ -63,3 +63,18 @@ This week you will familiarize yourself with course materials and get a basic un
  * `read` [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
  * `read` [HTML Links](https://www.w3schools.com/html/html_links.asp)
  * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp)
+
+## week 3
+### In Class
+ * `download` [3.0-review.zip](mats/3.0-review.zip)
+ * `download` [3.1-intro-to-css.zip](mats/3.1-intro-to-css.zip)
+
+ <!--* `download` [3.2-stylesheet-review.zip](mats/3.2-stylesheet-review.zip)-->
+
+### At Home
+ * `begin` [Project One](assignments/p1.html). It is due `September 14th at 11:59pm`
+
+#### Codecademy
+ * `begin` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+   * `complete` section 1: Selectors and Visual Rules
+   * `complete` section 2: The Box Model
