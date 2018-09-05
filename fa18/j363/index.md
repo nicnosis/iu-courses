@@ -68,11 +68,12 @@ This week you will familiarize yourself with course materials and get a basic un
 ### In Class
  * `download` [3.0-review.zip](mats/3.0-review.zip)
  * `download` [3.1-intro-to-css.zip](mats/3.1-intro-to-css.zip)
+ * `download` [3.2-stylesheets.zip](mats/3.2-stylesheets.zip)
 
- <!--* `download` [3.2-stylesheet-review.zip](mats/3.2-stylesheet-review.zip)-->
 
 ### At Home
  * `begin` [Project One](assignments/p1.html). It is due `September 14th at 11:59pm`
+ * `review` class notes: [Intro to CSS](slides/180905-intro-to-css.pdf)
 
 #### Codecademy
  * `begin` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
