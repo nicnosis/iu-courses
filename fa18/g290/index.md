@@ -41,3 +41,17 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### At Home
  * `finish` [Homework One](assignments/hw-bad-design.html). It is due `Wednesday Aug 29th @ 11:59pm`
+
+## week 3
+### In Class
+ * `download` [3-ai-shapes.zip](mats/3-ai-shapes.zip)
+ * `download` [4-ai-grids.zip](mats/4-ai-grids.zip)
+
+
+### At Home
+ * `begin` [Project One](assignments/p1-replica.html). It is due `Monday Sept 17th @ 11:59pm`
+ * For Monday, come to class with:
+   * Your game choice
+   * Three screenshots
+   * Be ready to submit them at the start of class Monday.
+

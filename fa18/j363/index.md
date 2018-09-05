@@ -65,10 +65,10 @@ This week you will familiarize yourself with course materials and get a basic un
  * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp)
 
 ## week 3
-### In Class
+### In Classm
  * `download` [3.0-review.zip](mats/3.0-review.zip)
  * `download` [3.1-intro-to-css.zip](mats/3.1-intro-to-css.zip)
- * `download` [3.2-stylesheets.zip](mats/3.2-stylesheets.zip)
+ <!--* `download` [3.2-stylesheets.zip](mats/3.2-stylesheets.zip)-->
 
 
 ### At Home
