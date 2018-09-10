@@ -82,11 +82,16 @@ This week you will familiarize yourself with course materials and get a basic un
  * `download` [3.1-intro-to-css.zip](mats/3.1-intro-to-css.zip)
  * `download` [4.1-stylesheets.zip](mats/4.1-stylesheets.zip)
 
-
 ### At Home
  * `continue` [Project One](assignments/p1.html). It is due `September 14th at 11:59pm`
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
    * `complete` section 1: Selectors and Visual Rules
-   * `complete` section 2: The Box Model
+
+#### W3Schools
+ * `read` [CSS Intro](https://www.w3schools.com/css/css_intro.asp)
+ * `read` [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
+ * `read` [CSS How to](https://www.w3schools.com/css/css_howto.asp)
+ * `read` [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
+ * `read` [CSS Backgrounds](https://www.w3schools.com/css/css_background.asp)
