@@ -45,7 +45,6 @@ This week you will familiarize yourself with course materials and get a basic un
 ## week 3
 ### In Class
  * `download` [3-ai-shapes.zip](mats/3-ai-shapes.zip)
- * `download` [4-ai-grids.zip](mats/4-ai-grids.zip)
 
 
 ### At Home
@@ -55,3 +54,15 @@ This week you will familiarize yourself with course materials and get a basic un
    * Three screenshots
    * Be ready to submit them at the start of class Monday.
 
+## week 4
+### In Class
+ * `submit` your screenshots for Project One on Canvas.
+ * `download` [4-ai-grids.zip](mats/4-ai-grids.zip)
+ * `download` [this image](mats/img/bravely.jpg) from __Bravely Second__
+
+### At Home
+ * `continue` [Project One](assignments/p1-replica.html). It is due `Monday Sept 17th @ 11:59pm`
+ * For `Wednesday Sept 12`, at the start of class, have your sketches ready in both physical and digital format
+   * No lined paper (graph paper is okay)
+   * No spiral notebook paper
+   * Please write legibly
