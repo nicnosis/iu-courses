@@ -81,9 +81,13 @@ This week you will familiarize yourself with course materials and get a basic un
 ### In Class
  * `download` [3.1-intro-to-css.zip](mats/3.1-intro-to-css.zip)
  * `download` [4.1-stylesheets.zip](mats/4.1-stylesheets.zip)
+ * `inspiration`: [HappyMeter.lol](https://happymeter.lol/)
+ * `use` [CSS Selector Tester](https://www.w3schools.com/cssref/trysel.asp)
+ * `download` [4.2-css-selectors.zip](mats/4.2-css-selectors.zip)
 
 ### At Home
  * `continue` [Project One](assignments/p1.html). It is due `September 14th at 11:59pm`
+ * `review` class notes: [CSS Selectors](slides/180912-css-selectors.pdf)
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
