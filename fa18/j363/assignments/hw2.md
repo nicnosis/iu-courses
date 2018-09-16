@@ -17,7 +17,7 @@ You are free to innovate and experiment creatively. I will provide a list of CSS
 
 <div class="card-block">
   <p class="card-text">Here's an example from one of our students:</p>
-  <a href="hw2-finished.pdf" class="btn btn-primary" target="_blank">View Example</a>
+  <a href="pdf/hw2-finished.pdf" class="btn btn-primary" target="_blank">View Example</a>
 </div>
 
 ### Reference
@@ -33,7 +33,7 @@ You are given some starter files.
 
 <div class="card-block">
   <p class="card-text">Starter files for Homework Two.</p>
-  <a href="hw2-start.zip" class="btn btn-primary" target="_blank">Download</a>
+  <a href="start/hw2-start.zip" class="btn btn-primary" target="_blank">Download</a>
 </div>
 
 ## Grading and Requirements
@@ -115,4 +115,4 @@ Changes to HTML be minimal. Here are things you'll probably do:
 ## Submission - Canvas
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 2`
 
-<!--#### **Due Friday Feb 16th at 11:59pm**-->
+#### **Due Wed Sep 26th at 11:59pm**

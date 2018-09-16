@@ -107,6 +107,8 @@ This week you will familiarize yourself with course materials and get a basic un
  * `download` [5.1-css-review.zip](mats/5.1-css-review.zip)
 
 ### At Home
+ * `begin` [Homework Two](assignments/hw2.html). It is due `Wed Sep 26th at 11:59pm`
+
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
    * `complete` section 1: Selectors and Visual Rules
