@@ -99,3 +99,14 @@ This week you will familiarize yourself with course materials and get a basic un
  * `read` [CSS How to](https://www.w3schools.com/css/css_howto.asp)
  * `read` [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
  * `read` [CSS Backgrounds](https://www.w3schools.com/css/css_background.asp)
+
+
+## week 5
+### In Class
+ * `inspiration`: [cuberto.com](https://cuberto.com/)
+ * `download` [5.1-css-review.zip](mats/5.1-css-review.zip)
+
+### At Home
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+   * `complete` section 1: Selectors and Visual Rules

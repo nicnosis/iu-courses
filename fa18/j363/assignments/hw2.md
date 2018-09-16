@@ -3,7 +3,7 @@ layout: default
 title: J363 - Homework Two
 footer: ''
 highlight: 'assignments'
-term: 'sp18'
+term: 'fa18'
 course: 'j363'
 ---
 # Homework Two - <small>Styling a page with CSS</small>
@@ -78,8 +78,8 @@ Implement each selector from the following list at least once. How you choose to
 ### File and folder names `1 pt.`
  * DO NOT use spaces in your filenames. Use hyphens instead
  * DO NOT use capital letters in your filenames
- * Your site folder should be named `hw2_lastname-firstname` _(e.g., hw2_aguirre-nicolas)_
- * You will submit a `.zip` file. Right-click on your site folder and choose `compress`. Make sure this file is called `hw2_lastname-firstname.zip`
+ * Your site folder should be named `hw2-lastname-firstname` _(e.g., hw2-aguirre-nicolas)_
+ * You will submit a `.zip` file. Right-click on your site folder and choose `compress`. Make sure this file is called `hw2-lastname-firstname.zip`
 
 ### Code Quality `1 pt.`
 Your code should:
@@ -115,4 +115,4 @@ Changes to HTML be minimal. Here are things you'll probably do:
 ## Submission - Canvas
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 2`
 
-#### **Due Friday Feb 16th at 11:59pm**
+<!--#### **Due Friday Feb 16th at 11:59pm**-->
