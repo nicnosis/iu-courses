@@ -61,8 +61,11 @@ This week you will familiarize yourself with course materials and get a basic un
  * `download` [this image](mats/img/bravely.jpg) from __Bravely Second__
 
 ### At Home
- * `continue` [Project One](assignments/p1-replica.html). It is due `Monday Sept 17th @ 11:59pm`
+ * `continue` [Project One](assignments/p1-replica.html). It is due <s>Monday</s> Wednesday Sept 19th @ 11:59pm
  * For `Wednesday Sept 12`, at the start of class, have your sketches ready in both physical and digital format
    * No lined paper (graph paper is okay)
    * No spiral notebook paper
    * Please write legibly
+
+## week 5
+`finish` [Project One](assignments/p1-replica.html). It is due `Wednesday Sept 19th @ 11:59pm`

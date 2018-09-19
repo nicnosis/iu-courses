@@ -105,6 +105,7 @@ This week you will familiarize yourself with course materials and get a basic un
 ### In Class
  * `inspiration`: [cuberto.com](https://cuberto.com/)
  * `download` [5.1-css-review.zip](mats/5.1-css-review.zip)
+ * `download` [5.2-visual-rules.zip](mats/5.2-visual-rules.zip)
 
 ### At Home
  * `begin` [Homework Two](assignments/hw2.html). It is due `Wed Sep 26th at 11:59pm`

@@ -79,4 +79,4 @@ Export as a single `.pdf` file that contains all three artboards.
 ## Submission - Canvas
 You will submit a single `.zip` file with everything. See the __deliverables__ section above for details.
 
-#### **Due Monday September 17th @ 11:59pm**
+#### **Due Wednesday September 19th @ 11:59pm**
