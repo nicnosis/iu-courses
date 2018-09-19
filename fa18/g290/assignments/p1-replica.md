@@ -68,10 +68,11 @@ Expectations:
 1. Illustrator file should not be massive (<50mb is good)
 2. Use layers if necessary. Layers should have meaningful names. _(e.g., avoid 'Layer 1', 'Layer 2', 'Layer 3'...)_
 3. You should have three artboards. They should have meaningful names.
-4. No linked files/embedded files
-5. Use of grids/guides is appropriate but not absolutely required.
-6. Some attention to detail is observed; if you intend to align two menu items to the left, they should be aligned with precision. Avoid "eyeballing" and try to use precise tools (grid/guide/ruler) wherever possible.
-7. You may only use __ONE COLOR__ other than black and white.
+4. Use practical fonts; avoid decorative fonts
+5. No linked images--- please embed your image files
+6. Use of grids/guides is appropriate but not absolutely required.
+7. Some attention to detail is observed; if you intend to align two menu items to the left, they should be aligned with precision. Avoid "eyeballing" and try to use precise tools (grid/guide/ruler) wherever possible.
+8. You may only use __ONE COLOR__ other than black and white.
 
 ### 4) Illustrator Exports
 Export as a single `.pdf` file that contains all three artboards.
