@@ -113,3 +113,25 @@ This week you will familiarize yourself with course materials and get a basic un
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
    * `complete` section 1: Selectors and Visual Rules
+
+
+## week 6
+### In Class
+ * `inspiration`: [the artery](https://www.the-artery.com/)
+ * `download`: [6.1-box-model](mats/6.1-box-model.zip)
+
+### At Home
+ * `complete` [Homework Two](assignments/hw2.html). It is due `Wed Sep 26th at 11:59pm`
+ * `review` slides: [CSS Box Model](slides/180924-box-model.pdf)
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` section 2: The Box Model
+
+#### W3Schools
+ * `read` [CSS Borders](https://www.w3schools.com/Css/css_border.asp)
+ * `read` [CSS Margins](https://www.w3schools.com/Css/css_margin.asp)
+ * `read` [CSS Padding](https://www.w3schools.com/Css/css_padding.asp)
+ * `read` [CSS Width/Height](https://www.w3schools.com/Css/css_dimension.asp)
+ * `read` [CSS Box Model](https://www.w3schools.com/Css/css_boxmodel.asp)
+
