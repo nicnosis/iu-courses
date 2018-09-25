@@ -85,3 +85,9 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### At Home
 `finish` [Project One](assignments/p1-replica.html). It is due `Wednesday Sept 19th @ 11:59pm`
+
+## week 6
+### In Class
+#### Monday
+ * `download` [the slides](mats/art-direction-for-aaa-ui.pdf) for Omer Younas' presentation.
+ * `submit` a response for today's participation on Canvas.
