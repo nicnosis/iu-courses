@@ -88,6 +88,8 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 6
 ### In Class
-#### Monday
  * `download` [the slides](mats/art-direction-for-aaa-ui.pdf) for Omer Younas' presentation.
  * `submit` a response for today's participation on Canvas.
+
+### At Home
+ * `begin` [Homework Two](assignments/hw-exemplars.html). It is due `Due Wednesday Oct 3rd @ 11:59pm`

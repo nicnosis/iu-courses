@@ -117,12 +117,18 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 6
 ### In Class
+#### Monday
  * `inspiration`: [the artery](https://www.the-artery.com/)
  * `download`: [6.1-box-model](mats/6.1-box-model.zip)
+
+#### Wednesday
+ * `inspiration`: [parall.ax](https://parall.ax/)
+ * `download`: [6.2-display-and-position.zip](mats/6.2-display-and-position.zip)
 
 ### At Home
  * `complete` [Homework Two](assignments/hw2.html). It is due `Wed Sep 26th at 11:59pm`
  * `review` slides: [CSS Box Model](slides/180924-box-model.pdf)
+ * `review` slides: [CSS Display and Position](slides/180926-display-and-position.pdf)
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
@@ -134,4 +140,17 @@ This week you will familiarize yourself with course materials and get a basic un
  * `read` [CSS Padding](https://www.w3schools.com/Css/css_padding.asp)
  * `read` [CSS Width/Height](https://www.w3schools.com/Css/css_dimension.asp)
  * `read` [CSS Box Model](https://www.w3schools.com/Css/css_boxmodel.asp)
+ * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
+ * `read` [CSS Position](https://www.w3schools.com/cssref/pr_class_position.asp)
 
+## week 7
+### In Class
+#### Monday
+ * `inspiration`: [color theory](http://www.colortheory.ca/)
+ * `download`: [color-meanings.docx](mats/color-meanings.docx)
+ * `download`: [7.1-color.zip](mats/7.1-color.zip)
+   * After generating three palettes, submit a screenshot to `Canvas` for today's participation
+
+
+### At Home
+#### Codecademy
