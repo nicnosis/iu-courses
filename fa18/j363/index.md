@@ -153,4 +153,9 @@ This week you will familiarize yourself with course materials and get a basic un
 
 
 ### At Home
+ * `review` slides: [Color](slides/181001-color.pdf)
+
 #### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` section 3: Display and Position
+ * `complete` section 4: CSS Color
