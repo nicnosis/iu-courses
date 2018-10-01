@@ -93,3 +93,12 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### At Home
  * `begin` [Homework Two](assignments/hw-exemplars.html). It is due `Due Wednesday Oct 3rd @ 11:59pm`
+
+## week 7
+### In Class
+ * `download` [5-ai-stroke-fills.zip](mats/5-ai-stroke-fills.zip)
+ * `download` [6-ai-color-groups.zip](mats/6-ai-color-groups.zip)
+ * `download` [7-ai-transform.zip](mats/7-ai-transform.zip)
+
+### At Home
+ * `complete` [Homework Two](assignments/hw-exemplars.html). It is due `Due Wednesday Oct 3rd @ 11:59pm`
