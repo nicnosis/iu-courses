@@ -151,11 +151,19 @@ This week you will familiarize yourself with course materials and get a basic un
  * `download`: [7.1-color.zip](mats/7.1-color.zip)
    * After generating three palettes, submit a screenshot to `Canvas` for today's participation
 
+#### Wednesday
+ * Need a refresher on CSS `position`? [This guide](https://zellwk.com/blog/css-positions/) may be helpful.
+ * `download`: [7.2-hero-image.zip](mats/7.2-hero-image.zip)
+ * `download`: [7.3-grid.zip](mats/7.3-grid.zip)
+
 
 ### At Home
  * `review` slides: [Color](slides/181001-color.pdf)
+ * `begin` [Project Two](assignments/p2.html). It is due `Monday October 15th`.
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * `complete` section 3: Display and Position
  * `complete` section 4: CSS Color
+ * You may `skip` section 5: Typography if you feel comfortable with it already
+ * `begin` section 6: CSS Grid

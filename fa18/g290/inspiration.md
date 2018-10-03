@@ -70,6 +70,7 @@ Your game will likely have a distinct visual style. You may find it helpful to e
  * Uplabs--- [Website style guides](https://www.uplabs.com/posts/c/web/resources/style_guide)
  * Google--- [Material Design](https://material.io/guidelines/material-design/introduction.html)
  * Firefox--- [Photon Design System](https://design.firefox.com/photon/welcome.html)
+ * Shopify--- [Polaris Design System](https://polaris.shopify.com/)
  * Lonely Planet--- [Style Guide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
  * Medium--- [Style Guides by Pro Designers](https://medium.com/inspiration-supply/style-guides-by-pro-designers-5605707afc07)
  * AirBnB--- [Building A Visual Language](https://airbnb.design/building-a-visual-language/)

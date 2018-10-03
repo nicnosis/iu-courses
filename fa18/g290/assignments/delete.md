@@ -1,12 +1,12 @@
 ---
 layout: default
-title: G290 - Project One
+title: G290 - Project Two
 footer: ''
 highlight: 'assignments'
 term: 'fa18'
 course: 'g290'
 ---
-# Project One - <small>Sketching and Lofi Prototypes</small> `15 pts.`
+# Project Two - <small>Sketching and Lofi Prototypes</small> `15 pts.`
 ## Description
 Project One involves sketching out a game interface, and generating a minimal, low-fidelity prototype with Illustrator.
 
