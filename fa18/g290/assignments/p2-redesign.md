@@ -8,9 +8,10 @@ course: 'g290'
 ---
 # Project Two - <small>UI Re-design</small> `15 pts.`
 ## Description
-For Project Two, you will choose a game with poor UI and create a re-designed, high-fidelity mockup.
+For Project Two, you will choose a game with poor UI and create a re-designed, high-fidelity mockup. You are suggested to use Illustrator or Photoshop.
 
-You are suggested to use Illustrator or Photoshop.
+### Examples
+https://imgur.com/a/syYC4zt
 
 ### Choosing a game
  * The chosen game should be fairly UI-heavy _(e.g., an MMORPG is probably a better choice than an endless runner)_
@@ -19,26 +20,93 @@ You are suggested to use Illustrator or Photoshop.
  * Find a high-resolution screenshot with no UI and re-design on top of it.
 
 Some games with bad UI that are easy to redesign:
- * Skyrim
+ * Call of Duty
  * Dark Souls
+ * Playstation All Stars
+ * Skyrim
  * The Witcher
  * World of Warcraft
- * Playstation All Stars
- * Call of Duty
 
+### Alternative assignment: UI Kit
+You can also develop a UI Kit for a game/app. Students in Workshop/Production classes may want to do this in order to build assets for their games. If you want to take this approach, __please ask me first__.
 
-## Process
+ * Some common elements you might include:
+ * Menu
+ * Settings
+ * Volume
+ * Brightness
+ * Friends List
+ * Selected/Hovered/Unselected modes
+ *  OK or Accept
+ *  Back
+ *  Borders--- Corners, straight pieces
+ *  Store
+ *  Social Media (Facebook , Twitter, Etc.)
+ *  Messages
+ *  Exit
+ *  Loading Icon
+ *  Cursor
+ *  Search Bar
 
+## Expectations
+I do my best to cover relevant design principles, but you are expected to some research of your own. You may find it useful to visit the `inspiration` tab at the top of this page. I would also recommend reviewing the [slides from the Younas talk](../mats/art-direction-for-aaa-ui.pdf).
 
-## Deliverables
+Below is a list of criteria that you should strive to fulfill. Your grade is determined based on how well you adhere to these principles.
+
+### Composition, Layout, and Proportion
+ * Elements are appropriately sized and positioned
+ * UI is neither too sparse nor too crowded; mindful use of whitespace (negative space)
+ * Effective design principles are used _(e.g., [Rule of Thirds](https://tympanus.net/codrops/2012/05/23/understanding-the-rule-of-thirds-in-web-design/), [Golden Ratio](https://blog.prototypr.io/golden-ratio-in-ui-design-8d11e66582c3))_
+ * Position of UI elements is thoughtful _(e.g., anchoring to side/corner/center of screen. In Overwatch, Tracer's teleport charges are anchored to the reticle as their state is always relevant)_.
+
+### Typography
+ * Fonts are appropriate to the game's visual style _(e.g. do not use Comic Sans if you are re-designing Dark Souls)_
+ * Fonts are readable. _(Remember the six foot rule; you should be able to read it six feet away from your screen)_
+ * Decorative fonts are used sparingly or not at all
+ * Letter spacing and [kerning](https://www.canva.com/learn/kerning/) are considered
+ * Clear font hierarchy exists
+   * The user should know which information is critical and which is less important
+   * Appropriate contrast is observed _(e.g., pairing 16pt Garamond with 18pt Georgia is not an effective contrast)_
+
+### Color
+ * Color choices are sensible and work with the game's visual theme
+ * Color palette is thoughtful and harmonious
+ * Use of color is consistent; choose a specific color and maintain it
+
+### Shapes and Iconography
+ * Icons should fit the visual style of the game.
+ * Icons should observe existing conventions (e.g., a bag icon for 'inventory' or a sword icon for 'attack')
+ * Icon imagery should be representational of its function
+ * You can use existing icons with appropriate licensing __ONLY with instructor's permission__.
+
+### Visual Treatment
+ * Effects and visual treatment should be consistent
+ * Choose a specification mindfully and observe it throughout your work. _(e.g., all panels have 1px black border with #EEEEEE fill color and 15px border radius)
+ * You may find Illustrator's 'graphic styles' panel useful.
+ * Remember that you can use the Eyedropper tool to transfer defined appearances to new objects.
+
+## Submission and Deliverables
 You will submit a single `.zip` file that contains:
 
-1. ~200-300 word description of UI problems in your chosen game (`.docx`, `.pdf` or `.txt`). Try to use descriptive language that reflects principles discussed in __Omer Younas'__ talk or in class.
-2. Source screenshot (high-resolution `.jpg` or `.png`)
-3. Illustrator or Photoshop files (`.ai`, `.psd`)
-4. High-resolution rendering of your finished re-design (`.jpg`, `.png`, or `.pdf`)
+1. ~200-300 word description of UI problems in your chosen game (`.docx`, `.pdf` or `.txt`). Try to use descriptive language that reflects principles discussed in __Omer Younas'__ talk or in class. These can be bullet points, paragraph structure, slideshow, or an annotated image.
+2. Source screenshot (high-resolution `.jpg` or `.png`) that you're building the UI on top of
+3. __At least three__ process shots that show your screen as you work on the project.
+4. Illustrator or Photoshop files (`.ai`, `.psd`)
+5. High-resolution rendering of your finished re-design (`.jpg`, `.png`, or `.pdf`)
 
-## Submission - Canvas
-You will submit a single `.zip` file with everything. See the __deliverables__ section above for details.
+### Naming Conventions
+This time, __you must adhere__ to these naming conventions to avoid losing points:
 
-#### **Due Wednesday September 19th @ 11:59pm**
+1. Your zip file should be named `p2-lastname-firstname.zip` _(e.g., p2-aguirre-nicolas.zip)_
+2. Your text description should be named `description.docx`
+3. Your source screenshot should be named `source.png`
+4. Your process shots should be named `process1.png`, `process2.png` etc.
+5. Your Illustrator/Photoshop file should be named `redesign.ai`
+6. Your final, rendered product should be named `redesign.png`
+7. If you have any other relevant files please put them in a folder named `misc` and avoid nonsensical filenames like `129389182408_121904812.PNG`
+
+If you used a different filetype, observe the same rule but change the extension. For example if you did Photoshop instead of Illustrator, I expect `redesign.psd` instead of `redesign.ai`
+
+Please be mindful of capitalization.
+
+#### **Due Monday October 15th @ 11:59pm**
