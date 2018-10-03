@@ -107,4 +107,4 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### At Home
  * `complete` [Homework Two](assignments/hw-exemplars.html). It is due `Due Wednesday Oct 3rd @ 11:59pm`
- * `begin` [Project Two](assignments/p2-redesign.html). It is due `Due Monday October 15th @ 11:59pm`
+ * `begin` [Project Two](assignments/p2-redesign.html). It is due `Due Monday October 15th @ 11:59pm`. You are expected to have chosen a game by Monday

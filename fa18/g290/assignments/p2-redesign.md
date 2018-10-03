@@ -11,7 +11,10 @@ course: 'g290'
 For Project Two, you will choose a game with poor UI and create a re-designed, high-fidelity mockup. You are suggested to use Illustrator or Photoshop.
 
 ### Examples
-https://imgur.com/a/syYC4zt
+<div class="card-block">
+  <p class="card-text">I've compiled some examples for this project:</p>
+  <a href="https://imgur.com/a/syYC4zt" class="btn btn-primary" target="_blank">View Examples</a>
+</div>
 
 ### Choosing a game
  * The chosen game should be fairly UI-heavy _(e.g., an MMORPG is probably a better choice than an endless runner)_
