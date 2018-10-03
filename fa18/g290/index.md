@@ -102,7 +102,8 @@ This week you will familiarize yourself with course materials and get a basic un
  * `download` [7-ai-transform.zip](mats/7-ai-transform.zip)
 
 #### Wednesday
-
+ * `download` today's [slides on Typography](mats/typography.pdf).
+ * `play` [the kerning game](https://type.method.ac/). Submit a screenshot of your score for `participation`.
 
 ### At Home
  * `complete` [Homework Two](assignments/hw-exemplars.html). It is due `Due Wednesday Oct 3rd @ 11:59pm`

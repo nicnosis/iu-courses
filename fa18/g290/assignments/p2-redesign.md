@@ -30,23 +30,23 @@ Some games with bad UI that are easy to redesign:
 ### Alternative assignment: UI Kit
 You can also develop a UI Kit for a game/app. Students in Workshop/Production classes may want to do this in order to build assets for their games. If you want to take this approach, __please ask me first__.
 
- * Some common elements you might include:
+Common elements you might include:
  * Menu
  * Settings
  * Volume
  * Brightness
  * Friends List
  * Selected/Hovered/Unselected modes
- *  OK or Accept
- *  Back
- *  Borders--- Corners, straight pieces
- *  Store
- *  Social Media (Facebook , Twitter, Etc.)
- *  Messages
- *  Exit
- *  Loading Icon
- *  Cursor
- *  Search Bar
+ * OK or Accept
+ * Back
+ * Borders--- Corners, straight pieces
+ * Store
+ * Social Media (Facebook , Twitter, Etc.)
+ * Messages
+ * Exit
+ * Loading Icon
+ * Cursor
+ * Search Bar
 
 ## Expectations
 I do my best to cover relevant design principles, but you are expected to some research of your own. You may find it useful to visit the `inspiration` tab at the top of this page. I would also recommend reviewing the [slides from the Younas talk](../mats/art-direction-for-aaa-ui.pdf).
