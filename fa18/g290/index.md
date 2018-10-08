@@ -108,3 +108,13 @@ This week you will familiarize yourself with course materials and get a basic un
 ### At Home
  * `complete` [Homework Two](assignments/hw-exemplars.html). It is due `Due Wednesday Oct 3rd @ 11:59pm`
  * `begin` [Project Two](assignments/p2-redesign.html). It is due `Due Monday October 15th @ 11:59pm`. You are expected to have chosen a game by Monday
+
+## week 8
+### In Class
+ * `submit` a response for the [week 8 survey](https://goo.gl/forms/wJ4zFFG0q3Wyc1h22)
+ * `register` for [Figma](https://www.figma.com/).
+ * `submit` a response for today's participation question on Canvas.
+
+### At Home
+ * `continue` [Project Two](assignments/p2-redesign.html). It is due `Due Monday October 15th @ 11:59pm`.
+ * On `Wednesday` you must have substantial work to present on Project Two. If you do not come prepared, __you will not receive participation points for that day__.
