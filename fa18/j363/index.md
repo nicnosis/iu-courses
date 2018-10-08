@@ -12,7 +12,7 @@ This week you will familiarize yourself with course materials and get a basic un
 ### In Class
 #### Monday
  * `take` [this pre-test](https://goo.gl/forms/ABunTarolAlUHWPn1)
- * `download` [1-inspect.zip](mats/1-inspect.zip) for today's activity
+ * `download` [1.1-inspect.zip](mats/1-inspect.zip) for today's activity
 
 #### Wednesday
  * `download` [1.2-elements.zip](mats/1.2-elements.zip)
@@ -167,3 +167,20 @@ This week you will familiarize yourself with course materials and get a basic un
  * `complete` section 4: CSS Color
  * You may `skip` section 5: Typography if you feel comfortable with it already
  * `begin` section 6: CSS Grid
+
+## week 8
+### In Class
+ * `inspiration`: [bande-a-part.fr](http://www.bande-a-part.fr/)
+ * `download` [8.1-grid.zip](mats/8.1-grid.zip)
+ * `download` [CSS Grid Cheatsheet](mats/grid-cheatsheet.pdf)
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html). It is due `Monday October 15th`.
+ * There will be an in-class `Progress Check` for participation on `Wednesday October 10th`. Expectations:
+   * You have already written some code
+   * You have selected an idea for your fictional online shop
+   * You have downloaded at least one image for your shop
+
+#### Codecademy
+ * `complete` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` section 6: CSS Grid.

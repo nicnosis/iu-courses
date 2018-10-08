@@ -69,7 +69,7 @@ Your game will likely have a distinct visual style. You may find it helpful to e
 5. LogoDesignLove--- [Identity Guides](https://www.logodesignlove.com/brand-identity-style-guides)
 6. Uplabs--- [Website style guides](https://www.uplabs.com/posts/c/web/resources/style_guide)
 7. Google--- [Material Design](https://material.io/guidelines/material-design/introduction.html)
-8. `Uber---` [Design Guidelines](https://developer.uber.com/docs/riders/guides/design-guidelines)
+8. Uber--- [Design Guidelines](https://developer.uber.com/docs/riders/guides/design-guidelines)
 9. Firefox--- [Photon Design System](https://design.firefox.com/photon/welcome.html)
 10. Shopify--- [Polaris Design System](https://polaris.shopify.com/)
 11. Lonely Planet--- [Style Guide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
