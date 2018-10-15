@@ -184,3 +184,6 @@ This week you will familiarize yourself with course materials and get a basic un
 #### Codecademy
  * `complete` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * `complete` section 6: CSS Grid.
+
+## week 9
+ * `complete` [Project Two](assignments/p2.html). It is due `Monday October 15th` @ 11:59pm.
