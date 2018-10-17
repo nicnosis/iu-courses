@@ -120,4 +120,4 @@ This week you will familiarize yourself with course materials and get a basic un
  * On `Wednesday` you must have substantial work to present on Project Two. If you do not come prepared, __you will not receive participation points for that day__.
 
 ## week 9
- * `complete` [Project Two](assignments/p2-redesign.html). It is due `Monday October 15th @ 11:59pm`.
+ * `complete` [Project Two](assignments/p2-redesign.html). It is due `Wednesday October 17th @ 11:59pm`.

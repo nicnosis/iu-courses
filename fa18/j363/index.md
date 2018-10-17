@@ -186,4 +186,9 @@ This week you will familiarize yourself with course materials and get a basic un
  * `complete` section 6: CSS Grid.
 
 ## week 9
+### In Class
+ * `download` [9.1-bootstrap-intro.zip](mats/9.1-bootstrap-intro.zip)
+
+### At Home
  * `complete` [Project Two](assignments/p2.html). It is due `Wednesday October 17th` @ 11:59pm.
+ * `begin` [Homework Three](assignments/hw3.html). It is due `Friday October 26th` @ 11:59pm.

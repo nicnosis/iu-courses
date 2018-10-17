@@ -112,4 +112,4 @@ If you used a different filetype, observe the same rule but change the extension
 
 Please be mindful of capitalization.
 
-#### **Due Monday October 15th @ 11:59pm**
+#### **Due Wednesday October 17th @ 11:59pm**
