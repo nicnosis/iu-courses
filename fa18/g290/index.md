@@ -121,3 +121,4 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 9
  * `complete` [Project Two](assignments/p2-redesign.html). It is due `Wednesday October 17th @ 11:59pm`.
+ * `begin` [Homework Three](assignments/hw-tutorial.html). It is due `Monday October 29th @ 11:59pm`.
