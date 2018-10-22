@@ -122,3 +122,24 @@ This week you will familiarize yourself with course materials and get a basic un
 ## week 9
  * `complete` [Project Two](assignments/p2-redesign.html). It is due `Wednesday October 17th @ 11:59pm`.
  * `begin` [Homework Three](assignments/hw-tutorial.html). It is due `Monday October 29th @ 11:59pm`.
+
+
+## week 10
+### In Class
+
+You will create an interactive prototype for a hero collection/card collection game.
+
+1. Come up with a list of examples _(e.g., Yu-Gi-Oh! Duel Links, Fire Emblem Heroes, Hearthstone)_.
+2. Collect screenshots from the list of examples.
+3. Look at exemplary UIs. I recommend looking at the [UI Field on Behance](https://www.behance.net/search?field=132&content=projects&sort=featured_date&time=week&featured_on_behance=true)
+4. Start a Figma project
+5. Create screens for your game
+6. Pay attention to visual treatment. Try to use a consistent style of colors, fonts, iconography, and maintain the same general look/feel between screens.
+7. Submit progress when finished. __Make sure everybody's name is on it somewhere__.
+
+Since you may have a lot of repeating components _(e.g., grid of cards)_, you might find these articles useful:
+ * [Components in Figma](https://blog.figma.com/components-in-figma-e7e80fcf6fd2)
+ * [Component Architecture in Figma](https://blog.figma.com/component-architecture-in-figma-f16ae9cc4481)
+
+### At Home
+ * `complete` [Homework Three](assignments/hw-tutorial.html). It is due `Monday October 29th @ 11:59pm`.
