@@ -192,3 +192,12 @@ This week you will familiarize yourself with course materials and get a basic un
 ### At Home
  * `complete` [Project Two](assignments/p2.html). It is due `Wednesday October 17th` @ 11:59pm.
  * `begin` [Homework Three](assignments/hw3.html). It is due `Friday October 26th` @ 11:59pm.
+
+## week 10
+### In Class
+ * `inspiration`: [Brutalism: BrutAl wEbsIteS for mOdern dAy webMAsTeRS](https://www.awwwards.com/brutalism-brutalist-websites.html)
+ * `download` [10.1-css-trans.zip](mats/10.1-css-trans.zip)
+
+### At Home
+ * `review` slides: [CSS Transitions and Transforms](slides/181020-css-transforms-transitions.pdf)
+ * `complete` [Homework Three](assignments/hw3.html). It is due `Friday October 26th` @ 11:59pm.
