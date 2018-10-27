@@ -207,3 +207,12 @@ This week you will familiarize yourself with course materials and get a basic un
  * `review` slides: [CSS Transitions and Transforms](slides/181020-css-transforms-transitions.pdf)
  * `complete` [Homework Three](assignments/hw3.html). It is due `Friday October 26th` @ 11:59pm.
  * `begin` [Project Three](assignments/p3.html). It is due `Monday November 12th` @ 11:59pm.
+
+## week 11
+### In Class
+ * `inspiration`: [EnvyLabs](https://envylabs.com/)
+ * `download` [11.1-bootstrap-cards.zip](mats/11.1-bootstrap-cards.zip)
+
+### At Home
+ * `continue` [Project Three](assignments/p3.html). It is due `Monday November 12th` @ 11:59pm.
+ * `remember` you will have a progress check for this project on `Monday November 5th` in class.
