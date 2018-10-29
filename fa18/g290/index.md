@@ -143,3 +143,13 @@ Since you may have a lot of repeating components _(e.g., grid of cards)_, you mi
 
 ### At Home
  * `complete` [Homework Three](assignments/hw-tutorial.html). It is due `Monday October 29th @ 11:59pm`.
+
+## week 11
+### In Class
+ * `play` [the Bezier Game](https://bezier.method.ac/)
+ * `download` [8-ai-compound.zip](mats/8-ai-compound.zip)
+ * `download` [9-ai-pen.zip](mats/9-ai-pen.zip). Export your key drawing for participation.
+
+
+### At Home
+ * `begin` [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
