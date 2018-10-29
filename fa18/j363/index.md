@@ -212,6 +212,7 @@ This week you will familiarize yourself with course materials and get a basic un
 ### In Class
  * `inspiration`: [EnvyLabs](https://envylabs.com/)
  * `download` [11.1-bootstrap-cards.zip](mats/11.1-bootstrap-cards.zip)
+ * `non-inspiration`: [boardgamegeek.com](https://boardgamegeek.com/)
 
 ### At Home
  * `continue` [Project Three](assignments/p3.html). It is due `Monday November 12th` @ 11:59pm.
