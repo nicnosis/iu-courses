@@ -210,10 +210,17 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 11
 ### In Class
+#### Monday
  * `inspiration`: [EnvyLabs](https://envylabs.com/)
  * `download` [11.1-bootstrap-cards.zip](mats/11.1-bootstrap-cards.zip)
  * `non-inspiration`: [boardgamegeek.com](https://boardgamegeek.com/)
 
+#### Wednesday
+ * `sketch`: [medium.com](https://medium.com/)
+ * `sign up` for [figma](https://www.figma.com/)
+
 ### At Home
  * `continue` [Project Three](assignments/p3.html). It is due `Monday November 12th` @ 11:59pm.
  * `remember` you will have a progress check for this project on `Monday November 5th` in class.
+   * You are expected to have substantial code written
+   * You are expected to have an idea for your visual style
