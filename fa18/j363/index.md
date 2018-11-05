@@ -224,3 +224,10 @@ This week you will familiarize yourself with course materials and get a basic un
  * `remember` you will have a progress check for this project on `Monday November 5th` in class.
    * You are expected to have substantial code written
    * You are expected to have an idea for your visual style
+
+## week 12
+Continue working on [Project Three](assignments/p3.html). It is due `Monday November 12th` @ 11:59pm.
+
+I have also posted the slides from last week:
+ * [Usability slides](slides/181029-usability.pdf)
+ * [Prototyping slides](slides/181031-prototyping.pdf)

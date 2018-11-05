@@ -13,11 +13,12 @@ This collection of tools, links, and resources is meant to supplement your creat
 ## Design Tools
 ### Typography, Layouts and Grids
 1. [A Five Minute Guide to Better Typography](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
-2. [Google Fonts](https://fonts.google.com/). These are free, come in a variety of weights, and they have pairing suggestions.
-3. [Incredible Types](http://incredibletypes.com/)
-4. [Thinking with Type](http://thinkingwithtype.com/)
-5. [Top 5 UI fonts for website & mobile apps](https://medium.muz.li/top-5-ui-fonts-for-website-mobile-apps-d78829e58f7e)
-6. [A Beginner's Guide to Pairing Fonts](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706)
+2. [10 Typography Rules](https://blind.com/blog/typography-manual/)
+3. [Google Fonts](https://fonts.google.com/). These are free, come in a variety of weights, and they have pairing suggestions.
+4. [Incredible Types](http://incredibletypes.com/)
+5. [Thinking with Type](http://thinkingwithtype.com/)
+6. [Top 5 UI fonts for website & mobile apps](https://medium.muz.li/top-5-ui-fonts-for-website-mobile-apps-d78829e58f7e)
+7. [A Beginner's Guide to Pairing Fonts](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706)
 
 #### Inspiration:
 1. [The Designer and the Grid](http://thedesignerandthegrid.tumblr.com/). Collection of grid-based design work.
@@ -36,7 +37,7 @@ This collection of tools, links, and resources is meant to supplement your creat
 
 For gradients:
 1.  [My Color Space](https://mycolor.space/)
-2.  [UI Gradients](https://uigradients.com/)
+2.  [UI Gradients](https://uigradients.com/)i
 
 ### Icons
 Pay close attention to licensing when using these. Always cite your source and only use these in a project with express consent from the instructor.
