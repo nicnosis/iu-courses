@@ -226,6 +226,10 @@ This week you will familiarize yourself with course materials and get a basic un
    * You are expected to have an idea for your visual style
 
 ## week 12
+### In Class
+ * `download` [12.1-material-icons.zip](mats/12.1-material-icons.zip)
+
+### At Home
 Continue working on [Project Three](assignments/p3.html). It is due `Monday November 12th` @ 11:59pm.
 
 I have also posted the slides from last week:
