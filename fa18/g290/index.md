@@ -153,3 +153,6 @@ Since you may have a lot of repeating components _(e.g., grid of cards)_, you mi
 
 ### At Home
  * `begin` [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
+
+## week 12
+Continue working on [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
