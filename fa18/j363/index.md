@@ -235,3 +235,16 @@ Continue working on [Project Three](assignments/p3.html). It is due `Monday Nove
 I have also posted the slides from last week:
  * [Usability slides](slides/181029-usability.pdf)
  * [Prototyping slides](slides/181031-prototyping.pdf)
+
+## week 13
+This week, you will finish up Project Three while familiarizing yourself with Codepen and JavaScript.
+
+### In Class
+ * `create` an account on [Codepen.io](https://codepen.io/). I recommend making a `j363` collection for this class.
+ * `codepen` lesson: [13.1: Intro to Codepen](https://codepen.io/novonagu/pen/Brvogm)
+ * `codepen` lesson: [13.2: JS Variables and Data Types](https://codepen.io/novonagu/pen/WzLxoj)
+ * `codepen` lesson: [13.3: JS Operators](https://codepen.io/novonagu/pen/KobMoo)
+ * `codepen` lesson: [13.4: Participation](https://codepen.io/novonagu/pen/ZxVORq)
+
+### At Home
+Finish [Project Three](assignments/p3.html). It is due `Wednesday November 14th` @ 11:59pm.
