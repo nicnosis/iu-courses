@@ -240,11 +240,21 @@ I have also posted the slides from last week:
 This week, you will finish up Project Three while familiarizing yourself with Codepen and JavaScript.
 
 ### In Class
+#### Monday
  * `create` an account on [Codepen.io](https://codepen.io/). I recommend making a `j363` collection for this class.
  * `codepen` lesson: [13.1: Intro to Codepen](https://codepen.io/novonagu/pen/Brvogm)
  * `codepen` lesson: [13.2: JS Variables and Data Types](https://codepen.io/novonagu/pen/WzLxoj)
  * `codepen` lesson: [13.3: JS Operators](https://codepen.io/novonagu/pen/KobMoo)
  * `codepen` lesson: [13.4: Participation](https://codepen.io/novonagu/pen/ZxVORq)
 
+#### Wednesday
+ * We will `review` [13.1: Intro to Codepen](https://codepen.io/novonagu/pen/Brvogm) and [13.2: JS Variables and Data Types](https://codepen.io/novonagu/pen/WzLxoj)
+ * `codepen` lesson: [13.5: JS Control Flow](https://codepen.io/novonagu/pen/MVxWGO)
+ * `codepen` lesson: [13.6: JS Functions](https://codepen.io/novonagu/pen/mRKOvV)
+ * `watch` [hello p5js](http://hello.p5js.org/).
+ * `codepen` lesson: [13.7: Intro to p5.js](https://codepen.io/novonagu/pen/qovaxE). You will use this for today's `participation`.
+
+
 ### At Home
-Finish [Project Three](assignments/p3.html). It is due `Wednesday November 14th` @ 11:59pm.
+ * `complete` [Project Three](assignments/p3.html). It is due `Wednesday November 14th` @ 11:59pm.
+ * `begin` [Homework Four](assignments/hw4.html). It is due `Friday November 30th` @ 11:59pm.
