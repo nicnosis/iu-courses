@@ -159,3 +159,16 @@ Continue working on [Project Three](assignments/p3.html). It is due **Wednesday 
 
 ## week 13
 Continue working on [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
+
+## week 14
+### In Class
+ * Project Three Critiques
+ * Atomic Design
+   * [Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/)
+   * [Patternlab](https://patternlab.io/)
+ * UI Audit--- Reddit
+   * Submit for participation
+
+### At Home
+ * `begin` [Homework Four](assignments/hw-style-guide.html). It is due **Friday December 7th @ 11:59pm**
+ * `begin` [Project Four](assignments/p4.html).

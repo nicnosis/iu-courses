@@ -19,8 +19,9 @@ This collection of tools, links, and resources is meant to supplement your creat
 5. [Thinking with Type](http://thinkingwithtype.com/)
 6. [Top 5 UI fonts for website & mobile apps](https://medium.muz.li/top-5-ui-fonts-for-website-mobile-apps-d78829e58f7e)
 7. [A Beginner's Guide to Pairing Fonts](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706)
+8. [Example--- BBC GEL Typography Guide](http://www.bbc.co.uk/gel/guidelines/typography)
 
-#### Inspiration:
+#### Collections:
 1. [The Designer and the Grid](http://thedesignerandthegrid.tumblr.com/). Collection of grid-based design work.
 2. [IncredibleTypes](http://incredibletypes.com/). Curated collection and showcase of outstanding typography and design from around the world
 3. [Typeinspire](https://typeinspire.com/)
@@ -63,23 +64,25 @@ Pay close attention to licensing when using these. Always cite your source and o
 ### Branding and Visual Style
 Your game will likely have a distinct visual style. You may find it helpful to explore successful brand identities in developing the visual treatment for your game's UI.
 
-1. [Styleguides.io](http://styleguides.io/examples.html)
-2. Under Consideration--- [Brand New](https://www.underconsideration.com/brandnew/). Opinions on corporate and brand identity work
-3. Saijo George--- [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/)
-4. Designbetter--- [Design systems handbook](https://www.designbetter.co/design-systems-handbook/appendix). Most of these are code-related, but it's still useful.
-5. LogoDesignLove--- [Identity Guides](https://www.logodesignlove.com/brand-identity-style-guides)
-6. Uplabs--- [Website style guides](https://www.uplabs.com/posts/c/web/resources/style_guide)
-7. Google--- [Material Design](https://material.io/guidelines/material-design/introduction.html)
-8. Uber--- [Design Guidelines](https://developer.uber.com/docs/riders/guides/design-guidelines)
-9. Firefox--- [Photon Design System](https://design.firefox.com/photon/welcome.html)
-10. Shopify--- [Polaris Design System](https://polaris.shopify.com/)
-11. Lonely Planet--- [Style Guide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
-12. Medium--- [Style Guides by Pro Designers](https://medium.com/inspiration-supply/style-guides-by-pro-designers-5605707afc07)
-13. AirBnB--- [Building A Visual Language](https://airbnb.design/building-a-visual-language/)
-14. Webflow--- [StyleTile template](https://webflow.com/website/Style-Tile)
-15. Speckyboy--- [10 Inspiring Examples of UI Style Guides](https://speckyboy.com/inspirational-examples-ui-style-guides/)
-16. Bashooka--- [40 Great Examples Of UI Style Guides](https://bashooka.com/inspiration/40-great-examples-of-ui-style-guides/)
-17. Canva--- [Your brand needs a visual style guide: here’s how to create one](https://www.canva.com/learn/your-brand-needs-a-visual-style-guide/)
+1. Uplabs--- [Website style guides](https://www.uplabs.com/posts/c/web/resources/style_guide)
+2. Google--- [Material Design](https://material.io/guidelines/material-design/introduction.html)
+3. Yelp--- [Style Guide](https://www.yelp.com/styleguide/)
+4. [Styleguides.io](http://styleguides.io/examples.html)
+5. Under Consideration--- [Brand New](https://www.underconsideration.com/brandnew/). Opinions on corporate and brand identity work
+6. Saijo George--- [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/)
+7. Designbetter--- [Design systems handbook](https://www.designbetter.co/design-systems-handbook/appendix). Most of these are code-related, but it's still useful.
+8. LogoDesignLove--- [Identity Guides](https://www.logodesignlove.com/brand-identity-style-guides)
+9. Uber--- [Design Guidelines](https://developer.uber.com/docs/riders/guides/design-guidelines)
+10. Firefox--- [Photon Design System](https://design.firefox.com/photon/welcome.html)
+11. Shopify--- [Polaris Design System](https://polaris.shopify.com/)
+12. Lonely Planet--- [Style Guide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+13. Medium--- [Style Guides by Pro Designers](https://medium.com/inspiration-supply/style-guides-by-pro-designers-5605707afc07)
+14. AirBnB--- [Building A Visual Language](https://airbnb.design/building-a-visual-language/)
+15. Webflow--- [StyleTile template](https://webflow.com/website/Style-Tile)
+16. Speckyboy--- [10 Inspiring Examples of UI Style Guides](https://speckyboy.com/inspirational-examples-ui-style-guides/)
+17. Bashooka--- [40 Great Examples Of UI Style Guides](https://bashooka.com/inspiration/40-great-examples-of-ui-style-guides/)
+18. Canva--- [Your brand needs a visual style guide: here’s how to create one](https://www.canva.com/learn/your-brand-needs-a-visual-style-guide/)
+19. 24 Ways--- [Front End Style Guides](https://24ways.org/2011/front-end-style-guides/)
 
 ## Omer Younas' Talk from GDC 2018
 <div class="card-block">
