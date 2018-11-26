@@ -264,8 +264,8 @@ This week, you will finish up Project Three while familiarizing yourself with Co
  * `complete` the [Online Course Questionnaire](https://coursequestionnaire.iu.edu/) for this course.
  * `codepen` lesson: [14.1: p5.js review](https://codepen.io/novonagu/pen/PxaKNG?editors=0010)
  * `codepen` lesson: [14.2: Keyboard and Mouse Events](https://codepen.io/novonagu/pen/qYBWyg?editors=1010)
- * `codepen` lesson: [14.3: random()](https://codepen.io/novonagu/pen/KRKKVo?editors=1010). You will submit a screenshot for `participation`.
+ * `codepen` lesson: [14.3: random()](https://codepen.io/novonagu/pen/KRKKVo?editors=1010). You will submit a `link to your pen` for participation.
 
 ### At Home
  * `complete` [Homework Four](assignments/hw4.html). It is due `Friday November 30th` @ 11:59pm.
- * `begin` [Project Four](assignments/p4.html). It is due `December 10th` @ 11:59pm.
+ * `begin` [Project Four](assignments/p4.html).
