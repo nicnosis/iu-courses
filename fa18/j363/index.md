@@ -261,11 +261,20 @@ This week, you will finish up Project Three while familiarizing yourself with Co
 
 ## week 14
 ### In Class
+#### Monday
+
  * `complete` the [Online Course Questionnaire](https://coursequestionnaire.iu.edu/) for this course.
  * `codepen` lesson: [14.1: p5.js review](https://codepen.io/novonagu/pen/PxaKNG?editors=0010)
  * `codepen` lesson: [14.2: Keyboard and Mouse Events](https://codepen.io/novonagu/pen/qYBWyg?editors=1010)
  * `codepen` lesson: [14.3: random()](https://codepen.io/novonagu/pen/KRKKVo?editors=1010). You will submit a `link to your pen` for participation.
 
+#### Wednesday
+ * `codepen` lesson: [14.2: Keyboard and Mouse Events](https://codepen.io/novonagu/pen/qYBWyg?editors=1010)
+ * `codepen` lesson: [14.4: constrain()](https://codepen.io/novonagu/pen/wJPzmO?editors=0010)
+ * `codepen` lesson: [14.5: map()](https://codepen.io/novonagu/pen/QpOqXg?editors=0010)
+
 ### At Home
  * `complete` [Homework Four](assignments/hw4.html). It is due `Friday November 30th` @ 11:59pm.
- * `begin` [Project Four](assignments/p4.html).
+ * `begin` [Project Four](assignments/p4.html). It is due `Tuesday December 11th` @ 11:59pm.
+   * On `Monday Dec 3rd` you will submit your Project Four progress __at the beginning of class__. If you have no progress to submit, you will not receive participation credit.
+   * __Because this is the final project, I CANNOT ACCEPT LATE WORK__.
