@@ -239,7 +239,7 @@ I have also posted the slides from last week:
 ## week 13
 This week, you will finish up Project Three while familiarizing yourself with Codepen and JavaScript.
 
-### In Class
+### In Classin
 #### Monday
  * `create` an account on [Codepen.io](https://codepen.io/). I recommend making a `j363` collection for this class.
  * `codepen` lesson: [13.1: Intro to Codepen](https://codepen.io/novonagu/pen/Brvogm)
@@ -278,3 +278,7 @@ This week, you will finish up Project Three while familiarizing yourself with Co
  * `begin` [Project Four](assignments/p4.html). It is due `Tuesday December 11th` @ 11:59pm.
    * On `Monday Dec 3rd` you will submit your Project Four progress __at the beginning of class__. If you have no progress to submit, you will not receive participation credit.
    * __Because this is the final project, I CANNOT ACCEPT LATE WORK__.
+
+## week 15
+ * `finish` [Project Four](assignments/p4.html). It is due `Tuesday December 11th` @ 11:59pm. Remember that because this is the final project, __I CANNOT ACCEPT LATE WORK__.
+ * If you have not done so already, `complete` the [Online Course Questionnaire](https://coursequestionnaire.iu.edu/) for this course.

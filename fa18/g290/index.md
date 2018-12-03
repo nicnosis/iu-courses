@@ -171,4 +171,6 @@ Continue working on [Project Three](assignments/p3.html). It is due **Wednesday 
 
 ### At Home
  * `begin` [Homework Four](assignments/hw-style-guide.html). It is due **Friday December 7th @ 11:59pm**
- * `begin` [Project Four](assignments/p4.html).
+ * `begin` [Project Four](assignments/p4.html). It is due **Tuesday December 11th @ 11:59pm**
+   * On **Monday Dec 3rd** you will submit your Project Four progress __at the beginning of class__. If you have no progress to submit, you will not receive participation credit.
+   * __Because this is the final project, I CANNOT ACCEPT LATE WORK__.

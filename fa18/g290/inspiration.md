@@ -38,7 +38,7 @@ This collection of tools, links, and resources is meant to supplement your creat
 
 For gradients:
 1.  [My Color Space](https://mycolor.space/)
-2.  [UI Gradients](https://uigradients.com/)i
+2.  [UI Gradients](https://uigradients.com/)
 
 ### Icons
 Pay close attention to licensing when using these. Always cite your source and only use these in a project with express consent from the instructor.
