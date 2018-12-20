@@ -174,3 +174,10 @@ Continue working on [Project Three](assignments/p3.html). It is due **Wednesday 
  * `begin` [Project Four](assignments/p4.html). It is due **Tuesday December 11th @ 11:59pm**
    * On **Monday Dec 3rd** you will submit your Project Four progress __at the beginning of class__. If you have no progress to submit, you will not receive participation credit.
    * __Because this is the final project, I CANNOT ACCEPT LATE WORK__.
+
+
+## week 15
+ * `finish` [Homework Four](assignments/hw-style-guide.html). It is due **Friday December 7th @ 11:59pm**
+ * `finish` [Project Four](assignments/p4.html). It is due __Tuesday December 11th @ 11:59pm.__ Remember that because this is the final project, __I CANNOT ACCEPT LATE WORK__.
+ * If you have not done so already, `complete` the [Online Course Questionnaire](https://coursequestionnaire.iu.edu/) for this course.
+
