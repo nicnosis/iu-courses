@@ -4,7 +4,7 @@ title: G290 - Game Experience Design
 footer: ''
 highlight: home
 
-term: 'fa18'
+term: 'sp19'
 course: 'g290'
 ---
 ## week 1

@@ -3,7 +3,7 @@ layout: default
 title: G290 - Inspiration
 footer: ''
 highlight: 'inspiration'
-term: 'fa18'
+term: 'sp19'
 course: 'g290'
 ---
 

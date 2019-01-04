@@ -3,7 +3,7 @@ layout: home
 title: J363 - Web Design
 footer: ' '
 highlight: home
-term: 'fa18'
+term: 'sp19'
 course: 'j363'
 ---
 ## week 1

@@ -4,7 +4,7 @@ title: J363 - Homework One
 footer: ''
 highlight: 'assignments'
 published: true
-term: 'fa18'
+term: 'sp19'
 course: 'j363'
 ---
 # Homework One - <small>Basic HTML Tags</small>

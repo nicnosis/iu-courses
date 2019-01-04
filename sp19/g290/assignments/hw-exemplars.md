@@ -3,7 +3,7 @@ layout: default
 title: G290 - Homework Two
 footer: ''
 highlight: 'assignments'
-term: 'fa18'
+term: 'sp19'
 course: 'g290'
 ---
 # Homework Two

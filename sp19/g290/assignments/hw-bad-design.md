@@ -3,7 +3,7 @@ layout: default
 title: G290 - Homework One
 footer: ''
 highlight: 'assignments'
-term: 'fa18'
+term: 'sp19'
 course: 'g290'
 ---
 # Homework One - <small>Bad Design</small>

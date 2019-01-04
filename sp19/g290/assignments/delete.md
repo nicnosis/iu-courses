@@ -3,7 +3,7 @@ layout: default
 title: G290 - Project Two
 footer: ''
 highlight: 'assignments'
-term: 'fa18'
+term: 'sp19'
 course: 'g290'
 ---
 # Project Two - <small>Sketching and Lofi Prototypes</small> `15 pts.`

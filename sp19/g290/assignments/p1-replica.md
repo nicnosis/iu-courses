@@ -3,7 +3,7 @@ layout: default
 title: G290 - Project One
 footer: ''
 highlight: 'assignments'
-term: 'fa18'
+term: 'sp19'
 course: 'g290'
 ---
 # Project One - <small>Classic Game Replica</small> `15 pts.`
