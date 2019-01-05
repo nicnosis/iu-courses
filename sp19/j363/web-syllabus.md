@@ -1,11 +1,14 @@
-# J363 WEB & MOBILE DESIGN FALL 2018
+# J363 WEB & MOBILE DESIGN SPRING 2019
 
 **LOCATION**--- Franklin Hall 003  
 **SECTIONS**  
-31907 --- Meets MW 8:30A -- 10:30A  
-31908 --- Meets MW 10:45A -- 12:45P  
+13526 --- Meets MW 8:30A -- 10:30A  
+13366 --- Meets MW 10:45A -- 12:45P  
+
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
-**OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:00A -- 11:00A
+**OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:30A -- 11:30A
+
+**ASSISTANT** --- Briana Huskin --- bhuskin@iu.edu
 
 ## Description
 Web design has a profound impact on our everyday experiences of work, recreation, and communication. You will develop practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, you will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
@@ -75,16 +78,19 @@ A quiz consists of either (a) an unannounced quiz or (b) an in-class lab activit
 
 Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. They are to be finished during class and are generally graded on completion.
 
+Students who come late or leave early are subject to losing participation points for that day.
+
 ### Professionalism (5 pts.)
 Students are expected to behave like adults. Unprofessional behavior will be met with a grade deduction in this category.
 
 Unprofessional behavior includes (but is not limited to):
 
- * Repeated tardiness
+ * Arriving to class late
+ * Leaving class early
  * Failure to observe course policies
  * Disrespect towards classmates or instructor
  * Lack of consideration for classmates or instructor
- * Any behavior that distracts classmates or instructor
+ * Behavior that distracts classmates or instructor
  * Failure to practice academic integrity
  * Excessive use of cell phone during class
 
@@ -157,11 +163,25 @@ While web development can be done from any operating system, the instructor teac
 It is also useful to have access to a large display, or dual display configuration. If you are bringing your own laptop to class, it is recommended to bring a mouse.
 
 ## Policies
-
 ### Attendance
 Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
 Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
+
+### Deadlines
+Deadlines are strict and non-negotiable. Late assignments will be accepted for the first three calendar days after a deadline. I will remove 15% for each day past the deadline _(Example--- If you got 85 on an assignment but submitted it two days late, you're getting a 55)_.
+
+Assignments may not be submitted after three calendar days have elapsed (Example--- Deadline is September 8th, you cannot submit after September 11th)
+
+The only __exception to this rule__ is the final project, which cannot be submitted late.
+
+### Absences
+Whether or not an absence is excused is __entirely at the discretion of the instructor__.
+
+If you miss a quiz or participation exercise and have an __excused absence__, you have __one week__ to make up that assignment at office hours. If you cannot attend scheduled office hours, it is your responsibility to reach out and schedule another meeting time.
+
+
+If you know you are going to be absent or late on a certain day, please tell me ahead of time.
 
 ### Lost Data
 You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
@@ -174,10 +194,10 @@ If you e-mail me, make sure you tell me:
  * Who you are
  * What class you're in
 
-If you want me to help with code, make sure you send:
-
- * A screenshot if applicable _(e.g., something is displaying incorrectly)_
- * Your code. To share your code--- compress your project folder, put it on Box, and share a downloadable link.
+#### Getting help with code
+ * Use Canvas to send a message to both me AND the teaching assistant. You can use (Send to > Instructor) for this purpose.
+ * Include a screenshot if applicable _(e.g., something is displaying incorrectly)_
+ * Include your code. To share your code--- compress your project folder, put it on Box, and share a downloadable link.
 
 __It can be difficult to diagnose coding problems via e-mail.__ I'll do my best, but you should consider talking with me after class, or coming to office hours if you're struggling with an assignment.
 
@@ -187,16 +207,6 @@ Students should know that an e-mail response may take __up to 72 hours__ dependi
 
 ### Food and Drink in Class
 Sorry, they are not permitted.
-
-### Deadlines
-Deadlines are strict and non-negotiable. Late assignments will be accepted for the first three calendar days after a deadline. I will remove 15% for each day past the deadline _(Example--- If you got 85 on an assignment but submitted it two days late, you're getting a 55)_.
-
-Assignments may not be submitted after three calendar days have elapsed (Example--- Deadline is September 8th, you cannot submit after September 11th)
-
-The only __exception to this rule__ is the final project, which cannot be submitted late.
-
-### Making up work
-If you have an __excused absence__ for a quiz or participation exercise, you have __one week__ to make up that assignment at office hours. If you cannot attend scheduled office hours, it is your responsibility to reach out and schedule another meeting time.
 
 ### Students with Disabilities
 If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.
@@ -264,7 +274,7 @@ The instructor reserves the right to adjust your final grade based on effort, pa
 ### Important Dates
 Check the IU [Academic Calendar](https://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml) for important dates. I have listed some of them here:
 
-#### Fall 2018
+#### Spring 2019
 |              |                 |
 |:-------------|:----------------|
 | Begins       | Mon, Aug 20     |
