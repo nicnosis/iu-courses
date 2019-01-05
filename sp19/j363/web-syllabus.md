@@ -76,7 +76,9 @@ You will be given assignments to complete on [Codecademy](https://www.codecademy
 ### Quizzes and Participation (20 pts.)
 A quiz consists of either (a) an unannounced quiz or (b) an in-class lab activity. Quizzes are designed to ensure that students are completing their readings, Codecademy work, and following along with in-class coding activities.
 
-Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. They are to be finished during class and are generally graded on completion.
+Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. 
+
+Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. They are to be finished during class and are generally graded on completion.
 
 Students who come late or leave early are subject to losing participation points for that day.
 
@@ -93,6 +95,8 @@ Unprofessional behavior includes (but is not limited to):
  * Behavior that distracts classmates or instructor
  * Failure to practice academic integrity
  * Excessive use of cell phone during class
+
+<div style="page-break-after: always;"></div>
 
 ### Final
 There is no final exam for this class.
@@ -111,6 +115,8 @@ There are a total of **100** points in this class. The grade is divided as follo
 | Quizzes/Participation      |      20 |
 | Professionalism            |       5 |
 | **Total**                  | **100** |
+
+<div style="page-break-after: always;"></div>
 
 ### Course Grade
 Your grade will be assigned as follows:
@@ -157,10 +163,14 @@ We will use:
  1. A text editor--- [Atom](https://atom.io/) is recommended.
  2. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
 
+
+
 ### Hardware
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
 
 It is also useful to have access to a large display, or dual display configuration. If you are bringing your own laptop to class, it is recommended to bring a mouse.
+
+<div style="page-break-after: always;"></div>
 
 ## Policies
 ### Attendance
@@ -248,39 +258,28 @@ This course is rich in content and skill levels vary widely among students. The 
 ### Final Grade
 The instructor reserves the right to adjust your final grade based on effort, participation, or conduct. This is uncommon.
 
+<div style="page-break-after: always;"></div>
+
 ## Tentative Schedule
 
-|         |                        |                                   |
-|:--------|:-----------------------|:----------------------------------|
-| week 1  | Mon 8/22, Wed 8/22     | Intro to HTML, tags               |
-| week 2  | Mon 8/27, Wed 8/29     | HTML Structure, Intro to Atom     |
-| week 3  | Mon 9/3                | __Labor Day. No Class__           |
-| week 3  | Wed 9/5                | Divs, spans, and containers       |
-| week 4  | Mon 9/10, Wed 9/12     | Text, images, links               |
-| week 5  | Mon 9/17, Wed 9/19     | Introducing CSS                   |
-| week 6  | Mon 9/24, Wed 9/26     | Selectors, class and id           |
-| week 7  | Mon 10/1, Wed 10/3     | Text styling                      |
-| week 8  | Mon 10/8, Wed 10/10    | Layouts with styling              |
-| week 9  | Mon 10/15, Wed 10/17   | Intro to Bootstrap                |
-| week 10 | Mon 10/22, Wed 10/24   | Bootstrap grid system             |
-| week 11 | Mon 10/29, Wed 10/31   | Responsive design                 |
-| week 12 | Mon 11/5, Wed 11/7     | JavaScript statements, data types |
-| week 13 | Mon 11/12, Wed 11/14   | JavaScript variables and arrays   |
-|         | Sun 11/18 to Sun 11/25 | THANKSGIVING BREAK                |
-| week 14 | Mon 11/26, Wed 11/28   | JavaScript logic flow             |
-| week 15 | Mon 12/3, Wed 12/5     | Introducing p5.js                 |
-| week 16 | Mon 12/10 to Fri 12/14 | __FINALS__                        |
-
-### Important Dates
-Check the IU [Academic Calendar](https://registrar.indiana.edu/official-calendar/official-calendar-fall.shtml) for important dates. I have listed some of them here:
-
-#### Spring 2019
-|              |                 |
-|:-------------|:----------------|
-| Begins       | Mon, Aug 20     |
-| Labor Day    | Mon, Sept 3     |
-| Fall Break   | Oct 5 - Oct 7   |
-| Auto W       | Sun, Oct 21     |
-| Thanksgiving | Nov 18 - Nov 25 |
-| Final Exams  | Dec 10 - Dec 14 |
-| Ends         | Fri, Dec 14     |
+|         |                      |                                   |
+|:--------|:---------------------|:----------------------------------|
+| week 1  | Mon 1/7, Wed 1/9     | Intro to HTML, tags               |
+| week 2  | Mon 1/14, Wed 1/16   | HTML Structure, Intro to Atom     |
+| week 3  | Mon 1/21             | __MLK Jr. Day. No Class__         |
+| week 3  | Wed 1/23             | Divs, spans, and containers       |
+| week 4  | Mon 1/28, Wed 1/30   | Text, images, links               |
+| week 5  | Mon 2/4, Wed 2/6     | Introducing CSS                   |
+| week 6  | Mon 2/11, Wed 2/13   | Selectors, class and id           |
+| week 7  | Mon 2/18, Wed 2/20   | Text styling                      |
+| week 8  | Mon 2/25, Wed 2/27   | Layouts with styling              |
+| week 9  | Mon 3/4, Wed 3/6     | Intro to Bootstrap                |
+|         | Sun 3/10 -- Sun 3/17 | __SPRING BREAK__                  |
+| week 10 | Mon 3/18, Wed 3/20   | Bootstrap grid system             |
+| week 11 | Mon 3/25, Wed 3/27   | Responsive design                 |
+| week 12 | Mon 4/1, Wed 4/3     | JavaScript statements, data types |
+| week 13 | Mon 4/8, Wed 4/10    | JavaScript variables and arrays   |
+|         | Sun 4/14             | __AUTO W__                        |
+| week 14 | Mon 4/15, Wed 4/17   | JavaScript logic flow             |
+| week 15 | Mon 4/22, Wed 4/24   | Introducing p5.js                 |
+| week 16 | Mon 4/29 -- Fri 5/3  | __FINALS__                        |
