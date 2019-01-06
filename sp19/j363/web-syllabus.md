@@ -265,7 +265,7 @@ The instructor reserves the right to adjust your final grade based on effort, pa
 |         |                      |                                   |
 |:--------|:---------------------|:----------------------------------|
 | week 1  | Mon 1/7, Wed 1/9     | Intro to HTML, tags               |
-| week 2  | Mon 1/14, Wed 1/16   | HTML Structure, Intro to Atom     |
+| week 2  | Mon 1/14, Wed 1/16   | HTML structure, common elements   |
 | week 3  | Mon 1/21             | __MLK Jr. Day. No Class__         |
 | week 3  | Wed 1/23             | Divs, spans, and containers       |
 | week 4  | Mon 1/28, Wed 1/30   | Text, images, links               |

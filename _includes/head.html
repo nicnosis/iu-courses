@@ -23,8 +23,12 @@
 <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Oswald:300,400" rel="stylesheet">
 
-
+{% if page.course == 'g290' %}
+<link href="{{site.baseurl}}/styles-g290.css" rel="stylesheet">
+{% else %}
 <link href="{{site.baseurl}}/styles.css" rel="stylesheet">
+{% endif %}
+
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap-flex.min.css" rel="stylesheet">
 <link href="{{site.baseurl}}/node_modules/font-awesome/css/font-awesome.css" rel="stylesheet">
 <link href="{{site.baseurl}}/node_modules/bootstrap-social/bootstrap-social.css" rel="stylesheet">

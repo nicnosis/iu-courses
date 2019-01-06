@@ -1,17 +1,3 @@
-/* COLORS AND FONTS */
-
-//$primaryColor: #FF5370;
-//$boldColor: #AB495A;
-$primaryColor: #b8497d; // vin rouge
-$boldColor: #a02b4d;
-$gray: rgba(0, 0, 0, 0.15);
-//$headerFont: 'Lato', sans-serif;
-$secondaryFont: 'Oswald', sans-serif;
-$primaryFont: 'Open Sans', sans-serif;
-$codeFont: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-/* END COLORS AND FONTS */
-
-
 /* GENERAL STYLES */
 body {
     padding-top: 50px;
@@ -29,7 +15,7 @@ code.highlighter-rouge {
     color: $primaryColor;
     background-color: #e8e8ed;
 }
-pre.highlight  {
+pre.highlight {
     background-color: #efefef;
     padding-left: 0.5em;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
