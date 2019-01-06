@@ -1,14 +1,10 @@
-{% if page.course == 'j363' %}
-<img src="{{site.baseurl}}/img/{{page.course}}-header.png" alt="" class="course-header img-responsive">
-
-<div id="hero-wrapper">
-    <canvas id="granim"></canvas>
-    <h1>Web Design</h1>
+<div class="container-fluid m-0 p-0">
+    <div id="hero-wrapper">
+        <canvas id="granim"></canvas>
+        {% if page.course == 'j363' %}
+        <h1>Web Design</h1>
+        {% elsif page.course == 'g290' %}
+        <h1>Game Experience Design</h1>
+        {% endif %}
+    </div>
 </div>
-
-
-
-
-{% elsif page.course == 'g290' %}
-<h1 id="hero-text">Game Experience Design</h1>
-{% endif %}

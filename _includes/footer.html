@@ -22,7 +22,6 @@
 
 {% if page.footer == 'no_script' %}
 {% else %}
-
 <script>var granimInstance = new Granim({
     element: '#granim',
     direction: 'left-right',
@@ -37,22 +36,6 @@
         }
     }
 });</script>
-
-<!-- velocity effects -->
-<script>
-/*
-const options = {stagger: 50, duration: 200};
-$(function() {
-    $("h1, ul#weeks-nav li").velocity("transition.slideLeftIn", options);
-    var $sel = "#weeks-content ul, " +
-        "#weeks-content h2, " +
-        "#weeks-content h4, " +
-        "#weeks-content h5, " +
-        "#weeks-content p";
-    $($sel).velocity("transition.slideLeftIn", options);
-});
-*/
-</script>
 {% endif %}
 
 <!-- highlight active tab -->
