@@ -44,10 +44,38 @@ h1, h2, h3, h4, h5, h6 {
 /* END CODE STYLES */
 
 /* HERO STYLES */
-.course-header {
-  width: 100%;
-  height: auto;
+//.course-header {
+//  width: 100%;
+//  height: auto;
+//}
+#hero-wrapper {
+  position: relative;
+  height: 500px;
+  canvas{
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+  }
+
+  h1 {
+    cursor: default;
+    display: block;
+    font-size: 4rem;
+    left: 50%;
+    line-height: 1;
+    margin: 0;
+    position: absolute;
+    text-shadow: 2px 2px rgba(0,0,0,.045);
+    top: 50%;
+    transform: translate(-50%, -50%);
+    user-select: none;
+  }
 }
+
 /* END HERO STYLES */
 
 /* MAIN CONTENT */
