@@ -11,16 +11,12 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### In Class
 #### Monday
- * `take` [this pre-test](https://goo.gl/forms/ABunTarolAlUHWPn1)
- * `download` [1.1-inspect.zip](mats/1-inspect.zip) for today's activity
-
-#### Wednesday
- * `download` [1.2-elements.zip](mats/1.2-elements.zip)
- * When you are finished, `submit` your compressed folder on Canvas for `participation` points.
+ * `take` [this pre-test](https://goo.gl/forms/Q6egP90FeY4Bm80X2)
+ * `download` [1.1-inspect.zip](mats/1.1-inspect.zip) for today's activity
 
 ### At Home
  * `read` the [syllabus](j363-syllabus.pdf)
  * `register` for [Codecademy](https://www.codecademy.com/)
  * `get` a way to backup files - Box Sync or Google Drive are good options
- * `review` class notes: [Intro to HTML](slides/180820-intro-to-html.pdf)
- * `begin` [Homework One](assignments/hw1.html). It is due `Monday  at 11:59pm`
+ <!--* `review` class notes: [Intro to HTML](slides/180820-intro-to-html.pdf)-->
+ * `begin` [Homework One](assignments/hw1.html). It is due `Monday Jan 14th at 11:59pm`
