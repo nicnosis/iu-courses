@@ -22,7 +22,10 @@
         </div>
     </div>
 </div>
+
 {% include footer.html %}
+
+<!--DO LINKS-->
 <script>
     const $h2 = $('h2');
     for (var i = 0; i < $h2.length; i++) {
@@ -32,5 +35,43 @@
         $('ul#weeks-nav').append(li);
     }
 </script>
+
+
+<!--GRANIM STUFF-->
+<!--load different colors based on course-->
+{% if page.course == 'g290' %}
+<script>
+    let gradients = [
+        ['#ff9966', '#ff5e62'],
+        ['#ff385c', '#ffb35b']
+    ];
+</script>
+{% else %}
+<script>
+    let gradients = [
+        ['#00F260', '#0575E6'],
+        ['#1d9fe6', '#caf24a']
+    ];
+</script>
+{% endif %}
+
+<script>
+var granimInstance = new Granim({
+    element: '#granim',
+    direction: 'left-right',
+    isPausedWhenNotInView: true,
+    states : {
+        "default-state": {
+
+        gradients: gradients
+
+        }
+    }
+});
+</script>
+
+
+
+
 </body>
 </html>

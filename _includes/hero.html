@@ -1,10 +1,10 @@
 <div class="container-fluid m-0 p-0">
     <div id="hero-wrapper">
         <canvas id="granim"></canvas>
-        {% if page.course == 'j363' %}
-        <h1>Web Design</h1>
-        {% elsif page.course == 'g290' %}
-        <h1>Game Experience Design</h1>
+
+        {% if page.term != nil and page.title != 'courses' %}
+        <h1>{{page.title}}</h1>
         {% endif %}
+
     </div>
 </div>

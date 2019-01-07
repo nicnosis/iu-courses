@@ -1,8 +1,23 @@
 /* COLORS AND FONTS */
-$primaryColor: #b8497d; // vin rouge
-$boldColor: #a02b4d;
-$gray: rgba(0, 0, 0, 0.15);
+// shamrock green light to dark
+//#5BE6B0
+//#42D499
+//#0CB76E
+$primaryColor: #0CB76E;
+$boldColor: #0aa361;
+
+.container a {
+    color: #30a7ce;
+}
+code.highlighter-rouge {
+    color: $primaryColor;
+    background-color: #e8e8ed;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
+}
+
 $secondaryFont: 'Oswald', sans-serif;
+
+$gray: rgba(0, 0, 0, 0.15);
 $primaryFont: 'Open Sans', sans-serif;
 $codeFont: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 /* END COLORS AND FONTS */

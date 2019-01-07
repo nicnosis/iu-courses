@@ -12,8 +12,8 @@ em {
 
 /* CODE STYLES */
 code.highlighter-rouge {
-    color: $primaryColor;
-    background-color: #e8e8ed;
+    //color: $primaryColor;
+    //background-color: #e8e8ed;
 }
 pre.highlight {
     background-color: #efefef;
@@ -28,41 +28,6 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 /* END CODE STYLES */
-
-/* HERO STYLES */
-#hero-wrapper {
-    position: relative;
-    height: 65vh;
-    canvas {
-        bottom: 0;
-        height: 100%;
-        left: 0;
-        position: absolute;
-        right: 0;
-        top: 0;
-        width: 100%;
-    }
-    h1 {
-        color: white;
-        font-family: 'Righteous', cursive;
-        font-size: 6rem;
-        text-shadow: 3px 5px 15px rgba(0, 0, 0, 0.5);
-        text-align: center;
-        line-height: 1;
-
-        cursor: default;
-        user-select: none;
-
-        width: 100%;
-        display: block;
-        position: absolute;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, -50%);
-        margin: 0;
-    }
-}
-/* END HERO STYLES */
 
 /* MAIN CONTENT */
 .container {

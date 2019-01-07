@@ -1,6 +1,6 @@
 ---
 layout: home
-title: G290 - Game Experience Design
+title: 'Game Experience Design'
 footer: ''
 highlight: home
 

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: J363 - Web Design
+title: 'Web Design'
 footer: ' '
 highlight: home
 term: 'sp19'
