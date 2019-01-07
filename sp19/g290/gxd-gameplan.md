@@ -1,6 +1,6 @@
 ---
 layout: home
-title: G290 - Game Experience Design
+title: 'Game Experience Design'
 footer: ''
 highlight: home
 
@@ -8,7 +8,7 @@ term: 'sp19'
 course: 'g290'
 ---
 ## week 1
-This week you will familiarize yourself with course materials and get a basic understanding of HTML.
+This week you will familiarize yourself with course materials and get a basic understanding of game UI/UX.
 
 ### In Class
 #### Monday
@@ -16,117 +16,60 @@ This week you will familiarize yourself with course materials and get a basic un
  * `fill out` this survey: [2 optimal experience](https://docs.google.com/forms/d/e/1FAIpQLSdK0JizQCS6iScccKiGkO8R0IHMBKbkZ10uDAuEV8P-rzuTEg/viewform?usp=sf_link)
 
 #### Wednesday
- * `inspiration`: [EnvyLabs](https://envylabs.com/)
- * `fill out` this survey: [3 defining usability](https://goo.gl/forms/gS4FRH3T77vLMxUR2)
+ <!--* `inspiration`: [EnvyLabs](https://envylabs.com/)-->
+ <!--* `fill out` this survey: [3 defining usability](https://goo.gl/forms/gS4FRH3T77vLMxUR2)-->
+ * Go to [this Google Sheet](https://docs.google.com/spreadsheets/d/1q7nTbS9Z-uOiYr-DNVcDXq1zHjX5MXjjmxO6hP5OQrA/edit?usp=sharing)
+ * `submit` Illustrator practice file to Canvas when finished
 
 ### At Home
  * `read` the [syllabus](g290-syllabus.pdf)
-
-#### Homework One
- * You will begin Homework One. You need to find a `game, app, or website` with poor user experience and be ready to discuss it on `Wednesday, Jan 17th`. The point is to find something with horrific UX so that we can confer as a class on a better solution.
- * If you're not sure where to start, some recommendations are:
-   * Game— _A Boy and His Blob(1989)_
-   * Game— _Donkey Kong 64_
-   * Game— _Superman 64_
-   * Website— [BoardGameGeek.com](https://boardgamegeek.com/)
-
+ * `begin` [Homework One](assignments/hw-bad-design.html)
 
 ## week 2
 ### In Class
- * `inspiration`: [kbsagency](https://kbsagency.ca/)
- * `fill out` this survey: [4 most interesting](https://goo.gl/forms/QIh3J03JiwpLcgQx1)
+ * `watch` [WARFRAME - New console UI update](https://www.youtube.com/watch?v=CJlHD2pFzEA)
+
+#### Monday
+ * `download` [1-ai-interface.zip](mats/1-ai-interface.zip)
+ * `download` [2-ai-layers.zip](mats/2-ai-layers.zip)
+ * `submit` a PNG export of your work (any) to Canvas before class ends.
+
+#### Wednesday
+ * `sign up` for [InVision](http://www.invisionapp.com/education-signup). Use the code `56-73-13-19`
+ * `download` the [lab files](mats/invision-lab.zip) for today
+ * `submit` a link to your finished prototype on Canvas
 
 ### At Home
- * `complete` [Homework One](assignments/hw-bad-design.html). It is due Jan 22nd.
+ * `finish` [Homework One](assignments/hw-bad-design.html). It is due `Wednesday Aug 29th @ 11:59pm`
 
 ## week 3
 ### In Class
-#### Monday
- * `sign up` for [InVsion](https://invisionapp.com/)
- * `complete` [Lab 1](https://iu.instructure.com/courses/1691052/assignments/8016150) and submit your shareable link to Canvas
+ * `download` [3-ai-shapes.zip](mats/3-ai-shapes.zip)
 
-#### Wednesday
- * `download` [ai-layers.zip](mats/ai-layers.zip)
- * `download` [ai-transform.zip](mats/ai-transform.zip)
- * `submit` an exported screenshot _(.png)_ from the `4_repeatTransformation.ai` file to Canvas for [participation](https://iu.instructure.com/courses/1691052/assignments/8023266).
 
 ### At Home
-#### Tutorials
- * `watch` InVision Tutorial: [Prototype Basics](https://projects.invisionapp.com/d/main#/learn/project-basics)
- * `watch` InVision Tutorial: [Interactive Prototypes](https://projects.invisionapp.com/d/main#/learn/interactive-prototypes)
- * `watch` InVision Tutorial: [Design Feedback & Collaboration](https://projects.invisionapp.com/d/main#/learn/design-feedback)
- * `watch` InVision Tutorial: [Using Overlay Screens](https://projects.invisionapp.com/d/main#/learn/overlays)
- * `watch` Illustrator CC Tutorial: [10 Things Beginners Want To Know How To Do](https://youtu.be/Tw2qUdfvbEQ)
+ * `begin` [Project One](assignments/p1-replica.html). It is due `Monday Sept 17th @ 11:59pm`
+ * For Monday, come to class with:
+   * Your game choice
+   * Three screenshots
+   * Be ready to submit them at the start of class Monday.
 
-#### Project One
- * `begin` [Project One](assignments/p-interfaces.html). It is due `Feb 7th`.
- * You are expected to bring hand-drawn sketches for `at least three screens` to class on Monday so we can discuss them.
-
-## week 4
-### In Class
- * `download` [ai-shapes.zip](mats/ai-shapes.zip)
+## whttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/g290-syllabus.pdfs
+ * `submit` your screenshots for Project One on Canvas.
+ * `download` [4-ai-grids.zip](mats/4-ai-grids.zip)
+ * `download` [this image](mats/img/bravely.jpg) from __Bravely Second__
 
 ### At Home
- * `continue` working on [Project One](assignments/p-interfaces.html). It is due `Feb 7th`.
- * On Monday, you're expected to have at least one screen in InVision.
+ * `continue` [Project One](assignments/p1-replica.html). It is due <s>Monday</s> Wednesday Sept 19th @ 11:59pm
+ * For `Wednesday Sept 12`, at the start of class, have your sketches ready in both physical and digital format
+   * No lined paper (graph paper is okay)
+   * No spiral notebook paper
+   * Please write legibly
 
 ## week 5
 ### In Class
- * `download` [ai-color-groups.zip](mats/ai-color-groups.zip)
- * _1_stroke-fill.ai_
-   * Using the eyedropper tool
-   * Making a color group from swatches
- * _2_colorGroups.ai_
-   * Making a color group from swatches
-   * Making a color group from color guide (harmonic rules)
- * _3_loadASE.ai_
-   * Selecting and removing unused colors
-   * Using .ase file format.
-   * Saving swatch as ASE with flyout menu
-   * Loading .ase with Swatch Libraries Menu; storing in swatches
- * _4_participation.ai_
-   * Getting an image from Google Images (or other source)
-   * Generating a color palette from [color.adobe.com](https://color.adobe.com/)
- * `submit` your saved ASE file to Canvas for participation when finished
-
-### At Home
- * `finish` working on [Project One](assignments/p-interfaces.html). It is due Wednesday, `Feb 7th`.
- * `submit` your interface examples for [Monday's participation exercise](https://iu.instructure.com/courses/1691052/assignments/8047347). These are due `4pm on Monday Feb 12th`.
-
-## week 6
-### In Class
-#### Monday
- * `download` the [interface examples](mats/interface-examples.zip) for today's discussion.
-
-#### Wednesday
- * `play` the [bezier game](http://bezier.method.ac/)
- * `download` [ai-pen.zip](mats/ai-pen.zip)
-   * When finished, `export` the key you traced from the file `2_penToolPractice.ai`
-   * `upload` it and `submit` to Canvas for today's participation
-
-### At Home
- * `begin` [Homework Two](assignments/hw-pen.html)
-
-## week 7
-### In Class
- * `download` [ai-pen2.zip](mats/ai-pen2.zip)
- * `download` [ai-clip.zip](mats/ai-clip.zip)
-   * Once you finish clipping the paths and creating your card artworks, export them and submit to Canvas for Participation.
-
-### At Home
- * `finish` [Homework Two](assignments/hw-pen.html). It is due `Friday Feb 23rd`. Make sure that you embed your image into the Illustrator file
- * `begin` [Project Two](assignments/p-assets.html). It is due `Friday March 9th`.
-
-## week 8
-### In Class
-#### Monday
- * `download` [proportion.pdf](mats/proportion.pdf)
- * `download` [ai-grids.zip](mats/ai-grids.zip)
-
-#### Wednesday
-##### INSPIRATION
-(1) Look through the list of links that follow that pick TWO examples you want to discuss as a class.
-(2) After choosing your examples, submit them through [this Google form](https://goo.gl/forms/Gx8FSiYfkcaPWmwy2). It will count as your participation.
+(1) Look through the list of links that follow and pick TWO examples you want to discuss as a class.
+(2) After choosing your examples, submit them through [this Google form](https://goo.gl/forms/yl6WQeJwHHtrxoYE2). It will count as your participation.
 
  * [collectui](http://collectui.com/)
  * [uimovement](https://uimovement.com/)
@@ -134,90 +77,105 @@ This week you will familiarize yourself with course materials and get a basic un
  * [muzli](https://medium.muz.li/)
  * [web design inspiration](http://www.webdesign-inspiration.com/)
  * [awwwards](https://www.awwwards.com/)
- * [Pinterest Board 1](https://www.pinterest.com/animator422/video-game-design-inspiration/)
+ * [Pinterest Bhttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/mats/img/bravely.jpgpinterest.com/animator422/video-game-design-inspiration/)
  * [Pinterest Board 2](https://www.pinterest.com/markusmontalvo/gaming-design/)
  * [Pinterest Board 3](https://www.pinterest.com/flowap/ui-design/)
  * [Pinterest Search: ui design](https://www.pinterest.com/search/pins/?q=ui+design)
 
 ### At Home
- * `continue` working on [Project Two](assignments/p-assets.html). It is due `Friday March 9th`.
+`finish` [Project One](assignments/p1-replica.html). It is due `Wednesday Sept 19th @ 11:59pm`
+
+## week 6
+### In Class
+ * `download` [the slides](mats/art-direction-for-aaa-ui.pdf) for Omer Younas' presentation.
+ * `submit` a response for today's participation on Canvas.
+
+### At Home
+ * `begin` [Homework Two](assignments/hw-exemplars.html). It is due `Wednesday Oct 3rd @ 11:59pm`
+
+## week 7
+### In Class
+#### Monday
+ * `download` [5-ai-stroke-fills.zip](mats/5-ai-stroke-fills.zip)
+ * `download` [6-ai-color-groups.zip](mats/6-ai-color-groups.zip)
+ * `download` [7-ai-transform.zip](mats/7-ai-transform.zip)
+
+#### Wednesday
+ * `download` today's [slides on Typography](mats/typography.pdf).
+ * `play` [the kerning game](https://type.method.ac/). Submit a screenshot of your score for `participation`.
+
+### At Home
+ * `complete` [Homework Two](assignments/hw-exemplars.html). It is due `Wednesday Oct 3rd @ 11:59pm`
+ * `begin` [Project Two](assignments/p2-redesign.html). It is due `Monday October 15th @ 11:59pm`. You are expected to have chosen a game by Monday
+
+## week 8
+### In Class
+ * `submit` a response for the [week 8 survey](https://goo.gl/forms/wJ4zFFG0q3Wyc1h22)
+ * `register` for [Figma](https://www.fighttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/mats/art-direction-for-aaa-ui.pdffor today's participation question on Canvas.
+
+### At Home
+ * `continue` [Project Two](assignments/p2-redesign.html). It is due `Monday October 15th @ 11:59pm`.
+ * On `Wednesday` you must have substantial work to present on Project Two. If you do not come prepared, __you will not receive participation points for that day__.
 
 ## week 9
-This week, you will finish working on [Project Two](assignments/p-assets.html). It is due `Friday` (March 9th).
+ * `complete` [Project Two](assignments/p2-redesign.html). It is due `Wednesday October 17th @ 11:59pm`.
+ * `begin` [Homework Three](assignments/hw-tutorialhttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/mats/typography.pdfMonday October 29th @ 11:59pm`.
+
 
 ## week 10
-### "In Class"
-Remember that we're not meeting physically this week as I am attending the [Game Developers Conference](http://www.gdconf.com/).
+### In Class
 
-### Project Three + Homework Three
-You will use class time this week to begin [Project Three](assignments/p-mobile.html).
+You will create an interactive prototype for a hero collection/card collection game.
 
-Project Three includes a milestone that will count as your third homework assignment. The milestone is due __in class Wednesday March 28th__.
+1. Come up with a list of examples _(e.g., Yu-Gi-Oh! Duel Links, Fire Emblem Heroes, Hearthstone)_.
+2. Collect screenshots from the list of examples.
+3. Look at exemplary UIs. I recommend looking at the [UI Field on Behance](https://www.behance.net/search?field=132&content=projects&sort=featured_date&time=week&featured_on_behance=true)
+4. Start a Figma project
+5. Create screens for your game
+6. Pay attention to visual treatment. Try to use a consistent style of colors, fonts, iconography, and maintain the same general look/feel between screens.
+7. Submit progress when finished. __Make sure everybody's name is on it somewhere__.
 
-### Extra Credit: Adobe Creative Jam
-I __strongly recommend__ signing up for this year's Adobe Creative Jam. You'll get free meals, Adobe swag, and a chance to create some amazing portfolio work. The winning team gets a free year of Creative Cloud after graduating.
+Since you may have a lot of repeating components _(e.g., grid of cards)_, you might find these articles useful:
+ * [Components in Figma](https://blog.figma.com/components-in-figma-e7e80fcf6fd2)
+ * [Component Architecture in Figma](https://blog.figma.com/component-architecture-in-figma-f16ae9cc4481)
 
-If you apply and are accepted, I will award extra credit worth __two percent__ of your grade.
-
-<a href="http://bit.ly/iu-tournament-2018" class="btn btn-primary" target="_blank">Sign Up</a>
+### At Home
+ * `complete` [Homework Three](assignments/hw-tutorial.html). It is due `Monday October 29th @ 11:59pm`.
 
 ## week 11
 ### In Class
- * `complete` [this survey](https://goo.gl/forms/p4ygUlua6jNtBTs82). As long as you fill in your name, I will grade it for you on Canvas
- * `visit` [this spreadsheet](https://docs.google.com/spreadsheets/d/18rS2CjD-MkIZoACWWnIWIQsoqVN6Ae9E0C0nls_bswE/edit?usp=sharing) so we can share ideas about Project Three.
+ * `play` [the Bezier Game](https://bezier.method.ac/)
+ * `download` [8-ai-compound.zip](mats/8-ai-compound.zip)
+ * `download` [9-ai-pen.zip](mats/9-ai-pen.zip). Export your key drawing for participation.
+
 
 ### At Home
-Continue working on [Project Three](assignments/p-mobile.html).
-
-Project Three includes a milestone that will count as your third homework assignment. The milestone is due __in class Wednesday March 28th__.
+ * `begin` [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
 
 ## week 12
-### In Class
- * `complete` [this survey](https://goo.gl/forms/odG9Wh47nXD8hb3D2). As long as you fill in your name, I will grade it for you on Canvas
-
-### At Home
- * `continue` working on [Project Three](assignments/p-mobile.html). It is due `Monday April 9th`
+Continue working on [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
 
 ## week 13
-### In Class
-#### Monday
-You will evaluate each other's work on this project. Please click the correct link for your team:
-
- * `Team one` fill out [this survey](https://goo.gl/forms/7cfine1ZCF6uczF53)
- * `Team two` fill out [this survey](https://goo.gl/forms/Zut0qo9fl9l8k7Xd2)
- * `Team three` fill out [this survey](https://goo.gl/forms/6B3JznGwPALJVzL02)
-
-#### Wednesday
- * `download` [the slides](https://drive.google.com/open?id=1zwbnDxVqjVZKYFADzTEY-Jz3YFp4YlER) for today's presentation
- * `participation`: On Canvas, you will share the most useful or interesting part of today's presentation
-
-### At Home
- <!-- * `continue` working on [Project Three](assignments/p-mobile.html). It is due `Monday April 9th` -->
- * `begin` [Homework Four](assignments/hw-proposal.html). It is due `Monday at the start of class`.
+Continue working on [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
 
 ## week 14
 ### In Class
-#### Monday
- * `critiques`: Project Three. [Click here](project3.zip) to download submissions for review.
- *  `discuss`: Project Four proposals
- * `participation`: On Canvas, submit your plans for what you want to accomplish between now and Wednesday.
-
-#### Wednesday
- * `complete` [Online Course Evaluations](https://one.iu.edu/launch-task/iuk/course-evaluations)
- * `complete` Lab Two
-   * `download` [this](assignments/lab2.zip)
-   * `submit` on Canvas when finished
+ * Project Three Critiques
+ * Atomic Design
+   * [Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/)
+   * [Patternlab](https://patternlab.io/)
+ * UI Audit--- Reddit
+   * Submit for participation
 
 ### At Home
- * `work on` [Project Four](assignments/hw-proposal.html). It is due `Friday May 4th at 11:59pm`
+ * `begin` [Homework Four](assignments/hw-style-guide.html). It is due **Friday December 7th @ 11:59pm**
+ * `begin` [Project Four](assignments/p4.html). It is due **Tuesday December 11th @ 11:59pm**
+   * On **Monday Dec 3rd** you will submit your Project Four progress __at the beginning of class__. If you have no progress to submit, you will not receive participation credit.
+   * __Because this is the final project, I CANNOT ACCEPT LATE WORK__.
+
 
 ## week 15
-### In Class
-##### Monday
- * `complete` today's participation exercise on Canvas.
+ * `finish` [Homework Four](assignments/hw-style-guide.html). It is due **Friday December 7th @ 11:59pm**
+ * `finish` [Project Four](assignments/p4.html). It is due __Tuesday December 11th @ 11:59pm.__ Remember that because this is the final project, __I CANNOT ACCEPT LATE WORK__.
+ * If you have not done so already, `complete` the [Online Course Questionnaire](https://coursequestionnaire.iu.edu/) for this course.
 
-##### Wednesday
- * `complete` today's participation exercise on Canvas.
-
-### At Home
- * `work on` [Project Four](assignments/hw-proposal.html). It is due `Friday May 4th at 11:59pm`
