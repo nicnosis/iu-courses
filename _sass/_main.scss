@@ -33,26 +33,44 @@ h1, h2, h3, h4, h5, h6 {
 .container {
     font-family: $primaryFont;
     /* COURSE SELECT */
-    a.btn-huge {
-        color: $primaryColor;
-        border: 1px solid $primaryColor;
-        width: 100%;
-        margin-bottom: 10px;
-
-        transition: background-color 0.2s ease-out,
-        color 0.2s ease-out;
-
-        small {
-            color: #666;
-            transition: background-color 0.2s ease-out,
-            color 0.2s ease-out;
-        }
+    //WEB DESIGN BUTTON
+    a.btn-huge.j363 {
+        color: #0CB76E;
+        border: 1px solid #0CB76E;
     }
-    a.btn-huge:hover, a.btn-huge:active {
-        background-color: $primaryColor;
+    a.btn-huge.j363:hover, a.btn-huge:active {
+        background: #0CB76E linear-gradient(to right top, #0575e6, #00a6fe, #00cad7, #00e58d, #caf24a);
+
         color: white;
         small {
             color: white;
+        }
+    }
+    //GAME EXPERIENCE BUTTON
+    a.btn-huge.g290 {
+        color: #ff5959;
+        border: 1px solid #ff5959;
+
+    }
+    a.btn-huge.g290:hover, a.btn-huge:active {
+        background: #ff5959 linear-gradient(to right top, #ff8f56, #ff5959, #984a59);
+        color: white;
+        small {
+            color: white;
+        }
+    }
+    a.btn-huge {
+
+        width: 100%;
+        margin-bottom: 10px;
+
+        transition: background .3s ease-out,
+        color .3s ease-out;
+
+        small {
+            color: #666;
+            transition: background .3s ease-out,
+            color .3s ease-out;
         }
     }
     a.btn-huge h4 {
