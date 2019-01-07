@@ -1,14 +1,14 @@
 # J363 WEB & MOBILE DESIGN SPRING 2019
+**INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
+**OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:30A -- 11:30A
+
+**TEACHING ASSISTANT** --- Briana Huskin --- bhuskin@iu.edu
+
 
 **LOCATION**--- Franklin Hall 003  
 **SECTIONS**  
 13526 --- Meets MW 8:30A -- 10:30A  
 13366 --- Meets MW 10:45A -- 12:45P  
-
-**INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
-**OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:30A -- 11:30A
-
-**ASSISTANT** --- Briana Huskin --- bhuskin@iu.edu
 
 ## Description
 Web design has a profound impact on our everyday experiences of work, recreation, and communication. You will develop practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, you will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
@@ -80,7 +80,7 @@ Participation is an important element of this class. It is not enough to read ab
 
 Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. They are to be finished during class and are generally graded on completion.
 
-Students who come late or leave early are subject to losing participation points for that day.
+Students __must be physically present__ to claim a participation assignment. Coming to class late, leaving early, or attempting to submit participation while not present are all grounds for losing points.
 
 ### Professionalism (5 pts.)
 Students are expected to behave like adults. Unprofessional behavior will be met with a grade deduction in this category.
@@ -96,10 +96,11 @@ Unprofessional behavior includes (but is not limited to):
  * Failure to practice academic integrity
  * Excessive use of cell phone during class
 
-<div style="page-break-after: always;"></div>
 
 ### Final
 There is no final exam for this class.
+
+<div style="page-break-after: always;"></div>
 
 ## Grading
 ### Points
@@ -273,7 +274,7 @@ The instructor reserves the right to adjust your final grade based on effort, pa
 | week 6  | Mon 2/11, Wed 2/13   | Selectors, class and id           |
 | week 7  | Mon 2/18, Wed 2/20   | Text styling                      |
 | week 8  | Mon 2/25, Wed 2/27   | Layouts with styling              |
-| week 9  | Mon 3/4, Wed 3/6     | Intro to Bootstrap                |
+| week 9  | Mon 3/ 4, Wed 3/6     | Intro to Bootstrap                |
 |         | Sun 3/10 -- Sun 3/17 | __SPRING BREAK__                  |
 | week 10 | Mon 3/18, Wed 3/20   | Bootstrap grid system             |
 | week 11 | Mon 3/25, Wed 3/27   | Responsive design                 |
