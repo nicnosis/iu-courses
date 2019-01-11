@@ -19,7 +19,7 @@ This week you will familiarize yourself with course materials and get a basic un
  * When you are finished, `submit` your compressed folder on Canvas for `participation` points.
 
 #### Advanced Students
-If you have enough familiarity with HTML that [Homework One](assignments/hw1.html) is too easy, you might consider learning to use [Figma](https://www.figma.com/files/recent) doing the assignment with Figma instead.
+If you have enough familiarity with HTML that [Homework One](assignments/hw1.html) is too easy, you might consider learning to use [Figma](https://www.figma.com/files/recent) and doing the assignment with Figma instead.
 
 ### At Home
  * `read` the [syllabus](j363-syllabus.pdf)

@@ -13,9 +13,10 @@ This week you will familiarize yourself with course materials and get a basic un
 ### In Class
 #### Monday
  * `fill out` this survey: [1 pre-test](https://goo.gl/forms/6joNglEke6CAnL5l1)
- * `fill out` this survey: [2 optimal experience](https://docs.google.com/forms/d/e/1FAIpQLSdK0JizQCS6iScccKiGkO8R0IHMBKbkZ10uDAuEV8P-rzuTEg/viewform?usp=sf_link)
 
 #### Wednesday
+ * `fill out` this survey: [2 optimal experience](https://goo.gl/forms/JBSgeqA3R0BruL493)
+ * `open` [this Google sheet](https://docs.google.com/spreadsheets/d/1iOLICDJmY4QLkBxGztUjTyCft7euaqTZwt_gZFrEgqw/edit?usp=sharing)
  * `download` [1-ai-interface.zip](mats/1-ai-interface.zip)
  * `download` [2-ai-layers.zip](mats/2-ai-layers.zip)
 
