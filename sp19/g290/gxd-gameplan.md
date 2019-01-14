@@ -7,15 +7,107 @@ highlight: home
 term: 'sp19'
 course: 'g290'
 ---
+# Unit One--- Graphic Design, Static Prototypes
+# WEEK 1
+### MON 1/7/2019
+ * Course Overview
+ * Intros
+ * Expectations
+ * Syllabus
+
+### WED 1/9/2019
+ * Optimal Experience
+ * Collect exemplars
+
+### WEEK 1 REVIEW
+Illustrator
+ * Understand how to use the workspace switcher (You want Essentials Classic)
+   * As a general rule, work with Illustrator maximized
+   * Press tab to cycle through window arrangements
+ * Navigation/Zoom
+   * Ctrl +/- to zoom in and out
+   * Alt + Mouse wheel also works
+   * Note: Illustrator will zoom into selection by default
+   * Ctrl + 0 to fit artboards to screen
+   * Hold SPACE to get the hand tool
+   * Save and return to views with View > ...
+ * Artboards
+   * Create new artboards
+   * Rearrange artboards
+   * Export artboards (File > Export > Export as …)
+ * Know where to find panels/windows (Window menu)
+
+# WEEK 2
+### MON 1/14/2019
+  - Layers
+    - Create layers
+    - Rename layers
+    - Rearrange layers
+    - Toggle layer visibility
+    - Lock layers
+    - Outline vs. Preview mode (Ctrl +Y)
+  - Shapes
+    - Ellipse, rectangle
+    - P--- Pen tool
+  - Selections
+  - V--- selection tool
+    - double click selection to enter isolation mode
+  - A--- direct selection tool; select handles/anchor points
+  - Shift+click to add to selection
+  - Ctrl+A to select all
+  - Understand how to select through the layer panel
+  - Note: context for selections provided in the options bar
+  - Using the Select dropdown menu (e.g., select > same > ... )
+
+### WED 1/16/2019
+
+# WEEK 3
+### MON 1/21/2019 MLK DAY
+### WED 1/23/2019
+### MON 1/28/2019
+### WED 1/30/2019
+### MON 2/4/2019
+### WED 2/6/2019
+### MON 2/11/2019
+### WED 2/13/2019
+### MON 2/18/2019
+### WED 2/20/2019
+### MON 2/25/2019
+### WED 2/27/2019
+### MON 3/4/2019
+### WED 3/6/2019
+### MON 3/11/2019 spring break
+### WED 3/13/2019 spring break
+### MON 3/18/2019
+### WED 3/20/2019
+### MON 3/25/2019
+### WED	3/27/2019
+### MON 4/1/2019
+### WED 4/3/2019
+### MON 4/8/2019
+### WED 4/10/2019
+### MON 4/15/2019
+### WED 4/17/2019
+### MON 4/22/2019
+### WED 4/24/2019
+### MON 4/29/2019
+### WED 5/1/2019
+
+
+# Unit Two--- Interactive Prototypes
+
+# Unit Three--- Engines
+
+
 ## week 1
 This week you will familiarize yourself with course materials and get a basic understanding of game UI/UX.
 
 ### In Class
-#### Monday
+#### MON day
  * `fill out` this survey: [1 pre-test](https://goo.gl/forms/6joNglEke6CAnL5l1)
  * `fill out` this survey: [2 optimal experience](https://docs.google.com/forms/d/e/1FAIpQLSdK0JizQCS6iScccKiGkO8R0IHMBKbkZ10uDAuEV8P-rzuTEg/viewform?usp=sf_link)
 
-#### Wednesday
+#### ### WED nesday
  <!--* `inspiration`: [EnvyLabs](https://envylabs.com/)-->
  <!--* `fill out` this survey: [3 defining usability](https://goo.gl/forms/gS4FRH3T77vLMxUR2)-->
  * Go to [this Google Sheet](https://docs.google.com/spreadsheets/d/1q7nTbS9Z-uOiYr-DNVcDXq1zHjX5MXjjmxO6hP5OQrA/edit?usp=sharing)
@@ -29,18 +121,18 @@ This week you will familiarize yourself with course materials and get a basic un
 ### In Class
  * `watch` [WARFRAME - New console UI update](https://www.youtube.com/watch?v=CJlHD2pFzEA)
 
-#### Monday
+#### MON day
  * `download` [1-ai-interface.zip](mats/1-ai-interface.zip)
  * `download` [2-ai-layers.zip](mats/2-ai-layers.zip)
  * `submit` a PNG export of your work (any) to Canvas before class ends.
 
-#### Wednesday
+#### ### WED nesday
  * `sign up` for [InVision](http://www.invisionapp.com/education-signup). Use the code `56-73-13-19`
  * `download` the [lab files](mats/invision-lab.zip) for today
  * `submit` a link to your finished prototype on Canvas
 
 ### At Home
- * `finish` [Homework One](assignments/hw-bad-design.html). It is due `Wednesday Aug 29th @ 11:59pm`
+ * `finish` [Homework One](assignments/hw-bad-design.html). It is due `### WED nesday Aug 29th @ 11:59pm`
 
 ## week 3
 ### In Class
@@ -48,11 +140,11 @@ This week you will familiarize yourself with course materials and get a basic un
 
 
 ### At Home
- * `begin` [Project One](assignments/p1-replica.html). It is due `Monday Sept 17th @ 11:59pm`
- * For Monday, come to class with:
+ * `begin` [Project One](assignments/p1-replica.html). It is due `MON day Sept 17th @ 11:59pm`
+ * For MON day, come to class with:
    * Your game choice
    * Three screenshots
-   * Be ready to submit them at the start of class Monday.
+   * Be ready to submit them at the start of class MON day.
 
 ## whttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/g290-syllabus.pdfs
  * `submit` your screenshots for Project One on Canvas.
@@ -60,8 +152,8 @@ This week you will familiarize yourself with course materials and get a basic un
  * `download` [this image](mats/img/bravely.jpg) from __Bravely Second__
 
 ### At Home
- * `continue` [Project One](assignments/p1-replica.html). It is due <s>Monday</s> Wednesday Sept 19th @ 11:59pm
- * For `Wednesday Sept 12`, at the start of class, have your sketches ready in both physical and digital format
+ * `continue` [Project One](assignments/p1-replica.html). It is due <s>MON day</s> ### WED nesday Sept 19th @ 11:59pm
+ * For `### WED nesday Sept 12`, at the start of class, have your sketches ready in both physical and digital format
    * No lined paper (graph paper is okay)
    * No spiral notebook paper
    * Please write legibly
@@ -78,12 +170,12 @@ This week you will familiarize yourself with course materials and get a basic un
  * [web design inspiration](http://www.webdesign-inspiration.com/)
  * [awwwards](https://www.awwwards.com/)
  * [Pinterest Bhttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/mats/img/bravely.jpgpinterest.com/animator422/video-game-design-inspiration/)
- * [Pinterest Board 2](https://www.pinterest.com/markusmontalvo/gaming-design/)
+ * [Pinterest Board 2](https://www.pinterest.com/markusMON talvo/gaming-design/)
  * [Pinterest Board 3](https://www.pinterest.com/flowap/ui-design/)
  * [Pinterest Search: ui design](https://www.pinterest.com/search/pins/?q=ui+design)
 
 ### At Home
-`finish` [Project One](assignments/p1-replica.html). It is due `Wednesday Sept 19th @ 11:59pm`
+`finish` [Project One](assignments/p1-replica.html). It is due `### WED nesday Sept 19th @ 11:59pm`
 
 ## week 6
 ### In Class
@@ -91,22 +183,22 @@ This week you will familiarize yourself with course materials and get a basic un
  * `submit` a response for today's participation on Canvas.
 
 ### At Home
- * `begin` [Homework Two](assignments/hw-exemplars.html). It is due `Wednesday Oct 3rd @ 11:59pm`
+ * `begin` [Homework Two](assignments/hw-exemplars.html). It is due `### WED nesday Oct 3rd @ 11:59pm`
 
 ## week 7
 ### In Class
-#### Monday
+#### MON day
  * `download` [5-ai-stroke-fills.zip](mats/5-ai-stroke-fills.zip)
  * `download` [6-ai-color-groups.zip](mats/6-ai-color-groups.zip)
  * `download` [7-ai-transform.zip](mats/7-ai-transform.zip)
 
-#### Wednesday
+#### ### WED nesday
  * `download` today's [slides on Typography](mats/typography.pdf).
  * `play` [the kerning game](https://type.method.ac/). Submit a screenshot of your score for `participation`.
 
 ### At Home
- * `complete` [Homework Two](assignments/hw-exemplars.html). It is due `Wednesday Oct 3rd @ 11:59pm`
- * `begin` [Project Two](assignments/p2-redesign.html). It is due `Monday October 15th @ 11:59pm`. You are expected to have chosen a game by Monday
+ * `complete` [Homework Two](assignments/hw-exemplars.html). It is due `### WED nesday Oct 3rd @ 11:59pm`
+ * `begin` [Project Two](assignments/p2-redesign.html). It is due `MON day October 15th @ 11:59pm`. You are expected to have chosen a game by MON day
 
 ## week 8
 ### In Class
@@ -114,12 +206,12 @@ This week you will familiarize yourself with course materials and get a basic un
  * `register` for [Figma](https://www.fighttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/mats/art-direction-for-aaa-ui.pdffor today's participation question on Canvas.
 
 ### At Home
- * `continue` [Project Two](assignments/p2-redesign.html). It is due `Monday October 15th @ 11:59pm`.
- * On `Wednesday` you must have substantial work to present on Project Two. If you do not come prepared, __you will not receive participation points for that day__.
+ * `continue` [Project Two](assignments/p2-redesign.html). It is due `MON day October 15th @ 11:59pm`.
+ * On `### WED nesday` you must have substantial work to present on Project Two. If you do not come prepared, __you will not receive participation points for that day__.
 
 ## week 9
- * `complete` [Project Two](assignments/p2-redesign.html). It is due `Wednesday October 17th @ 11:59pm`.
- * `begin` [Homework Three](assignments/hw-tutorialhttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/mats/typography.pdfMonday October 29th @ 11:59pm`.
+ * `complete` [Project Two](assignments/p2-redesign.html). It is due `### WED nesday October 17th @ 11:59pm`.
+ * `begin` [Homework Three](assignments/hw-tutorialhttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/mats/typography.pdfMON day October 29th @ 11:59pm`.
 
 
 ## week 10
@@ -140,7 +232,7 @@ Since you may have a lot of repeating components _(e.g., grid of cards)_, you mi
  * [Component Architecture in Figma](https://blog.figma.com/component-architecture-in-figma-f16ae9cc4481)
 
 ### At Home
- * `complete` [Homework Three](assignments/hw-tutorial.html). It is due `Monday October 29th @ 11:59pm`.
+ * `complete` [Homework Three](assignments/hw-tutorial.html). It is due `MON day October 29th @ 11:59pm`.
 
 ## week 11
 ### In Class
@@ -150,13 +242,13 @@ Since you may have a lot of repeating components _(e.g., grid of cards)_, you mi
 
 
 ### At Home
- * `begin` [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
+ * `begin` [Project Three](assignments/p3.html). It is due **### WED nesday November 14th @ 11:59pm**
 
 ## week 12
-Continue working on [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
+Continue working on [Project Three](assignments/p3.html). It is due **### WED nesday November 14th @ 11:59pm**
 
 ## week 13
-Continue working on [Project Three](assignments/p3.html). It is due **Wednesday November 14th @ 11:59pm**
+Continue working on [Project Three](assignments/p3.html). It is due **### WED nesday November 14th @ 11:59pm**
 
 ## week 14
 ### In Class
@@ -170,7 +262,7 @@ Continue working on [Project Three](assignments/p3.html). It is due **Wednesday 
 ### At Home
  * `begin` [Homework Four](assignments/hw-style-guide.html). It is due **Friday December 7th @ 11:59pm**
  * `begin` [Project Four](assignments/p4.html). It is due **Tuesday December 11th @ 11:59pm**
-   * On **Monday Dec 3rd** you will submit your Project Four progress __at the beginning of class__. If you have no progress to submit, you will not receive participation credit.
+   * On **MON day Dec 3rd** you will submit your Project Four progress __at the beginning of class__. If you have no progress to submit, you will not receive participation credit.
    * __Because this is the final project, I CANNOT ACCEPT LATE WORK__.
 
 
