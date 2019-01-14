@@ -37,3 +37,35 @@ If you have enough familiarity with HTML that [Homework One](assignments/hw1.htm
  * `read` [HTML Basic](https://www.w3schools.com/html/html_basic.asp)
  * `read` [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
  * `read` [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
+
+## week 2
+You'll notice I've added two links to the top nav:
+ * [inspiration](inspiration.html)
+ * [materials &gt; slides](https://iu.app.box.com/folder/63695386882)
+
+### In Class
+#### Monday
+ * `inspiration`: [elegantseagulls](https://www.elegantseagulls.com/)
+ * `download` [2.1-formatting.zip](mats/2.1-formatting.zip)
+ * `download` [2.2-files.zip](mats/2.2-files.zip)
+
+<!--#### Wednesday-->
+ <!--* `inspiration`: [architecturaldigest --- clever](https://www.architecturaldigest.com/clever)-->
+ <!--* `download` [2.2-files-solution.zip](https://github.com/novoNagu/iu-courses/blob/master/_fa18/j363/mats/2.2-files-solution.zip)-->
+ <!--* `download` [2.3-links.zip](https://github.com/novoNagu/iu-courses/blob/master/_fa18/j363/mats/2.3-links.zip)-->
+ <!--* `download` [2.4-structure.zip](https://github.com/novoNagu/iu-courses/blob/master/_fa18/j363/mats/2.4-structure.zip)-->
+
+### At Home
+ * `finish` [Homework One](assignments/hw1.html). It is due `Monday Jan 14th at 11:59pm`
+ * `review` class notes _(they are on the navigation: materials &gt; slides)_
+ * `install` the [Muzli Chrome Extension](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?hl=en)
+
+#### Codecademy
+ * `continue` course: [Learn HTML](https://www.codecademy.com/learn/learn-html)
+ * `complete` HTML Elements and Structure: _HTML Document Standards_
+
+#### W3Schools
+ * `read` [HTML Formatting](https://www.w3schools.com/html/html_formatting.asp)
+ * `read` [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
+ * `read` [HTML Links](https://www.w3schools.com/html/html_links.asp)
+ * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp)
