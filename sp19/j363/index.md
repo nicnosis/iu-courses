@@ -49,14 +49,14 @@ You'll notice I've added two links to the top nav:
  * `download` [2.1-formatting.zip](mats/2.1-formatting.zip)
  * `download` [2.2-files.zip](mats/2.2-files.zip)
 
-<!--#### Wednesday-->
- <!--* `inspiration`: [architecturaldigest --- clever](https://www.architecturaldigest.com/clever)-->
- <!--* `download` [2.2-files-solution.zip](https://github.com/novoNagu/iu-courses/blob/master/_fa18/j363/mats/2.2-files-solution.zip)-->
- <!--* `download` [2.3-links.zip](https://github.com/novoNagu/iu-courses/blob/master/_fa18/j363/mats/2.3-links.zip)-->
- <!--* `download` [2.4-structure.zip](https://github.com/novoNagu/iu-courses/blob/master/_fa18/j363/mats/2.4-structure.zip)-->
+#### Wednesday
+ * `inspiration`: [architecturaldigest --- clever](https://www.architecturaldigest.com/clever)
+ * `download` [2.3-links.zip](mats/2.3-links.zip)
+ * `download` [2.4-structure.zip](mats/2.4-structure.zip)
 
 ### At Home
  * `finish` [Homework One](assignments/hw1.html). It is due `Monday Jan 14th at 11:59pm`
+ * `begin` [Project One](assignments/p1.html). It is due `Friday Jan 25th @ 11:59pm`
  * `review` class notes _(they are on the navigation: materials &gt; slides)_
  * `install` the [Muzli Chrome Extension](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?hl=en)
 

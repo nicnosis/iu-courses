@@ -6,7 +6,7 @@ highlight: 'assignments'
 term: 'sp19'
 course: 'j363'
 ---
-# Project One --- <small>Site Structure `10 pts.`</small>
+# Project One --- <small>Site Structure</small>
 ## Description
 For this project, you will practice using elements such as `<main>` and `<div>` to structure your site.
 
@@ -19,7 +19,7 @@ First, download the starter files. You can disregard the '.DS_Store' file that w
 
   <div class="card-block">
     <p class="card-text">Starter files for Project One.</p>
-    <a href="start/p1-start.zip" class="btn btn-primary text-white" target="_blank">Download</a>
+    <a href="start/p1-start.zip" class="btn btn-primary" target="_blank">Download</a>
   </div>
 
 I have provided _images_ and _style_ (CSS) for this project. You will have to create the HTML elements that make the site layout.
@@ -141,4 +141,4 @@ Your footer content should:
 ## Submission---Canvas
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > PROJECT 1`
 
-#### **Due Friday January 25th @ 11:59pm**
+#### **Due Friday September 14th at 11:59pm**
