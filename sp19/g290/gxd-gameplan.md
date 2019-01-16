@@ -45,7 +45,7 @@ Illustrator
     - Rearrange layers
     - Toggle layer visibility
     - Lock layers
-    - Outline vs. Preview mode (Ctrl +Y)
+    - Outline vs. Preview mode (Ctrl + Y)
   - Shapes
     - Ellipse, rectangle
     - P--- Pen tool
@@ -60,6 +60,8 @@ Illustrator
   - Using the Select dropdown menu (e.g., select > same > ... )
 
 ### WED 1/16/2019
+ * A boy and his blob
+
 
 # WEEK 3
 ### MON 1/21/2019 MLK DAY
