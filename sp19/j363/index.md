@@ -69,3 +69,31 @@ You'll notice I've added two links to the top nav:
  * `read` [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
  * `read` [HTML Links](https://www.w3schools.com/html/html_links.asp)
  * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp)
+
+
+## week 3
+### In Class
+ * `download` [3.0-review.zip](mats/3.0-review.zip)
+ * `download` [3.1-intro-to-css.zip](mats/3.1-intro-to-css.zip)
+ * `participation`: respond to the question on Canvas for today.
+
+#### Advanced Students
+If you're proficient with CSS and want to hone your Figma skills, these are great starting places:
+
+ * Learn about [Figma Styles](https://help.figma.com/article/186-styles-creating-styles)
+ * Learn about [Figma Components](https://www.figma.com/blog/components-in-figma/)
+ * Here's a great example of [using styles and components](https://www.figma.com/blog/material-design-figma-styles/)
+
+### At Home
+ * `complete` [Project One](assignments/p1.html). It is due `Friday Jan 25th @ 11:59pm`
+ * `review` [class notes](https://iu.app.box.com/s/69ctggztv32c6mm3k5uuhaxmsa09saqu)
+
+#### Codecademy
+ * `begin` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+   * `complete` section 1: Selectors and Visual Rules
+
+#### W3Schools
+ * `read` [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
+ * `read` [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
+ * `read` [CSS How To](https://www.w3schools.com/css/css_howto.asp)
+ * `read` [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
