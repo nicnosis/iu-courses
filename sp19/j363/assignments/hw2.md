@@ -17,7 +17,7 @@ You are free to innovate and experiment creatively. I will provide a list of CSS
 
 <div class="card-block">
   <p class="card-text">Here's an example from one of our students:</p>
-  <a href="pdf/hw2-finished.pdf" class="btn btn-primary" target="_blank">View Example</a>
+  <a href="pdf/hw2-finished.pdf" class="btn btn-primary text-white" target="_blank">View Example</a>
 </div>
 
 ### Reference
@@ -33,7 +33,7 @@ You are given some starter files.
 
 <div class="card-block">
   <p class="card-text">Starter files for Homework Two.</p>
-  <a href="start/hw2-start.zip" class="btn btn-primary" target="_blank">Download</a>
+  <a href="start/hw2-start.zip" class="btn btn-primary text-white" target="_blank">Download</a>
 </div>
 
 ## Grading and Requirements
@@ -63,16 +63,20 @@ You will want to:
 #### Buttons
 The default "order now" buttons are not very exciting. Use CSS to make them more presentable. You might find [this guide](https://www.w3schools.com/css/css3_buttons.asp) helpful.
 
-#### Required tags
-Implement each selector from the following list at least once. How you choose to use them is up to you (unless otherwise specified). For example, you could use `background-color` on the `<body>` element or the `<main>` element.
+#### Required properties
+Implement each property from the following list at least once. How you choose to use them is up to you (unless otherwise specified). For example, you could use `background-color` on the `<body>` element or the `<main>` element.
 
  * [font-family](https://www.w3schools.com/cssref/pr_font_font-family.asp) - You may find [Google Fonts](https://fonts.google.com/) useful.
  * [font-size](https://www.w3schools.com/cssref/pr_font_font-size.asp)
  * [background-color](https://www.w3schools.com/cssref/pr_background-color.asp)
  * [color](https://www.w3schools.com/cssref/pr_text_color.asp)
- * [border](https://www.w3schools.com/cssref/pr_border.asp)
  * [width](https://www.w3schools.com/cssref/pr_dim_width.asp)
  * [margin](https://www.w3schools.com/cssref/pr_margin.asp) or [padding](https://www.w3schools.com/cssref/pr_padding.asp)
+
+#### Optional properties
+You may also choose to implement these: _(and any other properties you may want)_
+
+ * [border](https://www.w3schools.com/cssref/pr_border.asp)
  * [text-transform](https://www.w3schools.com/cssref/pr_text_text-transform.asp)
 
 ### File and folder names `1 pt.`
@@ -115,4 +119,4 @@ Changes to HTML be minimal. Here are things you'll probably do:
 ## Submission - Canvas
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 2`
 
-#### **Due Wed Sep 26th at 11:59pm**
+#### **Due Friday 2/8/2019 at 11:59pm**
