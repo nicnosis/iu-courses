@@ -89,4 +89,13 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ### At Home
  * `complete` [Homework One](assignments/hw1.html). It is due `Wednesday January 16th @ 11:59pm`
- * `begin` [Project One](assignments/p1.html). It is due `Monday January 28th @ 11:59pm`
+ * `begin` [Project One](assignments/p1.html). It is due `Friday Feb 1st @ 11:59pm`
+
+## week 3
+This week, you will continue working on [Project One](assignments/p1.html). The due date has been extended to `Friday Feb 1st @ 11:59pm`
+
+Considerations for Project One:
+ * You are not expected to reproduce art assets at a professional level of detail
+ * Be mindful of the time frame you have--- you may have to cut down your project to something smaller and more manageable
+ * This project is largely exploratory in nature--- you are being exposed to new tools and methods and it takes time to implement them properly
+ * In general for Projects, you will either produce (a) greater quantity of content at lower detail or (b) smaller quantity of content at higher detail. Keep this in mind when considering the scope of your project.
