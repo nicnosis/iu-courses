@@ -101,6 +101,7 @@ If you're proficient with CSS and want to hone your Figma skills, these are grea
 ## week 4
 ### In Class
  * `download` [4.1-stylesheets.zip](mats/4.1-stylesheets.zip)
+ * `download` [4.2-selectors.zip](mats/4.2-selectors.zip)
 
 ### At Home
  * `begin` [Homework Two](assignments/hw2.html). `It is due Friday 2/8/2019 at 11:59pm`
@@ -116,4 +117,3 @@ If you're proficient with CSS and want to hone your Figma skills, these are grea
  * `read` [CSS Margin](https://www.w3schools.com/css/css_margin.asp)
  * `read` [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
  * `read` [CSS Fonts](https://www.w3schools.com/css/css_font.asp)
-
