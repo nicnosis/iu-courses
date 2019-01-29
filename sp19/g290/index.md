@@ -99,3 +99,8 @@ Considerations for Project One:
  * Be mindful of the time frame you have--- you may have to cut down your project to something smaller and more manageable
  * This project is largely exploratory in nature--- you are being exposed to new tools and methods and it takes time to implement them properly
  * In general for Projects, you will either produce (a) greater quantity of content at lower detail or (b) smaller quantity of content at higher detail. Keep this in mind when considering the scope of your project.
+
+## week 4
+Continue working on [Project One](assignments/p1.html). By now, you should be committed to an idea and in the processing of executing it. Remember to review the deliverables for this assignments _(e.g., taking screenshots of your process)_
+
+It is due `Friday Feb 1st @ 11:59pm`
