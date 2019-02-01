@@ -103,4 +103,4 @@ Considerations for Project One:
 ## week 4
 Continue working on [Project One](assignments/p1.html). By now, you should be committed to an idea and in the processing of executing it. Remember to review the deliverables for this assignments _(e.g., taking screenshots of your process)_
 
-It is due `Friday Feb 1st @ 11:59pm`
+It is due `Tuesday Feb 5th @ 11:59pm`
