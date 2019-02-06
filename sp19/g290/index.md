@@ -103,4 +103,32 @@ Considerations for Project One:
 ## week 4
 Continue working on [Project One](assignments/p1.html). By now, you should be committed to an idea and in the processing of executing it. Remember to review the deliverables for this assignments _(e.g., taking screenshots of your process)_
 
-It is due `Tuesday Feb 5th @ 11:59pm`
+It is due `Friday Feb 8th @ 11:59pm`
+
+## week 5
+Use this week to finish out [Project One](assignments/p1.html).
+
+After careful consideration, I have extended the due date (again). It is due `Friday Feb 8th @ 11:59pm`
+
+I will use class time Monday and Wednesday to meet with students individually. Because this section is much larger than previous semesters, I will have to split students into two groups.
+
+__Please come prepared for your scheduled timeslot__. You will only need to attend __one day this week__. __PLEASE ONLY ATTEND THE DAY YOU ARE SCHEDULED__; work from home and e-mail with any questions.
+
+### Monday
+ * Dade Taylor `2:30 - 2:40`
+ * Zinan Wang  `2:40 - 2:50`
+ * Dominic Lettsome-Martin `2:50 - 3:00`
+ * Michal Meeker `3:00 - 3:10`
+ * Griffin Park `3:10 - 3:20`
+ * Ahmed Frisch `3:20 - 3:30`
+ * Nathan Wright  `3:30 - 3:40`
+ * Blake Sunderland  `3:40 - 3:45`
+
+### Wednesday
+ * Lorenzo Rocha `2:30 - 2:40`
+ * Alex Ruanto  `2:40 - 2:50`
+ * Brian Lee  `2:50 - 3:00`
+ * Weitao Cong  `3:00 - 3:10`
+ * Justin Hatfield  `3:10 - 3:20`
+ * Chris Oyer  `3:20 - 3:30`
+ * Kevin Colbert  `3:30 - 3:40`

@@ -117,3 +117,11 @@ If you're proficient with CSS and want to hone your Figma skills, these are grea
  * `read` [CSS Margin](https://www.w3schools.com/css/css_margin.asp)
  * `read` [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
  * `read` [CSS Fonts](https://www.w3schools.com/css/css_font.asp)
+
+## week 5
+### In Class
+ * `inspiration` [happymeter.lol](http://happymeter.lol/)
+ * `download` [4.2-selectors.zip](mats/4.2-selectors.zip)
+
+### At Home
+ * `complete` [Homework Two](assignments/hw2.html). `It is due Friday 2/8/2019 at 11:59pm`
