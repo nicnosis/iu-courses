@@ -120,8 +120,42 @@ If you're proficient with CSS and want to hone your Figma skills, these are grea
 
 ## week 5
 ### In Class
+#### Monday
  * `inspiration` [happymeter.lol](http://happymeter.lol/)
  * `download` [4.2-selectors.zip](mats/4.2-selectors.zip)
 
+#### Wednesday
+ * `inspiration` [theartery](https://www.the-artery.com/)
+ * `download` [5.1-box-model.zip](mats/5.1-box-model.zip)
+
 ### At Home
  * `complete` [Homework Two](assignments/hw2.html). `It is due Friday 2/8/2019 at 11:59pm`
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` section 2: The Box Model
+
+#### W3Schools
+ * `read` [CSS Borders](https://www.w3schools.com/Css/css_border.asp)
+ * `read` [CSS Margins](https://www.w3schools.com/Css/css_margin.asp)
+ * `read` [CSS Padding](https://www.w3schools.com/Css/css_padding.asp)
+ * `read` [CSS Width/Height](https://www.w3schools.com/Css/css_dimension.asp)
+ * `read` [CSS Box Model](https://www.w3schools.com/Css/css_boxmodel.asp)
+
+## week 6
+### In Class
+#### Monday
+ * `inspiration` [parall.ax](https://parall.ax/)
+ * `download` [6.1-display-position.zip](mats/6.1-display-position.zip)
+
+### At Home
+ * `begin` [Project Two](assignments/p2.html). It is due `Sunday March 3rd at 11:59pm`
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` section 3: Display and Positioning
+
+#### W3Schools
+ * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
+ * `read` [CSS Position](https://www.w3schools.com/cssref/pr_class_position.asp)
+ * `read` [CSS Box Sizing](https://www.w3schools.com/css/css3_box-sizing.asp)
