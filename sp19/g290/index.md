@@ -132,3 +132,11 @@ __Please come prepared for your scheduled timeslot__. You will only need to atte
  * Justin Hatfield  `3:10 - 3:20`
  * Chris Oyer  `3:20 - 3:30`
  * Kevin Colbert  `3:30 - 3:40`
+
+## week 6
+### In Class
+#### Monday
+We will watch Omar Younas' talk from GDC2018. The slides are available [here](mats/art-direction-for-aaa-ui.pdf)
+
+### At Home
+ * `begin` [Homework Two](assignments/hw-tutorial.html). It is due `Monday Feb 18th @ 11:59pm`.
