@@ -148,8 +148,23 @@ If you're proficient with CSS and want to hone your Figma skills, these are grea
  * `inspiration` [parall.ax](https://parall.ax/)
  * `download` [6.1-display-position.zip](mats/6.1-display-position.zip)
 
+#### Wednesday
+ * `inspiration` [bande-a-part](http://www.bande-a-part.fr/)
+ * `download` [6.2-layouts.zip](mats/6.2-layouts.zip)
+ * `participation`: complete the response on Canvas
+
+
 ### At Home
  * `begin` [Project Two](assignments/p2.html). It is due `Sunday March 3rd at 11:59pm`
+
+Remember on Monday __you will need to prepare__ in order to participate.
+
+You will need:
+1. An idea that you’re committed to
+2. A rough sketch of your website
+3. Some links for [inspiration](inspiration.html)
+
+If you don’t have all of these things on Monday, you will not receive full participation points that day. __Please come prepared__ so you can get the most out of this session.
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
