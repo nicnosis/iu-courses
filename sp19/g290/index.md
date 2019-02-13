@@ -138,5 +138,16 @@ __Please come prepared for your scheduled timeslot__. You will only need to atte
 #### Monday
 We will watch Omar Younas' talk from GDC2018. The slides are available [here](mats/art-direction-for-aaa-ui.pdf)
 
+#### Wednesday
+ * Check out [atomicdesign](http://atomicdesign.bradfrost.com/) and [patternlab.io](http://demo.patternlab.io/)
+ * Create a [Figma](https://www.figma.com/) account if you haven't already.
+ * Learn components through [this example](https://www.figma.com/file/mKixgWiSvJV0W3HUhzCLme/Macintosh-System-1?node-id=0%3A1)
+ * `participation`
+   * Go to the [list section of calltoidea.com](https://calltoidea.com/lists/) and find a simple list you like.
+   * Using components, put together a simple list/card layout
+   * Submit a shareable link for today's participation
+
 ### At Home
  * `begin` [Homework Two](assignments/hw-tutorial.html). It is due `Monday Feb 18th @ 11:59pm`.
+ * `begin` [Project Two](assignments/hw-tutorial.html). It is due `Monday Mar 18th @ 11:59pm`.
+
