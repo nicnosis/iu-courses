@@ -149,5 +149,5 @@ We will watch Omar Younas' talk from GDC2018. The slides are available [here](ma
 
 ### At Home
  * `begin` [Homework Two](assignments/hw-tutorial.html). It is due `Monday Feb 18th @ 11:59pm`.
- * `begin` [Project Two](assignments/hw-tutorial.html). It is due `Monday Mar 18th @ 11:59pm`.
+ * `begin` [Project Two](assignments/p2.html). It is due `Monday Mar 18th @ 11:59pm`.
 

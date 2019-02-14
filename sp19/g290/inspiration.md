@@ -41,10 +41,11 @@ For gradients:
 2.  [UI Gradients](https://uigradients.com/)
 
 ### Icons
-Pay close attention to licensing when using these. Always cite your source and only use these in a project with express consent from the instructor.
+Pay close attention to licensing when using these. Always cite your source and only use these in a project with express consent from the instructor. In general, you want to get a vector format (usually SVG)
 
-1. [Flaticon](https://www.flaticon.com/)
+1. [Material Icons](https://material.io/tools/icons/)--- these are really easy to put into Figma.
 2. [The Noun Project](https://thenounproject.com/)
+3. [Flaticon](https://www.flaticon.com/)
 
 ## Sourcing Ideas
 1. [Behance.net](https://behance.net)
