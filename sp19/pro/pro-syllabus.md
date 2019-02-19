@@ -18,25 +18,43 @@ C210 Intro to Programming
 ```
 
 ## Objectives
-After completing this course, students will be able to:
+Students who complete this course will:
+
+ * Understand and apply object-oriented programming _(functions, variables, arrays, control flow, iteration, objects)_
+ * Create procedurally-generated graphics and other assets _(e.g. textures, level design)_
+ * Gain familiarity of procedural algorithms _(e.g., Perlin noise)_
+ * Understand, apply, and visualize algorithms _(e.g. random number generation)_
+ * Learn tools for rendering in both 2D and 3D
+ * Represent real-world models _(e.g., physics, gravity)_ programmatically
+
 
 
 ## Structure
-### Unit One: p5.js
-### Unit Two:
+### Unit One: Abstraction (p5.js)
+In this unit, students will use p5.js, a JavaScript library, to learn the basics of object-oriented programming. Students will create artwork that is dynamic, interactive, and procedurally-generated. Artwork in this unit will be abstract and exploratory.
+
+
+### Unit Two: Representation (Houdini)
+In this unit, students will use Houdini (and other tools if desired) to create 3D graphics. Having developed an understanding of how procedural generation works, students can use tools to automate the process. Artwork in this unit is generally more 'realistic' and representational.
 
 ## Work
 ### Use of Class Time
 This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. An effort is made to create a more interactive and less passive experience for students.
 
-### Projects (1 pts.)
+### Projects (55 pts.)
+This class features four large-scale projects.
+
+ * Project 1 focuses on understanding programming principles
+ * Project 2 focuses on creating interactivity with p5.js
+ * Project 3 focuses on gaining familiarity with Houdini
+ * Project 4 allows the student to integrate all of their knowledge from the semester into a culminating final project.
 
 
-### Homework (1 pts.)
+### Homework (20 pts.)
 This class has homework assignments designed to test and reinforce knowledge from class. Homework assignments typically involve a shorter or less involved coding task.
 
 ### Quizzes and Participation (20 pts.)
-A quiz consists of either (a) an unannounced quiz or (b) an in-class lab activity. Quizzes are designed to ensure that students are completing their readings, Codecademy work, and following along with in-class coding activities.
+A quiz consists of either (a) an unannounced quiz or (b) an in-class lab activity. Quizzes are designed to ensure that students are completing their readings, preparing properly, and following along with in-class coding activities.
 
 Participation is an important element of this class. Being present (physically and mentally) will give you a better experience.
 
@@ -119,16 +137,17 @@ If you are re-submitting work:
 Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development.
 
 We will use:
-1. Adobe Creative Suite. [Here's a link to get you started](https://kb.iu.edu/d/bffs).
-2. A text editor--- [Atom](https://atom.io/) is recommended.
-3. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
+
+1. p5.js
+2. Houdini
+3. A text editor--- [Atom](https://atom.io/) is recommended.
+4. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
+5. Adobe Creative Suite. [Here's a link to get you started](https://kb.iu.edu/d/bffs).
 
 
 
 ### Hardware
 We will be rendering 3D graphics. You need access to a high-performance PC.
-
-<div style="page-break-after: always;"></div>
 
 ## Policies
 ### Attendance
@@ -229,7 +248,7 @@ The instructor reserves the right to adjust your final grade based on effort, pa
 |        |     |
 |:-------|:----|
 | week 1 | aaa |
-| week 1 | aaa |
+| week 2 | aaa |
 | week 1 | aaa |
 | week 1 | aaa |
 | week 1 | aaa |
