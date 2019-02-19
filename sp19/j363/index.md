@@ -174,3 +174,19 @@ If you don’t have all of these things on Monday, you will not receive full par
  * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
  * `read` [CSS Position](https://www.w3schools.com/cssref/pr_class_position.asp)
  * `read` [CSS Box Sizing](https://www.w3schools.com/css/css3_box-sizing.asp)
+
+## week 7
+### In Class
+#### Monday
+ * `download` [7.1-grid.zip](mats/7.1-grid.zip)
+ * `progress check`--- I will meet with everybody to see your Project Two progress.
+
+#### Wednesday
+Class is canceled Wednesday (Feb 20) and there will be no office hours Friday (Feb 22).
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html). It is due `Sunday March 3rd at 11:59pm`
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * Work on sections 4–6. You should aim to complete these sections over the next week or two as you work on your project.

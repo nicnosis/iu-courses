@@ -151,3 +151,14 @@ We will watch Omar Younas' talk from GDC2018. The slides are available [here](ma
  * `begin` [Homework Two](assignments/hw-tutorial.html). It is due `Monday Feb 18th @ 11:59pm`.
  * `begin` [Project Two](assignments/p2.html). It is due `Monday Mar 18th @ 11:59pm`.
 
+
+## week 7
+### In Class
+#### Monday
+I will meet with each student individually to talk about your Project Two ideas.
+
+#### Wednesday
+Class is canceled Wednesday (Feb 20) and there will be no office hours Friday (Feb 22).
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html). It is due `Monday Mar 18th @ 11:59pm`.
