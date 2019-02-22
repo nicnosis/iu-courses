@@ -21,21 +21,37 @@ C210 Intro to Programming
 Students who complete this course will:
 
  * Understand and apply object-oriented programming _(functions, variables, arrays, control flow, iteration, objects)_
- * Create procedurally-generated graphics and other assets _(e.g. textures, level design)_
+ * Understand and apply principles of graphic design _(color, proportion, rhythm)_
+ * Learn to navigate and use technical documentation to resolve issues
+ * Create several attractive portfolio pieces
  * Gain familiarity of procedural algorithms _(e.g., Perlin noise)_
  * Understand, apply, and visualize algorithms _(e.g. random number generation)_
+ * Create procedurally-generated graphics and other assets _(e.g. textures, level design)_
  * Learn tools for rendering in both 2D and 3D
  * Represent real-world models _(e.g., physics, gravity)_ programmatically
 
 
+## For whom is this course?
+This course is designed to target a broad audience across multiple schools and disciplines. It is intended to make programming more approachable to the non-programmer. It is intended to give creative faculty to students of a technical background.
+
+ * Media School students _(esp. Digital and Interactive Media)_ will have an opportunity to create novel artwork that distinguishes them
+ * SICE students will have an opportunity to apply their technical rigor and programming acument to a creative endeavor
+ * SOAD students will have an opportunity to learn programming and new tools to amplify their creative reach
+
+This course gives students __creative freedom__ to express ideas, concepts, thoughts, and feelings through digital media. My goal is always to demystify technical hurdles so that students can fulfill their purpose without feeling intimidated by code and complicated tools.
+
+Having a relatively small class size will give students more freedom in their pursuit of a satisfying vision.
 
 ## Structure
+The first unit of this course is more rigid and structured, and the second unit is more open-ended and free-form.
+
 ### Unit One: Abstraction (p5.js)
 In this unit, students will use p5.js, a JavaScript library, to learn the basics of object-oriented programming. Students will create artwork that is dynamic, interactive, and procedurally-generated. Artwork in this unit will be abstract and exploratory.
 
+### Unit Two: Representation (Houdini, Cinema4D)
+In this unit, students will use Houdini, Cinema4D _(and other tools if desired)_ to create 3D graphics. Having developed an understanding of how procedural generation works, students can use tools to automate the process. Artwork in this unit is generally more 'realistic' and representational.
 
-### Unit Two: Representation (Houdini)
-In this unit, students will use Houdini (and other tools if desired) to create 3D graphics. Having developed an understanding of how procedural generation works, students can use tools to automate the process. Artwork in this unit is generally more 'realistic' and representational.
+Game design students may find this unit useful in creating assets for their games. Applications might include procedurally-generated levels, terrains, textures, and particle effects.
 
 ## Work
 ### Use of Class Time
@@ -44,10 +60,10 @@ This class is project-driven, and demands consistent effort inside and outside o
 ### Projects (55 pts.)
 This class features four large-scale projects.
 
- * Project 1 focuses on understanding programming principles
- * Project 2 focuses on creating interactivity with p5.js
- * Project 3 focuses on gaining familiarity with Houdini
- * Project 4 allows the student to integrate all of their knowledge from the semester into a culminating final project.
+ * Project 1--- students demonstrate understanding of programming principles with p5.js
+ * Project 2--- students create dynamic and interactive artwork with p5.js.
+ * Project 3--- students gain familiarity with Houdini/Cinema4D
+ * Project 4--- students integrate all of their knowledge from the semester into a culminating final project of their choice.
 
 
 ### Homework (20 pts.)
@@ -130,8 +146,6 @@ If you are re-submitting work:
 3. You may only recover partial points lost.
 
 ## Required Readings and Materials
-@TODO: fill this out
-
 
 ### Software
 Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development.
@@ -140,10 +154,17 @@ We will use:
 
 1. p5.js
 2. Houdini
-3. A text editor--- [Atom](https://atom.io/) is recommended.
+3. Cinema4D
 4. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
 5. Adobe Creative Suite. [Here's a link to get you started](https://kb.iu.edu/d/bffs).
 
+#### Optional Software
+Students are able to use software of their choice as long as it fulfills the vision of each project. Some other software of interest might be:
+
+ * Processing
+ * Python
+ * Maya (MASH)
+ * Substance Designer
 
 
 ### Hardware
@@ -240,16 +261,3 @@ This course is rich in content and skill levels vary widely among students. The 
 
 ### Final Grade
 The instructor reserves the right to adjust your final grade based on effort, participation, or conduct. This is uncommon.
-
-<div style="page-break-after: always;"></div>
-
-## Tentative Schedule
-
-|        |     |
-|:-------|:----|
-| week 1 | aaa |
-| week 2 | aaa |
-| week 1 | aaa |
-| week 1 | aaa |
-| week 1 | aaa |
-| week 1 | aaa |
