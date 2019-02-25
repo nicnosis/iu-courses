@@ -190,3 +190,11 @@ Class is canceled Wednesday (Feb 20) and there will be no office hours Friday (F
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * Work on sections 4–6. You should aim to complete these sections over the next week or two as you work on your project.
+
+## week 8
+### In Class
+#### Monday
+ * `download` [8.1-backstretch.zip](mats/8.1-backstretch.zip)
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html). It is due `Sunday March 3rd at 11:59pm`
