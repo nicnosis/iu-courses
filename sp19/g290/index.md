@@ -162,3 +162,13 @@ Class is canceled Wednesday (Feb 20) and there will be no office hours Friday (F
 
 ### At Home
  * `continue` [Project Two](assignments/p2.html). It is due `Monday Mar 18th @ 11:59pm`.
+
+## week 8
+You should be fully focused on [Project Two](assignments/p2.html). It is due `Monday Mar 18th @ 11:59pm`.
+
+Expectations at this point in time:
+
+ * You should have thoroughly read the description for the project
+ * You should have an idea you're fully committed to
+ * You should have some of your deliverables _(narrative, sketches, etc.)_
+ * You should have your project started in Figma

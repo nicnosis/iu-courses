@@ -197,4 +197,4 @@ Class is canceled Wednesday (Feb 20) and there will be no office hours Friday (F
  * `download` [8.1-backstretch.zip](mats/8.1-backstretch.zip)
 
 ### At Home
- * `continue` [Project Two](assignments/p2.html). It is due `Sunday March 3rd at 11:59pm`
+ * `continue` [Project Two](assignments/p2.html). It is due `Monday March 4th at 11:59pm`
