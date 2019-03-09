@@ -172,3 +172,6 @@ Expectations at this point in time:
  * You should have an idea you're fully committed to
  * You should have some of your deliverables _(narrative, sketches, etc.)_
  * You should have your project started in Figma
+
+## week 9
+Finish out [Project Two](assignments/p2.html). It is due `Monday Mar 18th @ 11:59pm`.

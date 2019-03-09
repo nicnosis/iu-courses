@@ -198,3 +198,22 @@ Class is canceled Wednesday (Feb 20) and there will be no office hours Friday (F
 
 ### At Home
  * `continue` [Project Two](assignments/p2.html). It is due `Monday March 4th at 11:59pm`
+
+## week 9
+### In Class
+#### Monday
+Even though we will not be meeting for class, you are expected to complete the following tasks on your own time.
+
+ * `watch` the [lecture](https://youtu.be/fDN4Nj9FFDQ) for today's class. You can find the slides on the `materials > slides` section of the course website.
+ * `download` [9.1-rwd.zip](mats/9.1-rwd.zip)
+ * `submit` a screenshot of your responsive grid for participation
+
+#### Wednesday
+ * `inspiration` [insidethehead](https://insidethehead.co/)
+ * `group exercise`--- make sure you put everybody's name on the paper
+ * `login` to [Webflow](https://webflow.com/dashboard/)
+
+### At Home
+ * If you haven't already, `complete` this [Google Form](https://goo.gl/forms/H6h6t5Oio12TetgO2) so I can get you an invite for Webflow.
+ * `complete` [Project Two](assignments/p2.html). It is due `Monday March 4th at 11:59pm`
+ * `begin` [Homework Three](assignments/hw3.html). It is due `Monday March 18th at 11:59pm`

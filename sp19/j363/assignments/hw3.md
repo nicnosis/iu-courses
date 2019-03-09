@@ -10,20 +10,14 @@ course: 'j363'
 ## Description
 You will make a simple, three-column responsive layout using Webflow.
 
-
-Here's what it should look like...
-<div class="card-block">
-  <p class="card-text lead">Finished site:</p>
-  <a href="#" class="btn btn-primary" target="_blank">View Example</a>
-</div>
-
-
-### CSS
-
-### Webflow reference
+1. First watch [this video](https://youtu.be/pirYjigdIu0) for an explanation
+2. Then download [these assets you will need](start/hw3-assets.zip)
+3. Then go to [Webflow University](https://university.webflow.com/courses/webflow-101-crash-course) to learn how to use it.
 
 ## Submission - Canvas
+Publish your Webflow site and submit the link.
 
+If you have issues publishing, you can also export the code, set up the project in Atom, and compress the project folder to submit it (you may want to double-check your submission with me or the teaching assistant).
 
 Submit your link to: `CANVAS > ASSIGNMENTS > HOMEWORK 3`
 
