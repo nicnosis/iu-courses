@@ -174,4 +174,8 @@ Expectations at this point in time:
  * You should have your project started in Figma
 
 ## week 9
-Finish out [Project Two](assignments/p2.html). It is due `Monday Mar 18th @ 11:59pm`.
+Finish out [Project Two](assignments/p2.html). It is due `Friday Mar 22nd @ 11:59pm`.
+
+## week 10
+ * This week you will complete [Project Two](assignments/p2.html). Due date has been extended to `Friday Mar 22nd @ 11:59pm`.
+ * If you are at GDC this week, please send me a message through Slack/Canvas so I'm aware. You will be excused from participation assignments.

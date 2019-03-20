@@ -217,3 +217,21 @@ Even though we will not be meeting for class, you are expected to complete the f
  * If you haven't already, `complete` this [Google Form](https://goo.gl/forms/H6h6t5Oio12TetgO2) so I can get you an invite for Webflow.
  * `complete` [Project Two](assignments/p2.html). It is due `Monday March 4th at 11:59pm`
  * `begin` [Homework Three](assignments/hw3.html). It is due `Monday March 18th at 11:59pm`
+
+## week 10
+### In Class
+#### Monday
+ * `watch` today's video regarding Webflow freelance
+ * `respond` on Canvas for your participation credit
+
+#### Wednesday
+ * `inspiration`: [Okalpha](https://webflow.com/website/Okalpha#)
+ * `participation`
+   * Go to [WebFlow Showcase](https://webflow.com/discover/popular#recent)
+   * Go to today's Canvas participation. Submit a link that you link from the Showcase and we'll look at it together.
+ * `practice` [scroll effects](https://preview.webflow.com/preview/horizontal-movement-on-scroll?preview=1636436a7269a82a5c02b53e3fe3150b). This is from Webflow's [Interactions and Animations course](https://university.webflow.com/courses/interactions-and-animations-course)
+
+### At Home
+ * `finish` [Homework Three](assignments/hw3.html). It is due `Monday March 18th at 11:59pm`
+ * `begin` [Project Three](assignments/p3.html). It is due `Tuesday April 2nd at 11:59pm`
+ * `prepare` for Monday. To receive `participation` you will present your idea, and some annotated sketches of your site.
