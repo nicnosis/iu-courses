@@ -233,5 +233,16 @@ Even though we will not be meeting for class, you are expected to complete the f
 
 ### At Home
  * `finish` [Homework Three](assignments/hw3.html). It is due `Monday March 18th at 11:59pm`
- * `begin` [Project Three](assignments/p3.html). It is due `Tuesday April 2nd at 11:59pm`
+ * `begin` [Project Three](assignments/p3.html).
  * `prepare` for Monday. To receive `participation` you will present your idea, and some annotated sketches of your site.
+
+## week 11
+### In Class
+ * `inspiration`: [Conservation Guide](https://webflow.com/website/Conservation-Guide)
+ * We will focus on a few structural basics in Webflow:
+   * Creating a Hero Section. Here's [one way to do it](https://university.webflow.com/article/building-a-portfolio-website-designing-the-homepage-hero-section-part-2-of-8). It is recommended to have some knowledge of [viewport units](https://university.webflow.com/lesson/width-height-units-layout) for this.
+   * Using flexbox to create equal-height columns. See [this guide](https://university.webflow.com/article/intro-to-flexbox)
+ * `participation`--- you will submit materials to support your Project Three idea on Canvas
+
+### At Home
+ * `continue` [Project Three](assignments/p3.html). It is due `Sunday April 7th at 11:59pm`
