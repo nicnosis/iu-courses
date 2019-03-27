@@ -179,3 +179,23 @@ Finish out [Project Two](assignments/p2.html). It is due `Friday Mar 22nd @ 11:5
 ## week 10
  * This week you will complete [Project Two](assignments/p2.html). Due date has been extended to `Friday Mar 22nd @ 11:59pm`.
  * If you are at GDC this week, please send me a message through Slack/Canvas so I'm aware. You will be excused from participation assignments.
+
+## week 11
+We will begin using Unity.
+
+Some of the focuses I have are:
+
+ * Understanding Unity Editor--- UnityHub, versions _(2018.3.9f1)_
+ * Understanding UI Objects: Canvas, Panel, Button, etc.
+ * Understanding Display and Camera
+ * Understanding the difference between Screen Space and World Space
+ * Using Unity Learn and Unity Asset Store
+ * Using source control (BitBucket and SourceTree)
+
+### In Class
+ * `inspiration`: Division 2
+ * `follow-up`: Pre-test
+ * `sign up` for [BitBucket](https://bitbucket.org/product/education) if you haven't already
+ * `get` [SourceTree](https://www.sourcetreeapp.com/) if you are using your personal computer.
+ * `use` [Unity Samples UI](https://assetstore.unity.com/packages/essentials/unity-samples-ui-25468)
+ * `participation`: complete on Canvas

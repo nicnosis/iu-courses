@@ -238,11 +238,19 @@ Even though we will not be meeting for class, you are expected to complete the f
 
 ## week 11
 ### In Class
+#### Monday
  * `inspiration`: [Conservation Guide](https://webflow.com/website/Conservation-Guide)
+ * `download` [11.1-wf-hero-columns.zip](mats/11.1-wf-hero-columns.zip)
+ * We will `clean up` our Team directory _(wait for instructions please)_
+ * I will send you a Canvas message with the `clone` link for today's project.
  * We will focus on a few structural basics in Webflow:
    * Creating a Hero Section. Here's [one way to do it](https://university.webflow.com/article/building-a-portfolio-website-designing-the-homepage-hero-section-part-2-of-8). It is recommended to have some knowledge of [viewport units](https://university.webflow.com/lesson/width-height-units-layout) for this.
    * Using flexbox to create equal-height columns. See [this guide](https://university.webflow.com/article/intro-to-flexbox)
  * `participation`--- you will submit materials to support your Project Three idea on Canvas
+
+#### Wednesday
+ * `inspiration`: [humaaans](https://www.humaaans.com/)
+ * `participation`--- give yourself a realistic goal to accomplish between now and Monday. Submit a text response on Canvas
 
 ### At Home
  * `continue` [Project Three](assignments/p3.html). It is due `Sunday April 7th at 11:59pm`
