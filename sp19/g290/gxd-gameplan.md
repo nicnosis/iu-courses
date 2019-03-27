@@ -213,7 +213,7 @@ This week you will familiarize yourself with course materials and get a basic un
 
 ## week 9
  * `complete` [Project Two](assignments/p2-redesign.html). It is due `### WED nesday October 17th @ 11:59pm`.
- * `begin` [Homework Three](assignments/hw-tutorialhttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/mats/typography.pdfMON day October 29th @ 11:59pm`.
+ * `begin` [Homework Three](assignments/hw-figma-tutorialhttps://github.com/novoNagu/iu-courses/blob/master/sp19/g290/mats/typography.pdfMON day October 29th @ 11:59pm`.
 
 
 ## week 10
@@ -234,7 +234,7 @@ Since you may have a lot of repeating components _(e.g., grid of cards)_, you mi
  * [Component Architecture in Figma](https://blog.figma.com/component-architecture-in-figma-f16ae9cc4481)
 
 ### At Home
- * `complete` [Homework Three](assignments/hw-tutorial.html). It is due `MON day October 29th @ 11:59pm`.
+ * `complete` [Homework Three](assignments/hw-figma-tutorial.html). It is due `MON day October 29th @ 11:59pm`.
 
 ## week 11
 ### In Class

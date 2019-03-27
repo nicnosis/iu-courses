@@ -249,7 +249,7 @@ Even though we will not be meeting for class, you are expected to complete the f
  * `participation`--- you will submit materials to support your Project Three idea on Canvas
 
 #### Wednesday
- * `inspiration`: [humaaans](https://www.humaaans.com/)
+ * `inspiration`: [humaaans](https://webflow.com/website/Humaaans)
  * `participation`--- give yourself a realistic goal to accomplish between now and Monday. Submit a text response on Canvas
 
 ### At Home
