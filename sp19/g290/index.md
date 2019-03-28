@@ -193,9 +193,18 @@ Some of the focuses I have are:
  * Using source control (BitBucket and SourceTree)
 
 ### In Class
+#### Monday
  * `inspiration`: Division 2
  * `follow-up`: Pre-test
  * `sign up` for [BitBucket](https://bitbucket.org/product/education) if you haven't already
  * `get` [SourceTree](https://www.sourcetreeapp.com/) if you are using your personal computer.
  * `use` [Unity Samples UI](https://assetstore.unity.com/packages/essentials/unity-samples-ui-25468)
  * `participation`: complete on Canvas
+
+#### Wednesday
+ * `gitignore` demo
+ * `practice` Unity. I will send you the link to clone via Canvas
+ * `participation`: Head over to Canvas
+
+### At Home
+ * `begin` [Homework Three](assignments/hw-unity-tutorial.html). It is due `Sunday April 7th @ 11:59pm`.
