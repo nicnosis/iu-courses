@@ -254,3 +254,17 @@ Even though we will not be meeting for class, you are expected to complete the f
 
 ### At Home
  * `continue` [Project Three](assignments/p3.html). It is due `Sunday April 7th at 11:59pm`
+
+## week 12
+### In Class
+#### Monday
+ * `participation`: Canvas response
+ * `continue` [Project Three](assignments/p3.html). It is due `Sunday April 7th at 11:59pm`
+
+Some thoughts for this project:
+
+ * Prioritize tasks in order of importance. Focus on getting the site layout and aesthetics down before small details.
+ * Make use of tutorials. [Webflow University](https://university.webflow.com/) is massive and has solutions for most issues.
+ * Don't get discouraged if your site doesn't come out exactly as you envisioned; Webflow has a learning curve and you shouldn't expect your first project to be 100% perfect.
+ * Remember that setbacks, roadblocks, and hurdles are all part of the process of creating. Embrace these as part of the process _(easier said than done, I know)_
+ * Above all, have fun with the project and make it into something that will serve you in the future
