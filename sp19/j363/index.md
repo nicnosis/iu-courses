@@ -261,6 +261,11 @@ Even though we will not be meeting for class, you are expected to complete the f
  * `participation`: Canvas response
  * `continue` [Project Three](assignments/p3.html). It is due `Sunday April 7th at 11:59pm`
 
+#### Wednesday
+ * `discussion`: Defining success
+ * `participation`: Canvas response
+ * `continue` [Project Three](assignments/p3.html). It is due `Sunday April 7th at 11:59pm`
+
 Some thoughts for this project:
 
  * Prioritize tasks in order of importance. Focus on getting the site layout and aesthetics down before small details.

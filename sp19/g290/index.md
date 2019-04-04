@@ -208,3 +208,24 @@ Some of the focuses I have are:
 
 ### At Home
  * `begin` [Homework Three](assignments/hw-unity-tutorial.html). It is due `Sunday April 7th @ 11:59pm`.
+
+## week 12
+### In Class
+#### Monday
+We will continue HW3.
+
+1) Options for today:
+
+ * If you struggled at all with source control last week, spend some time today going through the steps to make sure you can successfully create a repo _(make sure it's public)_, stage changes, commit, push, and share the link.
+ * If you are okay on source control but still apprehensive about Unity, you may work independently on your tutorial.
+ * If you're more experienced and attempting to add UI to an existing project, I want to meet with you guys to see what you're putting together for HW3.
+ * If you want to play around with an existing project, I can expand on the `roll-a-ball UI` project. You can `clone` it from `https://nicaguirre@bitbucket.org/nicaguirre/rollaballui.git`
+
+2) Make sure to complete your `participation` response on Canvas
+
+#### Wednesday
+ * `participation`: complete Canvas response
+
+### At Home
+ * `continue` [Homework Three](assignments/hw-unity-tutorial.html). It is due `Sunday April 7th @ 11:59pm`.
+ * Please show up on Monday with an idea of what you want to do for Project Three.
