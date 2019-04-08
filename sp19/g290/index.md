@@ -229,3 +229,13 @@ We will continue HW3.
 ### At Home
  * `continue` [Homework Three](assignments/hw-unity-tutorial.html). It is due `Sunday April 7th @ 11:59pm`.
  * Please show up on Monday with an idea of what you want to do for Project Three.
+
+## week 13
+Get started on [Project Three](assignments/p3.html).
+
+### In Class
+#### Monday
+ * `participation`: complete Canvas response
+
+### At Home
+You will have an in-class progress check __Wednesday April 17th__. You should be able to show visible progress, and some trajectory towards a complete project. You should present challenges and concerns, and also present potential solutions: _(e.g., I'm having trouble making a UI mask for my mini-map, so I'm going to watch [this](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-mask) tutorial)_
