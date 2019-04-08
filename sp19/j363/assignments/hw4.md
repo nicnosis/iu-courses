@@ -22,7 +22,7 @@ I have set up a simple p5.js sketch, and you will modify it to match the desired
 <div class="card-block">
   <p class="card-text lead">Starter pen</p>
   <h6 class="card-text">Make sure you're logged in to CodePen. Fork this pen, save it to your 'j363' collection, then you can start:</h6>
-  <a href="https://codepen.io/novonagu/pen/WzmGrZ" class="btn btn-primary" target="_blank">Starter Pen</a>
+  <a href="https://codepen.io/novonagu/pen/WzmGrZ" class="btn btn-primary text-white" target="_blank">Starter Pen</a>
 </div>
 
 ### Step Two: p5.js tutorials and resources
@@ -58,4 +58,4 @@ Pay attention to the comments in the code. This will guide you to the changes yo
 
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 4`
 
-#### **Due Friday November 30th at 11:59pm**
+#### **Due Wed April 17th @ 11:59pm**

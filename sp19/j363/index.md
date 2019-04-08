@@ -273,3 +273,23 @@ Some thoughts for this project:
  * Don't get discouraged if your site doesn't come out exactly as you envisioned; Webflow has a learning curve and you shouldn't expect your first project to be 100% perfect.
  * Remember that setbacks, roadblocks, and hurdles are all part of the process of creating. Embrace these as part of the process _(easier said than done, I know)_
  * Above all, have fun with the project and make it into something that will serve you in the future
+
+## week 13
+Our remaining time together will focus on using [p5.js](https://p5js.org/), a JavaScript Library, to create interactive media for the web.
+
+### In Class
+ * `watch` _Hello P5_
+ * `create` an account on Codepen.io. I recommend making a `j363` collection for this class. You will need to verify your e-mail in order to do this.
+ * `codepen` lesson [13.1: Introducing Codepen](https://codepen.io/novonagu/pen/Brvogm)
+ * `codepen` lesson [13.2: Introducing JavaScript](https://codepen.io/novonagu/pen/WzLxoj)
+ * `codepen` lesson [13.3: Introducing p5.js](https://codepen.io/novonagu/pen/qovaxE)
+ * `participation`:
+   * make sure you have forked 13.3 (you should be working on your pen, not mine)
+   * attempt to match [this image](mats/p5-participation.png)
+   * when finished, submit the CodePen URL on Canvas
+
+### At Home
+ * `watch` [p5.js tutorial 1.3: Shapes & Drawing](https://youtu.be/c3TeLi6Ns1E)
+ * `watch` [p5.js tutorial 1.4: Color](https://youtu.be/riiJTF5-N7c)
+ * `begin` [Homework Four](assignments/hw4.html). It is due `Wed April 17th @ 11:59pm`
+ * `begin` [Project Four](assignments/p4.html). It is due `Wed May 1st @ 11:59pm`
