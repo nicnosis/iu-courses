@@ -243,3 +243,9 @@ Get started on [Project Three](assignments/p3.html).
 
 ### At Home
 You will have an in-class progress check __Wednesday April 17th__. You should be able to show visible progress, and some trajectory towards a complete project. You should present challenges and concerns, and also present potential solutions: _(e.g., I'm having trouble making a UI mask for my mini-map, so I'm going to watch [this](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-mask) tutorial)_
+
+## week 14
+Continue [Project Three](assignments/p3.html).
+
+#### Monday
+ * `participation`: complete Canvas response

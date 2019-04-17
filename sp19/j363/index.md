@@ -313,6 +313,10 @@ Our remaining time together will focus on using [p5.js](https://p5js.org/), a Ja
  * `codepen` lesson [14.1: constrain()](https://codepen.io/novonagu/pen/wJPzmO)
  * `codepen` lesson [14.2: map()](https://codepen.io/novonagu/pen/QpOqXg?editors=0010)
 
+#### Wednesday
+ * I will meet with you individually to discuss your Project Four Idea
+ * `participation`: Complete the Canvas response
+
 ### At Home
  * `complete` [Homework Four](assignments/hw4.html). It is due `Wed April 17th @ 11:59pm`
  * `continue` [Project Four](assignments/p4.html). It is due `Wed May 1st @ 11:59pm`
