@@ -320,3 +320,8 @@ Our remaining time together will focus on using [p5.js](https://p5js.org/), a Ja
 ### At Home
  * `complete` [Homework Four](assignments/hw4.html). It is due `Wed April 17th @ 11:59pm`
  * `continue` [Project Four](assignments/p4.html). It is due `Wed May 1st @ 11:59pm`
+
+## week 15
+ * `complete` [OCQ](https://one.iu.edu/task/iub/course-evaluations)
+ * `codepen` lesson [15.1: Fullscreen sketches](https://codepen.io/novonagu/pen/ROBwaR)
+ * `continue` [Project Four](assignments/p4.html). It is due `Wed May 1st @ 11:59pm`

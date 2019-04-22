@@ -249,3 +249,6 @@ Continue [Project Three](assignments/p3.html).
 
 #### Monday
  * `participation`: complete Canvas response
+
+#### Wednesday
+ * Progress check! I'll grade today's Canvas `participation` for you after meeting to look at your project.

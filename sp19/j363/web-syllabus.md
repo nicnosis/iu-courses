@@ -10,15 +10,11 @@
 13526 --- Meets MW 8:30A -- 10:30A  
 13366 --- Meets MW 10:45A -- 12:45P  
 
+**PREREQUISITES**  
+MSCH-C101 --- Introduction to Media
+
 ## Description
 Web design has a profound impact on our everyday experiences of work, recreation, and communication. You will develop practical, marketable skills for front-end web development. Fundamentally, this course focuses on **experience** and **design** as they relate to web development; technical details and coding are secondary. The Internet is constantly evolving - sometimes in a way that is seemingly unpredictable and erratic. Upon completion of this course, you will have a strong foundation of the technical and design skills necessary to produce pleasant web experiences, and the skills to adapt to a constantly-changing medium.
-
-### Prerequisites
-```
-(JOUR-J 110 or JOUR-H 110 or MSCH-C 101) and  
-(JOUR-J 200 or JOUR-H 200 or MSCH-C 225 or MSCH-H 225) and  
-(JOUR-J 210 or MSCH-C 226) with a grade of C- or better in each
-```
 
 ## Objectives
 In this course, you will:
