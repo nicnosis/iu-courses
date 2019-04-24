@@ -252,3 +252,10 @@ Continue [Project Three](assignments/p3.html).
 
 #### Wednesday
  * Progress check! I'll grade today's Canvas `participation` for you after meeting to look at your project.
+
+## week 15
+#### Monday
+ * `complete` [OCQ](https://one.iu.edu/task/iub/course-evaluations)
+ * `participation`: complete Canvas response
+
+Continue [Project Three](assignments/p3.html). It is due __Wednesday May 1st__ at 11:59pm
