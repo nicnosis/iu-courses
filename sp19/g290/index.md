@@ -258,4 +258,7 @@ Continue [Project Three](assignments/p3.html).
  * `complete` [OCQ](https://one.iu.edu/task/iub/course-evaluations)
  * `participation`: complete Canvas response
 
+#### Wednesday
+ * `participation`: complete Canvas response
+
 Continue [Project Three](assignments/p3.html). It is due __Wednesday May 1st__ at 11:59pm
