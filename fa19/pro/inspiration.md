@@ -4,7 +4,7 @@ title: 'Web Design'
 footer: ' '
 highlight: inspiration
 term: 'fa19'
-course: 'g290'
+course: 'pro'
 ---
 # Inspiration
 This collection of tools, links, and resources is meant to supplement your creative discovery process. However, none of these can replace genuine curiosity and interest, iteration, and ambition.

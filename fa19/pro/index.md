@@ -4,7 +4,7 @@ title: 'Procedural Art'
 footer: ' '
 highlight: home
 term: 'fa19'
-course: 'g290'
+course: 'pro'
 ---
 ## week 1
 This week you will familiarize yourself with course materials.

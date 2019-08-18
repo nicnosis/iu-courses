@@ -1,14 +1,13 @@
-# J363 WEB & MOBILE DESIGN SPRING 2019
+# J363 WEB & MOBILE DESIGN FALL 2019
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
 **OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:30A -- 11:30A
 
-**TEACHING ASSISTANT** --- Briana Huskin --- bhuskin@iu.edu
 
 
 **LOCATION**--- Franklin Hall 003  
 **SECTIONS**  
-13526 --- Meets MW 8:30A -- 10:30A  
-13366 --- Meets MW 10:45A -- 12:45P  
+13428 --- Meets MW 8:30A -- 10:30A  
+13429 --- Meets MW 10:45A -- 12:45P  
 
 **PREREQUISITES**  
 MSCH-C101 --- Introduction to Media
@@ -38,8 +37,8 @@ Unit One tackles the basics of web design and HTML, which is used to create the 
 ### Unit Two: CSS
 Unit Two focuses on CSS, which is used to control the style and appearance of HTML elements. You will learn how to import, create, and work with stylesheets. This unit will give you more creative control over how your sites look and feel.
 
-### Unit Three: Bootstrap
-Unit Three will acquaint you with __Bootstrap__, a powerful framework for creating webpages. You will use Bootstrap's elegant grid system to create aesthetic, responsive websites.
+### Unit Three: Webflow
+Unit Three will acquaint you with __Webflow__, a powerful emerging software for creating responsive websites quickly.
 
 ### Unit Four: JavaScript
 Unit Four will introduce you to JavaScript. This unit will teach you how to introduce functionality and behavior into your website, while learning valuable programming principles that can be applied to other languages.
@@ -57,8 +56,8 @@ You will construct a basic website outline using HTML. This project assesses stu
 #### Project 2--- Styling and CSS (15 pts.)
 The focus of Project 2 is CSS. You will demonstrate their ability to add visual elements and style to sites. Project 2 will test students' knowledge of CSS selectors, properties, and values, as well as the Box-Model.
 
-#### Project 3--- Bootstrap Site (15 pts.)
-You will design, prototype, and develop a single-page website using [Bootstrap](http://getbootstrap.com/). This project is designed to combine all of the skills you've acquired throughout the semester.
+#### Project 3--- Webflow Site (15 pts.)
+You will design, prototype, and develop a website using [Webflow](https://webflow.com/). This project is designed to combine all of the skills you've acquired throughout the semester.
 
 #### Project 4--- JavaScript (15 pts.)
 You will use Javascript to create an interactive visualization, with JavaScript's [p5.js](https://p5js.org/) library.
@@ -255,28 +254,28 @@ This course is rich in content and skill levels vary widely among students. The 
 ### Final Grade
 The instructor reserves the right to adjust your final grade based on effort, participation, or conduct. This is uncommon.
 
-<div style="page-break-after: always;"></div>
+<!--<div style="page-break-after: always;"></div>-->
 
 ## Tentative Schedule
 
 |         |                      |                                   |
 |:--------|:---------------------|:----------------------------------|
-| week 1  | Mon 1/7, Wed 1/9     | Intro to HTML, tags               |
-| week 2  | Mon 1/14, Wed 1/16   | HTML structure, common elements   |
-| week 3  | Mon 1/21             | __MLK Jr. Day. No Class__         |
-| week 3  | Wed 1/23             | Divs, spans, and containers       |
-| week 4  | Mon 1/28, Wed 1/30   | Text, images, links               |
-| week 5  | Mon 2/4, Wed 2/6     | Introducing CSS                   |
-| week 6  | Mon 2/11, Wed 2/13   | Selectors, class and id           |
-| week 7  | Mon 2/18, Wed 2/20   | Text styling                      |
-| week 8  | Mon 2/25, Wed 2/27   | Layouts with styling              |
-| week 9  | Mon 3/ 4, Wed 3/6     | Intro to Bootstrap                |
-|         | Sun 3/10 -- Sun 3/17 | __SPRING BREAK__                  |
-| week 10 | Mon 3/18, Wed 3/20   | Bootstrap grid system             |
-| week 11 | Mon 3/25, Wed 3/27   | Responsive design                 |
-| week 12 | Mon 4/1, Wed 4/3     | JavaScript statements, data types |
-| week 13 | Mon 4/8, Wed 4/10    | JavaScript variables and arrays   |
-|         | Sun 4/14             | __AUTO W__                        |
-| week 14 | Mon 4/15, Wed 4/17   | JavaScript logic flow             |
-| week 15 | Mon 4/22, Wed 4/24   | Introducing p5.js                 |
-| week 16 | Mon 4/29 -- Fri 5/3  | __FINALS__                        |
+| week 1  | Mon 8/26, Wed 8/28   | Intro to HTML, tags               |
+| week 2  | Mon 9/2              | __Labor Day. No Class__         |
+| week 2  | Wed 9/4              | Links and Images                   |
+| week 3  | Mon 9/9, Wed 9/11    | Site Structure, Intro to CSS      |
+| week 4  | Mon 9/16, Wed 9/18   | CSS Selectors                     |
+| week 5  | Mon 9/23, Wed 9/25   | Box Model, Display/Position       |
+| week 6  | Mon 9/30, Wed 10/2   | CSS Grid, Hero Images             |
+| week 7  | Mon 10/7, Wed 10/9   | Project Two work                  |
+| week 8  | Mon 10/14, Wed 10/16  | WebFlow Elements and Hierarchy   |
+| week 9  | Mon 10/21, Wed 10/23  | WebFlow Styling, Responsive Design|
+|         | Sun 10/27            | __AUTO W__                        |
+| week 10 | Mon 10/28, Wed 10/30 | WebFlow CMS, Dynamic Content      |
+| week 11 | Mon 11/4, Wed 11/6   | Project Three work, group critiques|
+| week 12 | Mon 11/11, Wed 11/13 | Project Three: responsive design  |
+| week 13 | Mon 11/18, Wed 11/20 | Introducing p5.js                 |
+|         | Sun 11/24 -- Sun 12/1| __THANKSGIVING BREAK__            |
+| week 14 | Mon 12/2, Wed 12/4   | p5.js random/constrain            |
+| week 15 | Mon 12/9, Wed 12/11  | Project Four work                 |
+| week 16 | Mon 12/16 -- Fri 12/20| __FINALS__                        |

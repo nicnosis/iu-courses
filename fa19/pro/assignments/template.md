@@ -5,7 +5,7 @@ footer: ''
 highlight: 'assignments'
 term: 'sp18'
 term: 'sp18'
-course: 'g290'
+course: 'pro'
 ---
 # Homework One - Basic HTML Tags
 ## Description
