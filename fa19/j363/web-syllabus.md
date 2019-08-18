@@ -254,7 +254,7 @@ This course is rich in content and skill levels vary widely among students. The 
 ### Final Grade
 The instructor reserves the right to adjust your final grade based on effort, participation, or conduct. This is uncommon.
 
-<!--<div style="page-break-after: always;"></div>-->
+<div style="page-break-after: always;"></div>
 
 ## Tentative Schedule
 
