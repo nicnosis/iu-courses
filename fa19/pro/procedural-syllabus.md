@@ -44,10 +44,10 @@ Having a relatively small class size will give students more freedom in their pu
 ## Structure
 The first unit of this course is more rigid and structured, and the second unit is more open-ended and free-form.
 
-### Unit One: Abstraction (p5.js)
+### Unit One: 2D (p5.js)
 In this unit, students will use p5.js, a JavaScript library, to learn the basics of object-oriented programming. Students will create artwork that is dynamic, interactive, and procedurally-generated. Artwork in this unit will be abstract and exploratory.
 
-### Unit Two: Representation (Houdini)
+### Unit Two: 3D (Houdini)
 In this unit, students will use Houdini _(and other tools if desired)_ to create 3D graphics. Having developed an understanding of how procedural generation works, students can use tools to automate the process. Artwork in this unit is generally more 'realistic' and representational.
 
 Game design students may find this unit useful in creating assets for their games. Applications might include procedurally-generated levels, terrains, textures, and particle effects.

@@ -7,9 +7,15 @@ term: 'fa19'
 course: 'pro'
 ---
 ## week 1
-This week you will familiarize yourself with course materials.
 
 ### In Class
 #### Monday
- * `take` [this pre-test](https://goo.gl/forms/Q6egP90FeY4Bm80X2)
- * `download` [1.1-inspect.zip](mats/1.1-inspect.zip) for today's activity
+ * `take` [this pre-test](https://forms.gle/M5Lm7YciW6BFaMkz9)
+ * `sign up` on [CodePen](https://codepen.io)
+ * `watch` **hello p5.js**
+ 
+### At Home
+ * `begin` Homework One
+ * `read` coursescript notes on [drawing](http://coursescript.com/notes/interactivecomputing/drawing/index.html)
+ * `watch` shiffman 1.3 [shapes and drawing](https://youtu.be/c3TeLi6Ns1E)
+
