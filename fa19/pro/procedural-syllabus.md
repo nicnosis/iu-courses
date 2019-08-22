@@ -95,7 +95,6 @@ Unprofessional behavior includes (but is not limited to):
 ### Final
 There is no final exam for this class; you will present a final project instead.
 
-<div style="page-break-after: always;"></div>
 
 ## Grading
 ### Points
