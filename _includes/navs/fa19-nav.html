@@ -8,7 +8,13 @@
         <ul class="nav navbar-nav">
             <!-- BRAND -->
             <li class="nav-item">
-                <a href="{{path}}/../.." class="navbar-brand">{{page.course}}</a>
+                <a href="{{path}}/../.." class="navbar-brand">
+                    {% if page.course == 'pro' %}
+                        pro.art
+                    {% else %}
+                        {{page.course}}
+                    {% endif %}
+                </a>
             </li>
             <!--END BRAND-->
 

@@ -5,10 +5,9 @@
 
 **LOCATION**--- Franklin Hall 052  
 **SECTIONS**  
-xxxxx --- Meets MW 2:30p -- 4:30p
+11549 --- Meets 4:00p -- 5:15p
 
 ## Description
-
 
 ### Prerequisites
 ```
@@ -48,8 +47,8 @@ The first unit of this course is more rigid and structured, and the second unit 
 ### Unit One: Abstraction (p5.js)
 In this unit, students will use p5.js, a JavaScript library, to learn the basics of object-oriented programming. Students will create artwork that is dynamic, interactive, and procedurally-generated. Artwork in this unit will be abstract and exploratory.
 
-### Unit Two: Representation (Houdini, Cinema4D)
-In this unit, students will use Houdini, Cinema4D _(and other tools if desired)_ to create 3D graphics. Having developed an understanding of how procedural generation works, students can use tools to automate the process. Artwork in this unit is generally more 'realistic' and representational.
+### Unit Two: Representation (Houdini)
+In this unit, students will use Houdini _(and other tools if desired)_ to create 3D graphics. Having developed an understanding of how procedural generation works, students can use tools to automate the process. Artwork in this unit is generally more 'realistic' and representational.
 
 Game design students may find this unit useful in creating assets for their games. Applications might include procedurally-generated levels, terrains, textures, and particle effects.
 
@@ -60,10 +59,10 @@ This class is project-driven, and demands consistent effort inside and outside o
 ### Projects (55 pts.)
 This class features four large-scale projects.
 
- * Project 1--- students demonstrate understanding of programming principles with p5.js
- * Project 2--- students create dynamic and interactive artwork with p5.js.
- * Project 3--- students gain familiarity with Houdini/Cinema4D
- * Project 4--- students integrate all of their knowledge from the semester into a culminating final project of their choice.
+ * Project 1 (10 pts.) --- students demonstrate understanding of programming principles with p5.js
+ * Project 2 (10 pts.) --- students create dynamic and interactive artwork with p5.js.
+ * Project 3 (15 pts.) --- students gain familiarity with Houdini
+ * Project 4 (20 pts.) --- students integrate all of their knowledge from the semester into a culminating final project of their choice.
 
 
 ### Homework (20 pts.)
@@ -105,9 +104,9 @@ There are a total of **100** points in this class. The grade is divided as follo
 | Assignment                 |  Points |
 |:---------------------------|--------:|
 | Project 1                  |      10 |
-| Project 2                  |      15 |
+| Project 2                  |      10 |
 | Project 3                  |      15 |
-| Project 4                  |      15 |
+| Project 4                  |      20 |
 | Homeworks (4 @ 5 pts each) |      20 |
 | Quizzes/Participation      |      20 |
 | Professionalism            |       5 |
@@ -154,17 +153,10 @@ We will use:
 
 1. p5.js
 2. Houdini
-3. Cinema4D
-4. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
-5. Adobe Creative Suite. [Here's a link to get you started](https://kb.iu.edu/d/bffs).
+3. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
+4. Adobe Creative Suite. [Here's a link to get you started](https://kb.iu.edu/d/bffs).
 
-#### Optional Software
-Students are able to use software of their choice as long as it fulfills the vision of each project. Some other software of interest might be:
 
- * Processing
- * Python
- * Maya (MASH)
- * Substance Designer
 
 
 ### Hardware

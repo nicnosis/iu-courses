@@ -1,4 +1,4 @@
-{% if page.course == 'g290' %}
+{% if page.course == 'g290' or page.course == 'pro' %}
 let gradients = [
     ['#ff9966', '#ff5e62'],
     ['#ff385c', '#ffb35b']
