@@ -39,6 +39,10 @@ Make sure you understand:
  
 ## week 2
 ### In Class
+#### Wednesday
+ * `codepen` lesson [2.1: review](https://codepen.io/novonagu/pen/RwbjbER)
+ * `codepen` lesson [2.2: conditional logic](https://codepen.io/novonagu/pen/NWKwKZy)
+ * `codepen` lesson [2.3: interaction](https://codepen.io/novonagu/pen/bGbYGGL)
 
 ### At Home
 * `begin` [Project One](assignments/p1.html). It is due `Sunday September 15th @ 11:59pm`
@@ -53,10 +57,10 @@ Make sure you understand:
 
 
 Make sure you understand:
- * Keyboard/Mouse input--- `mousePressed()`, `keyPressed()` and others
- * Conditionals--- `if` statement
  * Comparison operators--- `<`, `>`, `<=`, `>=`, `==`, and `===`
- * Logical operators--- `&&`, `||`, `!`
+ * Conditionals--- `if` statement
  * Boolean variable types--- `true` and `false`
+ * Logical operators--- `&&`, `||`, `!`
+ * Keyboard/Mouse input--- `mousePressed()`, `keyPressed()` and others
  * System variables-- `width`, `height`, `mouseX`, `mouseY`
  * User-defined variables--- how to assign and reference your own variables
