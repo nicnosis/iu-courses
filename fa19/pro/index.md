@@ -64,3 +64,13 @@ Make sure you understand:
  * Keyboard/Mouse input--- `mousePressed()`, `keyPressed()` and others
  * System variables-- `width`, `height`, `mouseX`, `mouseY`
  * User-defined variables--- how to assign and reference your own variables
+ 
+## week 3
+### In Class
+#### Monday
+ * `codepen` [3.1 (challenge) Bouncy Ball](https://codepen.io/novonagu/pen/vYBdroo?editors=0010)
+ * `present` your Project One progress
+
+### At Home
+ * `review` previous week's materials if necessary
+ * `continue` [Project One](assignments/p1.html). It is due `Sunday September 15th @ 11:59pm`
