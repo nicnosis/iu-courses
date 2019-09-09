@@ -45,7 +45,7 @@ Make sure you understand:
  * `codepen` lesson [2.3: interaction](https://codepen.io/novonagu/pen/bGbYGGL)
 
 ### At Home
-* `begin` [Project One](assignments/p1.html). It is due `Sunday September 15th @ 11:59pm`
+* `begin` [Project One](assignments/p1.html). It is due `Monday September 16th @ 11:59pm`
 * On `Monday Sept 9th` you will have a progress check. You must present some progress on your project in order to receive participation credit for that day.
 * `read` coursescript notes on [animation](http://coursescript.com/notes/interactivecomputing/animation/index.html)
 * `read` [JS Variables](https://www.w3schools.com/js/js_variables.asp)
@@ -62,15 +62,18 @@ Make sure you understand:
  * Boolean variable types--- `true` and `false`
  * Logical operators--- `&&`, `||`, `!`
  * Keyboard/Mouse input--- `mousePressed()`, `keyPressed()` and others
- * System variables-- `width`, `height`, `mouseX`, `mouseY`
+ * System variables--- `width`, `height`, `mouseX`, `mouseY`
  * User-defined variables--- how to assign and reference your own variables
  
 ## week 3
+__Announcement:__ Project One due date has been extended to `Monday Sept 16th`
+
 ### In Class
 #### Monday
- * `codepen` [3.1 (challenge) Bouncy Ball](https://codepen.io/novonagu/pen/vYBdroo?editors=0010)
+ * `codepen` [3.1 review](https://codepen.io/novonagu/pen/vYBRNYq?editors=1010)
+ * `codepen` [3.2 (challenge) Bouncy Ball](https://codepen.io/novonagu/pen/vYBdroo)
  * `present` your Project One progress
 
 ### At Home
  * `review` previous week's materials if necessary
- * `continue` [Project One](assignments/p1.html). It is due `Sunday September 15th @ 11:59pm`
+ * `continue` [Project One](assignments/p1.html). It is due `Monday September 16th @ 11:59pm`
