@@ -70,6 +70,10 @@ No Class--- Labor Day!
  * `download` [3.1-links.zip](mats/3.1-links.zip)
  * `download` [3.2-structure.zip](mats/3.2-structure.zip)
  
+#### Wednesday
+ * `download` [3.3-review.zip](mats/3.3-review.zip)
+ * `download` [3.4-intro-to-css.zip](mats/3.4-intro-to-css.zip)
+
 ### At Home
  * `finish` [Project One](assignments/p1.html). `It is due Friday Sept 13th`
  
@@ -80,6 +84,7 @@ No Class--- Labor Day!
    * `complete` section 1: Selectors and Visual Rules
 
 #### W3Schools
+ * `read` [HTML Classes](https://www.w3schools.com/html/html_classes.asp)
  * `read` [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
  * `read` [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
  * `read` [CSS How To](https://www.w3schools.com/css/css_howto.asp)
