@@ -15,11 +15,6 @@ You should consider the designs of other food/restaurant websites.
 
 You are free to innovate and experiment creatively. I will provide a list of CSS properties you must use, but how you implement them is completely up to you.
 
-<div class="card-block">
-  <p class="card-text">Here's an example from one of our students:</p>
-  <a href="pdf/hw2-finished.pdf" class="btn btn-primary text-white" target="_blank">View Example</a>
-</div>
-
 ### Reference
 You should finish your CSS Codecademy lessons before attempting this assignment.
 
@@ -47,8 +42,19 @@ Create a new file called `styles.css` and link to it in `index.html`.  You will 
 #### Navigation
 You will want to change the navigation. I recommend [this guide](https://www.w3schools.com/css/css_navbar.asp) from W3Schools for ideas.
 
+You only need to have two functional pages: `index.html` and `about.html`
+
+#### about.html
+You must complete create another page, `about.html`. Both HTML pages should reference the same CSS stylesheet _(they should have the same visual look and feel)_.
+
+Most restaurants have a story behind their origin. On `about.html`, create a short narrative about the origin of _Pizza Bruh_, and include `one or more image(s)`... images might be of the fictional owner(s), location, venue, process, etc. 
+
 #### Images
-By default, the images are too large. I recommend using CSS to fix this.
+You will want to create a [hero image](https://www.w3schools.com/howto/howto_css_hero_image.asp) for your site. This is a large, captivating photo that the user first sees when they enter the page.
+
+You should go to [Unsplash](https://unsplash.com/) or [Pexels](https://www.pexels.com/) for high-quality, reusable images.
+
+By default, the product images are too large. I recommend using CSS to fix this.
 
 You will want to:
 1. Assign a class to the `<img>` elements in `index.html`
@@ -59,6 +65,8 @@ You will want to:
   width: 400px;
 }
 ```
+
+Remember that you will need at least one image for `about.html`.
 
 #### Buttons
 The default "order now" buttons are not very exciting. Use CSS to make them more presentable. You might find [this guide](https://www.w3schools.com/css/css3_buttons.asp) helpful.
@@ -72,12 +80,6 @@ Implement each property from the following list at least once. How you choose to
  * [color](https://www.w3schools.com/cssref/pr_text_color.asp)
  * [width](https://www.w3schools.com/cssref/pr_dim_width.asp)
  * [margin](https://www.w3schools.com/cssref/pr_margin.asp) or [padding](https://www.w3schools.com/cssref/pr_padding.asp)
-
-#### Optional properties
-You may also choose to implement these: _(and any other properties you may want)_
-
- * [border](https://www.w3schools.com/cssref/pr_border.asp)
- * [text-transform](https://www.w3schools.com/cssref/pr_text_text-transform.asp)
 
 ### File and folder names `1 pt.`
  * DO NOT use spaces in your filenames. Use hyphens instead
@@ -93,11 +95,19 @@ Your code should:
  * Follow conventions described in class and in the reading _(e.g., do not capitalize tags, use quotation marks when specifying an attribute)_
 
 #### HTML
-Changes to HTML be minimal. Here are things you'll probably do:
+Things you'll want to do:
 
 1. Create a &lt;link&gt; tag in the `<head>` to import your `styles.css`
-2. Assign classes or ids to elements as you need. There is no right/wrong way to do this; use your intuition.
-3. Use the classes or ids as selectors in your CSS.
+2. Group related content with `<section>` or `<div>` tags.
+3. Assign classes or ids to elements as you need. There is no right/wrong way to do this; use your intuition.
+4. Use the classes or ids as selectors in your CSS.
+
+For about.html:
+
+1. Make a new file, call it `about.html`
+2. Save it and start typing `html`, Atom will allow you to auto-complete and fill in the basic structure of an HTMl page
+3. Include your image
+4. Include your narrative
 
 ##### example
 ###### _index.html_ :
@@ -119,4 +129,4 @@ Changes to HTML be minimal. Here are things you'll probably do:
 ## Submission - Canvas
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 2`
 
-#### **Due Friday 2/8/2019 at 11:59pm**
+#### **Due Friday Sept 27th at 11:59pm**

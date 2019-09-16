@@ -74,6 +74,26 @@ __Announcement:__ Project One due date has been extended to `Monday Sept 16th`
  * `codepen` [3.2 (challenge) Bouncy Ball](https://codepen.io/novonagu/pen/vYBdroo)
  * `present` your Project One progress
 
+#### Wednesday
+ * `continue` working on your project.
+ * `participation`: complete the Canvas response. Give me an idea of one thing you want to focus on _(especially if it's a technical challenge)_
+
 ### At Home
  * `review` previous week's materials if necessary
  * `continue` [Project One](assignments/p1.html). It is due `Monday September 16th @ 11:59pm`
+
+## week 4
+### In Class
+#### Monday
+Continue your work on Project One.
+
+#### Wednesday
+ * We will not meet in class, instead, you will have a video lecture to complete.
+ * `codepen` [lesson 4.1: dat gui](https://codepen.io/novonagu/pen/xxKJjYM)
+ * `watch` this [video tutorial](https://www.youtube.com/watch?v=mY4nJjEGQxY)
+ * `submit` your link on Canvas
+ * Here's another [useful example](https://editor.p5js.org/slow_izzm/sketches/rJXAyI7JV) of using dat.GUI and p5 together
+ 
+### At Home
+ * `continue` [Project One](assignments/p1.html). It is due `Monday September 16th @ 11:59pm`
+ * `begin` [Homework Two](assignments/hw2.html). It is due `Sunday September 29th @ 11:59pm`
