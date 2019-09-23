@@ -97,3 +97,15 @@ Continue your work on Project One.
 ### At Home
  * `continue` [Project One](assignments/p1.html). It is due `Monday September 16th @ 11:59pm`
  * `begin` [Homework Two](assignments/hw2.html). It is due `Sunday September 29th @ 11:59pm`
+
+## week 5
+### In Class
+ * `codepen` [lesson 5.1: objects](https://codepen.io/novonagu/pen/BaBvGyp)
+ 
+
+### At Home
+ * `read` W3Schools: [JS Objects](https://www.w3schools.com/js/js_objects.asp)
+ * `read` W3Schools: [JS Classes](https://www.w3schools.com/js/js_classes.asp)
+ * `watch` shiffman 2.3 [JS Objects](https://youtu.be/-e5h4IGKZRY)
+ * `watch` shiffman 6.2 [Classes in JavaScript](https://youtu.be/T-HGdc8L-7w)
+ * `complete` [Homework Two](assignments/hw2.html). It is due `Sunday September 29th @ 11:59pm`
