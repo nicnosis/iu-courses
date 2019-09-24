@@ -120,12 +120,12 @@ There is __NO CLASS__ Wednesday September 18th. Use this time to work on __Homew
  * `inspiration` [happymeter.lol](http://happymeter.lol/)
  * `download` [4.2-selectors.zip](mats/4.2-selectors.zip)
 
-<!--#### Wednesday-->
-<!-- * `inspiration` [theartery](https://www.the-artery.com/)-->
-<!-- * `download` [5.1-box-model.zip](mats/5.1-box-model.zip)-->
+#### Wednesday
+ * `inspiration` [theartery](https://www.the-artery.com/)
+ * `download` [5.1-box-model.zip](mats/5.1-box-model.zip)
 
 ### At Home
- * `complete` [Homework Two](assignments/hw2.html). It is due `Friday Sept 27th` at 11:59pm
+ * `complete` [Homework Two](assignments/hw2.html). It is due `Monday Sept 30th` at 11:59pm
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)

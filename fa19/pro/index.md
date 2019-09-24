@@ -104,11 +104,20 @@ Continue your work on Project One.
  * `codepen` [lesson 5.1: objects](https://codepen.io/novonagu/pen/BaBvGyp)
  * `codepen` [lesson 5.2: classes](https://codepen.io/novonagu/pen/eYObQJL)
  * `submit` participation as instructed.
- 
 
+#### Wednesday
+ * `codepen` [lesson 5.4: arrays](https://codepen.io/novonagu/pen/qBWvExq)
+ * `codepen` [lesson 5.5: for loops](https://codepen.io/novonagu/pen/ExYMaLP)
+ * `codepen` [lesson 5.6: looping with objects](https://codepen.io/novonagu/pen/bGbZNxQ)
+ 
 ### At Home
  * `read` W3Schools: [JS Objects](https://www.w3schools.com/js/js_objects.asp)
  * `read` W3Schools: [JS Classes](https://www.w3schools.com/js/js_classes.asp)
+ * `read` W3Schools: [JS Arrays](https://www.w3schools.com/js/js_arrays.asp)
+ * `read` W3Schools: [JS for loops](https://www.w3schools.com/js/js_loop_for.asp)
  * `watch` shiffman 2.3 [JS Objects](https://youtu.be/-e5h4IGKZRY)
+ * `watch` shiffman 4.1 [for loops](https://youtu.be/cnRD9o6odjk)
+ * `watch` shiffman 4.2 [nested loops](https://youtu.be/1c1_TMdf8b8)
  * `watch` shiffman 6.2 [Classes in JavaScript](https://youtu.be/T-HGdc8L-7w)
  * `complete` [Homework Two](assignments/hw2.html). It is due `Sunday September 29th @ 11:59pm`
+ * Begin thinking about Project Two. You will use `dat.GUI`, objects, arrays, and looping.
