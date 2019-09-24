@@ -100,7 +100,10 @@ Continue your work on Project One.
 
 ## week 5
 ### In Class
+#### Monday
  * `codepen` [lesson 5.1: objects](https://codepen.io/novonagu/pen/BaBvGyp)
+ * `codepen` [lesson 5.2: classes](https://codepen.io/novonagu/pen/eYObQJL)
+ * `submit` participation as instructed.
  
 
 ### At Home
