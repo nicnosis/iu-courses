@@ -137,3 +137,20 @@ There is __NO CLASS__ Wednesday September 18th. Use this time to work on __Homew
  * `read` [CSS Padding](https://www.w3schools.com/Css/css_padding.asp)
  * `read` [CSS Width/Height](https://www.w3schools.com/Css/css_dimension.asp)
  * `read` [CSS Box Model](https://www.w3schools.com/Css/css_boxmodel.asp)
+ 
+## week 6
+### Announcement
+If you want to send me your work through e-mail:
+
+1. Zip your folder (name correctly please)
+2. Upload to box.iu.edu
+3. Right-click share and get a shareable link
+4. E-mail me the link
+
+### In Class
+#### Monday
+ * `inspiration` [parall.ax](https://parall.ax/)
+ * `download` [6.1-display-position.zip](mats/6.1-display-position.zip)
+
+### At Home
+ * `complete` [Homework Two](assignments/hw2.html). It is due `Monday Sept 30th` at 11:59pm

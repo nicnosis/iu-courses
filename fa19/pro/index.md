@@ -109,6 +109,7 @@ Continue your work on Project One.
  * `codepen` [lesson 5.4: arrays](https://codepen.io/novonagu/pen/qBWvExq)
  * `codepen` [lesson 5.5: for loops](https://codepen.io/novonagu/pen/ExYMaLP)
  * `codepen` [lesson 5.6: looping with objects](https://codepen.io/novonagu/pen/bGbZNxQ)
+ * `submit` participation as instructed.
  
 ### At Home
  * `read` W3Schools: [JS Objects](https://www.w3schools.com/js/js_objects.asp)
@@ -120,4 +121,14 @@ Continue your work on Project One.
  * `watch` shiffman 4.2 [nested loops](https://youtu.be/1c1_TMdf8b8)
  * `watch` shiffman 6.2 [Classes in JavaScript](https://youtu.be/T-HGdc8L-7w)
  * `complete` [Homework Two](assignments/hw2.html). It is due `Sunday September 29th @ 11:59pm`
- * Begin thinking about Project Two. You will use `dat.GUI`, objects, arrays, and looping.
+ * `begin` thinking about Project Two. You will use `dat.GUI`, objects, arrays, and looping. Please come on `Monday` with an idea of what you might want to do for Project Two.
+ 
+## week 6
+### In Class
+ * `codepen` [lesson 6.1: Objects Review](https://codepen.io/novonagu/pen/GRKbWWJ)
+
+### At Home
+ * `watch` shiffman [9.1: Transformations Pt.1 (Translate, Rotate, Push/Pop)](https://youtu.be/o9sgjuh-CBM)
+ * `watch` shiffman [9.2: Transformations Pt.2 (Scale)](https://youtu.be/pkHZTWOoTLM)
+ * `watch` shiffman [9.3: Transformations Pt.3](https://youtu.be/IVMvq9rd8dA)
+ * `begin` [Project Two](assignments/p2.html)
