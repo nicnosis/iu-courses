@@ -152,5 +152,29 @@ If you want to send me your work through e-mail:
  * `inspiration` [parall.ax](https://parall.ax/)
  * `download` [6.1-display-position.zip](mats/6.1-display-position.zip)
 
+#### Wednesday
+ * `inspiration` [bande-a-part](http://www.bande-a-part.fr/)
+ * `download` [6.2-layouts.zip](mats/6.2-layouts.zip)
+ * `participation`: complete the response on Canvas
+
 ### At Home
- * `complete` [Homework Two](assignments/hw2.html). It is due `Monday Sept 30th` at 11:59pm
+ * `begin` [Project Two](assignments/p2.html). 
+
+Remember on Monday __you will need to prepare__ in order to participate.
+
+You will need:
+1. An idea that you’re committed to
+2. A rough sketch of your website
+3. Five links for [inspiration](inspiration.html)
+4. Ten images to define the look/feel of your site
+
+__You will submit these at the start of class Monday__. If you don't have all of them, you will not receive participation points. __Please come prepared__ so you can get the most out of this session.
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` section 3: Display and Positioning
+
+#### W3Schools
+ * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
+ * `read` [CSS Position](https://www.w3schools.com/cssref/pr_class_position.asp)
+ * `read` [CSS Box Sizing](https://www.w3schools.com/css/css3_box-sizing.asp)

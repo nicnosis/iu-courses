@@ -126,9 +126,20 @@ Continue your work on Project One.
 ## week 6
 ### In Class
  * `codepen` [lesson 6.1: Objects Review](https://codepen.io/novonagu/pen/GRKbWWJ)
+ * `codepen` [lesson 6.2: Transformations](https://codepen.io/novonagu/pen/dybBWNp)
+ * `Listen carefully` for today's `participation` instruction
+ * You will use the [inspiration page](inspiration.html)
 
 ### At Home
+ * __On WEDNESDAY OCT 2ND__ you must be prepared to present a 'stylescape' that contains:
+   * Five or more links for inspiration
+   * Twenty images for inspiration
+   * A short, written plan _(<100 words ideally)_ of your theme and idea. Be specific about how you want to use objects
+   * You will submit this before class in the form of a `pdf`
+   * __If you do not have this submitted__ by `4:00pm` on `Oct 2nd` __you will not receive participation points for the day__.
+
+ * Want some __EXTRA CREDIT__?!? Find me a source that isn't listed on our [inspiration page](inspiration.html) and send it to me via Canvas message.
  * `watch` shiffman [9.1: Transformations Pt.1 (Translate, Rotate, Push/Pop)](https://youtu.be/o9sgjuh-CBM)
  * `watch` shiffman [9.2: Transformations Pt.2 (Scale)](https://youtu.be/pkHZTWOoTLM)
  * `watch` shiffman [9.3: Transformations Pt.3](https://youtu.be/IVMvq9rd8dA)
- * `begin` [Project Two](assignments/p2.html)
+ * `begin` [Project Two](assignments/p2.html). It is due `Monday October 14th @ 11:59pm`
