@@ -178,3 +178,17 @@ __You will submit these at the start of class Monday__. If you don't have all of
  * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
  * `read` [CSS Position](https://www.w3schools.com/cssref/pr_class_position.asp)
  * `read` [CSS Box Sizing](https://www.w3schools.com/css/css3_box-sizing.asp)
+ 
+## week 7
+### In Class
+#### Monday
+ * You will use [this link](https://iu.box.com/s/40nqywiupmwjgtm7d6zn5sujtp5bzkwq) and download the PowerPoint file.
+ * Listen for instructions.
+ 
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html). `Due Monday October 14th at 11:59pm`
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * Work on sections 4–6. You should aim to complete these sections over the next week or two as you work on your project.

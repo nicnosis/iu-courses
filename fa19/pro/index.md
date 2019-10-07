@@ -143,3 +143,17 @@ Continue your work on Project One.
  * `watch` shiffman [9.2: Transformations Pt.2 (Scale)](https://youtu.be/pkHZTWOoTLM)
  * `watch` shiffman [9.3: Transformations Pt.3](https://youtu.be/IVMvq9rd8dA)
  * `begin` [Project Two](assignments/p2.html). It is due `Monday October 14th @ 11:59pm`
+ 
+## week 7
+### In Class
+#### Monday
+Listen for participation instructions.
+
+We will continue working on __Project Two__.
+
+By this point you should have:
+ * A solid idea that you're committed to
+ * A clear vision of your project's visual style
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html). It is due `Monday October 14th @ 11:59pm`
