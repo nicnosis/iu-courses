@@ -185,6 +185,8 @@ __You will submit these at the start of class Monday__. If you don't have all of
  * You will use [this link](https://iu.box.com/s/40nqywiupmwjgtm7d6zn5sujtp5bzkwq) and download the PowerPoint file.
  * Listen for instructions.
  
+#### Wednesday
+ * `download` [7.1-grid.zip](mats/7.1-grid.zip)
 
 ### At Home
  * `continue` [Project Two](assignments/p2.html). `Due Monday October 14th at 11:59pm`
