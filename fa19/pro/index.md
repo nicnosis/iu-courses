@@ -147,13 +147,23 @@ Continue your work on Project One.
 ## week 7
 ### In Class
 #### Monday
-Listen for participation instructions.
+Listen for `participation` instructions.
 
 We will continue working on __Project Two__.
 
 By this point you should have:
  * A solid idea that you're committed to
  * A clear vision of your project's visual style
+ 
+#### Wednesday
+Continue working on __Project Two__
 
 ### At Home
- * `continue` [Project Two](assignments/p2.html). It is due `Monday October 14th @ 11:59pm`
+ * `continue` [Project Two](assignments/p2.html).
+
+## week 8
+Listen for `participation` instructions
+
+This week you will finish [Project Two](assignments/p2.html). 
+
+I have extended the due date to `Sunday October 20th at 11:59pm`

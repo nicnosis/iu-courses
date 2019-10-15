@@ -189,8 +189,19 @@ __You will submit these at the start of class Monday__. If you don't have all of
  * `download` [7.1-grid.zip](mats/7.1-grid.zip)
 
 ### At Home
- * `continue` [Project Two](assignments/p2.html). `Due Monday October 14th at 11:59pm`
+ * `continue` [Project Two](assignments/p2.html). 
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * Work on sections 4–6. You should aim to complete these sections over the next week or two as you work on your project.
+ 
+## week 8
+#### Monday
+Listen for `participation` instructions.
+
+#### Wednesday
+If you haven't done so already, fill out [this form](https://forms.gle/AynrPRRwK7MNtwt99) so you get access to [Webflow](https://webflow.com/)
+
+This week you will finish [Project Two](assignments/p2.html).
+
+I have extended the due date to `Sunday October 20th at 11:59pm`
