@@ -167,3 +167,23 @@ Listen for `participation` instructions
 This week you will finish [Project Two](assignments/p2.html). 
 
 I have extended the due date to `Sunday October 20th at 11:59pm`
+
+## week 9
+We will begin using [Houdini](https://www.sidefx.com/).
+
+### In Class
+#### Monday
+ * `download` [organic-wires.hipnc](mats/organic-wires.hipnc)
+ * `submit` your `.hipnc` file for today's participation.
+
+#### Wednesday
+ * `check out` [this tutorial](https://www.sidefx.com/tutorials/nodes-networks-digital-assets/)
+
+### At Home
+ * `begin watching` the [Houdini Absolute Basics](https://www.sidefx.com/learn/collections/quickstart-houdinis-interface/) tutorial series
+   * View Tools
+   * Panes and Pane Tabs
+   * Workspace
+   * Network View
+   * Navigating Networks
+ * You may also like the [Houdini Foundations Book](https://www.sidefx.com/tutorials/houdini-foundations-book/) which has a free `.pdf` download.

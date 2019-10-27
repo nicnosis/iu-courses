@@ -205,3 +205,39 @@ If you haven't done so already, fill out [this form](https://forms.gle/AynrPRRwK
 This week you will finish [Project Two](assignments/p2.html).
 
 I have extended the due date to `Sunday October 20th at 11:59pm`
+
+## week 9
+This week, we will begin focusing on Project Three, a responsive site built in Webflow.
+
+Before next Monday (Oct 28th) you will complete HW3, which is a stylescape for this project.
+
+### In Class
+#### Monday
+ * `check` your e-mail and look for the Webflow invite. Click `join Nic's team`
+ * `download` [cake-assets.zip](mats/cake-assets.zip).
+ * `submit` a screenshot of your work today on Canvas for participation.
+
+#### Wednesday
+ * `practice` Webflow
+ * `complete` sketch exercise _(listen for instructions)_
+ * `submit` a response for today's participation exercise on Canvas
+
+### At Home
+ * `read` the description for [Project Three](assignments/p3.html)
+ * `complete` [Homework Three](assignments/hw3.html) this weekend. It is due __Monday Oct 28th__ at the __beginning of class__. Please bring a printed copy of your slides to class!
+ 
+ * `begin` watching the [Webflow 101 crash course](https://university.webflow.com/courses/webflow-101-crash-course) on Webflow University.
+   * `watch` section `intro`
+   * `watch` section `web structure`
+   * `watch` section `element basics`
+   
+## week 10
+#### Stylescapes
+We will work in groups to refine our stylescapes.
+
+Questions for discussion:
+ * __VISUAL COHESION__: Do the images/elements in the stylescape have a consistent look and feel? Do they look like they belong together? Are there images/elements that do not belong?
+ *  __DESCRIPTOR WORDS__: Do the three chosen words describe the personality of the brand? _(Remember: these words should describe the brand, not the product)_
+ * __ACTION__: Given the stylescape and the sketch, is it clear how you might go about building out the website?
+ 
+ * `submit` your participation response on Canvas
