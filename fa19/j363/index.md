@@ -238,6 +238,22 @@ We will work in groups to refine our stylescapes.
 Questions for discussion:
  * __VISUAL COHESION__: Do the images/elements in the stylescape have a consistent look and feel? Do they look like they belong together? Are there images/elements that do not belong?
  *  __DESCRIPTOR WORDS__: Do the three chosen words describe the personality of the brand? _(Remember: these words should describe the brand, not the product)_
- * __ACTION__: Given the stylescape and the sketch, is it clear how you might go about building out the website?
+ * __ACTION__: Given the stylescape and the sketch, is it clear how you might go about building this website?
+ * For each point above, make sure your classmate has specific and actionable feedback.
  
  * `submit` your participation response on Canvas
+ 
+#### Webflow
+ * `inspiration`: [Slick Template](https://webflow.com/website/FREEBIE:-Slick-Template)
+ * `download` [10.1-slick-assets.zip](mats/10.1-slick-assets.zip)
+ * Style info:
+   * Use `body (all pages)` selector and set the font to 'Open Sans'
+   * Use `All h1 headings` selector and set the font to 'Montserrat'. Color is #f36ea9. Font size is 70px and line-height is 75px
+ * For each project, add a link block and set the class to 'Project'. Inside of the link block you should have an image. When moving/copying/pasting Projects, please make sure you have 'Project' and not 'Image' selected
+
+### At Home
+ * `begin` [Project Three](assignments/p3.html)
+   * Remember that you cannot use templates for this assignment without my permission
+ * `continue` watching the [Webflow 101 crash course](https://university.webflow.com/courses/webflow-101-crash-course) on Webflow University.
+   * `watch` section `styling basics`
+   * `watch` section `layout`
