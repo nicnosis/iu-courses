@@ -187,3 +187,41 @@ We will begin using [Houdini](https://www.sidefx.com/).
    * Network View
    * Navigating Networks
  * You may also like the [Houdini Foundations Book](https://www.sidefx.com/tutorials/houdini-foundations-book/) which has a free `.pdf` download.
+ 
+## week 10
+### In Class
+#### Monday
+ * Rope exercise
+   * curves
+   * subdivide
+   * sweep node
+ * Destruction sim
+   * `download` [destruction1.hiplc](mats/destruction1.hiplc)
+   * `download` [destruction2.hiplc](mats/destruction2.hiplc)
+
+#### Wednesday
+ * Lights
+   * Environment Lights
+   * Point/Area/Distant Lights
+   * Working with HDRIs and using [hdrihaven.com](https://hdrihaven.com)
+   * Remember to put the .hdr in your project folder
+ * Materials
+   * Material Palette
+   * Principled Shader
+   * Changing parameters
+   * Putting it on an object: (At Object level) Parameters > Render Tab > Material
+ * Rendering
+   * Using the 'out' view in network view
+   * Making a 'mantra' mode
+   * Using MPlay
+   * Rendering individual frames
+   * Changing options
+     * Pixel Samples
+     * Global quality
+     * Diffuse quality
+     * Reflection quality
+     * Sub pixel
+ * `submit` a rendered frame for today's participation
+   
+### At Home
+ * `complete` [Homework Three](assignments/hw3.html). It is due `Sunday November 3rd @ 11:59pm`

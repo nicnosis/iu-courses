@@ -232,7 +232,9 @@ Before next Monday (Oct 28th) you will complete HW3, which is a stylescape for t
    * `watch` section `element basics`
    
 ## week 10
-#### Stylescapes
+#### Monday
+__Stylescapes__
+
 We will work in groups to refine our stylescapes.
 
 Questions for discussion:
@@ -243,7 +245,7 @@ Questions for discussion:
  
  * `submit` your participation response on Canvas
  
-#### Webflow
+__Webflow__
  * `inspiration`: [Slick Template](https://webflow.com/website/FREEBIE:-Slick-Template)
  * `download` [10.1-slick-assets.zip](mats/10.1-slick-assets.zip)
  * Style info:
@@ -251,9 +253,38 @@ Questions for discussion:
    * Use `All h1 headings` selector and set the font to 'Montserrat'. Color is #f36ea9. Font size is 70px and line-height is 75px
  * For each project, add a link block and set the class to 'Project'. Inside of the link block you should have an image. When moving/copying/pasting Projects, please make sure you have 'Project' and not 'Image' selected
 
+#### Wednesday
+ * `inspiration` [finsweet](https://www.finsweet.com/portfolio)
+   * How would you describe the character/personality of this brand? _(Pay attention to the language they use on their page)_
+   * What are the most notable visual elements you see?
+
+ * `inspiration` [Carbon Beauty](https://www.carbonbeauty.com/)
+   * How would you describe the character/personality of this brand?
+   * What are the most notable visual elements you see? Think about:
+     * Size, proportion, spacing
+     * Layout, structure, grids/columns etc.
+
+ * `create` the 'skeleton' (structure) for your website today (if you haven't already)
+ * `publish` your Webflow site and `submit` a link for today. 
+
+
 ### At Home
  * `begin` [Project Three](assignments/p3.html)
    * Remember that you cannot use templates for this assignment without my permission
  * `continue` watching the [Webflow 101 crash course](https://university.webflow.com/courses/webflow-101-crash-course) on Webflow University.
    * `watch` section `styling basics`
    * `watch` section `layout`
+   
+## week 11
+We will continue working on Project Three. At this point you should:
+ * Have a solid idea of your site's look and feel
+ * Have your site skeleton finished
+ * Feel comfortable with Webflow basics
+ * Have a clear vision for your path forward
+ 
+### Monday
+ * `inspiration` [okalpha](https://webflow.com/website/Okalpha)
+ * `download` [11.1-cms-cakes.zip](mats/11.1-cms-cakes.zip)
+
+### At Home
+ * `continue` [Project Three](assignments/p3.html). If you are doing a portfolio then you really want to use [this tutorial](https://university.webflow.com/courses/building-a-portfolio-website)

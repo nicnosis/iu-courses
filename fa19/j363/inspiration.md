@@ -15,6 +15,7 @@ You need to look at creative work every day. These are good starting places.
 I'd recommend installing the [Muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?hl=en) Chrome Extension!
 
 1. [Awwwards](https://www.awwwards.com/). Award-winning websites.
+2. [Webflow Showcase](https://webflow.com/discover/popular#recent)
 2. [Behance.net](https://behance.net)
     1. Make sure you check out their [curated galleries](https://www.behance.net/galleries).
     2. Remember that you can search by fields such as [UI/UX](https://www.behance.net/search?field=132&content=projects&sort=featured_date&time=week&featured_on_behance=true) or hashtags such as _#generative_
