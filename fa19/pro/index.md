@@ -225,3 +225,26 @@ We will begin using [Houdini](https://www.sidefx.com/).
    
 ### At Home
  * `complete` [Homework Three](assignments/hw3.html). It is due `Sunday November 3rd @ 11:59pm`
+ 
+ 
+## week 11
+### In Class
+#### Monday
+ * Review Rendering
+ * Boolean
+ * For loops
+ * Randomize
+ * `download` [Types_Of_Loops.hipnc](mats/Types_Of_Loops.hipnc)
+ * `download` [Foreach_Loop_Example.hiplc](mats/Foreach_Loop_Example.hiplc)
+ 
+#### Wednesday
+ * Switch node
+ * Randomization
+   * Article: [Different Ways to Randomize Scale in Houdini](https://houdinitricks.com/different-ways-to-randomize-scale-in-houdini/)
+   * Attribute Wrangle
+   * Point node
+   * Attribute Randomizer
+ * [Intro to Vex](http://www.tokeru.com/cgwiki/index.php?title=JoyOfVex)
+
+### At Home
+ * `begin` [Project Three](assignments/p3.html)

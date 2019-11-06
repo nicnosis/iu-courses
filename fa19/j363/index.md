@@ -286,5 +286,20 @@ We will continue working on Project Three. At this point you should:
  * `inspiration` [okalpha](https://webflow.com/website/Okalpha)
  * `download` [11.1-cms-cakes.zip](mats/11.1-cms-cakes.zip)
 
+### Wednesday
+Read the article for your assigned number:
+ * ONE: [hella cocktail co](https://www.underconsideration.com/brandnew/archives/new_logo_and_packaging_for_hella_cocktail_co_by_we_are_bill.php)
+ * TWO: [Vonage](https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_vonage_by_wolff_olins.php)
+ * THREE: [Seyfarth](https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_seyfarth_by_carbone_smolan_agency.php)
+ * FOUR: [PBS](https://www.underconsideration.com/brandnew/archives/new_logo_for_pbs_by_lippincott.php)
+ * FIVE: [Facebook](https://www.underconsideration.com/brandnew/archives/new_logo_for_facebook_inc_done_in_house_with_dalton_maag_and_saffron.php)
+ 
+Answer the following questions:
+ * What major changes were made?
+ * Why were they made?
+ * How will this affect the brand moving forward?
+ 
+For `participation`, head over to Canvas and complete the response.
+
 ### At Home
  * `continue` [Project Three](assignments/p3.html). If you are doing a portfolio then you really want to use [this tutorial](https://university.webflow.com/courses/building-a-portfolio-website)
