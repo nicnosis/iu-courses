@@ -245,6 +245,48 @@ We will begin using [Houdini](https://www.sidefx.com/).
    * Point node
    * Attribute Randomizer
  * [Intro to Vex](http://www.tokeru.com/cgwiki/index.php?title=JoyOfVex)
-
+ * `participation`: complete the Canvas response for today
 ### At Home
  * `begin` [Project Three](assignments/p3.html)
+ 
+## week 12
+We will be working on Project Three in class this week and next week. Make sure you have a way to access your project (e.g., keeping it on Box). Please do not show up to class without your project to work on.
+
+### In Class
+#### Monday
+ * `install` [MOPS](https://www.motionoperators.com/).
+   * Go to the [Github download page](https://github.com/toadstorm/MOPS)
+ * `download` [mats/MOPS_example.hipnc](MOPS_example.hipnc)
+
+ * `inspirations`: Project Three
+   * [Behance search '3d abstract'](https://www.behance.net/search?content=projects&search=3d%20abstract&sort=appreciations&time=week)
+   * [Behance search 'houdini'](https://www.behance.net/search?content=projects&tools=28119&sort=featured_date&time=week)
+   * [Behance search 'sculpting'](https://www.behance.net/search?content=projects&field=sculpting&sort=featured_date&time=week)
+   * [Behance search 'motion design'](https://www.behance.net/search?content=projects&field=motion%20graphics&sort=featured_date&time=week)
+   * [Pinterest search '3d abstract'](https://www.pinterest.com/search/pins/?q=3d+abstract)
+   * [Pinterest search 'abstract geometric'](https://www.pinterest.com/search/pins/?q=abstract+geometric)
+
+You will create a `stylescape` for Project Three, due before class Wednesday.
+
+#### Wednesday
+(1) Mops: Review installation
+ * First, start Houdini. This will create the `houdini17.5` folder inside of Documents
+ * Download and unzip your MOPS folders. You should have a folder called `MOPS` and `packages`. Put these two inside of the `houdini17.5` folder.
+ * If you weren't here, download [MOPS-install.zip](mats/MOPS-install.zip). You will have to edit `packages/MOPS.json` and change the path to match the path on your machine.
+ * You may have to restart Houdini for this to work.
+
+(2) Stylescapes:
+ * We will review your stylescapes and find the next step forward for you.
+
+(3) Practice:
+ * If time permits, we will continue with MOPS.
+ 
+#### Reminders
+ 1. Make sure you are clear on how to install/use MOPS. You don't necessarily need MOPS for Project Three but it is quite helpful. Keep your two MOPS folders backed up online somewhere so we can use them every time.
+ 2. Instead of working on an individual `.hipnc` file, you want to set up a project folder in Houdini and use that. This is where you will put your HDRI (environment light).
+ 3. Make sure you are maintaining a backup of your project, that you can access from any computer. I recommend using [Box@IU](https://uits.iu.edu/box)
+ 4. Try to have fun and enjoy the project. I know schoolwork can be taxing but art can prove very therapeutic and relaxing if done with the right mindset.
+
+### At Home
+ * `begin` [Project Three](assignments/p3.html). It is due `Saturday, November 23rd` @ 11:59pm
+ * `watch` [MOPS Tutorials](https://vimeo.com/motionoperators). I recommend doing a few of these videos a day

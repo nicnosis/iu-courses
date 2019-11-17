@@ -303,3 +303,38 @@ For `participation`, head over to Canvas and complete the response.
 
 ### At Home
  * `continue` [Project Three](assignments/p3.html). If you are doing a portfolio then you really want to use [this tutorial](https://university.webflow.com/courses/building-a-portfolio-website)
+ 
+## week 12
+### In Class
+ * `download` [12.1-interactions.zip](mats/12.1-interactions.zip)
+ * `participation`: Canvas response
+ 
+
+### At Home
+ * `continue` [Project Three](assignments/p3.html). It is due `Sunday November 17th at 11:59pm`
+ 
+## week 13
+Our remaining time together will focus on using [p5.js](https://p5js.org/), a JavaScript Library, to create interactive media for the web.
+
+### In Class
+#### Monday
+ * `watch` _Hello P5_
+ * `create` an account on Codepen.io. I recommend making a `j363` collection for this class. You will need to verify your e-mail in order to do this.
+ * `codepen` lesson [13.1: Introducing Codepen](https://codepen.io/novonagu/pen/Brvogm)
+ * `codepen` lesson [13.2: Introducing JavaScript](https://codepen.io/novonagu/pen/WzLxoj)
+ * `codepen` lesson [13.3: Introducing p5.js](https://codepen.io/novonagu/pen/qovaxE)
+ * `participation`:
+   * make sure you have forked 13.3 (you should be working on your pen, not mine)
+   * attempt to match [this image](mats/p5-participation.png)
+   * when finished, submit the CodePen URL on Canvas
+
+#### Wednesday
+ * `review` lesson [13.3: Introducing p5.js](https://codepen.io/novonagu/pen/qovaxE)
+ * `codepen` lesson [13.4: Keyboard and Mouse Events](https://codepen.io/novonagu/pen/qYBWyg)
+ * `codepen` lesson [13.5: random()](https://codepen.io/novonagu/pen/KRKKVo). You will use this for `participation`
+
+### At Home
+ * `watch` [p5.js tutorial 1.3: Shapes & Drawing](https://youtu.be/c3TeLi6Ns1E)
+ * `watch` [p5.js tutorial 1.4: Color](https://youtu.be/riiJTF5-N7c)
+ * `begin` [Homework Four](assignments/hw4.html). It is due `Saturday Nov 23rd @11:59pm`
+ * `decide` on your idea for [Project Four](assignments/p4.html). You will want to have an idea to go off of when we come back from Thanksgiving Break

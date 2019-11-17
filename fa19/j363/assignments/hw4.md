@@ -34,6 +34,7 @@ The methods you will want to understand are:
  * createCanvas()
  * fill()
  * stroke()
+ * noStroke()
  * strokeWeight()
  * line()
  * ellipse()
@@ -50,12 +51,7 @@ You will want to change the "Your name here" part of the `HTML`, otherwise all c
 Pay attention to the comments in the code. This will guide you to the changes you need to make.
 
 ## Step Four: Submit to Canvas
-### `PLEASE PAY ATTENTION to these instructions so that you don't lose points`
-1. When your sketch is finished, download it from Codepen by doing `Export > Export as .zip`
-2. Unzip it. There should be a folder there. Rename it to `hw4-lastname-firstname`. _(e.g., hw4-aguirre-nicolas)_
-3. Compress the folder after renaming it. The resulting archive file should be named `hw4-lastname-firstname.zip`. You should check to make sure that the folder inside is named accordingly.
-4. PLEASE double-check your submission to ensure that you've submitted the correct files and that they're named correctly.
+1. Make sure you have forked the pen. It should say "A pen by [your name]"
+2. Submit the URL to Canvas: `ASSIGNMENTS > HOMEWORK 4`
 
-Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 4`
-
-#### **Due Wed April 17th @ 11:59pm**
+#### **Due Saturday Nov 23rd @11:59pm**
