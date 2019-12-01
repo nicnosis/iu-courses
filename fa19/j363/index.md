@@ -338,3 +338,24 @@ Our remaining time together will focus on using [p5.js](https://p5js.org/), a Ja
  * `watch` [p5.js tutorial 1.4: Color](https://youtu.be/riiJTF5-N7c)
  * `begin` [Homework Four](assignments/hw4.html). It is due `Saturday Nov 23rd @11:59pm`
  * `decide` on your idea for [Project Four](assignments/p4.html). You will want to have an idea to go off of when we come back from Thanksgiving Break
+ 
+
+## week 14
+### In Class
+#### Monday
+ * `review` p5.js. Make sure you understand:
+   * How to import the p5.js library
+   * the difference between setup() and draw()
+   * createCanvas() and the coordinate system
+   * fill(), stroke(), background()
+   * rect(), line(), ellipse()
+   * random()
+ * `codepen` lesson [14.1: constrain()](https://codepen.io/novonagu/pen/wJPzmO)
+ * `codepen` lesson [14.2: map()](https://codepen.io/novonagu/pen/QpOqXg?editors=0010)
+
+#### Wednesday
+ * I will meet with you individually to discuss your Project Four Idea
+ * `participation`: Complete the Canvas response
+
+### At Home
+ * `continue` [Project Four](assignments/p4.html). It is due `Friday Dec 20th @ 11:59pm`

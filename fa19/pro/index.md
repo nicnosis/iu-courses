@@ -290,3 +290,32 @@ You will create a `stylescape` for Project Three, due before class Wednesday.
 ### At Home
  * `begin` [Project Three](assignments/p3.html). It is due `Saturday, November 23rd` @ 11:59pm
  * `watch` [MOPS Tutorials](https://vimeo.com/motionoperators). I recommend doing a few of these videos a day
+ 
+## week 13
+### In class
+#### Monday
+Review:
+ * Houdini project folder
+   * Make sure you have a `render` folder. I will look here for your renders.
+   * Make sure your HDRI (environment light) is in the project folder.
+ * How to apply materials
+   * Create/import material from the `material palette`
+   * Go to the `obj` level and select your geometry
+   * On the `parameters` pane, go to `render` tab and set the material
+ * How to render
+   * Set up a camera if you don't have one
+   * If you want your HDRI background visible, select the environment light object at `obj` level and make sure `Render Light Geometry` is checked under `Light` tab in `parameters`.
+   * Use `Render > Preview in MPlay`
+   * You can select your mantra renderer in the `out` level of network view to change settings
+   * Save a frame to your `render` folder
+   * You will submit a rendered frame for today's `participation`
+   
+#### Wednesday
+Remember you need to use some VEX in your project, somewhere.
+ * `download` [mops_vex.hipnc](mats/mops_vex.hipnc)
+ * [This article on scale randomization](https://houdinitricks.com/different-ways-to-randomize-scale-in-houdini/) might give some good ideas
+ * [The Joy of Vex](http://www.tokeru.com/cgwiki/index.php?title=JoyOfVex) is a good introduction.
+ * `participation`: Give me a brief overview of how you intend to use VEX. Remember that it does not need to be intricate or complicated.
+
+### At Home
+ * `complete` [Project Three](assignments/p3.html). It is due `Saturday, November 23rd` @ 11:59pm
