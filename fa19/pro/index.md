@@ -319,3 +319,8 @@ Remember you need to use some VEX in your project, somewhere.
 
 ### At Home
  * `complete` [Project Three](assignments/p3.html). It is due `Saturday, November 23rd` @ 11:59pm
+
+## Week 14
+
+### At Home
+ * `begin` [Project Four](assignments/p4.html). It is due `Friday, Dec 20th` @ 11:59pm. Because this is the final project, __I CANNOT ACCEPT LATE SUBMISSIONS__.
