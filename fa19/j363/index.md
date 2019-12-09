@@ -354,7 +354,12 @@ Our remaining time together will focus on using [p5.js](https://p5js.org/), a Ja
  * `codepen` lesson [14.2: map()](https://codepen.io/novonagu/pen/QpOqXg?editors=0010)
 
 #### Wednesday
- * I will meet with you individually to discuss your Project Four Idea
+ * `codepen` lesson [14.3: bouncy ball](https://codepen.io/novonagu/pen/jOEEGOZ)
+ * `codepen` lesson: [14.4: objects](https://codepen.io/novonagu/pen/xxbbXxo)
+ * More on objects:
+   * `docs`: [objects](https://p5js.org/examples/objects-objects.html)
+   * `docs`: [multiple objects](https://p5js.org/examples/objects-multiple-objects.html)
+   * `docs`: [array of objects](https://p5js.org/examples/objects-array-of-objects.html)
  * `participation`: Complete the Canvas response
 
 ### At Home

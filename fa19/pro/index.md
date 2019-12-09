@@ -321,6 +321,39 @@ Remember you need to use some VEX in your project, somewhere.
  * `complete` [Project Three](assignments/p3.html). It is due `Saturday, November 23rd` @ 11:59pm
 
 ## Week 14
+__Announcement__: There will be no HW4, just Project Four (which will be worth 25 points instead of 20). This is to give you a little more time to work on the Project.
+
+### In Class
+#### Monday
+ * `download`: [narrative-examples.zip](mats/narrative-examples.zip)
+ 
+__QUESTIONS__  
+Response:
+ * What does it remind you of?
+ * What mood, emotion, or thoughts does this evoke?
+ * What response or action does the work elicit from you?
+ 
+Character:
+ * Think of the work as though it were a person. How would you describe its character/personality?
+ * Is there a sense of movement or stillness with this work?
+ * Does it feel tight and contained or loose and free?
+ * Is the work subtle or overt?
+ 
+Structure:
+ * Is there a clear or discernable pattern?
+ * What is consistent across the work?
+
+#### Wednesday
+__GROUP SHARE__  
+Discuss:
+ * `Idea generation`; (this reminds me of ___; when you say ___ it makes me think of ____)
+ * `Theme/narrative`:
+   * Do the examples from the stylescape reflect the theme?
+   * Is it cohesive? Does the imagery in the stylescape feel like it goes together?
+ * `Composition`: How might the artist organize this work?
+ * `Writing`: Remember that the project includes a small amount of writing. What writing might be helpful to supplement the artist's message?
+ * `Implementation`: How might the artist use Houdini __(or another tool)__ to create the work?
 
 ### At Home
+ * __before class Wednesday__, you must submit your Project Four proposal. We will look at them together in class on Wednesday. This will count as your participation for the week (also remember you must be physically present to claim participation points).
  * `begin` [Project Four](assignments/p4.html). It is due `Friday, Dec 20th` @ 11:59pm. Because this is the final project, __I CANNOT ACCEPT LATE SUBMISSIONS__.
