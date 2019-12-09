@@ -357,3 +357,17 @@ Discuss:
 ### At Home
  * __before class Wednesday__, you must submit your Project Four proposal. We will look at them together in class on Wednesday. This will count as your participation for the week (also remember you must be physically present to claim participation points).
  * `begin` [Project Four](assignments/p4.html). It is due `Friday, Dec 20th` @ 11:59pm. Because this is the final project, __I CANNOT ACCEPT LATE SUBMISSIONS__.
+
+## week 15
+#### Evaluations
+ * `complete` [OCQ](https://one.iu.edu/task/iub/course-evaluations)
+ * You are encouraged to be candid and frank in your criticism; all feedback helps me to become a better instructor.
+ * Instructors are evaluated on response rate for evaluations. If >90% of the class submits a course evaluation, I will award all students `one extra credit point`.
+
+#### Monday
+ * __Use the first 10-15 minutes of class to complete your OCQ__. I will arrive at about 4:10pm. If you complete your questionnaire, just start working on the project.
+ * Give some thought to the writing you will use in your composition. Make sure you have the writing saved somewhere.
+ * `submit` a response to the Canvas question.
+
+### At Home
+ * `complete` [Project Four](assignments/p4.html). It is due `Friday, Dec 20th` @ 11:59pm. Because this is the final project, __I CANNOT ACCEPT LATE SUBMISSIONS__.
