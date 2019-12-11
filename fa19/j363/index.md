@@ -370,11 +370,15 @@ Our remaining time together will focus on using [p5.js](https://p5js.org/), a Ja
 #### Evaluations
  * `complete` [OCQ](https://one.iu.edu/task/iub/course-evaluations)
  * You are encouraged to be candid and frank in your criticism; all feedback helps me to become a better instructor.
- * Instructors are evaluated on response rate for evaluations. If >95% of the class submits a course evaluation, I will award all students `one extra credit point`.
+ * Instructors are evaluated on response rate for evaluations. If >90% of the class submits a course evaluation, I will award all students `one extra credit point`.
 
 
 #### Monday
  * `codepen` lesson [15.1: Fullscreen sketches](https://codepen.io/novonagu/pen/ROBwaR)
+ * `complete` the canvas response before you leave class today
+
+#### Wednesday
+ * If you haven't already completed the course evaluation, be sure to do that. Remember that everybody will receive 1 extra credit point if >90% of the class submits an evaluation.
  * `complete` the canvas response before you leave class today
 
 ### At Home
