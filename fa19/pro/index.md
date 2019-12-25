@@ -369,5 +369,9 @@ Discuss:
  * Give some thought to the writing you will use in your composition. Make sure you have the writing saved somewhere.
  * `submit` a response to the Canvas question.
 
+#### Wednesday
+ * If you haven't already completed the course evaluation, be sure to do that. Remember that everybody will receive 1 extra credit point if >90% of the class submits an evaluation.
+ * `complete` the canvas response before you leave class today
+
 ### At Home
  * `complete` [Project Four](assignments/p4.html). It is due `Friday, Dec 20th` @ 11:59pm. Because this is the final project, __I CANNOT ACCEPT LATE SUBMISSIONS__.
