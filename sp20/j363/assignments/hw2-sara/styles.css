@@ -1,0 +1,96 @@
+body {
+    font-family: 'century gothic', sans-serif;
+    background-color: royalblue;
+}
+
+.small {
+    width: 400px;
+    border-radius: 0.5em;
+    border: 1px solid darkred;
+}
+
+
+button {
+    background-color: darkred;
+    border-radius: 0.5em;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: white;
+    border-radius: 0.5em;
+    color: royalblue;
+    padding: 10px 24px;
+    font-size: 14px;
+}
+
+h1 {
+    color: white;
+    font-style: italic;
+    font-size: 36pt;
+    border-radius: 3em;
+    border: 4px solid navy;
+    background: darkred;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2, h3 {
+    border-radius: 3em;
+    border: 2px solid navy;
+    background: darkred;
+    text-align: center;
+    padding: 5px;
+}
+
+h2, h3, h4 {
+     color: #88a1ec;
+}
+
+h2 {
+    font-size: 24pt;
+}
+
+h3 {
+    font-size: 18pt;
+}
+
+h4 {
+    font-size: 20pt;
+    padding: 2px;
+    text-transform: uppercase;
+}
+
+section {
+    border: 3px solid darkred;
+    border-radius: 0.5em;
+    background: white;
+    color: darkblue;
+    margin: 30px;
+    padding: 10px 20px;
+}
+
+p {
+    color: darkred;
+    font-size: 12pt;
+}
+
+footer {
+    color: white;
+}
+
+nav a {
+    color: white;
+    background: darkred;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    background: white;
+    color: darkred;
+}

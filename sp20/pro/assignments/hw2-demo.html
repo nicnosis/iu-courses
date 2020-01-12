@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>[fa19][pro.art] HW2 rotating circles</title>
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+
+<!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.6/dat.gui.min.js'></script>
+<script type="text/javascript">
+    var _0x48b3=['add','speed','paused','GUI'];(function(_0x43d3ae,_0xe3a60c){var _0x450e03=function(_0x51d74b){while(--_0x51d74b){_0x43d3ae['push'](_0x43d3ae['shift']());}};_0x450e03(++_0xe3a60c);}(_0x48b3,0x65));var _0x651d=function(_0xb67384,_0x27295a){_0xb67384=_0xb67384-0x0;var _0x156d7c=_0x48b3[_0xb67384];return _0x156d7c;};var Options=function(){this['x']=0x32;this['d']=0xa;this[_0x651d('0x0')]=0.05;this[_0x651d('0x1')]=![];};var gui=new dat[(_0x651d('0x2'))]();var ops=new Options();var angle=0x0;function setup(){createCanvas(0xc8,0xc8);gui[_0x651d('0x3')](ops,'x',0x0,0x64);gui[_0x651d('0x3')](ops,'d',0x5,0x32);gui['add'](ops,_0x651d('0x0'),-0.5,0.5);gui[_0x651d('0x3')](ops,_0x651d('0x1'));}function draw(){background(0xc8);push();translate(width/0x2,height/0x2);rotate(angle);noFill();ellipse(0x0,0x0,0x2*ops['x']);fill(0xff);ellipse(ops['x'],0x0,ops['d']);ellipse(-ops['x'],0x0,ops['d']);pop();if(!ops[_0x651d('0x1')]){angle+=ops['speed'];}}
+
+</script>
+
+</body>
+</html>
