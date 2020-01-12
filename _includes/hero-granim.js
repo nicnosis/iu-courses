@@ -1,4 +1,4 @@
-{% if page.course == 'g290' or page.course == 'pro' %}
+{% if page.course == 'g360' or page.course == 'pro' %}
 let gradients = [
     ['#ff9966', '#ff5e62'],
     ['#ff385c', '#ffb35b']
@@ -16,7 +16,7 @@ var granimInstance = new Granim({
     direction: 'left-right',
     isPausedWhenNotInView: true,
     image : {
-        {% if page.course == 'g290' or page.course == 'pro' %}
+        {% if page.course == 'g360' or page.course == 'pro' %}
         source: 'img/halls2.png',
         {% else if page.course == 'j363' %}
         source: 'img/web.png',

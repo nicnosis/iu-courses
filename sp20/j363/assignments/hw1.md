@@ -4,7 +4,7 @@ title: J363 - Homework One
 footer: ''
 highlight: 'assignments'
 published: true
-term: 'fa19'
+term: 'sp20'
 course: 'j363'
 ---
 # Homework One - <small>Basic HTML Tags</small>
@@ -61,4 +61,4 @@ Put a `<style>` tag in your `<head>`. Use CSS to:
 ## Submission - Canvas
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 1`
 
-#### **Due Wednesday September 4th at 11:59pm**
+#### **Due Wednesday January 22nd at 11:59pm**

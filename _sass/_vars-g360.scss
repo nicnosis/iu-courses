@@ -1,0 +1,23 @@
+/* COLORS AND FONTS */
+//https://colorhunt.co/palette/133349
+$palette: #ff8f56, #ff5959, #984a59, #60424c;
+
+$primaryColor: #ff5959;
+$boldColor: #984a59;
+$gray: rgba(0, 0, 0, 0.15);
+
+.container a {
+    //color: #ff8f56;
+}
+code.highlighter-rouge {
+    color: $primaryColor;
+    background-color: #e8e8ed;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
+}
+
+
+
+$secondaryFont: 'Oswald', sans-serif;
+$primaryFont: 'Open Sans', sans-serif;
+$codeFont: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+/* END COLORS AND FONTS */

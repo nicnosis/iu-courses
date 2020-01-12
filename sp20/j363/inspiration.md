@@ -3,7 +3,7 @@ layout: default
 title: 'Web Design'
 footer: ' '
 highlight: inspiration
-term: 'fa19'
+term: 'sp20'
 course: 'j363'
 ---
 # Inspiration
