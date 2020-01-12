@@ -1,4 +1,4 @@
-# J363 WEB & MOBILE DESIGN FALL 2019
+# J363 WEB & MOBILE DESIGN SPRING 2020
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
 **OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:30A -- 11:30A
 
@@ -6,8 +6,8 @@
 
 **LOCATION**--- Franklin Hall 003  
 **SECTIONS**  
-13428 --- Meets MW 8:30A -- 10:30A  
-13429 --- Meets MW 10:45A -- 12:45P  
+11660 --- Meets MW 8:30A -- 10:30A  
+11564 --- Meets MW 10:45A -- 12:45P
 
 **PREREQUISITES**  
 MSCH-C101 --- Introduction to Media
@@ -174,6 +174,8 @@ Students should make a serious effort to attend every lecture. While attendance 
 
 Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
 
+Students are expected to come on time and stay for the duration of the class period. A repeated pattern of tardiness is not tolerated.
+
 ### Deadlines
 Deadlines are strict and non-negotiable. Late assignments will be accepted for the first three calendar days after a deadline. I will remove 15% for each day past the deadline _(Example--- If you got 85 on an assignment but submitted it two days late, you're getting a 55)_.
 
@@ -185,7 +187,6 @@ The only __exception to this rule__ is the final project, which cannot be submit
 Whether or not an absence is excused is __entirely at the discretion of the instructor__.
 
 If you miss a quiz or participation exercise and have an __excused absence__, you have __one week__ to make up that assignment at office hours. If you cannot attend scheduled office hours, it is your responsibility to reach out and schedule another meeting time.
-
 
 If you know you are going to be absent or late on a certain day, please tell me ahead of time.
 
@@ -201,18 +202,25 @@ If you e-mail me, make sure you tell me:
  * What class you're in
 
 #### Getting help with code
- * Use Canvas to send a message to both me AND the teaching assistant. You can use (Send to > Instructor) for this purpose.
+ * Use Canvas to send a message. You can use (Send to > Instructor) for this purpose.
+ * Include your code. To share your code--- Upload your code to Box, and get a shareable link. __YOU MUST CHECK "Anyone with link can download"__
  * Include a screenshot if applicable _(e.g., something is displaying incorrectly)_
- * Include your code. To share your code--- compress your project folder, put it on Box, and share a downloadable link.
 
 __It can be difficult to diagnose coding problems via e-mail.__ I'll do my best, but you should consider talking with me after class, or coming to office hours if you're struggling with an assignment.
 
 I will do my best to correct code over the e-mail, but students should not expect me to correct __more than three lines of code in an e-mail__.
 
-Students should know that an e-mail response may take __up to 72 hours__ depending on the time of the semester.
+Students should know that an e-mail response may take __up to 72 hours__ depending on the time of the semester. If your e-mail is irrelevant, whiny, nonsensical, or otherwise does not merit a response, I will not reply.
 
 ### Food and Drink in Class
 Sorry, they are not permitted.
+
+### Self-care
+Make an effort to take care of yourself. I value you deeply as a student and you should make an effort to take care of your mental well-being.
+
+Meditation is an efficient and effective way to manage stress, improve cognitive performance, and overall health. You can get the [Headspace Student Plan](https://www.headspace.com/studentplan) for $9.99/yr.
+
+IU provides [Counseling and Psychological Services (CAPS)](https://healthcenter.indiana.edu/counseling/index.html). This center is staffed with specialists who work tirelessly to help struggling students with a variety of student life problems.
 
 ### Students with Disabilities
 If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.
@@ -260,22 +268,22 @@ The instructor reserves the right to adjust your final grade based on effort, pa
 
 |         |                      |                                   |
 |:--------|:---------------------|:----------------------------------|
-| week 1  | Mon 8/26, Wed 8/28   | Intro to HTML, tags               |
-| week 2  | Mon 9/2              | __Labor Day. No Class__         |
-| week 2  | Wed 9/4              | Links and Images                   |
-| week 3  | Mon 9/9, Wed 9/11    | Site Structure, Intro to CSS      |
-| week 4  | Mon 9/16, Wed 9/18   | CSS Selectors                     |
-| week 5  | Mon 9/23, Wed 9/25   | Box Model, Display/Position       |
-| week 6  | Mon 9/30, Wed 10/2   | CSS Grid, Hero Images             |
-| week 7  | Mon 10/7, Wed 10/9   | Project Two work                  |
-| week 8  | Mon 10/14, Wed 10/16  | WebFlow Elements and Hierarchy   |
-| week 9  | Mon 10/21, Wed 10/23  | WebFlow Styling, Responsive Design|
-|         | Sun 10/27            | __AUTO W__                        |
-| week 10 | Mon 10/28, Wed 10/30 | WebFlow CMS, Dynamic Content      |
-| week 11 | Mon 11/4, Wed 11/6   | Project Three work, group critiques|
-| week 12 | Mon 11/11, Wed 11/13 | Project Three: responsive design  |
-| week 13 | Mon 11/18, Wed 11/20 | Introducing p5.js                 |
-|         | Sun 11/24 -- Sun 12/1| __THANKSGIVING BREAK__            |
-| week 14 | Mon 12/2, Wed 12/4   | p5.js random/constrain            |
-| week 15 | Mon 12/9, Wed 12/11  | Project Four work                 |
-| week 16 | Mon 12/16 -- Fri 12/20| __FINALS__                        |
+| week 1  | Mon 1/13, Wed 1/15   | Intro to HTML, tags               |
+| week 2  | Mon 1/20             | __MLK Jr Day. No Class__         |
+| week 2  | Wed 1/22             | Links and Images                   |
+| week 3  | Mon 1/27, Wed 1/29   | Site Structure, Intro to CSS      |
+| week 4  | Mon 2/3, Wed 2/5     | CSS Selectors                     |
+| week 5  | Mon 2/10, Wed 2/12   | Box Model, Display/Position       |
+| week 6  | Mon 2/17, Wed 2/19   | CSS Grid, Hero Images             |
+| week 7  | Mon 2/24, Wed 2/26   | Project Two work                  |
+| week 8  | Mon 3/2, Wed 3/4     | WebFlow Elements and Hierarchy    |
+| week 9  | Mon 3/9, Wed 3/11    | WebFlow Styling, Responsive Design|
+|         | Sun 3/15             | __AUTO W__                        |
+|         | Sun 3/15 - Sun 3/22  | _SPRING BREAK_                     |
+| week 10 | Mon 3/23, Wed 3/25   | WebFlow CMS, Dynamic Content      |
+| week 11 | Mon 3/30, Wed 4/1    | Project Three work, group critiques|
+| week 12 | Mon 4/6, Wed 4/8     | Project Three: responsive design  |
+| week 13 | Mon 4/13, Wed 4/15   | Introducing p5.js                 |
+| week 14 | Mon 4/20, Wed 4/22   | p5.js random/constrain            |
+| week 15 | Mon 4/27, Wed 4/29  | Project Four work                 |
+| week 16 | Mon 5/4 – Fri 5/8   | __FINALS__                        |
