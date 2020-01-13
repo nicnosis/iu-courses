@@ -4,7 +4,7 @@ title: 'Game Experience Design'
 footer: ''
 highlight: home
 
-term: 'sp19'
+term: 'sp20'
 course: 'g360'
 ---
 # Unit One--- Graphic Design, Static Prototypes

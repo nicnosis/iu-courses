@@ -23,7 +23,7 @@ This week you will familiarize yourself with course materials and get a basic un
  * `read` the [syllabus](j363-syllabus.pdf)
  * `register` for [Codecademy](https://www.codecademy.com/)
  * `get` a way to backup files - Box Sync or Google Drive are good options
- * `begin` [Homework One](assignments/hw1.html). It is due `Wed Sep 4th at 11:59pm`
+ * `begin` [Homework One](assignments/hw1.html). It is due `Wed Jan 22nd at 11:59pm`
  * `review` the slides _(navigation: materials &gt; slides)_
 
 #### Codecademy

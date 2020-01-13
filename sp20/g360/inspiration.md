@@ -3,7 +3,7 @@ layout: default
 title: g360 - Inspiration
 footer: ''
 highlight: 'inspiration'
-term: 'sp19'
+term: 'sp20'
 course: 'g360'
 ---
 
