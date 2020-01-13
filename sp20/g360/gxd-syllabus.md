@@ -1,14 +1,20 @@
-# g360: GAME EXPERIENCE DESIGN
-### Spring 2019
+# G360: GAME EXPERIENCE DESIGN
+### Spring 2020
 
 **LOCATION**--- Franklin Hall 052  
 **SECTION**
-10830 --- Meets MW 02:30P-03:45P  
+30463 --- Meets MW 02:30P–03:45P  
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
 **OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:30A -- 11:30A
 
 ## Description
-In g360, students will focus on designing interfaces and control schemes that deliver rewarding gameplay experience. Students will design attractive and usable interfaces, as well as intelligent and sensible control schemes, with focus on meeting the needs of players. Visual design such as typography and iconography will be used to create an immersive and welcoming environment for players. Students will employ tests to find issues with a game’s interface, control scheme, and other design aspects that affect gameplay. While this course is intended for game designers, its principles of interface design are broad enough to help designers from other disciplines such as web and software development.
+In G360, students will focus on designing interfaces that deliver rewarding gameplay experience. Students will design attractive and usable interfaces, as well as intelligent and sensible control schemes, with focus on meeting the needs of players.
+
+Visual design such as typography and iconography will be used to create an immersive and welcoming environment for players. Students will employ tests to find issues with a game’s interface, control scheme, and other design aspects that affect gameplay.
+
+Students will prototype interfaces in Figma, and build working interfaces in Unity.
+
+While this course is intended for game designers, its principles of interface design are broad enough to help designers from other disciplines such as web and software development.
 
 ### Pre-requisites
 ```
@@ -25,20 +31,21 @@ In this course, you will:
  * Learn principles of usability
  * Learn best practices for interface design
  * Build, test and refine game interfaces
+ * Create interactive prototypes in Figma
  * Design and create interface elements such as buttons, sliders, icons and splash screens
  * Assemble elements into interfaces such as menus, navigation, and inventory systems
  * Learn visual design principles such as color schemes, typography and fonts, and how to size and position elements
  * Learn how to create pleasant interactions through intuitive menus and hotkeys
- * Integrate UI assets into game engines
+ * Integrate UI assets into Unity
 
 ## Work
 ### Use of Class Time
 This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. An effort is made to create a more interactive and less passive experience for students.
 
-### Projects (65 pts.)
-This class features __four__ large-scale design projects.
+### Projects (60 pts.)
+This class features __three__ large-scale design projects.
 
-Projects 1 and 2 will be used to gain mastery of Illustrator and Figma, while Projects 3 and 4 are chosen by the student.
+Projects 1 and 2 will be used to gain mastery of Illustrator and Figma, while Projects 3 is chosen by the student (most students will create a Unity build).
 
 Common choices for student projects are:
 
@@ -46,12 +53,12 @@ Common choices for student projects are:
  * Re-designing a bad interface
  * Building a design system
  * Developing a style guide
- * Integrating assets into Unity/Unreal
+ * Integrating assets into Unity
 
-### Homework (20 pts.)
+### Homework (15 pts.)
 This class has homework assignments designed to test and reinforce knowledge from class.
 
-### Participation (10 pts.)
+### Participation (20 pts.)
 Participation is an important element of this class. It is not enough to read about usability and interface design; one must actively practice and hone their skills to be successful. Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. They are to be finished during class and are generally graded on completion.
 
 ### Professionalism (5 pts.)
@@ -77,6 +84,9 @@ Professional behavior includes:
 ### Final
 There is no final exam for this class.
 
+<div style="page-break-after: always;"></div>
+
+
 ## Grading
 ### Points
 There are a total of **100** points in this class. The grade is divided as follows:
@@ -84,13 +94,16 @@ There are a total of **100** points in this class. The grade is divided as follo
 | Assignment      |  Points |
 |:----------------|--------:|
 | Project 1       |      10 |
-| Project 2       |      15 |
-| Project 3       |      20 |
-| Project 4       |      20 |
-| Homeworks       |      20 |
-| Participation   |      10 |
+| Project 2       |      20 |
+| Project 3       |      30 |
+| Homeworks       |      15 |
+| Participation   |      20 |
 | Professionalism |       5 |
 | **Total**       | **100** |
+
+
+<div style="page-break-after: always;"></div>
+
 
 ### Course Grade
 Your grade will be assigned as follows:
@@ -112,6 +125,9 @@ Your grade will be assigned as follows:
 | F     | < 60.0% to 0.0%  |
 
 Grading criteria will be given for each individual assignment.
+
+<div style="page-break-after: always;"></div>
+
 
 ## Revisions
 When design work is created in a professional environment, changes and revisions are common. Factoring that game development is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
@@ -136,6 +152,8 @@ You absolutely must keep backups of your classwork, notes, and projects. You sho
 Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
 Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on participation activities if you miss class.
+
+Students are expected to come on time and stay for the duration of the class period. __A repeated pattern of tardiness is not tolerated.__
 
 ### Deadlines
 Deadlines are strict and non-negotiable. Late assignments will be accepted for the first three calendar days after a deadline. I will remove 15% for each day past the deadline _(Example--- If you got 85 on an assignment but submitted it two days late, you're getting a 55)_.
@@ -162,10 +180,26 @@ If you e-mail me, make sure you tell me:
  * Who you are
  * What class you're in
 
-Students should know that an e-mail response may take __up to 72 hours__ depending on the time of the semester.
+#### Getting help with code
+ * Use Canvas to send a message. You can use (Send to > Instructor) for this purpose.
+ * Include your code. To share your code--- Upload your code to Box, and get a shareable link. __YOU MUST CHECK "Anyone with link can download"__
+ * Include a screenshot if applicable _(e.g., something is displaying incorrectly)_
+
+__It can be difficult to diagnose coding problems via e-mail.__ I'll do my best, but you should consider talking with me after class, or coming to office hours if you're struggling with an assignment.
+
+I will do my best to correct code over the e-mail, but students should not expect me to correct __more than three lines of code in an e-mail__.
+
+Students should know that an e-mail response may take __up to 72 hours__ depending on the time of the semester. If your e-mail is irrelevant, whiny, nonsensical, or otherwise does not merit a response, I will not reply.
 
 ### Food and Drink in Class
 Sorry, they are not permitted.
+
+### Self-care
+Make an effort to take care of yourself. I value you deeply as a student and you should make an effort to take care of your mental well-being.
+
+Meditation is an efficient and effective way to manage stress, improve cognitive performance, and overall health. You can get the [Headspace Student Plan](https://www.headspace.com/studentplan) for $9.99/yr.
+
+IU provides [Counseling and Psychological Services (CAPS)](https://healthcenter.indiana.edu/counseling/index.html). This center is staffed with specialists who work tirelessly to help struggling students with a variety of student life problems.
 
 ### Students with Disabilities
 If any student requires assistance or academic accommodations for a disability, please contact me by after class, by e-mail, or during office hours. The student must have established eligibility for disability support services through the Office of Disability Services for Students.

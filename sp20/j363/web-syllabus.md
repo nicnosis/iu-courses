@@ -174,7 +174,7 @@ Students should make a serious effort to attend every lecture. While attendance 
 
 Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
 
-Students are expected to come on time and stay for the duration of the class period. A repeated pattern of tardiness is not tolerated.
+Students are expected to come on time and stay for the duration of the class period. __A repeated pattern of tardiness is not tolerated.__
 
 ### Deadlines
 Deadlines are strict and non-negotiable. Late assignments will be accepted for the first three calendar days after a deadline. I will remove 15% for each day past the deadline _(Example--- If you got 85 on an assignment but submitted it two days late, you're getting a 55)_.

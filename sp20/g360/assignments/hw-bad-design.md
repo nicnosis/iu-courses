@@ -18,4 +18,4 @@ This assignment is intended to be very simple; don't overthink it! Remember that
 ## Submission --- Canvas
 Submit a PDF through Canvas.
 
-#### **Due Wednesday Jan 16 @ 11:59pm**
+#### **Due Fri Jan 24th @ 11:59pm**
