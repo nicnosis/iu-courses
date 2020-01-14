@@ -14,10 +14,11 @@ This week you will familiarize yourself with course materials and get a basic un
  * `take` [this pre-test](https://forms.gle/ndviyEMhYcYj42jT8)
  * `download` [1.1-inspect.zip](mats/1.1-inspect.zip)
 
-<!--#### Wednesday-->
- <!--* `download` [1.2-elements.zip](mats/1.2-elements.zip)-->
- <!--* `submit` your work on Canvas for today's participation-->
-
+#### Wednesday
+ * `download` [1.2-elements.zip](mats/1.2-elements.zip)
+ * `submit` your work on Canvas for today's participation
+ * Let's talk about [Homework One](assignments/hw1.html)
+ * If you are already very familiar with HTML, you might try learning [Figma](https://www.figma.com/).
 
 ### At Home
  * `read` the [syllabus](j363-syllabus.pdf)
@@ -35,4 +36,3 @@ This week you will familiarize yourself with course materials and get a basic un
  * `read` [HTML Basic](https://www.w3schools.com/html/html_basic.asp)
  * `read` [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
  * `read` [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
-
