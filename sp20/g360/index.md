@@ -19,6 +19,7 @@ This week you will familiarize yourself with course materials and get a basic un
 
 __Illustrator__
  * `download` [1-ai-interface.zip](mats/1-ai-interface.zip)
+ * `participation`: export a rendered frame as a `.png` to the Canvas submission for today
  * Objectives
      * Understand how to use the workspace switcher (You want _Essentials Classic_)
        * As a general rule, work with Illustrator maximized
