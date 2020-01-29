@@ -48,6 +48,16 @@ __Illustrator__
 ### In Class
  * `participation`: listen for instructions
 
+### At Home
+ * `complete` [Homework One](assignments/hw1.html). It is due `Fri Jan 24th` @ 11:59pm.
+
+
+## Week 3
+### In Class
+#### Monday
+ * User test: `Think-out-loud Protocol`
+ * `submit` a Canvas response for today's participation
+
 #### Illustrator
  * `download` [2-ai-layers.zip](mats/2-ai-layers.zip)
  * `download` [3-ai-shapes.zip](mats/3-ai-shapes.zip)
@@ -90,6 +100,11 @@ __Illustrator__
      - Use arrow keys to set the segments
      - Hold shift to constrain shape
 
-### At Home
- * `complete` [Homework One](assignments/hw1.html). It is due `Fri Jan 24th` @ 11:59pm.
+### Wednesday
+ * `slides`: [Art Direction for AAA UI](mats/art-direction-for-aaa-ui.pdf)
 
+### At Home
+ * `begin` [Project One](assignments/p1.html). It is due `Monday Feb 10th @ 11:59pm`
+ * `complete` the participation exercise `before 12pm on Monday`. You will submit:
+  1. A brief text description of your idea
+  2. One or more source screenshots that you intend to re-design (I need to be able to see the before-and-after of your project)
