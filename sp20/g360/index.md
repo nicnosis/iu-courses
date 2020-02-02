@@ -105,6 +105,6 @@ __Illustrator__
 
 ### At Home
  * `begin` [Project One](assignments/p1.html). It is due `Monday Feb 10th @ 11:59pm`
- * `complete` the participation exercise `before 12pm on Monday`. You will submit:
-  1. A brief text description of your idea
-  2. One or more source screenshots that you intend to re-design (I need to be able to see the before-and-after of your project)
+ * `complete` the participation exercise `before 12pm on Monday`
+
+__NOTE:__ We will probably need to move our AI grid exercise to Week 4.
