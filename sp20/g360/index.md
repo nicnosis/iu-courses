@@ -87,6 +87,22 @@ __Illustrator__
    - Understand how to select through the layer panel
    - Note: context for selections provided in the options bar
    - Using the Select dropdown menu (e.g., select > same > ... )
+
+### Wednesday
+ * `slides`: [Art Direction for AAA UI](mats/art-direction-for-aaa-ui.pdf)
+
+### At Home
+ * `begin` [Project One](assignments/p1.html). It is due `Monday Feb 10th @ 11:59pm`
+ * `complete` the participation exercise `before 12pm on Monday`
+
+## Week 4
+ * `discussion`: Younas Talk
+ * `discussion`: Project One ideas
+
+### Monday
+
+#### Illustrator
+ * `download` [4-ai-grids.zip](mats/4-ai-grids.zip)
  - **Grids**
    - Rectangle tool (M)
    - Turn a rectangle into a grid (Object > Path > Split into grid)
@@ -100,11 +116,31 @@ __Illustrator__
      - Use arrow keys to set the segments
      - Hold shift to constrain shape
 
-### Wednesday
- * `slides`: [Art Direction for AAA UI](mats/art-direction-for-aaa-ui.pdf)
+#### Photoshop
+ * `download` [5-ps-clone.zip](mats/5-ps-clone.zip)
+ * `download` [6-ps-selections.zip](mats/6-ps-selections.zip)
+ - **Setup**
+   - Image Size
+   - Canvas Size
+   - Preferences, units
+ - **Brush**
+   - Change size ([ and ])
+   - Options (right-click)
+ - **Clone Stamp**
+   - Clone Stamp Tool (S)
+   - Sampling (Alt + Click)
+ - **Selections**
+   - Quick Select (W)
+     - Change size ([ and ])
+     - Subtract selection (hold alt)
+     - Select and Mask
+     - Output to... New Layer
+   - Quick Mask (Q)
+ - **Ruler and Guides**
+   - Rulers (R)
+   - Change Units (Right-click rulers)
+   - Set up guides (Drag from ruler onto the canvas)
+   - Lock/clear guides ('View' menu)
 
 ### At Home
- * `begin` [Project One](assignments/p1.html). It is due `Monday Feb 10th @ 11:59pm`
- * `complete` the participation exercise `before 12pm on Monday`
-
-__NOTE:__ We will probably need to move our AI grid exercise to Week 4.
+ * `continue` [Project One](assignments/p1.html). It is due `Monday Feb 10th @ 11:59pm`
