@@ -89,3 +89,27 @@ No Class--- MLK Jr. Day!
  * `read` [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
  * `read` [CSS How To](https://www.w3schools.com/css/css_howto.asp)
  * `read` [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
+
+## week 4
+### In Class
+#### Monday
+ * `inspiration` [Happy Meter](http://happymeter.lol/)
+ * `download` [4.1-stylesheets.zip](mats/4.1-stylesheets.zip)
+ * `download` [4.2-selectors.zip](mats/4.2-selectors.zip)
+ * `participation`: complete the Canvas response before the class period ends.
+
+### At Home
+ * `begin` [Homework Two](assignments/hw2.html). It is due `Sunday Feb 16th` at 11:59pm
+ * `review` class notes
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+   * `complete` section 1: Selectors and Visual Rules
+
+#### W3Schools
+ * `read` [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
+ * `read` [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
+ * `read` [CSS Backgrounds](https://www.w3schools.com/css/css_background.asp)
+ * `read` [CSS Margin](https://www.w3schools.com/css/css_margin.asp)
+ * `read` [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
+ * `read` [CSS Fonts](https://www.w3schools.com/css/css_font.asp)
