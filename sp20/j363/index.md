@@ -98,18 +98,27 @@ No Class--- MLK Jr. Day!
  * `download` [4.2-selectors.zip](mats/4.2-selectors.zip)
  * `participation`: complete the Canvas response before the class period ends.
 
+#### Wednesday
+ * `inspiration` [theartery](https://www.the-artery.com/)
+   * `use` the [critique questions](critiques.html) from the course website.
+ * `download` [4.3-box-model.zip](mats/4.3-box-model.zip)
+ * `participation`: the Canvas response
+
 ### At Home
+ * `finish` [Project One](assignments/p1.html). It is due `Friday Feb 7th` at 11:59pm
  * `begin` [Homework Two](assignments/hw2.html). It is due `Sunday Feb 16th` at 11:59pm
  * `review` class notes
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
-   * `complete` section 1: Selectors and Visual Rules
+ * `complete` section 2: The Box Model
 
 #### W3Schools
  * `read` [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
- * `read` [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
  * `read` [CSS Backgrounds](https://www.w3schools.com/css/css_background.asp)
  * `read` [CSS Margin](https://www.w3schools.com/css/css_margin.asp)
  * `read` [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
  * `read` [CSS Fonts](https://www.w3schools.com/css/css_font.asp)
+ * `read` [CSS Borders](https://www.w3schools.com/Css/css_border.asp)
+ * `read` [CSS Width/Height](https://www.w3schools.com/Css/css_dimension.asp)
+ * `read` [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
