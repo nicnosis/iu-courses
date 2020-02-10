@@ -1,6 +1,6 @@
 ---
 layout: default
-title: atom
+title: critiques
 footer: ''
 highlight: 'materials'
 term: 'sp20'

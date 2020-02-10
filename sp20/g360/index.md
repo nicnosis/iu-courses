@@ -142,5 +142,13 @@ __Illustrator__
    - Set up guides (Drag from ruler onto the canvas)
    - Lock/clear guides ('View' menu)
 
+### Wednesday
+ * We'll pick up where we left off with Photoshop
+ * Continue working on `Project One`
+
 ### At Home
- * `continue` [Project One](assignments/p1.html). It is due `Monday Feb 10th @ 11:59pm`
+ * `continue` [Project One](assignments/p1.html). Due date has been __extended__ to `Monday Feb 17th @ 11:59pm`
+ * On `Monday Feb 10th` in class you will present progress for your participation points.
+   * Full points are awarded for substantial progress
+   * Partial points are awarded for some progress
+   * No points awarded to those with little/no progress
