@@ -152,3 +152,8 @@ __Illustrator__
    * Full points are awarded for substantial progress
    * Partial points are awarded for some progress
    * No points awarded to those with little/no progress
+
+## Week 5
+Continue working on [Project One](assignments/p1.html).
+
+On Monday February 10th you will present your progress.

@@ -106,7 +106,7 @@ No Class--- MLK Jr. Day!
 
 ### At Home
  * `finish` [Project One](assignments/p1.html). It is due `Friday Feb 7th` at 11:59pm
- * `begin` [Homework Two](assignments/hw2.html). It is due `Sunday Feb 16th` at 11:59pm
+ * `begin` [Homework Two](assignments/hw2.html). It is due `Monday Feb 17th` at 11:59pm
  * `review` class notes
 
 #### Codecademy
@@ -122,3 +122,26 @@ No Class--- MLK Jr. Day!
  * `read` [CSS Borders](https://www.w3schools.com/Css/css_border.asp)
  * `read` [CSS Width/Height](https://www.w3schools.com/Css/css_dimension.asp)
  * `read` [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+
+## week 5
+### In Class
+#### Monday
+ * `download` [5.1-display-position.zip](mats/5.1-display-position.zip)
+ * `visit` [pexels.com](https://www.pexels.com/)
+ * `visit` [unsplash.com](https://unsplash.com/)
+
+#### Wednesday
+ * `listen` for instructions on today's exercise
+
+### At Home
+ * `read` [this article on Canva](https://www.canva.com/learn/hero-images/)
+ * `complete` [Homework Two](assignments/hw2.html). Due date is extended to `Monday Feb 17th` at 11:59pm
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` section 3: Display and Positioning
+
+#### W3Schools
+ * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
+ * `read` [CSS Position](https://www.w3schools.com/cssref/pr_class_position.asp)
+ * `read` [CSS Box Sizing](https://www.w3schools.com/css/css3_box-sizing.asp)
