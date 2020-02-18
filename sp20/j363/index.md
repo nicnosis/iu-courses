@@ -135,7 +135,7 @@ No Class--- MLK Jr. Day!
 
 ### At Home
  * `read` [this article on Canva](https://www.canva.com/learn/hero-images/)
- * `complete` [Homework Two](assignments/hw2.html). Due date is extended to `Monday Feb 17th` at 11:59pm
+ * `complete` [Homework Two](assignments/hw2.html). Due date is extended to `Tuesday Feb 18th` at 11:59pm
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
@@ -145,3 +145,14 @@ No Class--- MLK Jr. Day!
  * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
  * `read` [CSS Position](https://www.w3schools.com/cssref/pr_class_position.asp)
  * `read` [CSS Box Sizing](https://www.w3schools.com/css/css3_box-sizing.asp)
+
+## week 6
+#### Monday
+ * `critiques`
+ * `participation`: Complete the Canvas response
+ * Afterwards, I will have time to help people with specific issues on their assignments.
+
+### At Home
+ * `Update`: Slides from last week are on the Box folder now.
+ * `complete` [Homework Two](assignments/hw2.html). Due date is extended to `Tuesday Feb 18th` at 11:59pm
+ * `A note on HW2:` if your site has an undesired gap around the page, it's because `body` has `8px` of `margin` set by default. You can put `body { margin: 0; }` in your CSS to get rid of this gap around the edge of the page.

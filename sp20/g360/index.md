@@ -157,3 +157,8 @@ __Illustrator__
 Continue working on [Project One](assignments/p1.html).
 
 On Monday February 10th you will present your progress.
+
+## Week 6
+#### Monday
+ * `participation`: complete the Canvas response.
+ * `finish` [Project One](assignments/p1.html). The due date has been extended to `Tuesday Feb 18th @11:59pm`

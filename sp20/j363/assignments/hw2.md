@@ -129,4 +129,4 @@ For about.html:
 ## Submission - Canvas
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 2`
 
-#### **Due Monday Feb 17th at 11:59pm**
+#### **Due Tuesday Feb 18th at 11:59pm**
