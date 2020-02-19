@@ -152,7 +152,35 @@ No Class--- MLK Jr. Day!
  * `participation`: Complete the Canvas response
  * Afterwards, I will have time to help people with specific issues on their assignments.
 
+#### Wednesday
+ * `inspiration 1`: [curioos](https://www.curioos.com/)
+ * `inspiration 2`: [M.A.P. Ltd](https://www.mapltd.com/news/newyork/)
+ * `inspiration 3`: [atlason](https://atlason.com/)
+ * `inspiration 4`: [mcquade](https://mikemcquade.com/)
+ * `inspiration 5`: [salomon](https://www.salomon.com/en-us)
+ * `download` [6.1-grid.zip](mats/6.1-grid.zip)
+
 ### At Home
  * `Update`: Slides from last week are on the Box folder now.
  * `complete` [Homework Two](assignments/hw2.html). Due date is extended to `Tuesday Feb 18th` at 11:59pm
- * `A note on HW2:` if your site has an undesired gap around the page, it's because `body` has `8px` of `margin` set by default. You can put `body { margin: 0; }` in your CSS to get rid of this gap around the edge of the page.
+ * `begin` [Project Two](assignments/p2.html). Due `Tuesday March 3rd` at 11:59pm
+
+#### Participation for Monday
+Remember on Monday __you will need to prepare__ in order to get your participation points. The assignment is worth `two points`.
+
+ * First, `watch` this video: [How to Design Brand Identity Stylescapes](https://www.youtube.com/watch?v=lGmPCutgI2o)
+ * Then, `download` [this file](mats/stylescape-lastname-firstname.pptx) and __READ THE INSTRUCTIONS__
+
+You will need:
+1. An idea that you’re committed to
+2. A rough sketch of your website
+3. At least five links for [inspiration](inspiration.html)
+4. At least ten images to define the look/feel of your site
+
+__You will submit these BEFORE the start of class Monday__. If you don't have all of them, you will not receive participation points. __Please come prepared__ so you can get the most out of this session.
+
+You can use ANY size/format you want __as long as__ it fulfills the above requirements and you can save it as a `.pdf`.
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * Work on sections 4–6. You should aim to complete these sections over the next week or two as you work on your project.
