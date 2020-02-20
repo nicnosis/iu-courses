@@ -49,12 +49,14 @@ For gradients:
 2.  [UI Gradients](https://uigradients.com/)
 
 ## Typography, Layouts and Grids
-1. [A Five Minute Guide to Better Typography](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
-2. [10 Typography Rules](https://blind.com/blog/typography-manual/)
-3. [A Beginner's Guide to Pairing Fonts](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706)
-4. [Google Fonts](https://fonts.google.com/). These are free, come in a variety of weights, and they have pairing suggestions.
-5. [Top 5 UI fonts for website & mobile apps](https://medium.muz.li/top-5-ui-fonts-for-website-mobile-apps-d78829e58f7e)
-6. [Example--- BBC GEL Typography Guide](http://www.bbc.co.uk/gel/guidelines/typography)
+1. [Awwwards: 30 Grid-based Layouts](https://www.awwwards.com/30-grid-based-websites.html)
+2. [Designspiration: Stunning Grid-based Layouts](https://www.designspiration.com/save/12847691391/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dspn%2Feveryone+%28Designspiration+-+Everything%29)
+3. [A Five Minute Guide to Better Typography](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
+4. [10 Typography Rules](https://blind.com/blog/typography-manual/)
+5. [A Beginner's Guide to Pairing Fonts](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706)
+6. [Google Fonts](https://fonts.google.com/). These are free, come in a variety of weights, and they have pairing suggestions.
+7. [Top 5 UI fonts for website & mobile apps](https://medium.muz.li/top-5-ui-fonts-for-website-mobile-apps-d78829e58f7e)
+8. [Example--- BBC GEL Typography Guide](http://www.bbc.co.uk/gel/guidelines/typography)
 
 ### Collections:
 1. [The Designer and the Grid](http://thedesignerandthegrid.tumblr.com/). Collection of grid-based design work.

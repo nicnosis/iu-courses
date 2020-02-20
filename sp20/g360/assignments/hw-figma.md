@@ -14,4 +14,4 @@ As we prepare for Project Two, you will want to make sure you understand the bas
 1. Complete [this tutorial](https://youtu.be/3q3FV65ZrUs).
 2. Submit a `shareable link` of your project on Canvas. You can test your share settings by attempting to open this link in an incognito window.
 
-#### **Due Monday Feb 18th @ 11:59pm**
+#### **Friday Feb 28th at 11:59pm**

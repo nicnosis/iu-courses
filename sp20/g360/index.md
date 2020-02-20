@@ -162,3 +162,17 @@ On Monday February 10th you will present your progress.
 #### Monday
  * `participation`: complete the Canvas response.
  * `finish` [Project One](assignments/p1.html). The due date has been extended to `Tuesday Feb 18th @11:59pm`
+
+#### Wednesday
+ * `visit` [atomicdesign](http://atomicdesign.bradfrost.com/) and [patternlab.io](http://demo.patternlab.io/)
+ * `create` a [Figma](https://www.figma.com/) account if you haven't already.
+ * `finish` Figma Sample File.
+ * `learn` components through [this example](https://www.figma.com/file/mKixgWiSvJV0W3HUhzCLme/Macintosh-System-1?node-id=0%3A1)
+ * `participation`
+   * Go to the [list section of calltoidea.com](https://calltoidea.com/lists/) and find a simple list you like.
+   * Using components, put together a simple list/card layout
+   * Submit a shareable link for today's participation
+
+### At Home
+ * `begin` [Homework Two](assignments/hw-figma.html). It is due `Friday Feb 28th @ 11:59pm`.
+ * `ANNOUNCEMENT`: We are not meeting for class Wednesday Feb 26th. You will still need to check the course website and keep up with what’s going on.
