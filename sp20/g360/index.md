@@ -176,3 +176,28 @@ On Monday February 10th you will present your progress.
 ### At Home
  * `begin` [Homework Two](assignments/hw-figma.html). It is due `Friday Feb 28th @ 11:59pm`.
  * `ANNOUNCEMENT`: We are not meeting for class Wednesday Feb 26th. You will still need to check the course website and keep up with what’s going on.
+
+## Week 7
+### Figma
+ * Frames and Layers
+ * Rulers, Grids
+ * Prototyping
+ * Components
+ * Styles
+
+#### Exercise
+__App concept:__ On-demand, location-based, photography and videography services. _(Think Uber but for photo/video)_
+
+Think through:
+ * Target audience: Who needs this?
+ * Use case: What would a typical user do?
+ * Storyboard: Sketch out a typical workflow with steps in the user journey
+   * See [this example](https://miro.medium.com/proxy/1*No9D6azPgPhAjmaMyhWyLg.jpeg) from [this article](https://uxplanet.org/a-beginners-guide-to-user-journey-mapping-bd914f4c517c)
+ * Components: Are there any conventions with existing components? For example--- camera interfaces
+ * Make a Figma prototype
+   * Put everybody's name somewhere on the prototype
+   * `submit` to Canvas for today's participation
+
+
+ * `complete` [Homework Two](assignments/hw-figma.html). It is due `Friday Feb 28th @ 11:59pm`.
+ * `begin` [Project Two](assignments/p2.html). It is due `Friday March 13th @ 11:59pm`.
