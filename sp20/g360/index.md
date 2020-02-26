@@ -185,7 +185,7 @@ On Monday February 10th you will present your progress.
  * Components
  * Styles
 
-#### Exercise
+#### Monday
 __App concept:__ On-demand, location-based, photography and videography services. _(Think Uber but for photo/video)_
 
 Think through:
@@ -198,6 +198,16 @@ Think through:
    * Put everybody's name somewhere on the prototype
    * `submit` to Canvas for today's participation
 
+#### Wednesday
+Remember that we're not meeting in class Wednesday Feb 26th. You still need to complete the participation exercise
 
+__Participation__:
+Remember that for Project Two you need an idea. Your narrative/concept statement should be <100 words and describe what you intend to do for the project.
+
+I know you guys are still working on HW2 but this is a good way to get the ball rolling on the Project. 
+
+Write out your concept and submit it to the Canvas `participation` assignment as a `.doc`/`.docx` file. This is due Sunday at 11:59pm.
+
+### At Home
  * `complete` [Homework Two](assignments/hw-figma.html). It is due `Friday Feb 28th @ 11:59pm`.
  * `begin` [Project Two](assignments/p2.html). It is due `Friday March 13th @ 11:59pm`.
