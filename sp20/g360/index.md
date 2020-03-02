@@ -211,3 +211,7 @@ Write out your concept and submit it to the Canvas `participation` assignment as
 ### At Home
  * `complete` [Homework Two](assignments/hw-figma.html). It is due `Friday Feb 28th @ 11:59pm`.
  * `begin` [Project Two](assignments/p2.html). It is due `Friday March 13th @ 11:59pm`.
+
+## Week 8
+### In Class
+ * `continue` [Project Two](assignments/p2.html). It is due `Friday March 13th @ 11:59pm`.

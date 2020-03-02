@@ -194,5 +194,15 @@ __Reminder__: We are not meeting in class Wednesday. You still need to check Can
  * `download` [7.1-grid.zip](mats/7.1-grid.zip)
 
 ### At Home
- * `begin` [Project Two](assignments/p2.html). Due `Tuesday March 3rd` at 11:59pm
+ * `begin` [Project Two](assignments/p2.html).
 
+## week 8
+### In Class
+#### Monday
+Critiques:
+ * Look at the Project Two assignment description to get a feel for where your points come from.
+ * Interface with your classmates to determine THREE CHANGES you want to make to your project.
+ * `Participation`: Go on Canvas and make a list of the desired changes you intend to make before submitting.
+
+### At Home
+ * `complete` [Project Two](assignments/p2.html). Due date has been extended to `Wednesday March 4th` at 11:59pm
