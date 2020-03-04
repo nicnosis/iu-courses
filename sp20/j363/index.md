@@ -204,5 +204,9 @@ Critiques:
  * Interface with your classmates to determine THREE CHANGES you want to make to your project.
  * `Participation`: Go on Canvas and make a list of the desired changes you intend to make before submitting.
 
+#### Wednesday
+You know the drill. If I did not get to see your project on Monday be sure to flag me down so I can see your progress.
+
 ### At Home
  * `complete` [Project Two](assignments/p2.html). Due date has been extended to `Wednesday March 4th` at 11:59pm
+ * __FOR THIS WEEKEND:__ Keep an eye on your e-mail inbox. I am trying to get everybody registered for Webflow and may be sending out invites over the weekend so we can start Monday.

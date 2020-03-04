@@ -215,3 +215,5 @@ Write out your concept and submit it to the Canvas `participation` assignment as
 ## Week 8
 ### In Class
  * `continue` [Project Two](assignments/p2.html). It is due `Friday March 13th @ 11:59pm`.
+ * `Wednesday Mar 4th participation`: Complete the canvas response by the end of class.
+
