@@ -210,3 +210,27 @@ You know the drill. If I did not get to see your project on Monday be sure to fl
 ### At Home
  * `complete` [Project Two](assignments/p2.html). Due date has been extended to `Wednesday March 4th` at 11:59pm
  * __FOR THIS WEEKEND:__ Keep an eye on your e-mail inbox. I am trying to get everybody registered for Webflow and may be sending out invites over the weekend so we can start Monday.
+
+## week 9
+### Before class, Monday
+* `If you haven't already`: Fill out [this form](https://forms.gle/vidX2oK3b5uQc1ccA) to get your Webflow Invite.
+
+### In Class
+ * Please pay attention to the way that we structure our folders on our Webflow team site.
+   * You will create a folder called `lastname-firstname`
+   * You will put all of your stuff in there
+   * Please do not leave projects directly inside of `Nic's Team`; they should be in the folder that you set up for yourself.
+ * Let's look at this example: [osiki landing](https://webflow.com/website/osiki-landing) together
+ * `clone` this example: [osiki wireframe](https://webflow.com/website/osiki-wireframe)
+ * `download` [9.1-cake-assets.zip](mats/9.1-cake-assets.zip)
+ * `submit` a screenshot for today's participation
+
+### At Home
+ * `learn` [Webflow Keyboard Shortcuts](https://university.webflow.com/article/keyboard-shortcuts-in-the-webflow-designer)
+ * `begin` watching the [Webflow 101 crash course](https://university.webflow.com/courses/webflow-101-crash-course) on Webflow University.
+   * `watch` section `intro`
+   * `watch` section `web structure`
+   * `watch` section `element basics`
+   * `watch` section `components`
+   * `watch` section `styling basics`
+   * `watch` section `layouts`
