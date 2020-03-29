@@ -216,6 +216,8 @@ You know the drill. If I did not get to see your project on Monday be sure to fl
 * `If you haven't already`: Fill out [this form](https://forms.gle/vidX2oK3b5uQc1ccA) to get your Webflow Invite.
 
 ### In Class
+#### Monday
+ * `inspiration` [finsweet](https://www.finsweet.com/)
  * Please pay attention to the way that we structure our folders on our Webflow team site.
    * You will create a folder called `lastname-firstname`
    * You will put all of your stuff in there
@@ -225,7 +227,19 @@ You know the drill. If I did not get to see your project on Monday be sure to fl
  * `download` [9.1-cake-assets.zip](mats/9.1-cake-assets.zip)
  * `submit` a screenshot for today's participation
 
+#### Wednesday
+ * `inspiration` [okalpha](https://webflow.com/website/Okalpha)
+ * We will re-create this: [Slick Template](https://webflow.com/website/FREEBIE:-Slick-Template)
+ * `download` [10.1-slick-assets.zip](mats/10.1-slick-assets.zip)
+ * Your navigator will look something [like this](img/slick-navigator.png)
+ * Style info:
+   * Use `body (all pages)` selector and set the font to 'Open Sans'
+   * Use `All h1 headings` selector and set the font to 'Montserrat'. Color is #f36ea9. Font size is 70px and line-height is 75px
+ * For each project, add a link block and set the class to 'Project'. Inside of the link block you should have an image. When moving/copying/pasting Projects, please make sure you have 'Project' and not 'Image' selected
+
 ### At Home
+ * `read` the instructions for [Project Three](assignments/p3.html). It is due `Friday April 17th` at 11:59pm.
+ * `complete` [Homework Three](assignments/hw3.html). Due `Sunday March 15th` at 11:59pm.
  * `learn` [Webflow Keyboard Shortcuts](https://university.webflow.com/article/keyboard-shortcuts-in-the-webflow-designer)
  * `begin` watching the [Webflow 101 crash course](https://university.webflow.com/courses/webflow-101-crash-course) on Webflow University.
    * `watch` section `intro`
@@ -234,3 +248,13 @@ You know the drill. If I did not get to see your project on Monday be sure to fl
    * `watch` section `components`
    * `watch` section `styling basics`
    * `watch` section `layouts`
+
+## week 11
+### "In Class" (but like, at home)
+ * `check` your Canvas messages for the ZOOM link.
+   * This course has two sections, 08:30AM and 10:45AM.
+   * If you are in Indiana or EST, please use the link for your timezone. If you are in another timezone where one course section is more accessible than the other, then feel free to hop on that call instead.
+ * `check in`: Re-calibrate
+ * We will `cover` the [quarantine plan](https://docs.google.com/document/d/16thZFQWHO5jjHWR74rYFqw2Qjf_TuS6XLiXQSJVK9SI/edit?usp=sharing). This attempts to answer a lot of questions you are likely to have.
+ * `inspiration`: [jomor.design](https://www.jomor.design/)
+ * `work on` [Project Three](assignments/p3.html)--- Due `Friday April 17th` at 11:59pm.

@@ -217,3 +217,19 @@ Write out your concept and submit it to the Canvas `participation` assignment as
  * `continue` [Project Two](assignments/p2.html). It is due `Friday March 13th @ 11:59pm`.
  * `Wednesday Mar 4th participation`: Complete the canvas response by the end of class.
 
+## Week 9
+### In Class
+#### CRITIQUES
+For today's `participation`, you will elicit feedback, both positive and constructive, from your colleagues. You will submit `two positive things` that you have done well so far, and `two constructive things` that you intend to work on.
+ * Consider:
+   * Concept/Narrative
+   * Exemplars
+   * Low-fidelity sketch
+   * Color scheme
+   * Typography
+   * Layout, proportion, sizing, spacing
+   * Visual identity
+   * Anything else
+
+### At Home
+ * `complete` [Project Two](assignments/p2.html). It is due `Friday March 13th @ 11:59pm`.

@@ -62,6 +62,4 @@ You need to have two things:
 
 Submit your stylescape `.pdf` to: `CANVAS > ASSIGNMENTS > HOMEWORK 3`
 
-Please bring a `PRINTED COPY OF YOUR SLIDES` to class Monday. You can have your sketch within the slides or just bring it on paper.
-
-#### **Due Monday October 28th at the start of class**
+#### **Due Sunday March 15th at 11:59pm**
