@@ -233,3 +233,11 @@ For today's `participation`, you will elicit feedback, both positive and constru
 
 ### At Home
  * `complete` [Project Two](assignments/p2.html). It is due `Friday March 13th @ 11:59pm`.
+
+## Week 11
+### "In Class" (but like, at home)
+ * `check` your Canvas messages for the ZOOM link.
+   * Make an effort to attend, but also know that the calls will be recorded for those who are unable to attend due to timezone change, lack of reliable internet, etc.
+ * `check in`: Re-calibrate
+ * We will `cover` the [quarantine plan](https://docs.google.com/document/d/1bGZNb18SurYFj-grjgAQZEOOYTEDnPeXSTai8T7l070/edit?usp=sharing). This FAQ attempts to answer a lot of questions you are likely to have
+ * `work on` [Project Three](assignments/p3.html). It is due `Friday May 8th at 11:59pm`

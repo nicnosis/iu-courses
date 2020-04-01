@@ -251,10 +251,27 @@ You know the drill. If I did not get to see your project on Monday be sure to fl
 
 ## week 11
 ### "In Class" (but like, at home)
+#### Monday
  * `check` your Canvas messages for the ZOOM link.
    * This course has two sections, 08:30AM and 10:45AM.
    * If you are in Indiana or EST, please use the link for your timezone. If you are in another timezone where one course section is more accessible than the other, then feel free to hop on that call instead.
  * `check in`: Re-calibrate
  * We will `cover` the [quarantine plan](https://docs.google.com/document/d/16thZFQWHO5jjHWR74rYFqw2Qjf_TuS6XLiXQSJVK9SI/edit?usp=sharing). This attempts to answer a lot of questions you are likely to have.
  * `inspiration`: [jomor.design](https://www.jomor.design/)
+ * `participation`:
+   * Present your stylescape
+   * Go to discussion threads
+
+#### Wednesday
+ * `check in`:
+   * How you're doing
+   * One sentence about what your project is
+   * One goal for yourself
+ * `inspiration`: [thepentool.co](https://www.thepentool.co/)
+ * If you already have something in Webflow--- let's look at it together
+ * If you don't have anything in Webflow--- let's get started
+ * Learn Webflow:
+  * [Nic's tutorials](https://loom.com/share/folder/31d5188a64cc424ea30942b03fc7c9d0)
+  * [Webflow University](https://university.webflow.com/) _(start with the Crash Course 101 playlist)_
+
  * `work on` [Project Three](assignments/p3.html)--- Due `Friday April 17th` at 11:59pm.
