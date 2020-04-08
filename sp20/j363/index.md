@@ -275,3 +275,49 @@ You know the drill. If I did not get to see your project on Monday be sure to fl
   * [Webflow University](https://university.webflow.com/) _(start with the Crash Course 101 playlist)_
 
  * `work on` [Project Three](assignments/p3.html)--- Due `Friday April 17th` at 11:59pm.
+
+## week 12
+### "In Class"
+#### Monday
+ * `inspiration`: [foudamor](https://www.foudamour.ca/)
+ * `progress`: Project Three
+
+#### Wednesday
+`Check Canvas` for Zoom Links.
+__Please Note__ that the links will be the same for the rest of the semester as they're recurring meetings.
+
+We'll do a group exercise and then talk about protocol for next week.
+
+Read the article for your assigned number:
+ * ONE: [hella cocktail co](https://www.underconsideration.com/brandnew/archives/new_logo_and_packaging_for_hella_cocktail_co_by_we_are_bill.php)
+ * TWO: [Vonage](https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_vonage_by_wolff_olins.php)
+ * THREE: [Seyfarth](https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_seyfarth_by_carbone_smolan_agency.php)
+ * FOUR: [PBS](https://www.underconsideration.com/brandnew/archives/new_logo_for_pbs_by_lippincott.php)
+ * FIVE: [Facebook](https://www.underconsideration.com/brandnew/archives/new_logo_for_facebook_inc_done_in_house_with_dalton_maag_and_saffron.php)
+
+Answer the following questions:
+ * What major changes were made?
+ * Why were they made?
+ * How will this affect the brand moving forward?
+
+### At Home
+Participation is to be done on your own time.
+ * `participation`
+   * `download` [12.1-cms-cakes.zip](mats/12.1-cms-cakes.zip)
+   * `read` the article on [neuomorphism in UI](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6) if you want more detail
+   * `play with` the [Finished CMS Cakes Exercise](https://preview.webflow.com/preview/cakes-cms-finished?utm_medium=preview_link&utm_source=dashboard&utm_content=cakes-cms-finished&preview=b22a712b7ac02841c7f2cfd86be714bb&mode=preview) on Webflow
+   * `watch` [Loom Tutorials 2 and 3](https://loom.com/share/folder/31d5188a64cc424ea30942b03fc7c9d0): CMS
+   * `publish` your Webflow link. Watch [this tutorial](https://www.loom.com/share/8597f0cf0f1c4602bcc195096e8429c0) if you don't know how
+   * `copy` the link. `submit` it on Canvas.
+
+ * `work on` [Project Three](assignments/p3.html)--- Due `Friday April 17th` at 11:59pm.
+
+### Next week...
+To try and make better use of class time, I want to look at projects by assigning students into 'timeslots'.
+
+For next week, you will attend Monday __OR__ Wednesday depending on your timeslot, but not both.
+
+If you cannot attend the timeslot for whatever reason, please let me know as soon as possible.
+
+ * `open` [this Google Sheet](https://docs.google.com/spreadsheets/d/1-7f_oQm6mRlIdD0cnqDVNM7F-zy5HJNTWdEzJIaoxf8/edit?usp=sharing)
+ * `listen` for instructions

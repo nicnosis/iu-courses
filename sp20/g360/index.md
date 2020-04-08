@@ -250,3 +250,19 @@ For today's `participation`, you will elicit feedback, both positive and constru
  * `participation`: on Canvas
 
  * `work on` [Project Three](assignments/p3.html). It is due `Friday May 8th at 11:59pm`
+
+## Week 12
+Last week you set a milestone goal for your project. You will present progress this week.
+
+You will either:
+ * (a) present on the Zoom call, and I will assign your grade or
+ * (b) Make a Loom video showing your project and explaining. Please keep the video under two minutes. E-mail me the Loom link with subject line '[G360] Week 12 Participation'
+
+### For Next Week
+You will only attend one of the Zoom sessions.
+
+You will schedule a timeslot on [this Google Sheet](https://docs.google.com/spreadsheets/d/1cyhA-tvNMq2xpWguossFdMR19uBHzOYPC_ngdfFfoNw/edit?usp=sharing) with me.
+
+Because I have limited 'class time' to do this; if you are able to pick a time outside class hours then please do so. This allows me to better serve students during our class time.
+
+You will use the other day to work on your project.
