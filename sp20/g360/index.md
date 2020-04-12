@@ -261,7 +261,7 @@ You will either:
 ### For Next Week
 You will only attend one of the Zoom sessions.
 
-You will schedule a timeslot on [this Google Sheet](https://docs.google.com/spreadsheets/d/1cyhA-tvNMq2xpWguossFdMR19uBHzOYPC_ngdfFfoNw/edit?usp=sharing) with me.
+You will schedule a timeslot on [this Google Sheet](https://docs.google.com/spreadsheets/d/1yByAmpRsnwScf46UheI3B4PaQ0mbVnnhAH9CAivUmZ8/edit?usp=sharing) with me.
 
 Because I have limited 'class time' to do this; if you are able to pick a time outside class hours then please do so. This allows me to better serve students during our class time.
 
