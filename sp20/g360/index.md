@@ -258,11 +258,13 @@ You will either:
  * (a) present on the Zoom call, and I will assign your grade or
  * (b) Make a Loom video showing your project and explaining. Please keep the video under two minutes. E-mail me the Loom link with subject line '[G360] Week 12 Participation'
 
-### For Next Week
+## Week 13
 You will only attend one of the Zoom sessions.
 
 You will schedule a timeslot on [this Google Sheet](https://docs.google.com/spreadsheets/d/1yByAmpRsnwScf46UheI3B4PaQ0mbVnnhAH9CAivUmZ8/edit?usp=sharing) with me.
 
-Because I have limited 'class time' to do this; if you are able to pick a time outside class hours then please do so. This allows me to better serve students during our class time.
-
 You will use the other day to work on your project.
+
+For this week's `participation` you will either:
+ * (a) present on the Zoom call, and I will assign your grade or
+ * (b) Make a Loom video showing your project and explaining. Please keep the video under two minutes. E-mail me the Loom link with subject line '[G360] Week 13 Participation'

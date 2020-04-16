@@ -321,3 +321,18 @@ If you cannot attend the timeslot for whatever reason, please let me know as soo
 
  * `open` [this Google Sheet](https://docs.google.com/spreadsheets/d/1-7f_oQm6mRlIdD0cnqDVNM7F-zy5HJNTWdEzJIaoxf8/edit?usp=sharing)
  * `listen` for instructions
+
+## week 13
+__REMEMBER__ for this week you are attending only one of the two Zoom sessions. Even if your timeslot is not until further in the period, please attend the full session so that you can see others' work; this will give you excellent ideas and help you to avoid many pitfalls.
+
+Check your timeslot [here](https://docs.google.com/spreadsheets/d/1-7f_oQm6mRlIdD0cnqDVNM7F-zy5HJNTWdEzJIaoxf8/edit?usp=sharing)
+
+
+ * `inspiration` [History of the Web](https://webflow.com/ix2)
+ * `participation`:
+   *  `download` [13.1-interactions.zip](mats/13.1-interactions.zip)
+   *  `watch` this tutorial: [Webflow Interactions](https://www.loom.com/share/c8164cbd55284e5f9447fa17588d8208)
+   *  `publish` your site and `submit` the link for this week's participation.
+
+
+ * `complete` [Project Three](assignments/p3.html)--- Due `Friday April 17th` at 11:59pm.
