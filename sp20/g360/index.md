@@ -268,3 +268,22 @@ You will use the other day to work on your project.
 For this week's `participation` you will either:
  * (a) present on the Zoom call, and I will assign your grade or
  * (b) Make a Loom video showing your project and explaining. Please keep the video under two minutes. E-mail me the Loom link with subject line '[G360] Week 13 Participation'
+
+
+## week 14
+### __Announcement__
+In the Fall I am teaching [G-438: Procedural Media](procedural-flyer.pdf).
+
+Some highlights:
+ * Learn programming in a fun and visually intuitive way
+ * No pre-requisites— all skill levels welcome. You do not need to be an artist.
+ * Build mastery of your tools and process in this production-heavy course
+ * Make unique portfolio pieces with a niche skillset
+ * Procedural assets for games— materials, shaders, environments
+
+If you are interested, I advise you to register ASAP because it's a small class and seats are filling quickly.
+
+### This Week
+Okay guys, here's the plan for this week:
+ * `For class:` attendance is optional. These will effectively be office hours with a first come, first serve basis for project help.
+ * `For participation:` fill out [this form](https://forms.gle/GMMgjvcj5JGxHLHt5). I will grade this for you on Canvas as long as you submit the form by `Saturday April 25th 11:59pm`

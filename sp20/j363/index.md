@@ -336,3 +336,63 @@ Check your timeslot [here](https://docs.google.com/spreadsheets/d/1-7f_oQm6mRlId
 
 
  * `complete` [Project Three](assignments/p3.html)--- Due `Friday April 17th` at 11:59pm.
+
+## week 14
+### __Announcement__
+In the Fall I am teaching [G-438: Procedural Media](procedural-flyer.pdf).
+
+Some highlights:
+ * Learn programming in a fun and visually intuitive way
+ * No pre-requisites— all skill levels welcome. You do not need to be an artist.
+ * Build mastery of your tools and process in this production-heavy course
+ * Make unique portfolio pieces with a niche skillset
+ * Procedural assets for games— materials, shaders, environments
+
+If you are interested, I advise you to register ASAP because it's a small class and seats are filling quickly.
+
+### This Week
+Our remaining time together will focus on using [p5.js](https://p5js.org/), a JavaScript Library, to create interactive media for the web.
+
+Structure for this week:
+
+ * I will give you recorded lectures. I will explain your `participation` for the week in these lectures.
+ * We will not meet for class.
+ * I will still make myself available online. I will create ONE Zoom call for both sections; it will last from 9:30AM to 11:30AM. I will be available to answer questions about anything. I will send you the Zoom link through Canvas message.
+
+#### Monday
+ * `watch` [Hello p5](https://hello.p5js.org/)
+
+Each exercise has a LECTURE and a PEN. __Make sure you use both.__
+
+They are short, straightforward, and completing them will __make your Project Four 1000x EASIER__.
+
+[THIS LINK](https://loom.com/share/folder/b89adeb76a3e4348b2f34efc4c8199a3) has the Loom shared folder with all the lectures in case you wanna bookmark it.
+
+`complete` exercises:
+ * 14.1 - Intro to Codepen: [[lecture]](https://www.loom.com/share/bd4d40d1babd473f87e349aadd522cb2) , [[pen]](https://codepen.io/novonagu/pen/Brvogm)
+ * 14.2 - Intro to JavaScript: [[lecture]](https://www.loom.com/share/bd4d40d1babd473f87e349aadd522cb2) , [[pen]](https://codepen.io/novonagu/pen/WzLxoj)
+ * 14.3 - Intro to p5.js: [[lecture]](https://www.loom.com/share/952e1cb691394e949230d17ead960afc) , [[pen]](https://codepen.io/novonagu/pen/qovaxE)
+
+You may also find it helpful to look at:
+ * The [p5.js site](https://p5js.org/), especially:
+   * The [reference](https://p5js.org/reference/) section, which shows you how to do anything.
+   * The [examples](https://p5js.org/examples/) section which will give you a lot of ideas on how to apply the code for creative projects. _(You can use this code in your projects! Just site it)_
+
+#### Wednesday
+`complete` exercises:
+ * 14.4 - Keyboard and Mouse events: [[lecture]](https://www.loom.com/share/86676c528b014f16b5b6d91ec0b72b30) , [[pen]](https://codepen.io/novonagu/pen/qYBWyg)
+ * 14.5 - random(): [[lecture]]() , [[pen]](https://codepen.io/novonagu/pen/KRKKVo)
+
+
+### Participation
+There are two parts to participation this week. They appear as two separate assignments on Canvas so please make sure you submit both.
+
+#### Part 1: p5 sketch
+
+#### Part 2: Project Four Idea
+You will come up with your [Project Four]() idea.
+
+
+
+For our final week of class, I will go over everyone's project ideas.
+__If you do not have an idea to present on Monday, you will not receive participation for Week 15__.
