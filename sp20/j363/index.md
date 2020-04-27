@@ -369,7 +369,7 @@ They are short, straightforward, and completing them will __make your Project Fo
 [THIS LINK](https://loom.com/share/folder/b89adeb76a3e4348b2f34efc4c8199a3) has the Loom shared folder with all the lectures in case you wanna bookmark it.
 
 `complete` exercises:
- * 14.1 - Intro to Codepen: [[lecture]](https://www.loom.com/share/bd4d40d1babd473f87e349aadd522cb2) , [[pen]](https://codepen.io/novonagu/pen/Brvogm)
+ * 14.1 - Intro to Codepen: [[lecture]](https://www.loom.com/share/bddfd38093fc401a868253041371d87d) , [[pen]](https://codepen.io/novonagu/pen/Brvogm)
  * 14.2 - Intro to JavaScript: [[lecture]](https://www.loom.com/share/bd4d40d1babd473f87e349aadd522cb2) , [[pen]](https://codepen.io/novonagu/pen/WzLxoj)
  * 14.3 - Intro to p5.js: [[lecture]](https://www.loom.com/share/952e1cb691394e949230d17ead960afc) , [[pen]](https://codepen.io/novonagu/pen/qovaxE)
 
@@ -381,7 +381,7 @@ You may also find it helpful to look at:
 #### Wednesday
 `complete` exercises:
  * 14.4 - Keyboard and Mouse events: [[lecture]](https://www.loom.com/share/86676c528b014f16b5b6d91ec0b72b30) , [[pen]](https://codepen.io/novonagu/pen/qYBWyg)
- * 14.5 - random(): [[lecture]]() , [[pen]](https://codepen.io/novonagu/pen/KRKKVo)
+ * 14.5 - random(): [[lecture]](https://www.loom.com/share/35cdde8e8d0b4ac2b703428662e4ea33) , [[pen]](https://codepen.io/novonagu/pen/KRKKVo)
 
 
 ### Participation
@@ -390,9 +390,16 @@ There are two parts to participation this week. They appear as two separate assi
 #### Part 1: p5 sketch
 
 #### Part 2: Project Four Idea
-You will come up with your [Project Four]() idea.
+You will come up with your [Project Four](assignments/p4.html) idea.
 
 
 
 For our final week of class, I will go over everyone's project ideas.
 __If you do not have an idea to present on Monday, you will not receive participation for Week 15__.
+
+## Week 15
+ * `complete` your [Course Questionnaire](https://coursequestionnaire.iu.edu/) for this course.
+
+This week I'll review everyone's project progress and give feedback on how to address technical and creative problems. Whether you have a lot or a little to present, you will benefit from this exercise.
+
+I will send out Zoom links. We will meet during normal hours.

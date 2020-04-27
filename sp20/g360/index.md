@@ -287,3 +287,11 @@ If you are interested, I advise you to register ASAP because it's a small class 
 Okay guys, here's the plan for this week:
  * `For class:` attendance is optional. These will effectively be office hours with a first come, first serve basis for project help.
  * `For participation:` fill out [this form](https://forms.gle/GMMgjvcj5JGxHLHt5). I will grade this for you on Canvas as long as you submit the form by `Saturday April 25th 11:59pm`
+
+## week 15
+
+ * `For class:` attendance is optional. These will effectively be office hours with a first come, first serve basis for project help.
+ * `For participation:` you will test your submission to make sure it works on my end. This is due `Saturday`
+ * Next week, even though we don't have class I'll still set up several time blocks for office hours or last minute questions.
+
+Can't wait to see how your projects are turning out!
