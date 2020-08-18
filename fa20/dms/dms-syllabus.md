@@ -11,15 +11,14 @@ __The game has changed.__
 
 The digital media landscape is brutally COMPETITIVE.
 
-Traffic has become harder and harder to obtain, and your audience's attention span is shorter than ever. There has never been a greater demand for high-quality, engaging content.
-
-The availability of cheap, global labor has made it harder than ever to compete.
+Traffic on social media has become harder to obtain, and your audience's attention span is shorter than ever. There has never been a greater demand for high-quality, engaging content.
 
 You will not survive by being average. Your brand and your content needs to be EXTRAORDINARY and UNFORGETTABLE.
 
 Many brands, businesses, and creators FAIL. Why?
+
  * Inability to hold the attention of their audience, or even get traffic in the first place.
- * A lack of quality content
+ * Irrelevant or low-quality content
  * No sense of identity or values
 
 Fortunately, we now have a solid understanding of why people engage with certain content, why they attach to certain brands, and what makes them buy.
@@ -27,20 +26,23 @@ Fortunately, we now have a solid understanding of why people engage with certain
 In __Digital Media Strategy__, you will learn how to navigate the digital landscape and make yourself known with an unforgettable identity and extraordinary content.
 
 ## Objectives
-Upon completion of this course, you will be able to:
+Upon completion of this course, you will have the following abilities:
 
-_Brand Identity Design:_
+__Brand Identity Design:__
+
  * Start With WHY: Seed your brand in a bold and compelling mission statement.
  * Visual Identity: Create a memorable and consistent appearance.
  * Positioning: Stand out from the herd with an unforgettable digital presence.
  * Community Building: Engage your audience and create a cult-like following.
 
-_Content:_
+__Content:__
+
  * Social Media Strategy: Understand today’s social media platforms and how to most effectively navigate them.
  * Content Strategy: Discover trends and assess audience demand to create content that consumers actually want.
  * Optimization: Make sure the algorithm promotes your content rather than hiding it.
 
-_Marketing:_
+__Marketing:__
+
  * Create Offers: Serve your audience with a killer product catalog.
  * Monetize Content: Turn your best creative ideas into products.
  * Targeting: Defining your ideal client avatar.
@@ -53,17 +55,50 @@ The ACEJMC, the accrediting council that periodically reviews our undergraduate 
  * Understand concepts and apply theories in the use and presentation of images and information;
  * Think critically, creatively and independently;
 
-## Structure
-
-
 ## Work
-### Use of Class Time
-This class is project-driven, and demands consistent effort inside and outside of the classroom. Classes are intended to be variable and may feature lectures, tutorials, in-class exercises, discussions and lab time. An effort is made to create a more interactive and less passive experience for students.
+In this course, you will create a brand and develop its presence on social media.
 
-### Projects (55 pts.)
+This is done with commercial intent; the goal is for you to have a following of engaged, potential buyers for your product/service by the end of the semester.
 
+Your assignments consist of:
+1. Projects
+2. Content
+3. Participation
+4. Professionalism
 
-### Homework (20 pts.)
+### Projects (45 pts.)
+This course has projects, which are structured yet flexible to help you build something useful and relevant to your goals.
+
+__Project 1: Designing Brand Identity__--- You need to stand out. In this project, you will come up with an unforgettable brand identity and support it with design deliverables.
+
+__Project 2: Client Avatar__--- Your product needs to solve a real problem for a real person. Having a clear client avatar will give you a clearer picture of how to communicate, create content, and engage your audience.
+
+__Project 3: Product Catalog__--- You will create a paid product/service that solves a real problem for your client. The goal is to have a product catalog that appeals on multiple levels; this could mean segmenting your audience or offering different price points.
+
+__Project 4: Outreach and Sales__--- You will either (a) sell your product or (b) create a 'beta test' where you can pilot the product and refine it.
+
+### Content (30 pts.)
+You will create content for your brand on one or more social media platforms.
+
+I am flexible about how you want to do this, but "short form" content lends itself better to this course format.
+
+Some examples of different formats:
+
+1. YouTube--- Videos, Stories, Lives
+2. Instagram--- Feed, Stories, IGTV, IG Live, IG Reels
+3. LinkedIn--- Posts and Videos
+4. Facebook--- Posts, Groups, Videos, Lives
+5. Podcasting
+6. Blog Posts
+
+__Your content needs to be INTENTIONAL.__ If you are posting something just to post something, I will call you out on your bullshit.
+
+Your classmates and I will help to steer you in the right direction. Instead of posting aimlessly, the goal is to develop a __strategic approach__ to your content.
+
+### Participation (20 pts.)
+Participation is an important element of this class. You must actively practice and hone your skills to succeed.
+
+Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. Some participation exercises will be completed during class. Some will require submission BEFORE class.
 
 ### Professionalism (5 pts.)
 Students are expected to behave like adults. Unprofessional behavior will be met with a grade deduction in this category.
@@ -79,7 +114,28 @@ Unprofessional behavior includes (but is not limited to):
  * Failure to practice academic integrity
  * Excessive use of cell phone during class
 
-### Final
+__Online Class Conduct__  
+For our Zoom lectures, please behave the same way you would in a physical class setting.
+
+Do:
+
+ * Have your camera on
+ * Be mentally present
+ * Dedicate 100% of your attention to the task at hand
+
+Don't:
+
+ * Smoke or vape on camera
+ * Multitask _(e.g. watching Netflix in another window)_
+ * Fall asleep or sit there with your eyes closed
+ * Sit there idle like a useless turd
+ * Do anything that's distracting to me or your classmates
+
+Failure to meet these expectations can result in:
+
+ * Being removed from the Zoom call
+ * A deduction in participation/professionalism grades
+
 
 <div style="page-break-after: always;"></div>
 
@@ -89,8 +145,10 @@ There are a total of **100** points in this class. The grade is divided as follo
 
 | Assignment                 |  Points |
 |:---------------------------|--------:|
-|                  |      10 |
-
+| Projects                   |      45 |
+| Content                    |      30 |
+| Participation              |      20 |
+| Professionalism            |       5 |
 | **Total**                  | **100** |
 
 <div style="page-break-after: always;"></div>
@@ -116,31 +174,11 @@ Your grade will be assigned as follows:
 
 Grading criteria will be given for each individual assignment.
 
-## Revisions
-When software is created in a professional environment, changes and revisions are common. Factoring that web development is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
-
-If you are re-submitting work:
-
-1. You must have submitted the work by its due date. Late work is not eligible for re-submission.
-2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission. This is at the instructor's discretion.
-3. You may only recover partial points lost.
-
-## Required Readings and Materials
-### Text
-
-### Codecademy
-
-### Software
-
-
-### Hardware
-
-
 ## Policies
 ### Attendance
 Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
-Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
+Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on participation activities if you miss class.
 
 Students are expected to come on time and stay for the duration of the class period. __A repeated pattern of tardiness is not tolerated.__
 
@@ -161,32 +199,13 @@ If you know you are going to be absent or late on a certain day, please tell me 
 ### Lost Data
 You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
 
-I **highly recommend** getting a [Box](https://uits.iu.edu/box) account. It is free, helps you to stay organized, and most importantly provides **backups** for your files.
+I **highly recommend** getting an [IU Google Drive](https://uits.iu.edu/google) account. It is free, helps you to stay organized, and most importantly provides **backups** for your files.
 
 ### Email
 If you e-mail me, make sure you tell me:
 
  * Who you are
  * What class you're in
-
-### Online Class Conduct
-For our Zoom lectures, please behave the same way you would in a physical class setting.
-
-Do:
- * Have your camera on
- * Be mentally present
- * Dedicate 100% of your attention to the task at hand
-
-Don't:
- * Smoke or vape on camera
- * Multitask or do other things
- * Sit their idle like a useless turd
- * Fall asleep or sit there with your eyes closed
- * Do anything that's distracting to me or your classmates
-
-Failure to meet these expectations can result in:
- * Being removed from the Zoom call
- * A deduction in participation/professionalism grades
 
 ### Self-care
 Make an effort to take care of yourself. I value you deeply as a student and you should make an effort to take care of your mental well-being.
@@ -202,9 +221,6 @@ For more information--- [https://studentaffairs.indiana.edu/disability-services-
 
 ### Academic Integrity
 As a student at IU, you are expected to adhere to the standards and policies detailed in the Code of Student Rights, Responsibilities, and Conduct (Code). When you submit an assignment with your name on it, you are signifying that the work contained therein is yours, unless otherwise cited or referenced. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. All suspected violations of the Code will be reported to the Dean of Students and handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final course grade, and a failing grade in the course, among other possibilities. If you are unsure about the expectations for completing an assignment or taking a test or exam, be sure to seek clarification beforehand.
-
-#### Proper Attribution for Referenced Works
-By nature, code is re-usable and extensible. It is both acceptable and encouraged to utilize and adapt examples of code; this is common on websites like StackOverflow. However, the sources for all referenced code must be given in your code commenting. I will assist students with finding code that is reusable (such as under the GNU license), and help with giving proper credit to the source.
 
 ### Sexual Misconduct
 As your instructor, one of my responsibilities is to create a positive learning environment for all students. Title IX and IU’s Sexual Misconduct Policy prohibit sexual misconduct in any form, including sexual harassment, sexual assault, stalking, and dating and domestic violence.  If you have experienced sexual misconduct, or know someone who has, the University can help.
@@ -236,5 +252,5 @@ The instructor reserves the right to adjust your final grade based on effort, pa
 
 |         |                      |                                   |
 |:--------|:---------------------|:----------------------------------|
-| week 1  | Mon 1/13, Wed 1/15   | Intro to HTML, tags               |
+| week 1  | Mon 1/13, Wed 1/15   |                |
 | week 16 | Mon 5/4 – Fri 5/8   | __FINALS__                        |
