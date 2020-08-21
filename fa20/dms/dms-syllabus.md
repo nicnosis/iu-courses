@@ -197,12 +197,16 @@ If you miss a quiz or participation exercise and have an __excused absence__, yo
 If you know you are going to be absent or late on a certain day, please tell me ahead of time.
 
 ### Lost Data
-You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
+You are responsible for keeping backups/duplicates of your files.
 
 I **highly recommend** getting an [IU Google Drive](https://uits.iu.edu/google) account. It is free, helps you to stay organized, and most importantly provides **backups** for your files.
 
-### Email
-If you e-mail me, make sure you tell me:
+Losing your files is not an excuse for late or incomplete work.
+
+### Contacting the Instructor
+You should use Canvas inbox or e-mail to contact me.
+
+Make sure you tell me:
 
  * Who you are
  * What class you're in
