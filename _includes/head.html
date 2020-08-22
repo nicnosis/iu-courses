@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-{% if page.term == 'sp19' %}
+{% if page.term == 'fa20' %}
     {% if jekyll.environment == "production" %}
         {% assign favicon_path = 'production' %}
     {% else %}
@@ -14,7 +14,7 @@
 
 <meta property="og:description" content="{{page.description}}" />
 <meta name="author" content="Nicolas Aguirre" />
-<meta name="keywords" content="j363, g360, web design, game design, indiana university, media school" />
+<meta name="keywords" content="j363, j463, web design, graphic design, indiana university, media school" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3" />
 
 <!--<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">-->
@@ -22,8 +22,8 @@
 <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Oswald:300,400" rel="stylesheet">
 
-{% if page.course == 'g360' or page.course == 'pro' %}
-<link href="{{site.baseurl}}/styles-g360.css" rel="stylesheet">
+{% if page.course == 'j463' or page.course == 'pro' %}
+<link href="{{site.baseurl}}/styles-alt.css" rel="stylesheet">
 {% else %}
 <link href="{{site.baseurl}}/styles.css" rel="stylesheet">
 {% endif %}
