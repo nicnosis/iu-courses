@@ -1,5 +1,5 @@
 # J463 GRAPHIC DESIGN ONE, FALL 2020
-**(VIRTUAL) OFFICE HOURS** --- Friday 10:30A -- 11:30A  
+**(VIRTUAL) OFFICE HOURS** --- Wednesday 1:30pm - 2:30pm  
 Zoom Link: <https://iu.zoom.us/my/naguirre>
 
 **LOCATION**--- Franklin Hall 073 & Zoom  
@@ -151,12 +151,12 @@ Your grade will be assigned as follows:
 Grading criteria will be given for each individual assignment.
 
 ## Revisions
-When software is created in a professional environment, changes and revisions are common. Factoring that design is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
+With design work, changes and revisions are common. Factoring that design is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
 
 If you are re-submitting work:
 
 1. You must have submitted the work by its due date. Late work is not eligible for re-submission.
-2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission. This is at the instructor's discretion.
+2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional work is not eligible for resubmission. This is at the instructor's discretion.
 3. You may only recover partial points lost.
 
 ## Required Readings and Materials
@@ -217,7 +217,7 @@ The only __exception to this rule__ is the final project, which cannot be submit
 ### Absences
 Whether or not an absence is excused is __entirely at the discretion of the instructor__.
 
-If you miss a quiz or participation exercise and have an __excused absence__, you have __one week__ to make up that assignment at office hours. If you cannot attend scheduled office hours, it is your responsibility to reach out and schedule another meeting time.
+If you miss a participation exercise and have an __excused absence__, you have __one week__ to make up that assignment at office hours. If you cannot attend scheduled office hours, it is your responsibility to reach out and schedule another meeting time.
 
 If you know you are going to be absent or late on a certain day, please tell me ahead of time.
 

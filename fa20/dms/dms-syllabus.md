@@ -1,6 +1,6 @@
 # J360 DIGITAL MEDIA STRATEGY FALL 2020
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
-**(VIRTUAL) OFFICE HOURS** --- Friday 10:30A -- 11:30A  
+**(VIRTUAL) OFFICE HOURS** --- Wednesday 1:30pm - 2:30pm  
 Zoom Link: <https://iu.zoom.us/my/naguirre>
 
 **SECTIONS**  

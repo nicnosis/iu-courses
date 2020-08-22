@@ -1,13 +1,11 @@
-# J363 WEB & MOBILE DESIGN SPRING 2020
+# J363 WEB & MOBILE DESIGN FALL 2020
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
-**OFFICE HOURS** --- Franklin Hall 030M (Basement), Friday 10:30A -- 11:30A
+**(VIRTUAL) OFFICE HOURS** --- Wednesday 1:30pm - 2:30pm  
+Zoom Link: <https://iu.zoom.us/my/naguirre>
 
+**LOCATION**--- Franklin Hall 073 & Zoom  
+**TIME**--- Section 12006: Mon/Wed 08:20AM -- 10:20AM
 
-
-**LOCATION**--- Franklin Hall 003  
-**SECTIONS**  
-11660 --- Meets MW 8:30A -- 10:30A  
-11564 --- Meets MW 10:45A -- 12:45P
 
 **PREREQUISITES**  
 MSCH-C101 --- Introduction to Media
@@ -28,6 +26,13 @@ In this course, you will:
  * Gain a demonstrable command of front-end web languages
  * Learn to adapt to a constantly-changing medium
 
+### ACEJMC Professional values and competencies
+The ACEJMC, the accrediting council that periodically reviews our undergraduate degree program, has created a set of professional values and competencies that the faculty here subscribes to. We think all journalism graduates should be aware of certain core concepts. Below are the ones we will focus most on in this class.
+
+ * Demonstrate an understanding of the diversity of peoples and cultures and of the significance and impact of mass communications in a global society;
+ * Understand concepts and apply theories in the use and presentation of images and information;
+ * Think critically, creatively and independently;
+
 ## Structure
 This course is divided into __four units__, each about 3-4 weeks in length.
 
@@ -42,6 +47,8 @@ Unit Three will acquaint you with __Webflow__, a powerful emerging software for 
 
 ### Unit Four: JavaScript
 Unit Four will introduce you to JavaScript. This unit will teach you how to introduce functionality and behavior into your website, while learning valuable programming principles that can be applied to other languages.
+
+<div style="page-break-after: always;"></div>
 
 ## Work
 ### Use of Class Time
@@ -73,9 +80,9 @@ A quiz consists of either (a) an unannounced quiz or (b) an in-class lab activit
 
 Participation is an important element of this class. It is not enough to read about web design and its constituent languages; one must actively practice and hone their skills to be successful. 
 
-Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. They are to be finished during class and are generally graded on completion.
+Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. Some participation exercises are to be completed during class, __and some are completed BEFORE class__.
 
-Students __must be physically present__ to claim a participation assignment. Coming to class late, leaving early, or attempting to submit participation while not present are all grounds for losing points.
+You must be present (either physically or on Zoom) to do the in-class exercises.
 
 ### Professionalism (5 pts.)
 Students are expected to behave like adults. Unprofessional behavior will be met with a grade deduction in this category.
@@ -91,6 +98,27 @@ Unprofessional behavior includes (but is not limited to):
  * Failure to practice academic integrity
  * Excessive use of cell phone during class
 
+__Online Class Conduct__  
+For our Zoom lectures, please behave the same way you would in a physical class setting.
+
+Do:
+
+ * Have your camera on
+ * Be mentally present
+ * Dedicate 100% of your attention to the task at hand
+
+Don't:
+
+ * Smoke or vape on camera
+ * Multitask _(e.g. watching Netflix in another window)_
+ * Fall asleep or sit there with your eyes closed
+ * Sit there idle like a useless turd
+ * Do anything that's distracting to me or your classmates
+
+Failure to meet these expectations can result in:
+
+ * Being removed from the Zoom call
+ * A deduction in participation/professionalism grades
 
 ### Final
 There is no final exam for this class.
@@ -159,18 +187,16 @@ We will use:
  1. A text editor--- [Atom](https://atom.io/) is recommended.
  2. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
 
-
-
 ### Hardware
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
 
-It is also useful to have access to a large display, or dual display configuration. If you are bringing your own laptop to class, it is recommended to bring a mouse.
+It is also useful to have access to a large display, or dual display configuration. If you are bringing your own laptop to class, it is recommended to get a mouse.
 
 <div style="page-break-after: always;"></div>
 
 ## Policies
 ### Attendance
-Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
+Students should make a serious effort to attend every lecture (online or in person). While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
 Course material is cumulative in nature and class periods are used to develop programming skills and work on projects. You will also miss out on quizzes and participation activities if you miss class.
 
@@ -191,9 +217,11 @@ If you miss a quiz or participation exercise and have an __excused absence__, yo
 If you know you are going to be absent or late on a certain day, please tell me ahead of time.
 
 ### Lost Data
-You are responsible for keeping backups/duplicates of your files. As an IU student, you should have access to a Box account. You can also use Google Drive or GitHub to maintain copies of your files. Losing your files is not an excuse for late or incomplete work.
+You are responsible for keeping backups/duplicates of your files.
 
-I **highly recommend** getting a [Box](https://uits.iu.edu/box) account. It is free, helps you to stay organized, and most importantly provides **backups** for your files.
+I **highly recommend** getting an [IU Google Drive](https://uits.iu.edu/google) account. It is free, helps you to stay organized, and most importantly provides **backups** for your files.
+
+Losing your files is not an excuse for late or incomplete work.
 
 ### Email
 If you e-mail me, make sure you tell me:
@@ -203,7 +231,7 @@ If you e-mail me, make sure you tell me:
 
 #### Getting help with code
  * Use Canvas to send a message. You can use (Send to > Instructor) for this purpose.
- * Include your code. To share your code--- Upload your code to Box, and get a shareable link. __YOU MUST CHECK "Anyone with link can download"__
+ * Include your code. To share your code--- Upload your code _(the entire folder)_ to Google Drive, and get a shareable link. __YOU MUST CHECK "Anyone with link can download"__
  * Include a screenshot if applicable _(e.g., something is displaying incorrectly)_
 
 __It can be difficult to diagnose coding problems via e-mail.__ I'll do my best, but you should consider talking with me after class, or coming to office hours if you're struggling with an assignment.
@@ -261,29 +289,3 @@ This course is rich in content and skill levels vary widely among students. The 
 
 ### Final Grade
 The instructor reserves the right to adjust your final grade based on effort, participation, or conduct. This is uncommon.
-
-<div style="page-break-after: always;"></div>
-
-## Tentative Schedule
-
-|         |                      |                                   |
-|:--------|:---------------------|:----------------------------------|
-| week 1  | Mon 1/13, Wed 1/15   | Intro to HTML, tags               |
-| week 2  | Mon 1/20             | __MLK Jr Day. No Class__         |
-| week 2  | Wed 1/22             | Links and Images                   |
-| week 3  | Mon 1/27, Wed 1/29   | Site Structure, Intro to CSS      |
-| week 4  | Mon 2/3, Wed 2/5     | CSS Selectors                     |
-| week 5  | Mon 2/10, Wed 2/12   | Box Model, Display/Position       |
-| week 6  | Mon 2/17, Wed 2/19   | CSS Grid, Hero Images             |
-| week 7  | Mon 2/24, Wed 2/26   | Project Two work                  |
-| week 8  | Mon 3/2, Wed 3/4     | WebFlow Elements and Hierarchy    |
-| week 9  | Mon 3/9, Wed 3/11    | WebFlow Styling, Responsive Design|
-|         | Sun 3/15             | __AUTO W__                        |
-|         | Sun 3/15 - Sun 3/22  | _SPRING BREAK_                     |
-| week 10 | Mon 3/23, Wed 3/25   | WebFlow CMS, Dynamic Content      |
-| week 11 | Mon 3/30, Wed 4/1    | Project Three work, group critiques|
-| week 12 | Mon 4/6, Wed 4/8     | Project Three: responsive design  |
-| week 13 | Mon 4/13, Wed 4/15   | Introducing p5.js                 |
-| week 14 | Mon 4/20, Wed 4/22   | p5.js random/constrain            |
-| week 15 | Mon 4/27, Wed 4/29  | Project Four work                 |
-| week 16 | Mon 5/4 – Fri 5/8   | __FINALS__                        |
