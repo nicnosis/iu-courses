@@ -6,6 +6,7 @@
     <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
     <div class="collapse navbar-toggleable-md" id="navbarResponsive">
         <ul class="nav navbar-nav">
+
             <!-- BRAND -->
             <li class="nav-item">
                 <a href="{{path}}/../.." class="navbar-brand">{{page.course}}</a>
@@ -18,12 +19,12 @@
             <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{path}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
             <!--END HOME, INSTRUCTOR, SYLLABUS-->
 
-            <!-- WEB DESIGN COURSE MATERIALS -->
+            <!-- COURSE MATERIALS -->
             {% if page.course == 'j363' %}
             <li class="nav-item dropdown" id="nav-materials">
                 <a class="nav-link dropdown-toggle" href="#" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-materials">
-                    <a class="dropdown-item" target="_blank" href="https://iu.box.com/s/f0lwiw66ow79ii5423a1qp7gwbhci7fl">Slides</a>
+                    <a class="dropdown-item" target="_blank" href="https://drive.google.com/drive/folders/1U76kzHSahiYqlZWqqyWFX57WfnJ2eyAn?usp=sharing">Slides</a>
                     <a class="dropdown-item" target="_blank" href="https://www.codecademy.com/">Codecademy</a>
                     <a class="dropdown-item" target="_blank" href="https://www.w3schools.com/">W3Schools</a>
                     <a class="dropdown-item" target="_blank" href="{{path}}/atom.html">Using Atom</a>
@@ -37,12 +38,6 @@
             <li class="nav-item dropdown" id="nav-inspiration"><a class="nav-link" href="{{path}}/inspiration.html">inspiration</a></li>
             <!--END INSPIRATION-->
 
-            {% if page.course == 'j463' %}
-            <!--            <li class="nav-item dropdown" id="nav-slides"><a class="nav-link" href="https://iu.box.com/s/vd0pwbhnyyd17vl3l42i9wjdqdkxlczl" target="_blank">slides</a></li>-->
-            <!--            <li class="nav-item dropdown" id="nav-slides"><a class="nav-link" href="" target="_blank">slides</a></li>-->
-            {% endif %}
-
-
             <!-- ASSIGNMENTS -->
             <li class="nav-item dropdown" id="nav-assignments">
                 <a class="nav-link dropdown-toggle" href="#" id="nav-link-assignments" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">assignments</a>
@@ -55,15 +50,15 @@
                     <!--<a href="{{path}}/assignments/hw3.html" class="dropdown-item">Homework Three</a>-->
                     <!--<a href="{{path}}/assignments/hw4.html" class="dropdown-item">Homework Four</a>-->
                     <div class="dropdown-divider"></div>
-                    <a href="{{path}}/assignments/p1.html" class="dropdown-item">Project One</a>
+                    <!--<a href="{{path}}/assignments/p1.html" class="dropdown-item">Project One</a>-->
                     <!--<a href="{{path}}/assignments/p2.html" class="dropdown-item">Project Two</a>-->
                     <!--<a href="{{path}}/assignments/p3.html" class="dropdown-item">Project Three</a>-->
                     <!--<a href="{{path}}/assignments/p4.html" class="dropdown-item">Project Four</a>-->
                     {% endif %}
 
-                    <!-- GXD-->
+                    <!-- GRAPHIC DESIGN -->
                     {% if page.course == 'j463' %}
-                    <a href="{{path}}/assignments/h1.html" class="dropdown-item">Homework One</a>
+                    <!--<a href="{{path}}/assignments/hw1.html" class="dropdown-item">Homework One</a>-->
                     <div class="dropdown-divider"></div>
                     <!--<a href="{{path}}/assignments/p1.html" class="dropdown-item">Project One</a>-->
                     {% endif %}

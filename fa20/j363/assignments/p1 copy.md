@@ -3,7 +3,7 @@ layout: default
 title: J363 - Project One
 footer: ''
 highlight: 'assignments'
-
+term: 'fa20'
 course: 'j363'
 ---
 # Project One --- <small>Site Structure</small>

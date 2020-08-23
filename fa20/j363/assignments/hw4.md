@@ -3,7 +3,7 @@ layout: default
 title: J363 - Homework Four
 footer: ''
 highlight: 'assignments'
-
+term: 'fa20'
 course: 'j363'
 ---
 # Homework Four --- <small>p5.js</small>
