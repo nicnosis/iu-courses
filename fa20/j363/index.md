@@ -15,6 +15,7 @@ This week you will familiarize yourself with course materials and get a basic un
  * `download` [1.1-inspect.zip](mats/1.1-inspect.zip)
 
 #### Wednesday
+From this day onward we will meet at `8:30am`.
  * `download` [1.2-elements.zip](mats/1.2-elements.zip)
  * `submit` your work on Canvas for today's participation
  * Let's talk about [Homework One](assignments/hw1.html)
@@ -23,7 +24,7 @@ This week you will familiarize yourself with course materials and get a basic un
 ### At Home
  * `read` the [syllabus](j363-syllabus.pdf)
  * `register` for [Codecademy](https://www.codecademy.com/)
- * `get` a way to backup files - Box Sync or Google Drive are good options
+ * `get` a [Google Drive](https://uits.iu.edu/google) so you can backup apps. Click the link and choose 'Google at IU Apps'.
  * `begin` [Homework One](assignments/hw1.html). It is due Sunday Aug 30 at 11:59pm
  * `review` the slides _(navigation: materials &gt; slides)_
 
