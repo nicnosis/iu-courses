@@ -41,7 +41,14 @@ You can get some pretty awesome stock photos for free.
 4. [ColorHunt](https://colorhunt.co/?ref=dribbble&shot=search_feature)
 5. [ColorWise](https://colorwise.io/)
 
-For gradients:
+### Searching by Color
+This is a __very powerful__ way to get color-based inspiration!
+1. Go to [https://www.behance.net/]
+2. Click the magnifying glass to go to 'search and filter'
+3. Use the 'color' dropdown to search by color
+4. Remember you can filter by other parameters like 'Creative Fields'
+
+### Gradients
 1.  [My Color Space](https://mycolor.space/)
 2.  [UI Gradients](https://uigradients.com/)
 
