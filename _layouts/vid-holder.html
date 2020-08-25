@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>{% include head.html %}</head>
+<body>
+{% if page.term != nil %}
+{% include navs/{{page.term}}-nav.html %}
+{% endif %}
+
+<div class="container">
+
+    <h1>lectures</h1>
+    <div class="row">
+        <!-- weeks nav goes here-->
+        <div class="col-md-2" id="sidebar" role="navigation">
+            <ul class="nav nav-pills nav-stacked hidden-sm-down" data-spy="affix" data-offset-top="100" id="weeks-nav"></ul>
+        </div>
+        <!-- weeks content goes here-->
+        <div class="col-md-10" id="weeks-content">
+            {{ content }}
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
+
+<!--DO LINKS-->
+<script>
+    const $h2 = $('h2');
+    for (var i = 0; i < $h2.length; i++) {
+        var id = $h2[i].id;
+        var text = id.replace('-',' ');
+        var li = '<li><a href="#' + id + '">' + text +  '</a>';
+        $('ul#weeks-nav').append(li);
+    }
+</script>
+
+</body>
+</html>
