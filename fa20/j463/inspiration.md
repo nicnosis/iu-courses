@@ -43,7 +43,7 @@ You can get some pretty awesome stock photos for free.
 
 ### Searching by Color
 This is a __very powerful__ way to get color-based inspiration!
-1. Go to [https://www.behance.net/]
+1. Go to [Behance](https://www.behance.net/)
 2. Click the magnifying glass to go to 'search and filter'
 3. Use the 'color' dropdown to search by color
 4. Remember you can filter by other parameters like 'Creative Fields'

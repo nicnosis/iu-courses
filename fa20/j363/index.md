@@ -9,7 +9,7 @@ course: 'j363'
 ## week 1
 This week you will familiarize yourself with course materials and get a basic understanding of HTML.
 
-### In Class
+### During Class
 #### Monday
  * `take` [this pre-test](https://forms.gle/fjhrgNJesdaezeDs5)
  * `download` [1.1-inspect.zip](mats/1.1-inspect.zip)
@@ -21,12 +21,15 @@ From this day onward we will meet at `8:30am`.
  * Let's talk about [Homework One](assignments/hw1.html)
  * If you are already very familiar with HTML, you might try learning [Figma](https://www.figma.com/).
 
-### At Home
+### Outside of Class
  * `read` the [syllabus](j363-syllabus.pdf)
  * `register` for [Codecademy](https://www.codecademy.com/)
  * `get` a [Google Drive](https://uits.iu.edu/google) so you can backup apps. Click the link and choose 'Google at IU Apps'.
  * `begin` [Homework One](assignments/hw1.html). It is due Sunday Aug 30 at 11:59pm
  * `review` the slides _(navigation: materials &gt; slides)_
+
+__Missed class or had issues with Zoom?__ Check out the [lectures](lectures.html) tab of this site; I will post our class recordings here.
+
 
 #### Codecademy
  * `begin` course: [Learn HTML](https://www.codecademy.com/learn/learn-html)
