@@ -19,16 +19,30 @@
             <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{path}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
             <!--END HOME, INSTRUCTOR, SYLLABUS-->
 
+            <!-- INSPIRATION-->
+            <li class="nav-item dropdown" id="nav-inspiration"><a class="nav-link" href="{{path}}/inspiration.html">inspiration</a></li>
+            <!--END INSPIRATION-->
+
             <!-- LECTURES -->
-            <li class="nav-item" id="nav-lectures"><a class="nav-link" href="{{path}}/lectures.html">lectures</a></li>
+            <li class="nav-item dropdown" id="nav-lectures">
+                <a class="nav-link dropdown-toggle" href="#" id="nav-link-lectures" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">lectures</a>
+                <div class="dropdown-menu" aria-labelledby="nav-link-lectures">
+                    <a class="dropdown-item" href="recordings.html">Recordings</a>
+                    {% if page.course == 'j363' %}
+                    <a class="dropdown-item" target="_blank" href="https://drive.google.com/drive/folders/1U76kzHSahiYqlZWqqyWFX57WfnJ2eyAn?usp=sharing">Slides</a>
+                    {% elsif page.course == 'j463' %}
+                    <a class="dropdown-item" target="_blank" href="https://drive.google.com/drive/folders/1I3uHjiFoNueGdpO28IyvOgo8qk-WLxkb?usp=sharing">Slides</a>
+                    {% endif %}
+                </div>
+            </li>
             <!-- END LECTURES -->
+
 
             <!-- COURSE MATERIALS -->
             {% if page.course == 'j363' %}
             <li class="nav-item dropdown" id="nav-materials">
                 <a class="nav-link dropdown-toggle" href="#" id="nav-link-materials" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">materials</a>
                 <div class="dropdown-menu" aria-labelledby="nav-link-materials">
-                    <a class="dropdown-item" target="_blank" href="https://drive.google.com/drive/folders/1U76kzHSahiYqlZWqqyWFX57WfnJ2eyAn?usp=sharing">Slides</a>
                     <a class="dropdown-item" target="_blank" href="https://www.codecademy.com/">Codecademy</a>
                     <a class="dropdown-item" target="_blank" href="https://www.w3schools.com/">W3Schools</a>
                     <a class="dropdown-item" target="_blank" href="{{path}}/atom.html">Using Atom</a>
@@ -37,10 +51,6 @@
             </li>
             {% endif %}
             <!-- END COURSE MATERIALS -->
-
-            <!-- INSPIRATION-->
-            <li class="nav-item dropdown" id="nav-inspiration"><a class="nav-link" href="{{path}}/inspiration.html">inspiration</a></li>
-            <!--END INSPIRATION-->
 
             <!-- ASSIGNMENTS -->
             <li class="nav-item dropdown" id="nav-assignments">

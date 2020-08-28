@@ -26,9 +26,7 @@ From this day onward we will meet at `8:30am`.
  * `register` for [Codecademy](https://www.codecademy.com/)
  * `get` a [Google Drive](https://uits.iu.edu/google) so you can backup apps. Click the link and choose 'Google at IU Apps'.
  * `begin` [Homework One](assignments/hw1.html). It is due Sunday Aug 30 at 11:59pm
- * `review` the slides _(navigation: materials &gt; slides)_
-
-__Missed class or had issues with Zoom?__ Check out the [lectures](lectures.html) tab of this site; I will post our class recordings here.
+ * `review` the slides _(navigation: lectures &gt; slides)_
 
 
 #### Codecademy

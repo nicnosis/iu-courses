@@ -34,12 +34,10 @@ This week you will familiarize yourself with course materials and get a basic un
    * `submit` a screenshot of your Lynda portal after logging in (so that I know you have access to it). This is due before class next week (check Canvas for details)
  * `complete` [Homework One](assignments/hw1.html). It is due `Wednesday September 2nd`
 
-__Missed class or had issues with Zoom?__ Check out the [lectures](lectures.html) tab of this site; I will post our class recordings here.
-
 #### Tutorials
  * `begin` watching [Photoshop CC 2020 Essentials: The Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-2020-Essential-Training-Basics/2818127-2.html?org=mcpl.info)
    * `watch` section 2: Documents and Navigation
    * _(optional)_: `watch` section 3: Customizing the Photoshop Interface
-   *`watch` section 4: Digital Image Essentials
+   * `watch` section 4: Digital Image Essentials
    * `watch` section 5: Cropping, Straightening, and Adjusting Canvas Size
- * Also, `download` this [Adobe Design Basics PDF](adobe-design-basics.pdf). This is a valuable tool for learning the Adobe Suite.
+ * Also, `download` this [Adobe Design Basics PDF](mats/adobe-design-basics.pdf). This is a valuable tool for learning the Adobe Suite.

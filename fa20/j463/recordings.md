@@ -1,6 +1,6 @@
 ---
 layout: vid-holder
-title: Graphic Design One
+title: Recordings
 footer: ''
 highlight: lectures
 term: 'fa20'

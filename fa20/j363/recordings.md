@@ -1,10 +1,10 @@
 ---
 layout: vid-holder
-title: Graphic Design One
+title: Recordings
 footer: ''
 highlight: lectures
 term: 'fa20'
-course: 'j463'
+course: 'j363'
 ---
 I will use this page to store our Kaltura recordings.
 
