@@ -38,3 +38,36 @@ From this day onward we will meet at `8:30am`.
  * `read` [HTML Basic](https://www.w3schools.com/html/html_basic.asp)
  * `read` [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
  * `read` [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
+
+## week 2
+### During Class
+#### Monday
+ * `inspiration`: [elegantseagulls](https://www.elegantseagulls.com/)
+   * `remember` to use the [critique outline](critiques.html).
+ * `download` [2.1-2.4.zip](mats/2.1-2.4.zip)
+ * `practice` 2.1-formatting
+ * `practice` 2.2-files
+
+#### Wednesday
+ * `inspiration`: [architecturaldigest --- clever](https://www.architecturaldigest.com/clever)
+   * `remember` to use the [critique outline](critiques.html).
+ * `practice` 2.3-links
+ * `practice` 2.4-structure
+
+### Outside of Class
+ * `finish` [Homework One](assignments/hw1.html). It is due `Monday August 31st at 11:59pm`
+ * `begin` [Project One](assignments/p1.html). `It is due Monday September 7th at 11:59pm`
+ * `review` class notes _(they are on the navigation: lectures &gt; slides)_
+ * `install` the [Muzli Chrome Extension](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?hl=en)
+
+#### Codecademy
+ * `continue` course: [Learn HTML](https://www.codecademy.com/learn/learn-html)
+ * `complete` HTML Elements and Structure: _HTML Document Standards_
+ * `complete` Learn Semantic HTML: _Semantic HTML_
+
+#### W3Schools
+ * `read` [HTML Formatting](https://www.w3schools.com/html/html_formatting.asp)
+ * `read` [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
+ * `read` [HTML Links](https://www.w3schools.com/html/html_links.asp)
+ * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp)
+ * `read` [HTML Classes](https://www.w3schools.com/html/html_classes.asp)
