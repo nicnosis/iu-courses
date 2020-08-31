@@ -23,7 +23,6 @@ This week you will familiarize yourself with course materials and get a basic un
  * `download` [1-color.zip](mats/1-color.zip)
 
 
-
 ### Outside of Class
  * `read` the [syllabus](j463-syllabus.pdf)
  * `install` [Adobe Creative Cloud](https://kb.iu.edu/d/bffs) if you don't already have it.
@@ -41,3 +40,19 @@ This week you will familiarize yourself with course materials and get a basic un
    * `watch` section 4: Digital Image Essentials
    * `watch` section 5: Cropping, Straightening, and Adjusting Canvas Size
  * Also, `download` this [Adobe Design Basics PDF](mats/adobe-design-basics.pdf). This is a valuable tool for learning the Adobe Suite.
+
+## Week 2
+### During Class
+#### Monday
+ * `lecture`: Rhythm and Balance
+ * `participation`: Canvas Discussion
+
+### Outside of Class
+ * `complete` [Homework One](assignments/hw1.html). It is due `Wednesday September 2nd`
+
+#### Tutorials
+ * `continue` watching [Photoshop CC 2020 Essentials: The Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-2020-Essential-Training-Basics/2818127-2.html?org=mcpl.info)
+   * `watch` section 6: Layers
+   * `watch` section 7: Color and Brush Essentials
+   * `watch` section 8: Working with Layer Masks
+   * `watch` section 9: Making Selections
