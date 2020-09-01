@@ -48,7 +48,8 @@ This week you will familiarize yourself with course materials and get a basic un
  * `participation`: Canvas Discussion
 
 ### Outside of Class
- * `complete` [Homework One](assignments/hw1.html). It is due `Wednesday September 2nd`
+ * `complete` [Homework One](assignments/hw1.html). It is due `Wednesday September 2nd at 11:59pm`
+ * `begin` [Project One](assignments/p1.html). It is due `Monday September 14th at 11:59pm`
 
 #### Tutorials
  * `continue` watching [Photoshop CC 2020 Essentials: The Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-2020-Essential-Training-Basics/2818127-2.html?org=mcpl.info)
