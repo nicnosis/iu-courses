@@ -47,9 +47,24 @@ This week you will familiarize yourself with course materials and get a basic un
  * `lecture`: Rhythm and Balance
  * `participation`: Canvas Discussion
 
+#### Wednesday
+ * `lecture`: Framing
+ * `resource`: Dynamic Compositions PDF _(Download from 'Lectures &gt; Slides')_
+ * `discussion`
+ * `participation`: Find an image, crop it, quick export PNG, upload to Canvas
+
+
 ### Outside of Class
+__Announcement:__ Week 1 participation is extended until Friday.
+
  * `complete` [Homework One](assignments/hw1.html). It is due `Wednesday September 2nd at 11:59pm`
  * `begin` [Project One](assignments/p1.html). It is due `Monday September 14th at 11:59pm`
+
+
+### Announcement: Monday September 7th
+In accordance with our registrar's calendar, classes still meet on Labor Day.
+
+However, there will be no new lecture content, so attendance is optional. I will use Monday September 7th to offer extended office hours from 10:0am - 1:00pm.
 
 #### Tutorials
  * `continue` watching [Photoshop CC 2020 Essentials: The Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-2020-Essential-Training-Basics/2818127-2.html?org=mcpl.info)

@@ -71,3 +71,8 @@ From this day onward we will meet at `8:30am`.
  * `read` [HTML Links](https://www.w3schools.com/html/html_links.asp)
  * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp)
  * `read` [HTML Classes](https://www.w3schools.com/html/html_classes.asp)
+
+### Announcement: Monday September 7th
+In accordance with our registrar's calendar, classes still meet on Labor Day.
+
+However, there will be no new lecture content, so attendance is optional. I will use Monday September 7th to offer extended office hours from 10:0am - 1:00pm.
