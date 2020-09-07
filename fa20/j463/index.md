@@ -72,3 +72,11 @@ However, there will be no new lecture content, so attendance is optional. I will
    * `watch` section 7: Color and Brush Essentials
    * `watch` section 8: Working with Layer Masks
    * `watch` section 9: Making Selections
+
+## week 3
+### Reminder: Monday September 7th
+In accordance with our registrar's calendar, classes still meet on Labor Day.
+
+However, there will be no new lecture content, so attendance is optional. I will use Monday September 7th to offer extended office hours from 10:0am - 1:00pm.
+
+__Make sure you use the office hours Zoom link (you can find it on Canvas or on the 'instructor' tab of this site.__

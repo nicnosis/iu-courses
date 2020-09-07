@@ -6,13 +6,12 @@ highlight: lectures
 term: 'fa20'
 course: 'j463'
 ---
-I will use this page to store our Kaltura recordings.
+I will use this page to store our class video recordings.
 
 ## week 1
-### 08/24 Monday - Introductions and Course Expectations
-<div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1751071/sp/175107100/embedIframeJs/uiconf_id/26683571/partner_id/1751071?iframeembed=true&playerId=kaltura_player&entry_id=1_iwxx89ai&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_19mz49zt" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
+ * [08/24 Monday - Introductions and Course Expectations](https://iu.zoom.us/rec/play/Jeghp4UJI5IEi48KtxnUAWKIFKzTyj7lwQZylxtX_Y9PZb1ORW3M0HZUHdkcbxz8niZGB0zXZZGO1L4.Uheb25dhwR9LP9pF)
+ * [08/26 Wednesday - Color Theory](https://iu.zoom.us/rec/play/YKQYlmU2hP0dPvZzA9zxScdVM4PtBhj9N5g6mPvT6AEnheia8qC3k-oUVdu22xYfiMoZ6Y9YMqEk4giO.uiIuDzJv8hU3J5Vk)
 
-### 08/26 Wednesday - Color Theory
-Kaltura is still experiencing processing delays.
-
-In the meantime, you can use [this link](https://iu.zoom.us/rec/play/vZF5cLyormk3HNHAtQSDAfZ4W9Xve_2s1CAYq_JZxE-2AiQDMVKlYrBGMeNAWN0HGxCo-SQLlPfA9MAG) to find the Zoom recording.
+## week 2
+ * [08/31 Monday - Rhythm and Balance](https://iu.zoom.us/rec/play/YnYsY4M2F58-RUn5vixn_rk9jz0MN_3HthwRgyNbwozjjhspoZcv12oIzT5x92Wd1ePhB0xjWrdFEs6q.DPq3Az_PznzJaL8o)
+ * [09/02 Wednesday - Framing](https://iu.zoom.us/rec/play/u0d5rMXPUpi3OybONpWrwIw1Ix9WyL2ny_lqwBzPTMqQUjs8rcxELfl-18kNWxrKZzRct48yh4h336oh.2o-mWNNEKxidXFYP)

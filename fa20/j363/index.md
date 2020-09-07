@@ -72,7 +72,31 @@ From this day onward we will meet at `8:30am`.
  * `read` [HTML Images](https://www.w3schools.com/html/html_images.asp)
  * `read` [HTML Classes](https://www.w3schools.com/html/html_classes.asp)
 
-### Announcement: Monday September 7th
+## week 3
+### During Class
+#### Monday
 In accordance with our registrar's calendar, classes still meet on Labor Day.
 
-However, there will be no new lecture content, so attendance is optional. I will use Monday September 7th to offer extended office hours from 10:0am - 1:00pm.
+However, there will be no new lecture content, __so attendance is optional.__ I will use Monday September 7th to offer extended office hours from 10:0am - 1:00pm.
+
+__Make sure you use the office hours Zoom link (you can find it on Canvas or on the 'instructor' tab of this site.__
+
+#### Wednesday
+ * `download` [3.1-review.zip](mats/3.1-review.zip)
+ * `download` [3.2-intro-to-css.zip](mats/3.2-intro-to-css.zip)
+ * `participation`: Complete the Quiz on Canvas.
+
+### At Home
+#### Codecademy
+ * `continue` course [Learn HTML](https://www.codecademy.com/learn/learn-html)
+   * `complete` Learn Semantic HTML: _Semantic HTML_
+ * `begin` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+   * `complete` section 1: Selectors and Visual Rules
+ * `begin` [Homework Two](assignments/hw2.html). It is due `Monday September 21st at 11:59pm`
+
+#### W3Schools
+ * `read` [HTML Classes](https://www.w3schools.com/html/html_classes.asp)
+ * `read` [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
+ * `read` [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
+ * `read` [CSS How To](https://www.w3schools.com/css/css_howto.asp)
+ * `read` [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
