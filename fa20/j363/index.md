@@ -82,6 +82,7 @@ However, there will be no new lecture content, __so attendance is optional.__ I 
 __Make sure you use the office hours Zoom link (you can find it on Canvas or on the 'instructor' tab of this site.__
 
 #### Wednesday
+ * `complete` [this poll](https://forms.gle/rjEUZUXJBtp4c5Zp6)
  * `download` [3.1-review.zip](mats/3.1-review.zip)
  * `download` [3.2-intro-to-css.zip](mats/3.2-intro-to-css.zip)
  * `participation`: Complete the Quiz on Canvas.

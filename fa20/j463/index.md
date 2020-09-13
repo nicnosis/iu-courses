@@ -74,9 +74,24 @@ However, there will be no new lecture content, so attendance is optional. I will
    * `watch` section 9: Making Selections
 
 ## week 3
-### Reminder: Monday September 7th
+### During Class
+#### Reminder: Monday September 7th
 In accordance with our registrar's calendar, classes still meet on Labor Day.
 
 However, there will be no new lecture content, so attendance is optional. I will use Monday September 7th to offer extended office hours from 10:0am - 1:00pm.
 
 __Make sure you use the office hours Zoom link (you can find it on Canvas or on the 'instructor' tab of this site.__
+
+#### Wednesday
+ * `complete` [this poll](https://forms.gle/D6gbGTwLCt2MMyt69)
+ * `participation`: Post your image in the discussion thread.
+ * `download` [3-gestalt.zip](mats/3-gestalt.zip)
+
+### Outside of Class
+ * `complete` [Project One](assignments/p1.html). It is due `Monday September 14th at 11:59pm`
+#### Tutorials
+ * `continue` watching [Photoshop CC 2020 Essentials: The Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-2020-Essential-Training-Basics/2818127-2.html?org=mcpl.info)
+   * `watch` section 11: Blend Mode Essentials
+   * `watch` section 12: Smart Object Essentials
+   * `watch` section 13: Essential Transformations
+   * `watch` section 14: Adjustment Layer Essentials
