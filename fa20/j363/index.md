@@ -101,3 +101,35 @@ __Make sure you use the office hours Zoom link (you can find it on Canvas or on 
  * `read` [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
  * `read` [CSS How To](https://www.w3schools.com/css/css_howto.asp)
  * `read` [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
+
+## week 4
+### In Class
+#### Monday
+ * `inspiration` [Happy Meter](http://happymeter.lol/)
+ * `download` [4.1-stylesheets.zip](mats/4.1-stylesheets.zip)
+ * `download` [4.2-selectors.zip](mats/4.2-selectors.zip)
+ * `participation`: complete the Canvas response.
+
+#### Wednesday
+ * `inspiration` [theartery](https://www.the-artery.com/)
+   * `use` the [critique questions](critiques.html) from the course website.
+ * `download` [4.3-box-model.zip](mats/4.3-box-model.zip)
+
+### At Home
+ * `continue` [Homework Two](assignments/hw2.html). It is due `Monday September 21st at 11:59pm`
+ * `review` class notes
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` section 2: The Box Model
+
+#### W3Schools
+ * `read` [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
+ * `read` [CSS Backgrounds](https://www.w3schools.com/css/css_background.asp)
+ * `read` [CSS Margin](https://www.w3schools.com/css/css_margin.asp)
+ * `read` [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
+ * `read` [CSS Fonts](https://www.w3schools.com/css/css_font.asp)
+ * `read` [CSS Borders](https://www.w3schools.com/Css/css_border.asp)
+ * `read` [CSS Width/Height](https://www.w3schools.com/Css/css_dimension.asp)
+ * `read` [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+

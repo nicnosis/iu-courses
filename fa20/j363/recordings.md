@@ -15,3 +15,6 @@ I will use this page to store our class video recordings.
 ## week 2
  * [08/31 Monday - Links and Images](https://iu.zoom.us/rec/play/aR-HO6nvmWAExJ3rfrcPvjrIUXETebae0ZYcpwrV44fBkosjTlicaxy_9sLoL_Rn0quU56_DcUz_U8G3.OWJuc9mlbxc3iEKm)
  * [09/2 Wednesday - Site Structure](https://iu.zoom.us/rec/play/2yXPgHE1r_TG4uxwxRM4lKKYAXFfdkk8uMXtN1ttWiikhffixR2hiud5p5hEjl_wUMM1agbLYuu9OxzP.WOx2qOYQsNABSB1k)
+
+## week 3
+ * [09/09 Wednesday - Intro to CSS](https://iu.zoom.us/rec/play/uw0fErviblEXHjrmLVk0lql5XOYdhHJs8WRAde21UrcNw2SaAvRAMTy0o7e7vLpNQns4uXtKBtCuprdq.RjDtoeGz92xOFydl)
