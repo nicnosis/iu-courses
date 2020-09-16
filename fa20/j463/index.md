@@ -106,4 +106,15 @@ __Announcement:__ Project One has been extended by a day. It is due `Tuesday Sep
  * `discussion`: Project One progress
 
 #### Wednesday
- * `practice` [Bezier Game](https://bezier.method.ac/)
+ * `download` [4-ai-2.zip](mats/4-ai-2.zip)
+   * `participation`: Submit your swatch (ASE file) for today's participation
+ * `download` [android.png](img/android.jpg)
+
+### At Home
+ * `begin` [Homework Two](assignments/hw2.html). It is due Sunday September 27th at 11:59pm
+ * `begin` watching [Introducing Illustrator](https://www.lynda.com/Illustrator-tutorials/Introducing-Illustrator-Revision/2812535-2.html) on Lynda.
+   * `watch` section 1: Meet the Document
+   * `watch` section 2: Guides and Shapes
+   * `watch` section 3: Beautifully Smooth Lines
+   * `watch` section 4: Text and Formatting
+   * `watch` section 5: Fills and Strokes
