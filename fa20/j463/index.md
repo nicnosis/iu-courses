@@ -88,10 +88,22 @@ __Make sure you use the office hours Zoom link (you can find it on Canvas or on 
  * `download` [3-gestalt.zip](mats/3-gestalt.zip)
 
 ### Outside of Class
- * `complete` [Project One](assignments/p1.html). It is due `Monday September 14th at 11:59pm`
+ * `complete` [Project One](assignments/p1.html). It is due `Tuesday September 15th at 11:59pm`
 #### Tutorials
  * `continue` watching [Photoshop CC 2020 Essentials: The Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-2020-Essential-Training-Basics/2818127-2.html?org=mcpl.info)
    * `watch` section 11: Blend Mode Essentials
    * `watch` section 12: Smart Object Essentials
    * `watch` section 13: Essential Transformations
    * `watch` section 14: Adjustment Layer Essentials
+
+## week 4
+__Announcement:__ Project One has been extended by a day. It is due `Tuesday September 15th at 11:59pm`
+
+### During Class
+#### Monday
+ * `read`: [Adobe: What is Vector Art?](https://www.adobe.com/creativecloud/illustration/discover/vector-art.html)
+ * `download` [4-ai.zip](mats/4-ai.zip)
+ * `discussion`: Project One progress
+
+#### Wednesday
+ * `practice` [Bezier Game](https://bezier.method.ac/)
