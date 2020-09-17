@@ -1,5 +1,5 @@
 # J463 GRAPHIC DESIGN ONE, FALL 2020
-**(VIRTUAL) OFFICE HOURS** --- Wednesday 1:30pm - 2:30pm  
+**(VIRTUAL) OFFICE HOURS** --- Mondays 1:30pm - 2:30pm  
 Zoom Link: <https://iu.zoom.us/my/naguirre>
 
 **LOCATION**--- Franklin Hall 073 & Zoom  

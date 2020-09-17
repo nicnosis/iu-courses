@@ -18,3 +18,7 @@ I will use this page to store our class video recordings.
 
 ## week 3
  * [09/09 Wednesday - Intro to CSS](https://iu.zoom.us/rec/play/uw0fErviblEXHjrmLVk0lql5XOYdhHJs8WRAde21UrcNw2SaAvRAMTy0o7e7vLpNQns4uXtKBtCuprdq.RjDtoeGz92xOFydl)
+
+## week 4
+ * [09/14 Monday - CSS Selectors](https://iu.zoom.us/rec/play/fyHo23s0FcbQ5uVP0iOrjoTsxHvpFCFu5WwnUn28GLZHB1DPHaJ2CQhp1DFnAZW0EKNLjHo0NDKUjeZt.5_9GvrhULS018dRH)
+ * [09/16 Wednesday - CSS Box Model and Composition](https://iu.zoom.us/rec/play/WaBFbQNUZuj9iPmXLnsO3M7YiYMmJ4Qv5so4gaEkigFt_2h-EnW3ywPNnXCMLuc8xwOH7061QpN4pTrG.eLzqbwTkRauPP9pw)

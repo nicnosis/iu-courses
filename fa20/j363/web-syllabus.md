@@ -1,6 +1,6 @@
 # J363 WEB & MOBILE DESIGN FALL 2020
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
-**(VIRTUAL) OFFICE HOURS** --- Wednesday 1:30pm - 2:30pm  
+**(VIRTUAL) OFFICE HOURS** --- Mondays 1:30pm - 2:30pm  
 Zoom Link: <https://iu.zoom.us/my/naguirre>
 
 **LOCATION**--- Franklin Hall 073 & Zoom  

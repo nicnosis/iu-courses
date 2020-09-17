@@ -18,3 +18,7 @@ I will use this page to store our class video recordings.
 
 ## week 3
  * [09/09 Wednesday - Gestalt Principles](https://iu.zoom.us/rec/play/evtMXRWRScLZuEsPsOwyJCki28P1l_lInvkY1k33jnR16z6tT7knX_cT7MxBB7BkTWZm5HNKVRUK-8u9.XgjyGP4g1Ghror_a)
+
+## week 4
+ * [09/14 Monday - Introducing Illustrator](https://iu.zoom.us/rec/play/0B5P0MuM7VkVc-GieMW_qD1sysJ7jt4VQrS2DapfPuUA2DqS5-dCOFxI5C18xyKzT_l6FSX33ekO1L7o.qHb8Vq6jXjvrdjvB)
+ * [09/16 Wednesday - AI Fill/Stroke, Transformations, Color Groups](https://iu.zoom.us/rec/play/KYBIPMh2bGf9Yk6RAXeU3vqKOGilN5vu0dCIWoAvHpiCmV_IWit5MHDG42ySP3UL0mHBcbMtoQ2w-5wo.K5eL7wX-6c3t18oh)
