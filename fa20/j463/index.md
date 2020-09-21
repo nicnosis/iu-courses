@@ -118,3 +118,18 @@ __Announcement:__ Project One has been extended by a day. It is due `Tuesday Sep
    * `watch` section 3: Beautifully Smooth Lines
    * `watch` section 4: Text and Formatting
    * `watch` section 5: Fills and Strokes
+
+## week 5
+### During Class
+#### Monday
+ * `play` [Bezier Game](https://bezier.method.ac/)
+ * `download` [4-ai-2.zip](mats/4-ai-2.zip)
+   * `participation`: On the key exercise _(2_penToolPractice.ai)_, export a PNG and upload it to Canvas.
+ * `read` [Flat Design. History, Benefits and Practice](https://blog.tubikstudio.com/flat-design-history-benefits-and-practice/)
+ * `discussion`
+1. Find a cool example from Behance or Pinterest. You can even search for 'flat design'.
+2. Post it in today's discussion on Canvas
+ * `download` [android.png](img/android.jpg)
+
+#### Preparing for Wednesday
+On Wednesday, you will present progress on your Homework Two. At the very least, you must decide on a topic and have an idea to present to the class.
