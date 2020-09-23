@@ -110,8 +110,8 @@ __Announcement:__ Project One has been extended by a day. It is due `Tuesday Sep
    * `participation`: Submit your swatch (ASE file) for today's participation
  * `download` [android.png](img/android.jpg)
 
-### At Home
- * `begin` [Homework Two](assignments/hw2.html). It is due Sunday September 27th at 11:59pm
+### Outside of Class
+ * `begin` [Homework Two](assignments/hw2.html). It is due Monday September 28th at 11:59pm
  * `begin` watching [Introducing Illustrator](https://www.lynda.com/Illustrator-tutorials/Introducing-Illustrator-Revision/2812535-2.html) on Lynda.
    * `watch` section 1: Meet the Document
    * `watch` section 2: Guides and Shapes
@@ -131,5 +131,17 @@ __Announcement:__ Project One has been extended by a day. It is due `Tuesday Sep
 2. Post it in today's discussion on Canvas
  * `download` [android.png](img/android.jpg)
 
-#### Preparing for Wednesday
-On Wednesday, you will present progress on your Homework Two. At the very least, you must decide on a topic and have an idea to present to the class.
+#### Wednesday
+__Announcement:__ Homework Two has been extended to Monday.
+
+ * `continue` 4.9
+ * `critiques`: Homework Two
+
+### Outside of Class
+ * `complete` [Homework Two](assignments/hw2.html). It is due Monday September 28th at 11:59pm
+ * `begin` watching [Introducing Illustrator](https://www.lynda.com/Illustrator-tutorials/Introducing-Illustrator-Revision/2812535-2.html) on Lynda.
+   * `watch` section 6: Edit & Organize
+   * `watch` section 7: Rotate, Reflect, Scale
+   * `watch` section 8: Precise Path Adjustments
+   * `watch` section 9: The Curvature and Pen Tools
+   * `watch` section 10: Dynamic Effects

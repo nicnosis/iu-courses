@@ -29,4 +29,4 @@ This time, you will submit an `.ai` file.
 3. Make sure your layers are named sensibly; avoid having layer 1, layer 2, copy of layer 2, copy of copy of layer 2 etc.
 4. Make sure you have grouped objects sensibly.
 
-Due Sunday September 27th at 11:59pm.
+#### **Due Monday September 28th at 11:59pm.**
