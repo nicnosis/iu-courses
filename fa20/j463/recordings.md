@@ -22,3 +22,7 @@ I will use this page to store our class video recordings.
 ## week 4
  * [09/14 Monday - Introducing Illustrator](https://iu.zoom.us/rec/play/0B5P0MuM7VkVc-GieMW_qD1sysJ7jt4VQrS2DapfPuUA2DqS5-dCOFxI5C18xyKzT_l6FSX33ekO1L7o.qHb8Vq6jXjvrdjvB)
  * [09/16 Wednesday - AI Fill/Stroke, Transformations, Color Groups](https://iu.zoom.us/rec/play/KYBIPMh2bGf9Yk6RAXeU3vqKOGilN5vu0dCIWoAvHpiCmV_IWit5MHDG42ySP3UL0mHBcbMtoQ2w-5wo.K5eL7wX-6c3t18oh)
+
+## week 5
+ * [09/21 Monday - Flat Design, Pen Tool](https://iu.zoom.us/rec/play/qplK_mz_CdhrAJK2_i1otZyPfN0_5D7EUV-X4jdNiZOFg7mfljVwTIgGwncADa2n6ziLafStX6qxEZmO.xsiY6RT_H4hILAUO)
+ * [09/23 Wednesday - HW2 Critiques](https://iu.zoom.us/rec/play/zY-4QK2Ri1wXzoQgfDNTonH-D71ELLcIajFIUEkE2wJG5xxLA8mw3oiuOvNOu4x83AL8n_uL66SYxeKy.hZzw-GbqysMaJ-CW)

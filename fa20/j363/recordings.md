@@ -22,3 +22,7 @@ I will use this page to store our class video recordings.
 ## week 4
  * [09/14 Monday - CSS Selectors](https://iu.zoom.us/rec/play/fyHo23s0FcbQ5uVP0iOrjoTsxHvpFCFu5WwnUn28GLZHB1DPHaJ2CQhp1DFnAZW0EKNLjHo0NDKUjeZt.5_9GvrhULS018dRH)
  * [09/16 Wednesday - CSS Box Model and Composition](https://iu.zoom.us/rec/play/WaBFbQNUZuj9iPmXLnsO3M7YiYMmJ4Qv5so4gaEkigFt_2h-EnW3ywPNnXCMLuc8xwOH7061QpN4pTrG.eLzqbwTkRauPP9pw)
+
+## week 5
+ * [09/21 Monday - Hero Images, Display/Position](https://iu.zoom.us/rec/play/eVk2J5anQU4FEwXuK0cNZsNVVPETIJCNt6wCCHhkHgQc2tiopEDy540-IioB-lXPvNCAu_SEVe5PFcjK.IyGPdNpxv9MRFdh2)
+ * [09/23 Wednesday - Visual Identity](https://iu.zoom.us/rec/play/4grkgysJdgdkQwqlYfBJkX0Fgzcmxws9Bs9je4NYXrTNnbas1E2lS1iv-JjPLZf_ohWY9mD9oEbf0gQm.Jk_NvYKAXWl2eUW-)
