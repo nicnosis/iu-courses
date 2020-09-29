@@ -139,9 +139,31 @@ __Announcement:__ Homework Two has been extended to Monday.
 
 ### Outside of Class
  * `complete` [Homework Two](assignments/hw2.html). It is due Monday September 28th at 11:59pm
- * `begin` watching [Introducing Illustrator](https://www.lynda.com/Illustrator-tutorials/Introducing-Illustrator-Revision/2812535-2.html) on Lynda.
+ * `continue` watching [Introducing Illustrator](https://www.lynda.com/Illustrator-tutorials/Introducing-Illustrator-Revision/2812535-2.html) on Lynda.
    * `watch` section 6: Edit & Organize
    * `watch` section 7: Rotate, Reflect, Scale
    * `watch` section 8: Precise Path Adjustments
    * `watch` section 9: The Curvature and Pen Tools
    * `watch` section 10: Dynamic Effects
+
+## week 6
+### During Class
+#### Monday
+ * `review`
+ * `download` [5-ai.zip](mats/5-ai.zip)
+ * `HW2 help`
+
+### Participation for Week 7
+__You will complete your participation outside of class before Monday.__ You must come prepared on Monday to receive participation points.
+
+On Monday, you will present your idea for Project Two and receive feedback.
+
+1. `open` [this form](https://docs.google.com/document/d/1KjIJB0w8JaLEQ6PyI4fgHQN-LNZRKY9PPTH3PYAcxSQ/edit?usp=sharing)
+2. Follow the instructions and complete the form.
+3. Submit your `pdf` to Canvas by Sunday 11:59pm.
+
+### Outside of Class
+ * `complete` [Homework Two](assignments/hw2.html). It is due Monday September 28th at 11:59pm
+ * `begin` [Project Two](assignments/p2.html). It is due Sunday Oct 18th at 11:59pm
+ * You __must come prepared__ on Monday. You will not receive participation points if you are not prepared.
+

@@ -170,7 +170,7 @@ __Make sure you use the office hours Zoom link (you can find it on Canvas or on 
  * `download` [6.1-grid.zip](../../sp20/j363/mats/6.1-grid.zip)
 
 ### At Home
- * `begin` [Project Two](assignments/p2.html). Due `` at 11:59pm
+ * `begin` [Project Two](assignments/p2.html). Due `Wednesday October 16th` at 11:59pm
 
 #### Participation for Monday
 Remember on Monday __you will need to prepare__ in order to get your participation points. The assignment is worth `two points`.
