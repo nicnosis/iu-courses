@@ -153,8 +153,53 @@ __Announcement:__ Homework Two has been extended to Monday.
  * `download` [5-ai.zip](mats/5-ai.zip)
  * `HW2 help`
 
+#### Wednesday
+ * `read` this article: [Graphic Design Styles](https://medium.com/@bhattifaizan/graphic-design-styles-fa85aff1ff69)
+
+__ACTIVITY A:__
+ * I will group you by styles.
+ * You will teach the rest of the class about your designated styles.
+ * You will find one example (anywhere on the internet) from each style. Post them under the Canvas discussion for today's date __(make sure you post it for Activity A)__
+
+
+One:
+ * Victorian
+ * Arts and Crafts
+ * Art Nouveau
+
+Two:
+ * Futurism
+ * Art Deco
+ * Heroic Realism
+
+Three:
+ * Early Modern
+ * American Kitsch
+ * Late Modern
+
+Four:
+ * International
+ * Post Modern
+ * Flat
+
+Five:
+ * Psychedelic
+ * Grunge
+
+__ACTIVITY B:__
+ * I will regroup you.
+ * Go to the Canvas discussion `Week 6: Activity B` after I publish it.
+ * Each group will receive a premise.
+ * For your premise, assemble a moodboard on Pinterest with 10+ images to serve as inspiration.
+ * Post the link to your board on the discussion. Make sure you are posting under 'Activity B'
+
+### Participation for Week 6
+These is no participation grade for this week.
+
 ### Participation for Week 7
 __You will complete your participation outside of class before Monday.__ You must come prepared on Monday to receive participation points.
+
+This is a __very substantial assignment__. It is worth three points and it will make it __much easier__ to complete the next Project.
 
 On Monday, you will present your idea for Project Two and receive feedback.
 
@@ -166,4 +211,3 @@ On Monday, you will present your idea for Project Two and receive feedback.
  * `complete` [Homework Two](assignments/hw2.html). It is due Monday September 28th at 11:59pm
  * `begin` [Project Two](assignments/p2.html). It is due Sunday Oct 18th at 11:59pm
  * You __must come prepared__ on Monday. You will not receive participation points if you are not prepared.
-

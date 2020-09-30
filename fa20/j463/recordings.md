@@ -26,3 +26,7 @@ I will use this page to store our class video recordings.
 ## week 5
  * [09/21 Monday - Flat Design, Pen Tool](https://iu.zoom.us/rec/play/qplK_mz_CdhrAJK2_i1otZyPfN0_5D7EUV-X4jdNiZOFg7mfljVwTIgGwncADa2n6ziLafStX6qxEZmO.xsiY6RT_H4hILAUO)
  * [09/23 Wednesday - HW2 Critiques](https://iu.zoom.us/rec/play/zY-4QK2Ri1wXzoQgfDNTonH-D71ELLcIajFIUEkE2wJG5xxLA8mw3oiuOvNOu4x83AL8n_uL66SYxeKy.hZzw-GbqysMaJ-CW)
+
+## week 6
+ * [09/28 Monday - Blend Tool, Art Brush](https://iu.zoom.us/rec/play/ytSMXztDvWgikHdoxCbXtoyK38QhUqsfERzsu0vERHzT-8MEHYVaYBtfjdU4b6cttFTilExVrctHbIM4.krEx0KmFSur_LMxN)
+ * [09/30 Wednesday - Graphic Design Styles](https://iu.zoom.us/rec/play/Vjo8aTuUrOiRr1wDXmlVzrLtHjx1f3x58mBwwYOoAi_PTDZZIG-YyLbE4AGUuhGyBV0nz21jI1-iI1pv.cHzPPhCC9LDUdn_t)

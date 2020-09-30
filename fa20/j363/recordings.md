@@ -26,3 +26,7 @@ I will use this page to store our class video recordings.
 ## week 5
  * [09/21 Monday - Hero Images, Display/Position](https://iu.zoom.us/rec/play/eVk2J5anQU4FEwXuK0cNZsNVVPETIJCNt6wCCHhkHgQc2tiopEDy540-IioB-lXPvNCAu_SEVe5PFcjK.IyGPdNpxv9MRFdh2)
  * [09/23 Wednesday - Visual Identity](https://iu.zoom.us/rec/play/4grkgysJdgdkQwqlYfBJkX0Fgzcmxws9Bs9je4NYXrTNnbas1E2lS1iv-JjPLZf_ohWY9mD9oEbf0gQm.Jk_NvYKAXWl2eUW-)
+
+## week 6
+ * [09/28 Monday - HW2 Critiques](https://iu.zoom.us/rec/play/iJJk7kQ_7MWbSkZVAgN-h3gWIbEVeJSiAKx3rjqddFLCT3SRlUqCZ8TzXgNVcq97VPIsH32lIO61fKRX.4pDfPHwLDlxLjKGy)
+ * [09/30 Wednesday - CSS Grid](https://iu.zoom.us/rec/play/byp3vGAR24PKLyPQHC5eDIoAdA4a2UDSS7VipDnWrEpjHB8kuwT2Ev5VSlBcqPVvRceA_ygqtPtaltJj.M2oUvIs--hia24tn)
