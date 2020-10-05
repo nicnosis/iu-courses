@@ -170,7 +170,7 @@ __Make sure you use the office hours Zoom link (you can find it on Canvas or on 
  * `download` [6.1-grid.zip](../../sp20/j363/mats/6.1-grid.zip)
 
 ### At Home
- * `begin` [Project Two](assignments/p2.html). Due `Wednesday October 16th` at 11:59pm
+ * `begin` [Project Two](assignments/p2.html). Due `Friday October 16th` at 11:59pm
 
 #### Participation for Monday
 Remember on Monday __you will need to prepare__ in order to get your participation points. The assignment is worth `two points`.
@@ -195,3 +195,18 @@ You can use ANY size/format you want __as long as__ it fulfills the above requir
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * Work on sections 4–6. You should aim to complete these sections over the next week or two as you work on your project.
+
+## week 7
+### During Class
+__Reminder__: You do not need to attend on Wednesday. Wednesday will be used as a help session for Project Two.
+
+ * `critiques:` use [this sheet](https://docs.google.com/document/d/1G98ZLOrbFlsDaXlO_uiJlQhWtwC1yHWpRMkRyPtYkyM/edit?usp=sharing) and follow the instructions.
+ * `download` [7.1-grid.zip](mats/7.1-grid.zip)
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html). It is due `Friday October 16th` at 11:59pm
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * Work on sections 4–6. You should aim to complete these sections over the next week or two as you work on your project.
+

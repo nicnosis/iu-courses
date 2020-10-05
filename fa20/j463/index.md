@@ -211,3 +211,14 @@ On Monday, you will present your idea for Project Two and receive feedback.
  * `complete` [Homework Two](assignments/hw2.html). It is due Monday September 28th at 11:59pm
  * `begin` [Project Two](assignments/p2.html). It is due Sunday Oct 18th at 11:59pm
  * You __must come prepared__ on Monday. You will not receive participation points if you are not prepared.
+
+## week 7
+### During Class
+#### Monday
+We will discuss your Project Two ideas.
+
+#### Wednesday
+You do not have to attend on Wednesday. It is an open help session for Project Two.
+
+### Outside of Class
+ * `continue` [Project Two](assignments/p2.html). It is due Sunday Oct 18th at 11:59pm
