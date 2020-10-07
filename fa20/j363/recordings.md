@@ -30,3 +30,6 @@ I will use this page to store our class video recordings.
 ## week 6
  * [09/28 Monday - HW2 Critiques](https://iu.zoom.us/rec/play/iJJk7kQ_7MWbSkZVAgN-h3gWIbEVeJSiAKx3rjqddFLCT3SRlUqCZ8TzXgNVcq97VPIsH32lIO61fKRX.4pDfPHwLDlxLjKGy)
  * [09/30 Wednesday - CSS Grid](https://iu.zoom.us/rec/play/byp3vGAR24PKLyPQHC5eDIoAdA4a2UDSS7VipDnWrEpjHB8kuwT2Ev5VSlBcqPVvRceA_ygqtPtaltJj.M2oUvIs--hia24tn)
+
+## week 7
+ * [10/05 Monday - Stylescape Review](https://iu.zoom.us/rec/play/aU6vZbXdJnb_1Xc_sdTDZU8zQboyrPXpmFbpuMu6aL15CbXo41Ty7J8viq_SGxKIkr8i3lowXgMrznM.rbcdXoVicDQv3god)

@@ -30,3 +30,6 @@ I will use this page to store our class video recordings.
 ## week 6
  * [09/28 Monday - Blend Tool, Art Brush](https://iu.zoom.us/rec/play/ytSMXztDvWgikHdoxCbXtoyK38QhUqsfERzsu0vERHzT-8MEHYVaYBtfjdU4b6cttFTilExVrctHbIM4.krEx0KmFSur_LMxN)
  * [09/30 Wednesday - Graphic Design Styles](https://iu.zoom.us/rec/play/Vjo8aTuUrOiRr1wDXmlVzrLtHjx1f3x58mBwwYOoAi_PTDZZIG-YyLbE4AGUuhGyBV0nz21jI1-iI1pv.cHzPPhCC9LDUdn_t)
+
+## week 7
+ * [10/05 Monday - Project Two Idea Discussions](https://iu.zoom.us/rec/play/J5_JpGT_o0GRrWh3ZcRQLlOzj0WP3egTXj8kTYDRE3CQuXInFW4yXmX6-bPOaa1qOFMETQNxXchrg5UP.6kd679FkUF5qQtvP)

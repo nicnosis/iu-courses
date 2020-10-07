@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Web Design'
+title: 'Digital Media Strategy'
 footer: ' '
 highlight: home
 term: 'sp20'
