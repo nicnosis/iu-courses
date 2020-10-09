@@ -222,3 +222,47 @@ You do not have to attend on Wednesday. It is an open help session for Project T
 
 ### Outside of Class
  * `continue` [Project Two](assignments/p2.html). It is due Sunday Oct 18th at 11:59pm
+
+### PREPARING FOR NEXT WEEK
+* You will present PROGRESS on your Project Two.
+* You will be given a timeslot (see week 8 below).
+* You will attend your timeslot only for the assigned day. (e.g. if you are at 10:45 on Monday then you only need to come on Monday). However, __you are expected to stay the entire period and contribute thoughtfully to everybody's projects__
+* You will come prepared to present progress on your project during the assigned timeslot.
+* Your triptych __does not have to be polished or complete__, but you __must have work__ to present.
+* You will receive a participation grade based on the level of progress you are presenting.
+* You will receive and implement feedback given.
+* You will not say 'I haven't really had a chance to work on it.'
+
+## Week 8
+You will attend your timeslot only for the assigned day. (e.g. if you are at 10:45 on Monday then you only need to come on Monday). However, __you are expected to stay the entire period and contribute thoughtfully to everybody's projects__
+
+### Monday Timeslots
+ * `10:45a - 10:55a` Abushalback,Grace G
+ * `10:55a - 11:05a` Baker,Zion V
+ * `11:05a - 11:15a` Barnes,Jordan R
+ * `11:15a - 11:25a` Barton,Tatum N
+ * `11:25a - 11:35a` Cervi,Gabbi Claire
+ * `11:35a - 11:45a` __BREAK__
+ * `11:45a - 11:55a` Dora,Arianne Elizabeth
+ * `11:55a - 12:05p` Gallagher,Kate
+ * `12:05p - 12:15p` Harris,Autumn
+ * `12:15p - 12:25p` Jacko,Hannah Margaret
+ * `12:25p - 12:35p` Kauffman,Gabby Rose
+
+### Wednesday Timeslots
+ * `10:45a - 10:55a` Lotter,Zach Brandon
+ * `10:55a - 11:05a` Murphy,Nick P
+ * `11:05a - 11:15a` Oppenheimer,Peri B
+ * `11:15a - 11:25a` Orozco,Paloma I
+ * `11:25a - 11:35a` Robidoux,Claire L
+ * `11:35a - 11:45a` __BREAK__
+ * `11:45a - 11:55a` Ryan,Abby Krug
+ * `11:55a - 12:05p` Schwartz,Sarah Nicole
+ * `12:05p - 12:15p` Scobie,Sidneigh M
+ * `12:15p - 12:25p` Shah,Dhvani D
+ * `12:25p - 12:35p` Yu,Tian
+
+### Participation this week
+Your grade is based off of how complete your project is, and how engaged you are with the discussion.
+
+I will grade it for you.

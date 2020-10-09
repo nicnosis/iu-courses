@@ -210,3 +210,42 @@ __Reminder__: You do not need to attend on Wednesday. Wednesday will be used as 
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * Work on sections 4–6. You should aim to complete these sections over the next week or two as you work on your project.
 
+### PREPARING FOR NEXT WEEK
+* You will present PROGRESS on your Project Two.
+* You will be given a timeslot (see week 8 below).
+* You will attend your timeslot only for the assigned day. (e.g. if you are at 08:30 on Monday then you only need to come on Monday). However, __you are expected to stay the entire period and contribute thoughtfully to everybody's projects__
+* You will come prepared to present progress on your project during the assigned timeslot.
+* Your site __does not have to be polished or complete__, but you __must have code__ to present.
+* You will receive a participation grade based on the level of progress you are presenting.
+* You will receive and implement feedback given.
+* You will not say 'I haven't really had a chance to work on it.'
+
+## Week 8
+You will attend your timeslot only for the assigned day. (e.g. if you are at 08:30 on Monday then you only need to come on Monday). However, __you are expected to stay the entire period and contribute thoughtfully to everybody's projects__
+
+### Monday Timeslots
+ * `08:30a - 08:40a` Abushalback,Grace G
+ * `08:40a - 08:50a` Baker,Zion V
+ * `08:50a - 09:00a` Beasley,Emma Paige
+ * `09:00a - 09:10a` Boland,Samuel R
+ * `09:10a - 09:20a` Elkins,Olivia Kay
+ * `09:20a - 09:30a` Ellson,Kenton Michael
+ * `09:30a - 09:40a` Hildebrand,Joshua
+ * `09:40a - 09:50a` Huber,Mackenzie Jean
+ * `09:50a - 10:00a` Hurwitz,Carson G
+
+### Wednesday Timeslots
+ * `08:30a - 08:40a` Larch,Libby Marie
+ * `08:40a - 08:50a` Marshall,Karre
+ * `08:50a - 09:00a` Mirviss,Sydney Tybie
+ * `09:00a - 09:10a` Small,Riley Sarah
+ * `09:10a - 09:20a` Steele,Jacob A
+ * `09:20a - 09:30a` Wigington,Adam M
+ * `09:30a - 09:40a` Williams,Emily N
+ * `09:40a - 09:50a` Wray,Cammy Kelley
+ * `09:50a - 10:00a` Zhang,Amber
+
+### Participation this week
+Your grade is based off of how complete your project is, and how engaged you are with the discussion.
+
+I will grade it for you.
