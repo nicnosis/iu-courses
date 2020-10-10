@@ -227,8 +227,8 @@ You will attend your timeslot only for the assigned day. (e.g. if you are at 08:
  * `08:30a - 08:40a` Abushalback,Grace G
  * `08:40a - 08:50a` Baker,Zion V
  * `08:50a - 09:00a` Beasley,Emma Paige
- * `09:00a - 09:10a` Boland,Samuel R
- * `09:10a - 09:20a` Elkins,Olivia Kay
+ * `09:00a - 09:10a` Elkins,Olivia Kay
+ * `09:10a - 09:20a` __BREAK__
  * `09:20a - 09:30a` Ellson,Kenton Michael
  * `09:30a - 09:40a` Hildebrand,Joshua
  * `09:40a - 09:50a` Huber,Mackenzie Jean
@@ -239,11 +239,12 @@ You will attend your timeslot only for the assigned day. (e.g. if you are at 08:
  * `08:40a - 08:50a` Marshall,Karre
  * `08:50a - 09:00a` Mirviss,Sydney Tybie
  * `09:00a - 09:10a` Small,Riley Sarah
- * `09:10a - 09:20a` Steele,Jacob A
- * `09:20a - 09:30a` Wigington,Adam M
- * `09:30a - 09:40a` Williams,Emily N
- * `09:40a - 09:50a` Wray,Cammy Kelley
- * `09:50a - 10:00a` Zhang,Amber
+ * `09:10a - 09:20a` __BREAK__
+ * `09:20a - 09:30a` Steele,Jacob A
+ * `09:30a - 09:40a` Wigington,Adam M
+ * `09:40a - 09:50a` Williams,Emily N
+ * `09:50a - 10:00a` Wray,Cammy Kelley
+ * `10:00a - 10:10a` Zhang,Amber
 
 ### Participation this week
 Your grade is based off of how complete your project is, and how engaged you are with the discussion.
