@@ -128,12 +128,14 @@ Do:
 Don't:
 
  * Smoke or vape on camera
+ * Have 'pet show-and-tell'. Your pets are cute but very distracting.
  * Multitask _(e.g. watching Netflix in another window)_
+ * Have conversations with people who are there in the room with you.
  * Fall asleep or sit there with your eyes closed
  * Sit there idle like a useless turd
  * Do anything that's distracting to me or your classmates
 
-Failure to meet these expectations can result in:
+Failure to meet these professionalism expectations can result in:
 
  * Being removed from the Zoom call
  * A deduction in participation/professionalism grades
@@ -180,6 +182,9 @@ Your grade will be assigned as follows:
 Grading criteria will be given for each individual assignment.
 
 ## Policies
+### Criteria for Grading
+I will do my absolute best to ensure that everybody has a fair experience. However, understand that you will be assessed on measures that are both __objective__ and __subjective__.
+
 ### Attendance
 Students should make a serious effort to attend every lecture. While attendance is not taken, I believe **attendance is the strongest guarantor of success** in this course.
 
@@ -216,10 +221,50 @@ Make sure you tell me:
  * Who you are
  * What class you're in
 
-### Communication and Content
+### Communication and Creative Expression
 See section _'Professionalism'_ above.
 
+Be mindful and intentional in your production of content, and the way you communicate with me and others. __You are interacting with real human beings who have feelings__.
 
+You are encouraged to be creative in your expression--- written, verbal, and through content. Some people may take exception to things said/done by classmates or the instructor.
+
+There is a massive difference between that which is __found offensive__ and that which is __designed to offend.__
+
+Let's clarify what is allowed and what's not.
+
+You allowed to communicate in a way that is:
+
+ * Creative, open-minded, 'outside of the box'
+ * Polarizing or 'edgy'
+ * Challenging to popular opinions
+
+You are NOT allowed to communicate in a way that:
+
+ * Is deliberately hostile, belligerent, antagonistic, or designed to harass/belittle ANYONE
+ * Serves to promote hatred, prejudice, ignorance, or deliberate misinformation
+
+If you are creating content of a sexual/provocative nature, __you must get express permission from me ahead of time.__ Pornographic content is not allowed.
+
+If you are creating content that centers around a political/social agenda or cause, __please discuss it with me first__ so I can help you to have a smooth experience.
+
+All of your content must adhere to the rules of the platform you're posting it on _(e.g. YouTube's Terms and Conditions)_
+
+__If you are uncertain about anything, ask me.__
+
+How to respond if you are offended by something:
+
+1. Give the other party the benefit of the doubt.
+2. Bring up the issue with a matter-of-fact, respectful tone.
+3. LISTEN first. Always seek to UNDERSTAND then BE UNDERSTOOD.
+4. Criticize ideas, not people.
+5. Remove your emotions from the equation and be objective.
+
+Failure to meet these professionalism expectations can result in:
+
+ * A grade deduction
+ * A failing grade
+ * A report of academic misconduct
+ * Removal from the course
 
 ### Self-care
 Make an effort to take care of yourself. I value you deeply as a student and you should make an effort to take care of your mental well-being.
