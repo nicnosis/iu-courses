@@ -1,7 +1,8 @@
 # J360 DIGITAL MEDIA STRATEGY FALL 2020
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
-**(VIRTUAL) OFFICE HOURS** --- Wednesday 1:30pm - 2:30pm  
+**(VIRTUAL) OFFICE HOURS** --- Monday 3:00pm - 4:00pm  
 Zoom Link: <https://iu.zoom.us/my/naguirre>
+Passcode: 444808
 
 **SECTIONS**  
 38886 --- Web-based, second 8-weeks class.
@@ -66,18 +67,17 @@ Your assignments consist of:
 3. Participation
 4. Professionalism
 
-### Projects (45 pts.)
+### Core Assignments (35 pts.)
 This course has projects, which are structured yet flexible to help you build something useful and relevant to your goals.
 
-__Project 1: Designing Brand Identity__--- You need to stand out. In this project, you will come up with an unforgettable brand identity and support it with design deliverables.
+ * __A1: Niche Overview__--- Defining the audience you will serve, and the problem you will solve
+ * __A2: Stylescape__--- Define your brand's attributes and visual identity
+ * __A3: Content Strategy__--- Determine what kind of content you will make, how often, and WHY
+ * __A4: Product Catalog__--- Build an array of products to offer: free, low-ticket, high-ticket, in-person events, group coaching, etc.
+ * __A5: E-mail__--- Use copywriting principles to engage your list
+ * __A6: Objection Handling Video__--- In this role-playing video, you'll produce a response to an objection you're likely to receive during a sales call
 
-__Project 2: Client Avatar__--- Your product needs to solve a real problem for a real person. Having a clear client avatar will give you a clearer picture of how to communicate, create content, and engage your audience.
-
-__Project 3: Product Catalog__--- You will create a paid product/service that solves a real problem for your client. The goal is to have a product catalog that appeals on multiple levels; this could mean segmenting your audience or offering different price points.
-
-__Project 4: Outreach and Sales__--- You will either (a) sell your product or (b) create a 'beta test' where you can pilot the product and refine it.
-
-### Content (30 pts.)
+### Content (45 pts.)
 You will create content for your brand on one or more social media platforms.
 
 I am flexible about how you want to do this, but "short form" content lends itself better to this course format.
@@ -95,7 +95,7 @@ __Your content needs to be INTENTIONAL.__ If you are posting something just to p
 
 Your classmates and I will help to steer you in the right direction. Instead of posting aimlessly, the goal is to develop a __strategic approach__ to your content.
 
-### Participation (20 pts.)
+### Participation (15 pts.)
 Participation is an important element of this class. You must actively practice and hone your skills to succeed.
 
 Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. Some participation exercises will be completed during class. Some will require submission BEFORE class.
@@ -111,6 +111,8 @@ Unprofessional behavior includes (but is not limited to):
  * Disrespect towards classmates or instructor
  * Lack of consideration for classmates or instructor
  * Behavior that distracts classmates or instructor
+ * Communication that is hostile, belligerent, antagonistic, condescending, sarcastic, or designed to harass/belittle ANYONE
+ * Communication that serves to promote hate, prejudice, ignorance
  * Failure to practice academic integrity
  * Excessive use of cell phone during class
 
@@ -135,6 +137,9 @@ Failure to meet these expectations can result in:
 
  * Being removed from the Zoom call
  * A deduction in participation/professionalism grades
+ * A report of academic misconduct
+ * A failing grade
+ * Removal from the course
 
 
 <div style="page-break-after: always;"></div>
@@ -145,9 +150,9 @@ There are a total of **100** points in this class. The grade is divided as follo
 
 | Assignment                 |  Points |
 |:---------------------------|--------:|
-| Projects                   |      45 |
-| Content                    |      30 |
-| Participation              |      20 |
+| Core Assignments           |      35 |
+| Content                    |      45 |
+| Participation              |      15 |
 | Professionalism            |       5 |
 | **Total**                  | **100** |
 
@@ -211,6 +216,11 @@ Make sure you tell me:
  * Who you are
  * What class you're in
 
+### Communication and Content
+See section _'Professionalism'_ above.
+
+
+
 ### Self-care
 Make an effort to take care of yourself. I value you deeply as a student and you should make an effort to take care of your mental well-being.
 
@@ -249,12 +259,3 @@ This course is rich in content and skill levels vary widely among students. The 
 
 ### Final Grade
 The instructor reserves the right to adjust your final grade based on effort, participation, or conduct. This is uncommon.
-
-<div style="page-break-after: always;"></div>
-
-## Tentative Schedule
-
-|         |                      |                                   |
-|:--------|:---------------------|:----------------------------------|
-| week 1  | Mon 1/13, Wed 1/15   |                |
-| week 16 | Mon 5/4 – Fri 5/8   | __FINALS__                        |
