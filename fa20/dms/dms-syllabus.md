@@ -61,13 +61,13 @@ In this course, you will create a brand and develop its presence on social media
 
 This is done with commercial intent; the goal is for you to have a following of engaged, potential buyers for your product/service by the end of the semester.
 
-Your assignments consist of:
-1. Projects
-2. Content
-3. Participation
-4. Professionalism
+Your grade consists of:
+1. Assignments (35 pts.)
+2. Content (45 pts.)
+3. Participation (15 pts.)
+4. Professionalism (5 pts.)
 
-### Core Assignments (35 pts.)
+### Assignments (35 pts.)
 This course has projects, which are structured yet flexible to help you build something useful and relevant to your goals.
 
  * __A1: Niche Overview__--- Defining the audience you will serve, and the problem you will solve
@@ -150,9 +150,9 @@ Failure to meet these professionalism expectations can result in:
 ### Points
 There are a total of **100** points in this class. The grade is divided as follows:
 
-| Assignment                 |  Points |
+| Category                   |  Points |
 |:---------------------------|--------:|
-| Core Assignments           |      35 |
+| Assignments                |      35 |
 | Content                    |      45 |
 | Participation              |      15 |
 | Professionalism            |       5 |
@@ -193,11 +193,9 @@ Course material is cumulative in nature and class periods are used to develop pr
 Students are expected to come on time and stay for the duration of the class period. __A repeated pattern of tardiness is not tolerated.__
 
 ### Deadlines
-Deadlines are strict and non-negotiable. Late assignments will be accepted for the first three calendar days after a deadline. I will remove 15% for each day past the deadline _(Example--- If you got 85 on an assignment but submitted it two days late, you're getting a 55)_.
+Due to the fast-paced nature of this course, deadlines are strict and non-negotiable. Late work is not accepted.
 
-Assignments may not be submitted after three calendar days have elapsed (Example--- Deadline is September 8th, you cannot submit after September 11th)
-
-The only __exception to this rule__ is the final project, which cannot be submitted late.
+If you anticipate that you will not meet a deadline for any reason, __let me know as soon as possible.__
 
 ### Absences
 Whether or not an absence is excused is __entirely at the discretion of the instructor__.
