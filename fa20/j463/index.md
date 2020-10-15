@@ -266,3 +266,14 @@ You will attend your timeslot only for the assigned day. (e.g. if you are at 10:
 Your grade is based off of how complete your project is, and how engaged you are with the discussion.
 
 I will grade it for you.
+
+## week 9
+### During Class
+#### Monday
+ * `visit` [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+ * `visit` [Google - Material Design](https://material.io/design/)
+ * `sign up` on [Figma.com](https://www.figma.com/)
+
+
+### Outside of Class
+ * `complete` [Homework Three](assignments/hw3.html). It is due `Sunday Oct 25th at 11:59pm`

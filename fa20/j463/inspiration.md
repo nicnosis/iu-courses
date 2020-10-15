@@ -74,25 +74,24 @@ This is a __very powerful__ way to get color-based inspiration!
 ## Style guides
 You may find it helpful to explore successful brand identities in developing the visual treatment for your site.
 
-1. Uplabs--- [Website style guides](https://www.uplabs.com/posts/c/web/resources/style_guide)
-2. Google--- [Material Design](https://material.io/guidelines/material-design/introduction.html)
-3. Yelp--- [Style Guide](https://www.yelp.com/styleguide/)
-4. [Styleguides.io](http://styleguides.io/examples.html)
-5. Under Consideration--- [Brand New](https://www.underconsideration.com/brandnew/). Opinions on corporate and brand identity work
-6. Saijo George--- [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/)
-7. Designbetter--- [Design systems handbook](https://www.designbetter.co/design-systems-handbook/appendix)
-8. LogoDesignLove--- [Identity Guides](https://www.logodesignlove.com/brand-identity-style-guides)
-9. Uber--- [Design Guidelines](https://developer.uber.com/docs/riders/guides/design-guidelines)
-10. Firefox--- [Photon Design System](https://design.firefox.com/photon/welcome.html)
-11. Shopify--- [Polaris Design System](https://polaris.shopify.com/)
-12. Lonely Planet--- [Style Guide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
-13. Medium--- [Style Guides by Pro Designers](https://medium.com/inspiration-supply/style-guides-by-pro-designers-5605707afc07)
-14. AirBnB--- [Building A Visual Language](https://airbnb.design/building-a-visual-language/)
-15. Webflow--- [StyleTile template](https://webflow.com/website/Style-Tile)
-16. Speckyboy--- [10 Inspiring Examples of UI Style Guides](https://speckyboy.com/inspirational-examples-ui-style-guides/)
-17. Bashooka--- [40 Great Examples Of UI Style Guides](https://bashooka.com/inspiration/40-great-examples-of-ui-style-guides/)
-18. Canva--- [Your brand needs a visual style guide: here’s how to create one](https://www.canva.com/learn/your-brand-needs-a-visual-style-guide/)
-19. 24 Ways--- [Front End Style Guides](https://24ways.org/2011/front-end-style-guides/)
+1. Google--- [Material Design](https://material.io/guidelines/material-design/introduction.html)
+2. Yelp--- [Style Guide](https://www.yelp.com/styleguide/)
+3. Uber--- [Design Guidelines](https://developer.uber.com/docs/riders/guides/design-guidelines)
+4. Under Consideration--- [Brand New](https://www.underconsideration.com/brandnew/). Opinions on corporate and brand identity work
+5. Saijo George--- [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/)
+6. Designbetter--- [Design systems handbook](https://www.designbetter.co/design-systems-handbook/appendix)
+7. LogoDesignLove--- [Identity Guides](https://www.logodesignlove.com/brand-identity-style-guides)
+8. [Styleguides.io](http://styleguides.io/examples.html)
+9. Firefox--- [Photon Design System](https://design.firefox.com/photon/welcome.html)
+10. Shopify--- [Polaris Design System](https://polaris.shopify.com/)
+11. Lonely Planet--- [Style Guide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+12. Medium--- [Style Guides by Pro Designers](https://medium.com/inspiration-supply/style-guides-by-pro-designers-5605707afc07)
+13. AirBnB--- [Building A Visual Language](https://airbnb.design/building-a-visual-language/)
+14. Webflow--- [StyleTile template](https://webflow.com/website/Style-Tile)
+15. Speckyboy--- [10 Inspiring Examples of UI Style Guides](https://speckyboy.com/inspirational-examples-ui-style-guides/)
+16. Bashooka--- [40 Great Examples Of UI Style Guides](https://bashooka.com/inspiration/40-great-examples-of-ui-style-guides/)
+17. Canva--- [Your brand needs a visual style guide: here’s how to create one](https://www.canva.com/learn/your-brand-needs-a-visual-style-guide/)
+18. 24 Ways--- [Front End Style Guides](https://24ways.org/2011/front-end-style-guides/)
 
 ## Icons
 Pay close attention to licensing when using these. Always cite your source and only use these in a project with express consent from the instructor.
