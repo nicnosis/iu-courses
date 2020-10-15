@@ -33,3 +33,7 @@ I will use this page to store our class video recordings.
 
 ## week 7
  * [10/05 Monday - Stylescape Review](https://iu.zoom.us/rec/play/aU6vZbXdJnb_1Xc_sdTDZU8zQboyrPXpmFbpuMu6aL15CbXo41Ty7J8viq_SGxKIkr8i3lowXgMrznM.rbcdXoVicDQv3god)
+
+## week 8
+ * [10/12 Monday - P2 Progress Check (1/2)](https://iu.zoom.us/rec/play/btJ3Or936L--_jEeLF7dkeMperQqyXGwwJap6mbOsrr8uflBXsLtePznbu3csiollEONMVAGTpYF42Zj.b3PS3RE-urZ_ZLvQ)
+ * [10/14 Wednesday - P2 Progress Check (2/2)](https://iu.zoom.us/rec/play/zNvQPXQ0JSwcr6ht-pPJdfwnoa-JmW_YPeQ3QBmpfcjauTMt4Hm8DTrMX1FmLGCxsDJ7A5COO_Ui2CLB.Lt_dsWfbyT4lQ8lz)

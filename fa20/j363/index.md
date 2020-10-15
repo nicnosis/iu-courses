@@ -204,7 +204,7 @@ __Reminder__: You do not need to attend on Wednesday. Wednesday will be used as 
  * `download` [7.1-grid.zip](mats/7.1-grid.zip)
 
 ### At Home
- * `continue` [Project Two](assignments/p2.html). It is due `Friday October 16th` at 11:59pm
+ * `continue` [Project Two](assignments/p2.html). It is due `Sunday October 18th` at 11:59pm
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
@@ -250,3 +250,44 @@ You will attend your timeslot only for the assigned day. (e.g. if you are at 08:
 Your grade is based off of how complete your project is, and how engaged you are with the discussion.
 
 I will grade it for you.
+
+### Outside of Class
+ * `finish` [Project Two](assignments/p2.html). It is due `Sunday October 18th` at 11:59pm
+
+## week 9
+### Before class, Monday
+* `If you haven't already`: Fill out [this form](https://forms.gle/2fab2R1i2zqWYcaK7) to get your Webflow Invite.
+
+### In Class
+#### Monday
+ * `inspiration` [finsweet](https://www.finsweet.com/)
+ * Please pay attention to the way that we structure our folders on our Webflow team site.
+   * You will create a folder called `lastname-firstname`
+   * You will put all of your stuff in there
+   * Please do not leave projects directly inside of `Nic's Team`; they should be in the folder that you set up for yourself.
+ * Let's look at this example: [osiki landing](https://webflow.com/website/osiki-landing) together
+ * `clone` this example: [osiki wireframe](https://webflow.com/website/osiki-wireframe)
+ * `download` [9.1-cake-assets.zip](mats/9.1-cake-assets.zip)
+ * `submit` a screenshot for this week's __participation__
+
+#### Wednesday
+ * `inspiration` [okalpha](https://webflow.com/website/Okalpha)
+ * We will re-create this: [Slick Template](https://webflow.com/website/FREEBIE:-Slick-Template)
+ * `download` [10.1-slick-assets.zip](mats/10.1-slick-assets.zip)
+ * Your navigator will look something [like this](img/slick-navigator.png)
+ * Style info:
+   * Use `body (all pages)` selector and set the font to 'Open Sans'
+   * Use `All h1 headings` selector and set the font to 'Montserrat'. Color is #f36ea9. Font size is 70px and line-height is 75px
+ * For each project, add a link block and set the class to 'Project'. Inside of the link block you should have an image. When moving/copying/pasting Projects, please make sure you have 'Project' and not 'Image' selected
+
+### At Home
+ * `note`: I have made a slight change to the course. Instead of having HW3 worth 5 points and P3 worth 15 points, I have removed one homework assignment. Instead, now you will just have P3 worth 20 points.
+ * `read` the instructions for [Project Three](assignments/p3.html). It is due Friday Nov 13 at 11:59pm
+ * `learn` [Webflow Keyboard Shortcuts](https://university.webflow.com/article/keyboard-shortcuts-in-the-webflow-designer)
+ * `begin` watching the [Webflow 101 crash course](https://university.webflow.com/courses/webflow-101-crash-course) on Webflow University.
+   * `watch` section `intro`
+   * `watch` section `web structure`
+   * `watch` section `element basics`
+   * `watch` section `components`
+   * `watch` section `styling basics`
+   * `watch` section `layouts`

@@ -33,3 +33,7 @@ I will use this page to store our class video recordings.
 
 ## week 7
  * [10/05 Monday - Project Two Idea Discussions](https://iu.zoom.us/rec/play/J5_JpGT_o0GRrWh3ZcRQLlOzj0WP3egTXj8kTYDRE3CQuXInFW4yXmX6-bPOaa1qOFMETQNxXchrg5UP.6kd679FkUF5qQtvP)
+
+## week 8
+ * [10/12 Monday - P2 Progress Check (1/2)](https://iu.zoom.us/rec/play/32_dfqyo_7TXhWkJUmviBzHiYM3ApG2dO2ib5RLnvVitavoZgG5qEee6PdKw0wEbAE074x4GGec-vdsN.8FOOfK8OK-MWfVxH)
+ * [10/14 Wednesday - P2 Progress Check (2/2)](https://iu.zoom.us/rec/play/jG9Pnhf_YBml3Nc8WFb-nbkU3i89nhGXzzHpAFKmDZUtOtTti9oStbnh_3GVEfpSEyjxW651aIEyHNkW.56KyzJLKLfMzni4F)
