@@ -273,6 +273,8 @@ I will grade it for you.
  * `visit` [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
  * `visit` [Google - Material Design](https://material.io/design/)
  * `sign up` on [Figma.com](https://www.figma.com/)
+   * After you login, go to `drafts` and look at `Figma Basics`
+ * 
 
 
 ### Outside of Class
