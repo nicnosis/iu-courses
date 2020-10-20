@@ -268,7 +268,6 @@ I will grade it for you.
  * Let's look at this example: [osiki landing](https://webflow.com/website/osiki-landing) together
  * `clone` this example: [osiki wireframe](https://webflow.com/website/osiki-wireframe)
  * `download` [9.1-cake-assets.zip](mats/9.1-cake-assets.zip)
- * `submit` a screenshot for this week's __participation__
 
 #### Wednesday
  * `inspiration` [okalpha](https://webflow.com/website/Okalpha)
@@ -282,7 +281,7 @@ I will grade it for you.
 
 ### At Home
  * `note`: I have made a slight change to the course. Instead of having HW3 worth 5 points and P3 worth 15 points, I have removed one homework assignment. Instead, now you will just have P3 worth 20 points.
- * `read` the instructions for [Project Three](assignments/p3.html). It is due Friday Nov 13 at 11:59pm
+ * `read` the instructions for [Project Three](assignments/p3.html). It is due `Friday Nov 13 at 11:59pm`
  * `learn` [Webflow Keyboard Shortcuts](https://university.webflow.com/article/keyboard-shortcuts-in-the-webflow-designer)
  * `begin` watching the [Webflow 101 crash course](https://university.webflow.com/courses/webflow-101-crash-course) on Webflow University.
    * `watch` section `intro`
@@ -291,3 +290,16 @@ I will grade it for you.
    * `watch` section `components`
    * `watch` section `styling basics`
    * `watch` section `layouts`
+
+### This weekend: Weeks 9-10 Participation
+You must have an idea for Project Three by `Sunday at 11:59pm`. Submit it on Canvas.
+
+This will count as participation for both weeks 9-10 `(two points)`.
+
+Give me:
+
+1. What your idea is in 1-2 sentences
+2. WHY you are doing this (think back to our Visual Identity lecture)
+3. Three links for inspiration to inform the aesthetic of your site
+
+You are encouraged to create your own stylescape/moodboard, but I will not collect it.
