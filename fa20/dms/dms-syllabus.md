@@ -62,6 +62,7 @@ In this course, you will create a brand and develop its presence on social media
 This is done with commercial intent; the goal is for you to have a following of engaged, potential buyers for your product/service by the end of the semester.
 
 Your grade consists of:
+
 1. Assignments (35 pts.)
 2. Content (45 pts.)
 3. Participation (15 pts.)
@@ -98,7 +99,7 @@ Your classmates and I will help to steer you in the right direction. Instead of 
 ### Participation (15 pts.)
 Participation is an important element of this class. You must actively practice and hone your skills to succeed.
 
-Many of our classes will focus on the completion of certain exercises, tutorials, and discussions. Most class days will feature a small participation exercise. Some participation exercises will be completed during class. Some will require submission BEFORE class.
+Most participation exercises will involve actively participating in a discussion, or otherwise demonstrating that you are keeping up with the ongoings of this course.
 
 ### Professionalism (5 pts.)
 Students are expected to behave like adults. Unprofessional behavior will be met with a grade deduction in this category.

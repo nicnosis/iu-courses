@@ -274,8 +274,6 @@ I will grade it for you.
  * `visit` [Google - Material Design](https://material.io/design/)
  * `sign up` on [Figma.com](https://www.figma.com/)
    * After you login, go to `drafts` and look at `Figma Basics`
- * 
-
 
 ### Outside of Class
  * `complete` [Homework Three](assignments/hw3.html). It is due `Sunday Oct 25th at 11:59pm`
