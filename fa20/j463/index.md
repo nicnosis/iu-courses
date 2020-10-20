@@ -275,5 +275,29 @@ I will grade it for you.
  * `sign up` on [Figma.com](https://www.figma.com/)
    * After you login, go to `drafts` and look at `Figma Basics`
 
+#### Wednesday
+ * `Figma Warmup`
+   * `create` a new Figma Project
+   * `look at` [this example](img/login-example.png)
+   * `go to` [Material Icons](https://material.io/resources/icons/?style=baseline)
+
+
+ * `Group Exercise:` I will put everyone into groups. You will create a mockup for the given premise.
+   * Group one: Home Decor
+   * Group two: Clothing
+   * Group three: Restaurant
+   * Group four: Electronics
+   * Group five: Fitness
+
+
 ### Outside of Class
  * `complete` [Homework Three](assignments/hw3.html). It is due `Sunday Oct 25th at 11:59pm`
+ * `choose an idea` for [Project Three](assignments/p3.html). It is due `Friday Nov 13th at 11:59pm`
+ * `start watching` this Lynda tutorial series: [Figma for UX Design](https://www.lynda.com/Figma-tutorials/Figma-UX-Design/711832-2.html)
+
+### IMPORTANT: Regarding Next Week
+You will submit `participation` for weeks 9-10 before we meet next. It is worth `3 points`.
+
+Read the Canvas assignment for submission details.
+
+We will not meet on Monday Oct 26th. Instead, use that time to work on your Concept. It is due Tuesday Oct 27th at 11:59pm and you will present it in class next Wednesday.
