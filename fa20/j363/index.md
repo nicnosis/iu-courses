@@ -303,3 +303,22 @@ Give me:
 3. Three links for inspiration to inform the aesthetic of your site
 
 You are encouraged to create your own stylescape/moodboard, but I will not collect it.
+
+## week 10
+#### Monday
+ * We will go over your Project Three ideas, then do an exercise together.
+ * `view:` [this portfolio example](img/portfolio-example.png)
+
+#### Wednesday
+We will not meet in class. Instead, you will complete the following tutorial on your own time.
+
+Tutorial: Content Management (Dynamic Websites)
+1. `look at` the [cakes CMS example](https://preview.webflow.com/preview/cakes-cms-finished?utm_medium=preview_link&utm_source=designer&utm_content=cakes-cms-finished&preview=b22a712b7ac02841c7f2cfd86be714bb&mode=preview) that I've put together
+2. `read` [Neumorphism in UI](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
+3. `download` [10.2-cms-cakes.zip](mats/10.2-cms-cakes.zip)
+4. `watch` [Cakes CMS Tutorial 1/2](https://www.loom.com/share/01ea1444f3ce4b16994d08029bcc9d0c?sharedAppSource=personal_library)
+5. `watch` [Cakes CMS Tutorial 2/2](https://www.loom.com/share/201f8158ca2045dab257dca597516b3c?sharedAppSource=personal_library)
+
+_Note that these videos are from a previous semester so the filenames will be different._
+
+There is no submission for participation.

@@ -37,3 +37,7 @@ I will use this page to store our class video recordings.
 ## week 8
  * [10/12 Monday - P2 Progress Check (1/2)](https://iu.zoom.us/rec/play/btJ3Or936L--_jEeLF7dkeMperQqyXGwwJap6mbOsrr8uflBXsLtePznbu3csiollEONMVAGTpYF42Zj.b3PS3RE-urZ_ZLvQ)
  * [10/14 Wednesday - P2 Progress Check (2/2)](https://iu.zoom.us/rec/play/zNvQPXQ0JSwcr6ht-pPJdfwnoa-JmW_YPeQ3QBmpfcjauTMt4Hm8DTrMX1FmLGCxsDJ7A5COO_Ui2CLB.Lt_dsWfbyT4lQ8lz)
+
+## week 9
+ * [10/19 Monday - Introducing WebFlow](https://iu.zoom.us/rec/play/ExbK2qc6mVQgfmnl5SBLgv3os04u6Y0ET7LU05tInqLuKO2fXv7C5XHrBXWQLKfKQgtcHdF-xfk873xB.jraxU1KfWfhBGrg1)
+ * [10/21 Wednesday - Webflow Layouts](https://iu.zoom.us/rec/play/G5TewPYcIcXlEdRCOkk4uj7PbD6-dXbpDrTsUTYg5BCae02X6KHIM_NkzMz2xFJHT7mzzjawt9VUB92R.MMJD29exW7XKG-g6)
