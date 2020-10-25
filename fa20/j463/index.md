@@ -301,3 +301,45 @@ You will submit `participation` for weeks 9-10 before we meet next. It is worth 
 Read the Canvas assignment for submission details.
 
 We will not meet on Monday Oct 26th. Instead, use that time to work on your Concept. It is due Tuesday Oct 27th at 11:59pm and you will present it in class next Wednesday.
+
+## Week 10
+### During Class
+#### Monday
+We will not meet on Monday. Instead, you will use that time to finish your Project Three proposal. This counts as participation for weeks 9&10 (3 points total). See the Canvas assignment for submission details.
+
+#### Wednesday
+You will present your project proposal in class. Please come prepared with at least one question on your
+
+### Preparing for NEXT WEEK
+You will present your Project Three progress next week. (see `Week 11` below) You have been given a timeslot for either Monday or Wednesday. You will only attend on that day. You are expected to attend the entire session even if your timeslot is later in the session.
+
+ * `continue` for [Project Three](assignments/p3.html). It is due `Friday Nov 13th at 11:59pm`
+ * `continue watching` this Lynda tutorial series: [Figma for UX Design](https://www.lynda.com/Figma-tutorials/Figma-UX-Design/711832-2.html)
+
+## Week 11
+You will present your Project Three progress this week. You have been given a timeslot for either Monday or Wednesday. You will only attend on that day. You are expected to attend the entire session even if your timeslot is later in the session.
+
+### Monday Timeslots
+ * `10:45a - 10:55a` Abushalback,Grace G
+ * `10:55a - 11:05a` Baker,Zion V
+ * `11:05a - 11:15a` Barnes,Jordan R
+ * `11:15a - 11:25a` Barton,Tatum N
+ * `11:25a - 11:35a` Cervi,Gabbi Claire
+ * `11:35a - 11:45a` __BREAK__
+ * `11:45a - 11:55a` Dora,Arianne Elizabeth
+ * `11:55a - 12:05p` Gallagher,Kate
+ * `12:05p - 12:15p` Harris,Autumn
+ * `12:15p - 12:25p` Jacko,Hannah Margaret
+ * `12:25p - 12:35p` Kauffman,Gabby Rose
+
+### Wednesday Timeslots
+ * `10:45a - 10:55a` Lotter,Zach Brandon
+ * `10:55a - 11:05a` Murphy,Nick P
+ * `11:05a - 11:15a` Oppenheimer,Peri B
+ * `11:15a - 11:25a` Orozco,Paloma I
+ * `11:25a - 11:35a` Robidoux,Claire L
+ * `11:35a - 11:45a` __BREAK__
+ * `11:45a - 11:55a` Schwartz,Sarah Nicole
+ * `11:55a - 12:05p` Scobie,Sidneigh M
+ * `12:05p - 12:15p` Shah,Dhvani D
+ * `12:15p - 12:25p` Yu,Tian
