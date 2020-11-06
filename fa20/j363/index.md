@@ -322,3 +322,55 @@ Tutorial: Content Management (Dynamic Websites)
 _Note that these videos are from a previous semester so the filenames will be different._
 
 There is no submission for participation.
+
+### This Weekend
+Prepare your progress check for Monday/Wednesday. It is worth `2.5 points`.
+
+## Week 11
+Project Three Progress check!! This is worth `2.5 points`. You do not need to submit anything. I'll grade it for you.
+
+You will attend your timeslot only for the assigned day. (e.g. if you are at 08:30 on Monday then you only need to come on Monday). However, __you are expected to stay the entire period and contribute thoughtfully to everybody's projects__
+
+### Monday Timeslots
+ * `08:30a - 08:40a` Abushalback,Grace G
+ * `08:40a - 08:50a` Baker,Zion V
+ * `08:50a - 09:00a` Beasley,Emma Paige
+ * `09:00a - 09:10a` Boland,Samuel R
+ * `09:10a - 09:20a` Elkins,Olivia Kay
+ * `09:20a - 09:30a` __BREAK__
+ * `09:30a - 09:40a` Ellson,Kenton Michael
+ * `09:40a - 09:50a` Hildebrand,Joshua
+ * `09:50a - 10:00a` Huber,Mackenzie Jean
+ * `10:00a - 10:10a` Hurwitz,Carson G
+
+### Wednesday Timeslots
+ * `08:30a - 08:40a` Larch,Libby Marie
+ * `08:40a - 08:50a` Marshall,Karre
+ * `08:50a - 09:00a` Mirviss,Sydney Tybie
+ * `09:00a - 09:10a` Small,Riley Sarah
+ * `09:10a - 09:20a` __BREAK__
+ * `09:20a - 09:30a` Steele,Jacob A
+ * `09:30a - 09:40a` Wigington,Adam M
+ * `09:40a - 09:50a` Williams,Emily N
+ * `09:50a - 10:00a` Wray,Cammy Kelley
+ * `10:00a - 10:10a` Zhang,Amber
+
+## Week 12
+### Structure This Week
+We will not meet for class. Instead you will have two things to do asynchronously:
+
+1. A tutorial (more info below) that you will complete and submit for participation.
+2. Complete your [Project Three](assignments/p3.html). It is due `Friday Nov 13 at 11:59pm`.
+
+#### This week's participation: Interactions tutorial
+1. `download` [12.1-interactions.zip](mats/12.1-interactions.zip)
+2. `watch` [this tutorial](https://www.loom.com/share/c8164cbd55284e5f9447fa17588d8208?sharedAppSource=personal_library).
+3. When you are finished, `publish` the link. Test it in incognito mode to make sure it opens.
+4. `submit` the published link to Canvas (Week 12 Participation). It is due `Friday Nov 12th at 11:59pm`
+
+Don't hesitate to reach out if you have any challenges.
+
+
+### If you need help with your project
+I will still be there during normal class hours on Wednesday (08:30a-10:20a) if you need anything. Use the same Zoom link that you have been using.
+

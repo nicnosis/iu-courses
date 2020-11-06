@@ -343,3 +343,36 @@ You will present your Project Three progress this week. You have been given a ti
  * `11:55a - 12:05p` Scobie,Sidneigh M
  * `12:05p - 12:15p` Shah,Dhvani D
  * `12:15p - 12:25p` Yu,Tian
+
+## Week 12
+### Structure for this week
+You will use this week to complete [Project Three](assignments/p3.html). It is due `Friday Nov 13th at 11:59pm`.
+
+
+#### Monday
+We will not meet Monday. Use this time to work on your project.
+
+#### Wednesday
+We will discuss Project Four and Homework Four.
+
+We will meet for peer critiques.
+Keep in mind some of the criteria we discussed for success:
+
+ * Strong vision and brand identity
+ * Organized Figma project with components and style guide
+ * Aesthetic visual style
+ * Smooth and sensible user experience / app flow
+
+For participation, go to Canvas and complete the assignment. `It is worth 2 points`. The participation assignment is due `Wed Nov 11th at 11:59pm`.
+
+You will write:
+
+ * Two things you have done well so far with your project
+ * Two things to work on
+ * What your very next step is
+
+#### A note on your P3 submission
+When submitting your project, __PLEASE__ double-check to make sure the link works correctly. Do this by opening your Figma URL in an incognito browser. If I cannot open the link, I cannot grade your project.
+
+### This weekend
+You will work on [Homework Four](assignments/p4.html) which is a proposal for [Project Four](assignments/p4.html). The proposal is due by 11:59pm on `Sunday Nov 15th`.
