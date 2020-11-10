@@ -41,3 +41,10 @@ I will use this page to store our class video recordings.
 ## week 9
  * [10/19 Monday - Introducing WebFlow](https://iu.zoom.us/rec/play/ExbK2qc6mVQgfmnl5SBLgv3os04u6Y0ET7LU05tInqLuKO2fXv7C5XHrBXWQLKfKQgtcHdF-xfk873xB.jraxU1KfWfhBGrg1)
  * [10/21 Wednesday - Webflow Layouts](https://iu.zoom.us/rec/play/G5TewPYcIcXlEdRCOkk4uj7PbD6-dXbpDrTsUTYg5BCae02X6KHIM_NkzMz2xFJHT7mzzjawt9VUB92R.MMJD29exW7XKG-g6)
+
+## week 10
+ * [10/26 Monday - Portfolio Example](https://iu.zoom.us/rec/play/MsWBYQ2Xoh7nb8cbl4kczoGy348kfzs35YhvRQjdsH120wr_n3hJ6XssvJwmJ7Y_Vrue_seNfSHyfrHz.Cf9UcRl3QoSRadhZ)
+
+## week 11
+ * [11/02 Monday - P3 Progress Check (1/2)](https://iu.zoom.us/rec/share/6td7Mx6-gn0ft9RTc12w1JSI7TTh_txbWWD__ZcsubuMKNWpwXJ85RLxciFEIl-C.8-iTmIY4ZLXrEqIx?startTime=1604323191000)
+ * [11/04 Wednesday - P3 Progress Check (2/2)](https://iu.zoom.us/rec/play/chbZKOZPvolE3Yxgr2oKhnMoRWK815qWoHDKW7mXhl-Yrx5SRU8KUT1QA4XaOLgT66z3WxiuzQ6EDwO2.Xgrvr9za2CB4HzYa)

@@ -63,22 +63,15 @@ This is done with commercial intent; the goal is for you to have a following of 
 
 Your grade consists of:
 
-1. Assignments (35 pts.)
-2. Content (45 pts.)
-3. Participation (15 pts.)
+1. Assignments (18 pts.)
+2. Content (30 pts.)
+3. Participation (4 pts.)
 4. Professionalism (5 pts.)
 
-### Assignments (35 pts.)
+### Assignments (18 pts.)
 This course has projects, which are structured yet flexible to help you build something useful and relevant to your goals.
 
- * __A1: Niche Overview__--- Defining the audience you will serve, and the problem you will solve
- * __A2: Stylescape__--- Define your brand's attributes and visual identity
- * __A3: Content Strategy__--- Determine what kind of content you will make, how often, and WHY
- * __A4: Product Catalog__--- Build an array of products to offer: free, low-ticket, high-ticket, in-person events, group coaching, etc.
- * __A5: E-mail__--- Use copywriting principles to engage your list
- * __A6: Objection Handling Video__--- In this role-playing video, you'll produce a response to an objection you're likely to receive during a sales call
-
-### Content (45 pts.)
+### Content (30 pts.)
 You will create content for your brand on one or more social media platforms.
 
 I am flexible about how you want to do this, but "short form" content lends itself better to this course format.
@@ -96,7 +89,7 @@ __Your content needs to be INTENTIONAL.__ If you are posting something just to p
 
 Your classmates and I will help to steer you in the right direction. Instead of posting aimlessly, the goal is to develop a __strategic approach__ to your content.
 
-### Participation (15 pts.)
+### Participation (4 pts.)
 Participation is an important element of this class. You must actively practice and hone your skills to succeed.
 
 Most participation exercises will involve actively participating in a discussion, or otherwise demonstrating that you are keeping up with the ongoings of this course.
@@ -149,15 +142,15 @@ Failure to meet these professionalism expectations can result in:
 
 ## Grading
 ### Points
-There are a total of **100** points in this class. The grade is divided as follows:
+There are a total of **57** points in this class. The grade is divided as follows:
 
 | Category                   |  Points |
 |:---------------------------|--------:|
-| Assignments                |      35 |
-| Content                    |      45 |
-| Participation              |      15 |
+| Assignments                |      18 |
+| Content                    |      30 |
+| Participation              |       4 |
 | Professionalism            |       5 |
-| **Total**                  | **100** |
+| **Total**                  |  **57** |
 
 <div style="page-break-after: always;"></div>
 

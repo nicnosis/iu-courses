@@ -41,3 +41,10 @@ I will use this page to store our class video recordings.
 ## week 9
  * [10/19 Monday - Introducing Figma](https://iu.zoom.us/rec/play/Z84qjBMWc_OMcrIXk8LCkrf9Er5RezTmfVV1kf2kDyyNKsX_h8iKZWAukXjdf3LO-drKEkxLP717bJIv.P2gQxUf7ENoNfNmp)
  * [10/21 Wednesday - Figma Layouts and Components](https://iu.zoom.us/rec/play/PjjOW6DLJqaVVqqUPhoxrc2UhJDIJtUfHS85_9xdYd2D7BdZrj5sSp-RjzXAw6lZHO_dKT12usMNyRxs.PVEVOLAJtoczdDBw)
+
+## week 10
+ * [10/28 Wednesday - P3 Project Proposals](https://iu.zoom.us/rec/play/Y7C4soJbD2tTuFhoS-zbqTZgKcDDOKw_J_ShLBeCmsPkXcgS-BhalPzHFjH6yOR49pNa3BaMe7kb9NH9.RMxEjtJeGnWyLsL1)
+
+## week 11
+ * [11/2 Monday - P3 Progress Check (1/2)](https://iu.zoom.us/rec/play/DRY37g1rgNG9TU1wWMw9NhNLXfVKQwQyjCXT8dlvx0WlJxslFxjtS7MAtehXoTD0-bDytvDmyqmUixsP.99Hqh89TgjAIrNNW)
+ * [11/4 Wednesday - P3 Progress Check (2/2)](https://iu.zoom.us/rec/play/i30arCLrxGRy_E7BLCvPfnORzAfmhd5ygvTQyuQeAj-Dy5VnUiLp1PDNyp0e1KcqYkHpGXwOvc7RXdg.nu208bSuK4fpx4Jv)
