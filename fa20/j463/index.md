@@ -376,3 +376,49 @@ When submitting your project, __PLEASE__ double-check to make sure the link work
 
 ### This weekend
 You will work on [Homework Four](assignments/p4.html) which is a proposal for [Project Four](assignments/p4.html). The proposal is due by 11:59pm on `Sunday Nov 15th`.
+
+## Week 13
+#### Monday
+We will review your project proposals.
+
+#### Wednesday
+We will not meet for class. Use this time to work on your project.
+
+### Plans for the rest of the semester
+For the week of 11/30 _(after the break)_, you will have a progress check.
+
+You will come on either Monday or Wednesday depending on your assigned timeslot. _(I will put the times up before then)_.
+
+I know that this isn't a lot of time to work on the project (since you will have Thanksgiving break next week) but you __should at least have your project started__ and also __have something so show in class__.
+
+## Week 14
+When you come back from the break, you will have a progress check on Week 14.
+
+You have been given a timeslot for either Monday or Wednesday. You will only attend on that day. You are expected to attend the entire session even if your timeslot is later in the session.
+
+Your level of presented progress determines your participation. You can receive up to `1.5 points`.
+
+#### Monday (Nov 30th)
+ * `10:45a - 10:55a` Abushalback,Grace G
+ * `10:55a - 11:05a` Baker,Zion V
+ * `11:05a - 11:15a` Barnes,Jordan R
+ * `11:15a - 11:25a` Barton,Tatum N
+ * `11:25a - 11:35a` Cervi,Gabbi Claire
+ * `11:35a - 11:45a` __BREAK__
+ * `11:45a - 11:55a` Dora,Arianne Elizabeth
+ * `11:55a - 12:05p` Gallagher,Kate
+ * `12:05p - 12:15p` Harris,Autumn
+ * `12:15p - 12:25p` Jacko,Hannah Margaret
+ * `12:25p - 12:35p` Kauffman,Gabby Rose
+
+#### Wednesday (Dec 2nd)
+ * `10:45a - 10:55a` Lotter,Zach Brandon
+ * `10:55a - 11:05a` Murphy,Nick P
+ * `11:05a - 11:15a` Oppenheimer,Peri B
+ * `11:15a - 11:25a` Orozco,Paloma I
+ * `11:25a - 11:35a` Robidoux,Claire L
+ * `11:35a - 11:45a` __BREAK__
+ * `11:45a - 11:55a` Schwartz,Sarah Nicole
+ * `11:55a - 12:05p` Scobie,Sidneigh M
+ * `12:05p - 12:15p` Shah,Dhvani D
+ * `12:15p - 12:25p` Yu,Tian

@@ -48,3 +48,9 @@ I will use this page to store our class video recordings.
 ## week 11
  * [11/2 Monday - P3 Progress Check (1/2)](https://iu.zoom.us/rec/play/DRY37g1rgNG9TU1wWMw9NhNLXfVKQwQyjCXT8dlvx0WlJxslFxjtS7MAtehXoTD0-bDytvDmyqmUixsP.99Hqh89TgjAIrNNW)
  * [11/4 Wednesday - P3 Progress Check (2/2)](https://iu.zoom.us/rec/play/i30arCLrxGRy_E7BLCvPfnORzAfmhd5ygvTQyuQeAj-Dy5VnUiLp1PDNyp0e1KcqYkHpGXwOvc7RXdg.nu208bSuK4fpx4Jv)
+
+## week 12
+Peer critiques; no recordings.
+
+## week 13
+ * [11/16 Monday - P4 Proposal Reviews](https://iu.zoom.us/rec/play/O-OHDcurdJ4hVyYgUiMqwSlldBqKKTFNkRwiYN9sAv1zSvJ--AxyyJax8i2zMNGvAcaG9a3PBFFc-i-X.SG36GUiIyu8bb4SN)
