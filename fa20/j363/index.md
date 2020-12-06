@@ -421,3 +421,45 @@ You will come up with your [Project Four](assignments/p4.html) idea.
 
 __UPDATE:__ I have changed the course structure slightly. Instead of having HW4 for 5 points and Project 4 for 15 points, I will just combine them and make Project 4 worth 20 points.
 
+## Week 14
+
+#### Monday
+We will review your Project Four ideas and get more practice with p5.js.
+
+#### Wednesday
+We will not meet Wednesday. Use this time to work on your project.
+
+### At Home
+Continue working on [Project Four](assignments/p4.html).
+
+### Next Week
+You will have your Project Four progress check. You will be given a timeslot for either Monday or Wednesday. I will update the course website later this week with your timeslot.
+
+## week 15
+Project Four Progress check!! This is worth `1.5 points`. You do not need to submit anything. I'll grade it for you.
+
+You will attend your timeslot only for the assigned day. (e.g. if you are at 08:30 on Monday then you only need to come on Monday). However, __you are expected to stay the entire period and contribute thoughtfully to everybody's projects__
+
+### Monday Timeslots
+ * `08:30a - 08:40a` Abushalback,Grace G
+ * `08:40a - 08:50a` Baker,Zion V
+ * `08:50a - 09:00a` Beasley,Emma Paige
+ * `09:00a - 09:10a` Boland,Samuel R
+ * `09:10a - 09:20a` Elkins,Olivia Kay
+ * `09:20a - 09:30a` __BREAK__
+ * `09:30a - 09:40a` Ellson,Kenton Michael
+ * `09:40a - 09:50a` Hildebrand,Joshua
+ * `09:50a - 10:00a` Huber,Mackenzie Jean
+ * `10:00a - 10:10a` Hurwitz,Carson G
+
+### Wednesday Timeslots
+ * `08:30a - 08:40a` Larch,Libby Marie
+ * `08:40a - 08:50a` Marshall,Karre
+ * `08:50a - 09:00a` Mirviss,Sydney Tybie
+ * `09:00a - 09:10a` Small,Riley Sarah
+ * `09:10a - 09:20a` __BREAK__
+ * `09:20a - 09:30a` Steele,Jacob A
+ * `09:30a - 09:40a` Wigington,Adam M
+ * `09:40a - 09:50a` Williams,Emily N
+ * `09:50a - 10:00a` Wray,Cammy Kelley
+ * `10:00a - 10:10a` Zhang,Amber

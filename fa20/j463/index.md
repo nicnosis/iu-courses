@@ -422,3 +422,8 @@ Your level of presented progress determines your participation. You can receive 
  * `11:55a - 12:05p` Scobie,Sidneigh M
  * `12:05p - 12:15p` Shah,Dhvani D
  * `12:15p - 12:25p` Yu,Tian
+
+## week 15
+You will have peer critiques. This is worth `1.5 points`
+
+Complete the text entry submission on Canvas.
