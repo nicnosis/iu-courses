@@ -3,7 +3,7 @@ layout: default
 title: critiques
 footer: ''
 highlight: 'materials'
-term: 'fa20'
+term: 'sp21'
 course: 'j363'
 ---
 

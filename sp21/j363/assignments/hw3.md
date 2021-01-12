@@ -3,7 +3,7 @@ layout: default
 title: J363 - Homework Three
 footer: ''
 highlight: 'assignments'
-term: 'fa20'
+term: 'sp21'
 course: 'j363'
 ---
 # Homework Three --- <small>Stylescape and sketch</small>
