@@ -64,14 +64,14 @@ This is done with commercial intent; the goal is for you to have a following of 
 Your grade consists of:
 
 1. Assignments (18 pts.)
-2. Content (30 pts.)
+2. Content (23 pts.)
 3. Participation (4 pts.)
 4. Professionalism (5 pts.)
 
 ### Assignments (18 pts.)
 This course has projects, which are structured yet flexible to help you build something useful and relevant to your goals.
 
-### Content (30 pts.)
+### Content (23 pts.)
 You will create content for your brand on one or more social media platforms.
 
 I am flexible about how you want to do this, but "short form" content lends itself better to this course format.
@@ -147,10 +147,10 @@ There are a total of **57** points in this class. The grade is divided as follow
 | Category                   |  Points |
 |:---------------------------|--------:|
 | Assignments                |      18 |
-| Content                    |      30 |
+| Content                    |      23 |
 | Participation              |       4 |
 | Professionalism            |       5 |
-| **Total**                  |  **57** |
+| **Total**                  |  **50** |
 
 <div style="page-break-after: always;"></div>
 
