@@ -6,7 +6,6 @@ highlight: 'materials'
 term: 'sp21'
 course: 'j363'
 ---
-
 # Site Critique Questions
 
 ## Navigation / Focus

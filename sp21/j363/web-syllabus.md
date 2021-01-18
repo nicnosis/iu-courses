@@ -1,10 +1,12 @@
-# J363 WEB & MOBILE DESIGN FALL 2020
+# J363 WEB & MOBILE DESIGN SPRING 2021
 **INSTRUCTOR** --- Nic Aguirre --- naguirre@indiana.edu  
-**(VIRTUAL) OFFICE HOURS** --- Mondays 3:00pm - 4:00pm  
+**(VIRTUAL) OFFICE HOURS** --- Wednesdays 12:00pm - 1:00pm  
 Zoom Link: <https://iu.zoom.us/my/naguirre>
 
 **LOCATION**--- Franklin Hall 073 & Zoom  
-**TIME**--- Section 12006: Mon/Wed 08:20AM -- 10:20AM
+**TIME**---  
+Section 35634: Mon/Wed 8:20AM - 10:20AM  
+Section 35636: Mon/Wed 3:15PM - 5:15PM
 
 
 **PREREQUISITES**  
@@ -103,6 +105,7 @@ For our Zoom lectures, please behave the same way you would in a physical class 
 
 Do:
 
+ * LOOK ALIVE
  * Have your camera on
  * Be mentally present
  * Dedicate 100% of your attention to the task at hand
@@ -112,7 +115,7 @@ Don't:
  * Smoke or vape on camera
  * Multitask _(e.g. watching Netflix in another window)_
  * Fall asleep or sit there with your eyes closed
- * Sit there idle like a useless turd
+ * Sit there idle
  * Do anything that's distracting to me or your classmates
 
 Failure to meet these expectations can result in:
@@ -185,7 +188,7 @@ Software is a focal point of this course, and an effort was made to ensure that 
 We will use:
 
  1. A text editor--- [Atom](https://atom.io/) is recommended.
- 2. A means of version control--- [Box](https://uits.iu.edu/box) is recommended. Google Drive and Dropbox are good alternatives. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
+ 2. A means of version control--- [Google Drive](https://uits.iu.edu/google) is recommended. **Lost data is not an excuse for late or missing work**, so it is extremely important to have duplicate files for your work.
 
 ### Hardware
 While web development can be done from any operating system, the instructor teaches workflow for OS X users. Access to a computer with Mac OS X is recommended but not required. All students should have access to a Mac through the computer lab. Students who aren't using OS X are expected to learn PC keyboard shortcuts and find Windows-compatible substitutes for software.
@@ -215,6 +218,13 @@ Whether or not an absence is excused is __entirely at the discretion of the inst
 If you miss a quiz or participation exercise and have an __excused absence__, you have __one week__ to make up that assignment at office hours. If you cannot attend scheduled office hours, it is your responsibility to reach out and schedule another meeting time.
 
 If you know you are going to be absent or late on a certain day, please tell me ahead of time.
+
+### COVID-19-Specific Policies
+Student Rights: Any student who believes another person in a class is threatening the safety of the class by not wearing a mask or observing physical distancing requirements may leave the class without consequence.
+
+Attendance: The student responsibility form requires that you take your temperature every morning and that you refrain from attending class if you have a temperature of 100.4 or other symptoms of illness. In order to ensure that you can do this, attendance will not be a factor in the final grade. Attendance may still be taken to comply with accreditation requirements.
+
+Assigned Seating: In order to ensure we can contact you in the event you are exposed to COVID-19, you must remain in your assigned seat for the entire semester.
 
 ### Lost Data
 You are responsible for keeping backups/duplicates of your files.

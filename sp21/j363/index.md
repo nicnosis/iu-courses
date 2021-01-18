@@ -10,15 +10,9 @@ course: 'j363'
 This week you will familiarize yourself with course materials and get a basic understanding of HTML.
 
 ### During Class
-#### Monday
+#### Wednesday
  * `take` [this pre-test](https://forms.gle/ap9Ynad3W5yjQ6Ft6)
  * `download` [1.1-inspect.zip](mats/1.1-inspect.zip)
-
-#### Wednesday
- * `download` [1.2-elements.zip](mats/1.2-elements.zip)
- * `submit` your work on Canvas for today's participation
- * Let's talk about [Homework One](assignments/hw1.html)
- * If you are already very familiar with HTML, you might try learning [Figma](https://www.figma.com/).
 
 ### Outside of Class
  * `read` the [syllabus](j363-syllabus.pdf)
