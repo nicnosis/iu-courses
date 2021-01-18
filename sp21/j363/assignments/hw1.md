@@ -61,4 +61,4 @@ Put a `<style>` tag in your `<head>`. Use CSS to:
 ## Submission - Canvas
 Submit your compressed file _(zip)_ to: `CANVAS > ASSIGNMENTS > HOMEWORK 1`
 
-#### **Due Sunday Aug 30 at 11:59pm**
+#### **Due Tues Jan 26 @ 11:59pm**

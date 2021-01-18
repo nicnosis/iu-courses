@@ -18,7 +18,7 @@ This week you will familiarize yourself with course materials and get a basic un
  * `read` the [syllabus](j363-syllabus.pdf)
  * `register` for [Codecademy](https://www.codecademy.com/)
  * `get` a [Google Drive](https://uits.iu.edu/google) so you can backup apps. Click the link and choose 'Google at IU Apps'.
- * `begin` [Homework One](assignments/hw1.html).
+ * `begin` [Homework One](assignments/hw1.html). It is due `Tues Jan 26 @ 11:59pm`
  * `review` the slides _(navigation: lectures &gt; slides)_
 
 #### Codecademy
