@@ -13,6 +13,8 @@ This week you will familiarize yourself with course materials and get a basic un
 #### Wednesday
  * `take` [this pre-test](https://forms.gle/ap9Ynad3W5yjQ6Ft6)
  * `download` [1.1-inspect.zip](mats/1.1-inspect.zip)
+ * `download` [1.2-elements.zip](mats/1.2-elements.zip)
+ * Let's talk about [Homework One](assignments/hw1.html)
 
 ### Outside of Class
  * `read` the [syllabus](j363-syllabus.pdf)
