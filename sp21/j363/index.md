@@ -32,3 +32,25 @@ This week you will familiarize yourself with course materials and get a basic un
  * `read` [HTML Basic](https://www.w3schools.com/html/html_basic.asp)
  * `read` [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
  * `read` [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
+
+## week 2
+### During Class
+#### Monday
+ * `download` [1.2-elements.zip](mats/1.2-elements.zip)
+ * `inspiration`: [elegantseagulls](https://www.elegantseagulls.com/)
+   * `remember` to use the [critique outline](critiques.html).
+ * `download` [2.1-2.4.zip](mats/2.1-2.4.zip)
+ * `practice` 2.1-formatting
+ * `practice` 2.2-files
+
+#### Wednesday
+ * `inspiration`: [architecturaldigest --- clever](https://www.architecturaldigest.com/clever)
+   * `remember` to use the [critique outline](critiques.html).
+ * `practice` 2.3-links
+ * `practice` 2.4-structure
+
+### Outside of Class
+ * `complete` [Homework One](assignments/hw1.html). It is due `Tues Jan 26 @ 11:59pm EST`
+ * `begin` [Project One](assignments/p1.html). It is due `Sunday Feb 7th @ 11:59pm EST`
+ * `review` class notes _(they are on the navigation: lectures &gt; slides)_
+ * `install` the [Muzli Chrome Extension](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?hl=en)
