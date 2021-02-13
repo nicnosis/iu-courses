@@ -107,3 +107,26 @@ This week you will familiarize yourself with course materials and get a basic un
  * `read` [CSS Borders](https://www.w3schools.com/Css/css_border.asp)
  * `read` [CSS Width/Height](https://www.w3schools.com/Css/css_dimension.asp)
  * `read` [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+
+## week 5
+### During Class
+#### Monday
+ * `download` [5.1-display-position.zip](mats/5.1-display-position.zip)
+ * `visit` [pexels.com](https://www.pexels.com/)
+ * `visit` [unsplash.com](https://unsplash.com/)
+
+#### Wednesday
+ * `listen` for instructions on today's exercise
+
+### Outside of Class
+ * `read` [this article on Canva](https://www.canva.com/learn/hero-images/)
+ * `complete` [Homework Two](assignments/hw2.html). It is due `Tues Feb 16th @ 11:59pm EST`
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * `complete` section 3: Display and Positioning
+
+#### W3Schools
+ * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
+ * `read` [CSS Position](https://www.w3schools.com/cssref/pr_class_position.asp)
+ * `read` [CSS Box Sizing](https://www.w3schools.com/css/css3_box-sizing.asp)
