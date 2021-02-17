@@ -121,10 +121,25 @@ This week you will familiarize yourself with course materials and get a basic un
 ### Outside of Class
  * `read` [this article on Canva](https://www.canva.com/learn/hero-images/)
  * `complete` [Homework Two](assignments/hw2.html). It is due `Tues Feb 16th @ 11:59pm EST`
+ * `begin` [Project Two](assignments/p2.html). It is due `Sunday March 7th at 11:59pm`
+
+### Preparing for Monday Feb 22nd
+On Monday Feb 22nd we will do two things:
+
+1. You will share your Project Two idea
+2. We will do HW2 Peer Reviews
+
+Come prepared. Do not tell me “I didn’t get a chance to think about it.”
 
 #### Codecademy
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * `complete` section 3: Display and Positioning
+
+## week 6
+Two things to do:
+
+1. Go through everybody's P2 idea
+2. Peer critiques for HW2
 
 #### W3Schools
  * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
