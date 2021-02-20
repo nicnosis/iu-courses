@@ -135,13 +135,43 @@ Come prepared. Do not tell me “I didn’t get a chance to think about it.”
  * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
  * `complete` section 3: Display and Positioning
 
-## week 6
-Two things to do:
-
-1. Go through everybody's P2 idea
-2. Peer critiques for HW2
-
 #### W3Schools
  * `read` [CSS Display](https://www.w3schools.com/CSSref/pr_class_display.asp)
  * `read` [CSS Position](https://www.w3schools.com/cssref/pr_class_position.asp)
  * `read` [CSS Box Sizing](https://www.w3schools.com/css/css3_box-sizing.asp)
+
+## week 6
+### During Class
+#### Monday
+ * `critiques:` Use [this sheet](https://docs.google.com/document/d/1Fsc3oDk-OoQk1bSaQ-sMP4yxCJQDyZ7oM9DMxIotxQI/edit?usp=sharing) to evaluate one another's websites.
+
+#### Wednesday
+ * `inspiration 1`: [curioos](https://www.curioos.com/)
+ * `inspiration 2`: [M.A.P. Ltd](https://www.mapltd.com/news/newyork/)
+ * `inspiration 3`: [atlason](https://atlason.com/)
+ * `inspiration 4`: [mcquade](https://mikemcquade.com/)
+ * `inspiration 5`: [salomon](https://www.salomon.com/en-us)
+ * `download` [6.1-grid.zip](mats/6.1-grid.zip)
+
+### At Home
+ * `begin` [Project Two](assignments/p2.html). It is due `Sunday March 7th at 11:59pm`
+
+#### Participation for Monday
+Remember on Monday __you will need to prepare__ in order to get your participation points. The assignment is worth `2.5 points`.
+
+ * First, `watch` this video: [How to Design Brand Identity Stylescapes](https://youtu.be/DJ5uDBsQnwE)
+ * Then, `download` [this file](mats/stylescape-lastname-firstname.pptx) and __READ THE INSTRUCTIONS__
+
+You will need:
+1. An idea that you’re committed to
+2. A rough sketch of your website
+3. At least five links for [inspiration](inspiration.html)
+4. At least ten images to define the look/feel of your site
+
+__You will submit these BEFORE the start of class Monday__.
+
+If you don't have all of them, you will not receive participation points. __Please come prepared__ so you can get the most out of this session.
+
+This is due __Sunday Feb 28th at 11:59pm__.
+
+You can use ANY size/format you want __as long as__ it fulfills the above requirements and you can save it as a `.pdf`.
