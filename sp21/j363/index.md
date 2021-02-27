@@ -175,3 +175,22 @@ If you don't have all of them, you will not receive participation points. __Plea
 This is due __Sunday Feb 28th at 11:59pm__.
 
 You can use ANY size/format you want __as long as__ it fulfills the above requirements and you can save it as a `.pdf`.
+
+## week 7
+### During Class
+ * `critiques:` use [this sheet](https://docs.google.com/document/d/1QYxWPL6Dyi_03iTcTn6d06NPld40mVf2UewGCQhTxFs/edit?usp=sharing) and follow the instructions.
+ * `download` [7.1-grid.zip](mats/7.1-grid.zip)
+
+### At Home
+ * `continue` [Project Two](assignments/p2.html). It is due `Sunday March 14th at 11:59pm`
+
+#### Codecademy
+ * `continue` course: [Learn CSS](https://www.codecademy.com/learn/learn-css)
+ * Work on sections 4–6
+
+### PREPARING FOR NEXT WEEK
+* You will come prepared to present PROGRESS on your Project Two on Monday. The progress check is worth `2.5 pts` of participation.
+* Your site __does not have to be polished or complete__, but you __must have code__ to present.
+* You will receive a participation grade based on the level of progress you are presenting.
+* You will receive and implement feedback given.
+* You will not say 'I haven't really had a chance to work on it.'
