@@ -20,7 +20,7 @@ For this project, it should be something that:
  * Makes use of all the skills we've built up until now
 
 ### Step 2 Look at some existing stylescapes
- * [This video](https://www.youtube.com/watch?v=lGmPCutgI2o) by TheFutur has a good overview of the process.
+ * [This video](https://youtu.be/DJ5uDBsQnwE) by TheFutur has a good overview of the process.
  * [Dribbbl](https://dribbble.com/tags/stylescape) has an excellent collection of stylescapes
  * [This pinterest board](https://www.pinterest.com/jerfink/stylescapes/) has some great stylescapes
  * The [inspiration](../inspiration.html) section of this site can help too
@@ -62,4 +62,4 @@ You need to have two things:
 
 Submit your stylescape `.pdf` to: `CANVAS > ASSIGNMENTS > HOMEWORK 3`
 
-#### **Due Sunday March 15th at 11:59pm**
+#### **Due Sunday March 21st at 11:59pm**

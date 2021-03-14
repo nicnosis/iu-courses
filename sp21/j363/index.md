@@ -194,3 +194,57 @@ You can use ANY size/format you want __as long as__ it fulfills the above requir
 * You will receive a participation grade based on the level of progress you are presenting.
 * You will receive and implement feedback given.
 * You will not say 'I haven't really had a chance to work on it.'
+
+## week 8
+### During Class
+#### Monday
+We will do your progress checks.
+
+I will grade this for you.
+
+#### Wednesday
+We are not meeting for class, but I will still be able to help with projects.
+
+I will hold office hours from `09:00a–10:00a` and from `12:00p–01:00p`. Use the office hours link (found in the `instructor` tab or on the Canvas homepage).
+
+### At Home
+ * `finish` [Project Two](assignments/p2.html). It is due `Sunday March 14th at 11:59pm`
+ * __You need to fill out [this form](https://forms.gle/zveuKGdywJBycwAU8)__ to get your Webflow Invite before class on Monday!!
+
+## week 9
+### Before class, Monday
+* `If you haven't already`: Fill out [this form](https://forms.gle/zveuKGdywJBycwAU8) to get your Webflow Invite.
+
+### In Class
+#### Monday
+ * `inspiration` [finsweet](https://www.finsweet.com/)
+ * Please pay attention to the way that we structure our folders on our Webflow team site.
+   * You will create a folder called `lastname-firstname`
+   * You will put all of your stuff in there
+   * Please do not leave projects directly inside of `SP21-J363`; they should be in the folder that you set up for yourself.
+ * Let's look at this example: [osiki landing](https://webflow.com/website/osiki-landing) together
+ * `clone` this example: [osiki wireframe](https://webflow.com/website/osiki-wireframe)
+ * `download` [9.1-cake-assets.zip](mats/9.1-cake-assets.zip)
+ * `for today's participation` take a screenshot of your work and submit it.
+
+#### Wednesday
+ * `inspiration` [okalpha](https://webflow.com/website/Okalpha)
+ * We will re-create this: [Slick Template](https://webflow.com/website/FREEBIE:-Slick-Template)
+ * `download` [10.1-slick-assets.zip](mats/10.1-slick-assets.zip)
+ * Your navigator will look something [like this](img/slick-navigator.png)
+ * Style info:
+   * Use `body (all pages)` selector and set the font to 'Open Sans'
+   * Use `All h1 headings` selector and set the font to 'Montserrat'. Color is #f36ea9. Font size is 70px and line-height is 75px
+ * For each project, add a link block and set the class to 'Project'. Inside of the link block you should have an image. When moving/copying/pasting Projects, please make sure you have 'Project' and not 'Image' selected
+
+### At Home
+ * `complete` [Homework Three](assignments/hw3.html). It is due `Sunday March 21st at 11:59pm` and you will present it __in class on Monday.__
+ * `read` the instructions for [Project Three](assignments/p3.html). It is due `Sunday April 11th at 11:59pm`.
+ * `learn` [Webflow Keyboard Shortcuts](https://university.webflow.com/article/keyboard-shortcuts-in-the-webflow-designer)
+ * `begin` watching the [Webflow 101 crash course](https://university.webflow.com/courses/webflow-101-crash-course) on Webflow University.
+   * `watch` section `intro`
+   * `watch` section `web structure`
+   * `watch` section `element basics`
+   * `watch` section `components`
+   * `watch` section `styling basics`
+   * `watch` section `layouts`
