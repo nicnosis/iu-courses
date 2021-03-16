@@ -218,10 +218,6 @@ I will hold office hours from `09:00a–10:00a` and from `12:00p–01:00p`. Use 
 ### In Class
 #### Monday
  * `inspiration` [finsweet](https://www.finsweet.com/)
- * Please pay attention to the way that we structure our folders on our Webflow team site.
-   * You will create a folder called `lastname-firstname`
-   * You will put all of your stuff in there
-   * Please do not leave projects directly inside of `SP21-J363`; they should be in the folder that you set up for yourself.
  * Let's look at this example: [osiki landing](https://webflow.com/website/osiki-landing) together
  * `clone` this example: [osiki wireframe](https://webflow.com/website/osiki-wireframe)
  * `download` [9.1-cake-assets.zip](mats/9.1-cake-assets.zip)
@@ -229,6 +225,11 @@ I will hold office hours from `09:00a–10:00a` and from `12:00p–01:00p`. Use 
 
 #### Wednesday
  * `inspiration` [okalpha](https://webflow.com/website/Okalpha)
+ * Please `pay attention` to the way that we structure our folders on our Webflow team site.
+      * If you are in the 08:30am section, you will create a folder called `830-lastname-firstname`
+      * If you are in the 03:15pm section, you will create a folder called `315-lastname-firstname`
+      * You will put all of your stuff in there
+      * Please do not leave projects directly inside of `SP21-J363`; they should be in the folder that you set up for yourself.
  * We will re-create this: [Slick Template](https://webflow.com/website/FREEBIE:-Slick-Template)
  * `download` [10.1-slick-assets.zip](mats/10.1-slick-assets.zip)
  * Your navigator will look something [like this](img/slick-navigator.png)
@@ -238,7 +239,7 @@ I will hold office hours from `09:00a–10:00a` and from `12:00p–01:00p`. Use 
  * For each project, add a link block and set the class to 'Project'. Inside of the link block you should have an image. When moving/copying/pasting Projects, please make sure you have 'Project' and not 'Image' selected
 
 ### At Home
- * `complete` [Homework Three](assignments/hw3.html). It is due `Sunday March 21st at 11:59pm` and you will present it __in class on Monday.__
+ * `complete` [Homework Three](assignments/hw3.html). It is due `Sunday March 21st at 11:59pm`.
  * `read` the instructions for [Project Three](assignments/p3.html). It is due `Sunday April 11th at 11:59pm`.
  * `learn` [Webflow Keyboard Shortcuts](https://university.webflow.com/article/keyboard-shortcuts-in-the-webflow-designer)
  * `begin` watching the [Webflow 101 crash course](https://university.webflow.com/courses/webflow-101-crash-course) on Webflow University.
@@ -248,3 +249,25 @@ I will hold office hours from `09:00a–10:00a` and from `12:00p–01:00p`. Use 
    * `watch` section `components`
    * `watch` section `styling basics`
    * `watch` section `layouts`
+
+## week 10
+### In Class
+#### Monday
+We are not meeting, however you still have a `participation assignment`.
+
+Tutorial: Content Management (Dynamic Websites)
+1. `look at` the [cakes CMS example](https://preview.webflow.com/preview/cakes-cms-finished?utm_medium=preview_link&utm_source=designer&utm_content=cakes-cms-finished&preview=b22a712b7ac02841c7f2cfd86be714bb&mode=preview) that I've put together
+2. `read` [Neumorphism in UI](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
+3. `download` [10.2-cms-cakes.zip](../../fa20/j363/mats/10.2-cms-cakes.zip)
+4. `watch` [Cakes CMS Tutorial 1/2](https://www.loom.com/share/01ea1444f3ce4b16994d08029bcc9d0c?sharedAppSource=personal_library)
+5. `watch` [Cakes CMS Tutorial 2/2](https://www.loom.com/share/201f8158ca2045dab257dca597516b3c?sharedAppSource=personal_library)
+6. When you are finished, `watch` [this tutorial on how to publish your WebFlow Project](https://www.loom.com/share/8597f0cf0f1c4602bcc195096e8429c0)
+7. Then, `submit` a URL of your published WebFlow project. __PLEASE make sure to submit the correct URL.__
+
+Notes:
+
+1. I understand you're new to Webflow and that this exercise is very nuanced. It's okay if yours doesn't look identical to my example, but at least give it your best shot. It should closely resemble the example given, but no need to split hairs over a few pixels here and there.
+2. Also note that these videos are from a previous semester so __the filenames will be different.__
+
+#### Wednesday
+This is a __wellness day.__ Please take care of yourself and remember that __sometimes resting is the most productive thing you do.__
