@@ -252,7 +252,7 @@ I will hold office hours from `09:00a–10:00a` and from `12:00p–01:00p`. Use 
 
 ## week 10
 ### In Class
-#### Monday
+#### Monday - 3/22
 We are not meeting, however you still have a `participation assignment`.
 
 Tutorial: Content Management (Dynamic Websites)
@@ -269,5 +269,27 @@ Notes:
 1. I understand you're new to Webflow and that this exercise is very nuanced. It's okay if yours doesn't look identical to my example, but at least give it your best shot. It should closely resemble the example given, but no need to split hairs over a few pixels here and there.
 2. Also note that these videos are from a previous semester so __the filenames will be different.__
 
-#### Wednesday
+#### Wednesday - 3/24
 This is a __wellness day.__ Please take care of yourself and remember that __sometimes resting is the most productive thing you do.__
+
+
+## week 11
+### Announcement
+I have updated the P3 due date. It is now due `Sunday April 11th at 11:59pm`. This will give you more time to complete our fourth and final unit (JavaScript).
+
+### In Class
+#### Monday - 3/29
+Project Three progress check! This is worth `two participation points`.
+
+#### Wednesday - 3/31
+We will not meet on Wednesday. You will complete the following participation assignment.
+
+1. `download` [12.1-interactions.zip](mats/12.1-interactions.zip) - _(Be aware that this is from another semester so I might be talking about coursework/dates that aren't relevant)_
+2. `watch` [this tutorial on Webflow Interactions](https://www.loom.com/share/c8164cbd55284e5f9447fa17588d8208?sharedAppSource=personal_library).
+3. When you are finished, `publish` the link. Test it in incognito mode to make sure it opens.
+4. `submit` the published link to Canvas (Week 12 Participation). It is due `Friday April 2nd at 11:59pm`
+
+Don't hesitate to reach out if you have any challenges. Remember I still have office hours and am available via Canvas message.
+
+### Outside of class
+ * `finish` [Project Three](assignments/p3.html). It is due `Sunday April 11th at 11:59pm`.
