@@ -272,7 +272,6 @@ Notes:
 #### Wednesday - 3/24
 This is a __wellness day.__ Please take care of yourself and remember that __sometimes resting is the most productive thing you do.__
 
-
 ## week 11
 ### Announcement
 I have updated the P3 due date. It is now due `Sunday April 11th at 11:59pm`. This will give you more time to complete our fourth and final unit (JavaScript).
@@ -293,3 +292,21 @@ Don't hesitate to reach out if you have any challenges. Remember I still have of
 
 ### Outside of class
  * `finish` [Project Three](assignments/p3.html). It is due `Sunday April 11th at 11:59pm`.
+
+## week 12
+### During Class
+#### Monday - 4/5
+We will be conducting __peer reviews__ for your Project Three.
+
+Come prepared to deliver both positive and constructive remarks to your peers! Remember that all research suggests __you learn more from each other than you do from your professors.__
+
+For `participation` answer the questions on Canvas and make sure to __submit them during our class period!__
+
+#### Wednesday - 4/7
+We will not meet Wednesday. Use this time to work on your project.
+
+I am still available during office hours, and __I am happy to create a video review for your project__. If you want me to review your project, all you have to do is send me a Canvas message that contains your published WebFlow URL __no later than Friday at 11:59pm.__
+
+### Outside of class
+ * `finish` [Project Three](assignments/p3.html). It is due `Sunday April 11th at 11:59pm`.
+ * __PLEASE MAKE SURE THAT YOU `SUBMIT` THE CORRECT URL!__. `Watch` [this tutorial](https://www.loom.com/share/8597f0cf0f1c4602bcc195096e8429c0) to make sure you understand how to publish your Webflow project.
