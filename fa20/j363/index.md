@@ -419,8 +419,6 @@ There are two parts to participation this week. They appear as two separate assi
 #### Part 2: Project Four Idea
 You will come up with your [Project Four](assignments/p4.html) idea.
 
-__UPDATE:__ I have changed the course structure slightly. Instead of having HW4 for 5 points and Project 4 for 15 points, I will just combine them and make Project 4 worth 20 points.
-
 ## Week 14
 
 #### Monday

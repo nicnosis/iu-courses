@@ -310,3 +310,51 @@ I am still available during office hours, and __I am happy to create a video rev
 ### Outside of class
  * `finish` [Project Three](assignments/p3.html). It is due `Sunday April 11th at 11:59pm`.
  * __PLEASE MAKE SURE THAT YOU `SUBMIT` THE CORRECT URL!__. `Watch` [this tutorial](https://www.loom.com/share/8597f0cf0f1c4602bcc195096e8429c0) to make sure you understand how to publish your Webflow project.
+
+## week 13
+### This Week
+Our remaining time together will focus on using [p5.js](https://p5js.org/), a JavaScript Library, to create interactive media for the web.
+
+####  Structure for this week:
+
+ * I will give you recorded lectures. I will explain your `participation` for the week in these lectures.
+ * We will not meet for class.
+ * However, I will hold two help sessions. __Make sure to use the OFFICE HOURS Zoom Link__ for these help sessions!
+   * Monday April 12th 12:00p–1:00p
+   * Wednesday April 14th 12:00p–1:00p _(normal office hours)_
+   * If neither of these times work and you still need help, please let me know ASAP.
+
+#### Monday - 4/12
+ * `watch` [Hello p5](https://hello.p5js.org/)
+
+Each exercise has a LECTURE and a PEN. __Make sure you use both.__
+
+They are short, straightforward, and completing them will __make your Project Four 1000x EASIER__.
+
+[THIS LINK](https://loom.com/share/folder/b89adeb76a3e4348b2f34efc4c8199a3) has the Loom shared folder with all the lectures in case you wanna bookmark it.
+
+__NOTE:__ These videos are from a previous semester so they will say week 14 instead of week 13. Everything else is the same.
+
+`complete` exercises:
+ * 13.1 - Intro to Codepen: [[lecture]](https://www.loom.com/share/bddfd38093fc401a868253041371d87d) , [[pen]](https://codepen.io/novonagu/pen/Brvogm)
+ * 13.2 - Intro to JavaScript: [[lecture]](https://www.loom.com/share/bd4d40d1babd473f87e349aadd522cb2) , [[pen]](https://codepen.io/novonagu/pen/WzLxoj)
+ * 13.3 - Intro to p5.js: [[lecture]](https://www.loom.com/share/952e1cb691394e949230d17ead960afc) , [[pen]](https://codepen.io/novonagu/pen/qovaxE)
+
+You may also find it helpful to look at:
+ * The [p5.js site](https://p5js.org/), especially:
+   * The [reference](https://p5js.org/reference/) section, which shows you how to do anything.
+   * The [examples](https://p5js.org/examples/) section which will give you a lot of ideas on how to apply the code for creative projects. _(You can use this code in your projects! Just cite it)_
+
+#### Wednesday - 4/14
+`complete` exercises:
+ * 13.4 - Keyboard and Mouse events: [[lecture]](https://www.loom.com/share/86676c528b014f16b5b6d91ec0b72b30) , [[pen]](https://codepen.io/novonagu/pen/qYBWyg)
+ * 13.5 - random(): [[lecture]](https://www.loom.com/share/35cdde8e8d0b4ac2b703428662e4ea33) , [[pen]](https://codepen.io/novonagu/pen/KRKKVo)
+
+
+### Participation
+There are two parts to participation this week. They appear as two separate assignments on Canvas so please make sure you submit both.
+
+#### Part 1: p5 sketch
+
+#### Part 2: Project Four Idea
+You will come up with your [Project Four](assignments/p4.html) idea.
