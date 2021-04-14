@@ -358,3 +358,20 @@ There are two parts to participation this week. They appear as two separate assi
 
 #### Part 2: Project Four Idea
 You will come up with your [Project Four](assignments/p4.html) idea.
+
+## week 14
+### Structure This Week
+#### Monday 4/19
+You will present your Project Four ideas and I will give you feedback.
+
+Take notes and be prepared to answer the the three questions for the `participation` assignment
+
+#### Wednesday 4/21
+We will not meet Wednesday. Use this time to work on your project.
+
+As always, I will have my regular scheduled office hours. If this time doesn't work for you, let me know as soon as possible.
+
+### Next Week
+We will not meet Monday 4/26.
+
+However, we will meet Wednesday the 28th and you will have a `Project Four Progress Check` for 2.5 points.
