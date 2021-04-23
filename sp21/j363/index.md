@@ -371,7 +371,24 @@ We will not meet Wednesday. Use this time to work on your project.
 
 As always, I will have my regular scheduled office hours. If this time doesn't work for you, let me know as soon as possible.
 
-### Next Week
+## week 15
+### Structure This Week
+#### Monday
 We will not meet Monday 4/26.
 
-However, we will meet Wednesday the 28th and you will have a `Project Four Progress Check` for 2.5 points.
+#### Wednesday
+You will have a `Project Four Progress Check` for 2.5 points.
+
+### Help Sessions
+If you need help with your project, I have two more opportunities in the semester to meet 1-on-1:
+
+ * `Wednesday 4/28 - 12pm-1pm` (Office Hours)
+ * `Monday 5/3 - 11am-1pm` (Help Session)
+
+
+ALL OF THESE TIMES will use my OFFICE HOURS LINK.  
+If you want help and none of these timeslots work, let me know IMMEDIATELY.
+
+
+Remember your Project Four will be submitted through a URL to Canvas.  
+It is due May 7th at 11:59pm and you CANNOT submit it late because it's the final.
