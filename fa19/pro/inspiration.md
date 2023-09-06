@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Web Design'
+title: 'Procedural Art'
 footer: ' '
 highlight: inspiration
 term: 'fa19'
